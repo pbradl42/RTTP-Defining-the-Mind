@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2014-07-21 20:45:15 -0400">
+    <Binder>
+        <BinderItem ID="0" Type="DraftFolder" Created="2014-07-21 19:40:46 -0400" Modified="2014-07-21 19:45:18 -0400">
+            <Title>Game Book v1.0</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="4" Type="Folder" Created="2014-07-21 19:40:59 -0400" Modified="2014-07-21 19:41:15 -0400">
+                    <Title>Front Matter</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="3" Type="Text" Created="2014-07-21 19:40:46 -0400" Modified="2014-07-21 19:42:45 -0400">
+                            <Title>Series page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="30" Type="Text" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>TitlePage</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="15" Type="Text" Created="2014-07-21 19:42:54 -0400" Modified="2014-07-21 19:43:01 -0400">
+                            <Title>Copyright page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="16" Type="Text" Created="2014-07-21 19:43:05 -0400" Modified="2014-07-21 20:42:39 -0400">
+                            <Title>Table of contents</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>471,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="5" Type="Folder" Created="2014-07-21 19:41:21 -0400" Modified="2014-07-21 19:41:25 -0400">
+                    <Title>Introduction</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="17" Type="Text" Created="2014-07-21 19:43:12 -0400" Modified="2014-07-21 19:43:18 -0400">
+                            <Title>Brief overview of the game</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="18" Type="Text" Created="2014-07-21 19:43:20 -0400" Modified="2014-07-21 19:43:29 -0400">
+                            <Title>Prologue</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="31" Type="Text" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>gamebookIntro</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="19" Type="Text" Created="2014-07-21 19:43:31 -0400" Modified="2014-07-21 19:56:22 -0400">
+                            <Title>How to React</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>71,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="20" Type="Text" Created="2014-07-21 19:43:37 -0400" Modified="2014-07-21 19:43:40 -0400">
+                            <Title>Counterfactuals</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="6" Type="Folder" Created="2014-07-21 19:41:28 -0400" Modified="2014-07-21 19:41:36 -0400">
+                    <Title>Historical Background</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="21" Type="Text" Created="2014-07-21 19:43:44 -0400" Modified="2014-07-21 19:43:46 -0400">
+                            <Title>Timeline</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="22" Type="Text" Created="2014-07-21 19:43:48 -0400" Modified="2014-07-21 19:43:51 -0400">
+                            <Title>Narrative</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="7" Type="Folder" Created="2014-07-21 19:41:39 -0400" Modified="2014-07-21 19:41:42 -0400">
+                    <Title>The Game</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="23" Type="Text" Created="2014-07-21 19:43:55 -0400" Modified="2014-07-21 19:44:02 -0400">
+                            <Title>Major issues for debate</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="24" Type="Text" Created="2014-07-21 19:44:05 -0400" Modified="2014-07-21 19:44:11 -0400">
+                            <Title>Rules and procedures</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="25" Type="Text" Created="2014-07-21 19:44:13 -0400" Modified="2014-07-21 19:44:20 -0400">
+                                    <Title>Objectives and victory conditons</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="26" Type="Text" Created="2014-07-21 19:44:25 -0400" Modified="2014-07-21 19:44:37 -0400">
+                                    <Title>Other rules</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="33" Type="Text" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>gameBasics</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="32" Type="Text" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>gameBasics2</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="27" Type="Text" Created="2014-07-21 19:44:46 -0400" Modified="2014-07-21 19:44:53 -0400">
+                            <Title>Basic outline of the game</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="63" Type="Text" Created="2014-07-21 20:23:17 -0400" Modified="2014-07-21 20:23:23 -0400">
+                                    <Title>Conference Schedule</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="28" Type="Text" Created="2014-07-21 19:44:56 -0400" Modified="2014-07-21 19:44:58 -0400">
+                            <Title>Assignments</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="8" Type="Folder" Created="2014-07-21 19:41:45 -0400" Modified="2014-07-21 19:41:49 -0400">
+                    <Title>Roles and Factions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="34" Type="Text" Created="2013-07-25 16:09:28 -0400" Modified="2014-06-30 13:55:17 -0400">
+                            <Title>publicCharacterInfo</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="40" Type="Text" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>thingsYouShouldKnowHeader</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="35" Type="Text" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>ethicsOfHumanReserach</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="36" Type="Text" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>historyOfAPA</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="37" Type="Text" Created="2013-09-19 08:33:28 -0400" Modified="2013-09-19 08:33:28 -0400">
+                                    <Title>HistoryOfGayRightsMovement2</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="38" Type="Text" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>historyOfLinguistics</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="39" Type="Text" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>historyOfMentalIllness</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="9" Type="Folder" Created="2014-07-21 19:41:53 -0400" Modified="2014-07-21 19:41:56 -0400">
+                    <Title>Core Texts</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="10" Type="Folder" Created="2014-07-21 19:41:58 -0400" Modified="2014-07-21 19:42:03 -0400">
+                    <Title>Supplemental Documents</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="49" Type="Text" Created="2014-07-21 20:19:59 -0400" Modified="2014-07-21 20:23:00 -0400">
+                            <Title>Pinel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>41,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="51" Type="Text" Created="2014-07-21 20:20:19 -0400" Modified="2014-07-21 20:20:28 -0400">
+                            <Title>PsychopathicaSexualiss</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="60" Type="Text" Created="2014-07-21 20:21:32 -0400" Modified="2014-07-21 20:23:00 -0400">
+                                    <Title>Excerpt 1</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>35,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="61" Type="Text" Created="2014-07-21 20:21:37 -0400" Modified="2014-07-21 20:23:00 -0400">
+                                    <Title>Excerpt 2</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>35,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="62" Type="Text" Created="2014-07-21 20:21:42 -0400" Modified="2014-07-21 20:23:00 -0400">
+                                    <Title>Excerpt 3</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>35,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="50" Type="Text" Created="2014-07-21 20:20:03 -0400" Modified="2014-07-21 20:23:00 -0400">
+                            <Title>Freud-Homosexuality</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>32,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="55" Type="Text" Created="2014-07-21 20:21:00 -0400" Modified="2014-07-21 20:23:00 -0400">
+                            <Title>Skinner 1954</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>12,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="56" Type="Text" Created="2014-07-21 20:21:05 -0400" Modified="2014-07-21 20:23:00 -0400">
+                            <Title>Chomsky 1959</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>19,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="57" Type="Text" Created="2014-07-21 20:21:13 -0400" Modified="2014-07-21 20:23:00 -0400">
+                            <Title>APA Ethics 1968</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="58" Type="Text" Created="2014-07-21 20:21:20 -0400" Modified="2014-07-21 20:23:00 -0400">
+                            <Title>DSMII</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="59" Type="Text" Created="2014-07-21 20:21:23 -0400" Modified="2014-07-21 20:23:00 -0400">
+                            <Title>Socarides 1970</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>19,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="11" Type="Folder" Created="2014-07-21 19:42:06 -0400" Modified="2014-07-21 19:42:17 -0400">
+                    <Title>Selected Bibliography</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="12" Type="Folder" Created="2014-07-21 19:42:20 -0400" Modified="2014-07-21 19:42:24 -0400">
+                    <Title>Acknolwedgments</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="29" Type="Text" Created="2014-07-21 20:11:12 -0400" Modified="2014-07-21 20:12:13 -0400">
+                            <Title>Thanks to John Heywood, University of Lancaster</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>187,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="13" Type="Folder" Created="2014-07-21 19:42:29 -0400" Modified="2014-07-21 19:42:35 -0400">
+                    <Title>Appendicies</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" Type="ResearchFolder" Created="2014-07-21 19:40:46 -0400" Modified="2014-07-21 19:40:46 -0400">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="41" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                    <Title>1806-Pinel-A_treatise_on_insanity-Excerpt</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                    <References>
+                        <Reference BinderID="49" Destination="[Internal Link]">Pinel</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="42" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                    <Title>1894-Psychopathia_sexualis</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>9</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="43" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                    <Title>1920-Freud-HomosexualityInAWoman</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <References>
+                        <Reference BinderID="50" Destination="[Internal Link]">Freud-Homosexuality</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="44" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                    <Title>1954-Skinner</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <References>
+                        <Reference BinderID="55" Destination="[Internal Link]">Skinner 1954</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="45" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                    <Title>1959-Chomsky-Review</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <References>
+                        <Reference BinderID="56" Destination="[Internal Link]">Chomsky 1959</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="46" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                    <Title>APAEthics1968</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <References>
+                        <Reference BinderID="57" Destination="[Internal Link]">APA Ethics 1968</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="66" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                    <Title>AmNervousness_Beard</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="47" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                    <Title>DSMII</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <References>
+                        <Reference BinderID="58" Destination="[Internal Link]">DSMII</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="48" Type="PDF" Created="2012-05-29 08:05:42 -0400" Modified="2012-05-29 08:05:42 -0400">
+                    <Title>Socarides-1970-JAMA</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <References>
+                        <Reference BinderID="59" Destination="[Internal Link]">Socarides 1970</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="52" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                    <Title>Excerpt1-1894-Psychopathia_sexualis</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <References>
+                        <Reference BinderID="60" Destination="[Internal Link]">Excerpt 1</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="53" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                    <Title>Excerpt2-1894-Psychopathia_sexualis</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <References>
+                        <Reference BinderID="61" Destination="[Internal Link]">Excerpt 2</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="54" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                    <Title>Excerpt3-1894-Psychopathia_sexualis</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <References>
+                        <Reference BinderID="62" Destination="[Internal Link]">Excerpt 3</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="64" Type="Folder" Created="2014-07-21 20:26:38 -0400" Modified="2014-07-21 20:26:39 -0400">
+                    <Title>Images</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="65" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>AmNervousness_Beard</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="67" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>ChomskyViaSearle</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="68" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Dallas1972</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="69" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>hommedia.ashx</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>png</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="70" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Honalulu1973</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="71" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>pavlov-6cc1d</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>gif</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="72" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Pavlov-fig4-5</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>gif</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="73" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>PAVLOV-full</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="74" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>pavlov202-7db40</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="75" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Philadelphia1974</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="76" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>photo-chicago-skyline-aerial-looking-n-from-standard-oil-1975</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="77" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Pinel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="78" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>TimeCover</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="79" Type="Folder" Created="2014-07-21 20:27:05 -0400" Modified="2014-07-21 20:27:34 -0400">
+                            <Title>HistoricalPsychologists</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="80" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>420px-Bois-Reymond</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="81" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>Carl_Wilhelm_Friedrich_Ludwig</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="82" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>clark-hull-2-sized</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="83" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>Ernst_willhelm_von_bruecke.jpeg</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="84" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>Hermann_von_Helmholtz</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="85" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>Ivan_Pavlov_(Nobel)</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="86" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>John-B-Watson</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="87" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>Sigmund_Freud_LIFE</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="88" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>tolman_edward</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="89" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>Wm_james</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="90" Type="Image" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                                    <Title>Wundt</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="92" Type="Folder" Created="2014-07-21 20:27:45 -0400" Modified="2014-07-21 20:27:51 -0400">
+                            <Title>Characters</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="93" Type="Image" Created="2014-06-27 17:25:40 -0400" Modified="2014-06-27 17:25:40 -0400">
+                                    <Title>AlbeeGeorge</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="94" Type="Image" Created="2014-06-27 17:16:45 -0400" Modified="2014-06-27 17:16:45 -0400">
+                                    <Title>AnastasiAnne</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="95" Type="Image" Created="2014-06-27 17:17:04 -0400" Modified="2014-06-27 17:17:04 -0400">
+                                    <Title>BanduraA</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="96" Type="Image" Created="2014-06-27 17:28:43 -0400" Modified="2014-06-27 17:28:43 -0400">
+                                    <Title>BieberIrving</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="97" Type="Image" Created="2014-06-27 17:35:51 -0400" Modified="2014-06-27 17:35:51 -0400">
+                                    <Title>ChomskyNoam</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="98" Type="Image" Created="2014-06-27 17:17:27 -0400" Modified="2014-06-27 17:17:27 -0400">
+                                    <Title>ClarkKenneth</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="99" Type="Image" Created="2014-06-27 17:44:06 -0400" Modified="2014-06-27 17:44:06 -0400">
+                                    <Title>Fordney-SettlageDiane</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="100" Type="Image" Created="2014-06-27 17:29:30 -0400" Modified="2014-06-27 17:29:30 -0400">
+                                    <Title>FryerJohn</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="101" Type="Image" Created="2014-06-27 17:36:18 -0400" Modified="2014-06-27 17:36:18 -0400">
+                                    <Title>GebhardPaul</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="102" Type="Image" Created="2014-06-27 17:23:12 -0400" Modified="2014-06-27 17:23:12 -0400">
+                                    <Title>GittingsKameny-FryeronRightToCut</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="103" Type="Image" Created="2014-06-30 13:38:00 -0400" Modified="2014-06-30 13:38:00 -0400">
+                                    <Title>GoldRonald</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="104" Type="Image" Created="2014-06-27 17:39:39 -0400" Modified="2014-06-27 17:39:39 -0400">
+                                    <Title>GreenRichard</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="105" Type="Image" Created="2014-06-27 17:26:58 -0400" Modified="2014-06-27 17:26:58 -0400">
+                                    <Title>HarlowHarry</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="106" Type="Image" Created="2014-06-27 17:22:42 -0400" Modified="2014-06-27 17:22:42 -0400">
+                                    <Title>HookerEvelyn</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="107" Type="Image" Created="2014-06-27 17:41:06 -0400" Modified="2014-06-27 17:41:06 -0400">
+                                    <Title>HopckeR</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="108" Type="Image" Created="2014-06-27 17:27:54 -0400" Modified="2014-06-27 17:27:54 -0400">
+                                    <Title>LiefHarold</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="109" Type="Image" Created="2014-06-27 17:30:06 -0400" Modified="2014-06-27 17:30:06 -0400">
+                                    <Title>MarmorJudd</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpeg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="110" Type="Image" Created="2014-06-27 17:41:25 -0400" Modified="2014-06-27 17:41:25 -0400">
+                                    <Title>MilgrimStanley</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="111" Type="Image" Created="2014-06-27 17:26:37 -0400" Modified="2014-06-27 17:26:37 -0400">
+                                    <Title>MillerGeorge</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="112" Type="Image" Created="2014-06-27 17:30:39 -0400" Modified="2014-06-27 17:30:39 -0400">
+                                    <Title>PiagetJean</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="113" Type="Image" Created="2014-06-27 17:33:46 -0400" Modified="2014-06-27 17:33:46 -0400">
+                                    <Title>RMC2011_0645</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="114" Type="Image" Created="2014-06-27 17:37:22 -0400" Modified="2014-06-27 17:37:22 -0400">
+                                    <Title>RobGold</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="115" Type="Image" Created="2014-06-30 13:29:57 -0400" Modified="2014-06-30 13:29:57 -0400">
+                                    <Title>SocaridesCharles</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="116" Type="Image" Created="2014-06-27 17:32:58 -0400" Modified="2014-06-27 17:32:58 -0400">
+                                    <Title>SpeigelJohnP</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="117" Type="Image" Created="2014-06-27 17:42:47 -0400" Modified="2014-06-27 17:42:47 -0400">
+                                    <Title>SzaszThomas</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="118" Type="Image" Created="2014-06-27 17:21:44 -0400" Modified="2014-06-27 17:21:44 -0400">
+                                    <Title>TPoggio-DMarr-FCrick_BoregoDesert_circa1989</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="119" Type="Image" Created="2014-06-27 17:35:10 -0400" Modified="2014-06-27 17:35:10 -0400">
+                                    <Title>TylerLeona</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="120" Type="Image" Created="2014-06-27 17:36:35 -0400" Modified="2014-06-27 17:36:35 -0400">
+                                    <Title>zimbardo_wintermeyer</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpeg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="121" Type="Image" Created="2014-06-27 17:36:51 -0400" Modified="2014-06-27 17:36:51 -0400">
+                                    <Title>Zimbardo2</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="122" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                    <Title>Frances_DSM-5</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                </BinderItem>
+                <BinderItem ID="123" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                    <Title>psymajor-guidelines</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                </BinderItem>
+                <BinderItem ID="124" Type="Text" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                    <Title>Zimbardo-Proposal</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" Type="TrashFolder" Created="2014-07-21 19:40:46 -0400" Modified="2014-07-21 19:40:46 -0400">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="14" Type="Text" Created="2014-07-21 19:42:49 -0400" Modified="2014-07-21 19:42:51 -0400">
+                    <Title>Title page</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="91" Type="Text" Created="2014-07-21 20:27:27 -0400" Modified="2014-07-21 20:27:27 -0400">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="774B2305-442A-401A-A47F-DF0E82D7F799" Color="0.784753 0.815752 0.848702">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="CADF5D6E-EF6B-400A-8C7F-CFF850A380D1" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="160" Characters="1271" Date="2014-07-21 20:41:50 -0400"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>

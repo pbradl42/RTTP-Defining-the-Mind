@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Links Version="1.0" Anchor="RTF">
+    <ScrivenerLinks>
+        <TextLinks>
+            <LinkID Range="0,12">5</LinkID>
+            <LinkID Range="13,4">5</LinkID>
+            <LinkID Range="18,13">6</LinkID>
+            <LinkID Range="32,4">6</LinkID>
+            <LinkID Range="37,19">7</LinkID>
+            <LinkID Range="57,4">7</LinkID>
+            <LinkID Range="62,12">8</LinkID>
+            <LinkID Range="75,4">8</LinkID>
+            <LinkID Range="80,15">9</LinkID>
+            <LinkID Range="96,4">9</LinkID>
+            <LinkID Range="101,17">10</LinkID>
+            <LinkID Range="119,4">10</LinkID>
+            <LinkID Range="124,17">11</LinkID>
+            <LinkID Range="142,4">11</LinkID>
+            <LinkID Range="147,19">12</LinkID>
+            <LinkID Range="167,4">12</LinkID>
+            <LinkID Range="172,19">13</LinkID>
+            <LinkID Range="192,4">13</LinkID>
+            <LinkID Range="197,5">14</LinkID>
+            <LinkID Range="203,4">14</LinkID>
+            <LinkID Range="208,27">22</LinkID>
+            <LinkID Range="236,4">22</LinkID>
+            <LinkID Range="241,21">23</LinkID>
+            <LinkID Range="263,4">23</LinkID>
+            <LinkID Range="268,20">24</LinkID>
+            <LinkID Range="289,4">24</LinkID>
+            <LinkID Range="294,10">15</LinkID>
+            <LinkID Range="305,4">15</LinkID>
+            <LinkID Range="310,8">26</LinkID>
+            <LinkID Range="319,4">26</LinkID>
+            <LinkID Range="324,20">27</LinkID>
+            <LinkID Range="345,4">27</LinkID>
+            <LinkID Range="350,19">28</LinkID>
+            <LinkID Range="370,4">28</LinkID>
+            <LinkID Range="375,26">29</LinkID>
+            <LinkID Range="402,4">29</LinkID>
+            <LinkID Range="407,17">16</LinkID>
+            <LinkID Range="425,4">16</LinkID>
+            <LinkID Range="430,10">17</LinkID>
+            <LinkID Range="441,4">17</LinkID>
+            <LinkID Range="446,16">34</LinkID>
+            <LinkID Range="463,4">34</LinkID>
+            <LinkID Range="468,20">35</LinkID>
+            <LinkID Range="489,4">35</LinkID>
+            <LinkID Range="494,24">36</LinkID>
+            <LinkID Range="519,4">36</LinkID>
+            <LinkID Range="524,22">18</LinkID>
+            <LinkID Range="547,4">18</LinkID>
+            <LinkID Range="552,15">54</LinkID>
+            <LinkID Range="568,4">54</LinkID>
+            <LinkID Range="573,18">55</LinkID>
+            <LinkID Range="592,4">55</LinkID>
+            <LinkID Range="597,40">56</LinkID>
+            <LinkID Range="638,4">56</LinkID>
+            <LinkID Range="643,22">19</LinkID>
+            <LinkID Range="666,4">19</LinkID>
+            <LinkID Range="671,11">20</LinkID>
+            <LinkID Range="683,4">20</LinkID>
+            <LinkID Range="688,14">21</LinkID>
+            <LinkID Range="703,4">21</LinkID>
+        </TextLinks>
+    </ScrivenerLinks>
+</Links>

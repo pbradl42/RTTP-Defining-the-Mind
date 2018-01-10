@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="PIC-142B-01" Modified="2016-07-11 16:42:50 -0400" ModID="099AD7BB-076F-4C0C-81DF-1A0205159505">
+    <Binder>
+        <BinderItem ID="0" UUID="83E02873-467E-40BE-AB78-2B45BB5561E1" Type="DraftFolder" Created="2014-05-22 17:39:45 -0400" Modified="2014-07-21 19:56:59 -0400">
+            <Title>RoleSheets v1.0</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="45" UUID="8C18A5D0-2DFA-4EC3-838A-2AD10BCC3A6B" Type="Text" Created="2013-07-25 16:09:28 -0400" Modified="2014-07-21 20:25:25 -0400">
+                    <Title>TitlePage-Characters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>155,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="3" UUID="64D9AB65-E121-4CD2-8A17-B06A249C0CFD" Type="Text" Created="2014-05-22 17:39:45 -0400" Modified="2014-07-21 19:53:59 -0400">
+                    <Title>Name</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" UUID="FEE2E91D-1D9C-4566-8A77-FA493447B857" Type="Text" Created="2011-03-03 20:26:14 -0500" Modified="2014-07-21 20:34:34 -0400">
+                    <Title>GAlbee</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>7122,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" UUID="15427049-F26A-41D4-9784-B1E30D085CD7" Type="Text" Created="2011-03-03 20:25:36 -0500" Modified="2014-07-06 19:26:43 -0400">
+                    <Title>AAnastasi</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1724,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="10" UUID="09CC6122-5A4C-4209-8798-6FACE79A5D13" Type="Text" Created="2011-03-01 14:15:55 -0500" Modified="2014-07-06 19:26:43 -0400">
+                    <Title>KenClark</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>6796,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="5" UUID="1A3D73B5-C321-4772-B257-37020786C425" Type="Text" Created="2011-03-03 20:17:28 -0500" Modified="2014-06-27 16:46:32 -0400">
+                    <Title>DFordney-Settlage</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3734,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" UUID="47D001EA-6D92-4060-9ED8-FECAEA903F30" Type="Text" Created="2011-03-03 13:38:07 -0500" Modified="2014-06-27 16:46:10 -0400">
+                    <Title>JFryer</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2787,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="12" UUID="570E6544-552A-482B-993B-278A51DF8C92" Type="Text" Created="2011-03-02 12:07:04 -0500" Modified="2014-06-27 16:46:05 -0400">
+                    <Title>PGebhard</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1215,53</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="14" UUID="994081B4-A9B6-4BE4-BD19-9FB6E167F69E" Type="Text" Created="2011-03-02 16:49:33 -0500" Modified="2014-06-27 16:46:05 -0400">
+                    <Title>RGold</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>6209,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="6" UUID="4DBE580E-7A0D-47D0-A48C-71BAA29F4F6A" Type="Text" Created="2013-07-03 08:21:41 -0400" Modified="2014-07-06 19:29:39 -0400">
+                    <Title>FKameny</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>12766,190</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="43" UUID="D061CFEA-FAFF-4160-B22D-58C1D8FB0E0E" Type="Text" Created="2013-07-03 08:21:41 -0400" Modified="2014-07-07 15:18:47 -0400">
+                    <Title>BGittings</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>63,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="15" UUID="6BA0C5C3-A1EC-4195-B242-36BDAC82859A" Type="Text" Created="2011-03-03 18:36:40 -0500" Modified="2014-06-27 16:43:46 -0400">
+                    <Title>Smilgram</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3396,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" UUID="76114760-3056-44DE-A8B2-9FEC5861D243" Type="Text" Created="2011-02-28 16:43:27 -0500" Modified="2014-07-06 19:29:39 -0400">
+                    <Title>JPiaget</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>5618,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="11" UUID="ADD0D9D7-4FC9-4C57-B0B1-83E060FC93F0" Type="Text" Created="2011-03-03 13:41:42 -0500" Modified="2014-07-06 19:29:39 -0400">
+                    <Title>LTyler</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>5686,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="16" UUID="E47F806B-4E51-4A22-9E4D-F9A2FEBD278A" Type="Text" Created="2013-07-03 08:58:29 -0400" Modified="2014-07-21 20:32:15 -0400">
+                    <Title>Spitzer-bkg</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>20827,673</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="17" UUID="7E9052D3-A70C-4209-B405-4A857B7A38E0" Type="Text" Created="2011-03-03 19:54:54 -0500" Modified="2014-07-06 19:29:39 -0400">
+                    <Title>ThomasSzasz</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>10097,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="13" UUID="6F2534D2-1839-48FA-9D0F-BC276758F987" Type="Text" Created="2011-03-03 13:41:53 -0500" Modified="2014-06-27 16:42:55 -0400">
+                    <Title>PZimbardo</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1065,65</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="37" UUID="44855C68-4AED-4B7D-B19B-364AB0861F03" Type="Folder" Created="2014-06-27 16:18:57 -0400" Modified="2014-06-27 16:19:01 -0400">
+                    <Title>Psychoanalysts</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="30" UUID="AA4E0F82-BA95-4115-8DFC-54FC06E02C9A" Type="Text" Created="2011-02-22 16:56:57 -0500" Modified="2014-06-27 16:37:25 -0400">
+                            <Title>PsychoanalysisOverview</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1924,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="31" UUID="47FD4E9A-26D6-4FAC-BF80-14B9258A7D3F" Type="Text" Created="2011-03-01 12:35:22 -0500" Modified="2014-07-06 19:56:12 -0400">
+                            <Title>RGreen-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="32" UUID="C8B01A6B-9CD4-4F2A-BBF8-5F7C1DECD60D" Type="Folder" Created="2014-05-22 17:48:41 -0400" Modified="2014-05-22 17:48:41 -0400">
+                            <Title>RHopcke</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="33" UUID="26A5CFCC-69AD-4E36-8ED7-14FF7DE96840" Type="Text" Created="2011-03-03 20:11:30 -0500" Modified="2014-07-06 19:53:05 -0400">
+                                    <Title>RHopcke-bio</Title>
+                                    <MetaData>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>13,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="23" UUID="445D930C-775D-4806-92D3-DC7E84794BB9" Type="Text" Created="2011-03-02 11:53:34 -0500" Modified="2014-07-06 19:52:20 -0400">
+                            <Title>HLeif-Bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,15</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="24" UUID="33B17A28-A1D2-46C5-B04A-679DAB0BE9BD" Type="Text" Created="2011-03-01 12:38:24 -0500" Modified="2014-07-06 19:52:09 -0400">
+                            <Title>CSocarides</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="40" UUID="B62061A6-90A2-49BA-997F-DD0F659AE332" Type="Text" Created="2011-03-01 12:38:24 -0500" Modified="2014-07-06 19:52:56 -0400">
+                            <Title>IBieber-bio copy</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>17,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="25" UUID="A19CAC3C-188E-4CC9-BCB4-E42834109A88" Type="Text" Created="2011-03-03 13:38:57 -0500" Modified="2014-07-21 20:33:09 -0400">
+                            <Title>JMarmor-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>11469,1</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="26" UUID="FFE85FA0-CC18-4158-84A0-3DAB506DE376" Type="Text" Created="2011-03-03 13:12:29 -0500" Modified="2014-07-06 19:56:35 -0400">
+                            <Title>JSpiegel-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>12,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="38" UUID="11E8BA25-0135-42BB-ADC3-517FA9ADC676" Type="Folder" Created="2014-06-27 16:19:49 -0400" Modified="2014-06-27 16:19:52 -0400">
+                    <Title>Behaviorists</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="28" UUID="9A45EE8E-9F5B-45BB-9D34-607CCFAF3434" Type="Text" Created="2011-04-13 16:03:57 -0400" Modified="2014-07-06 19:58:06 -0400">
+                            <Title>BehavioristOverview</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2658,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="18" UUID="8691FBD7-C3E3-44CF-A2FD-1BE2EE81C8CF" Type="Text" Created="2011-03-03 13:22:29 -0500" Modified="2014-07-06 19:56:12 -0400">
+                            <Title>ABandura-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,19</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="22" UUID="9BAABC67-0FDA-4074-B910-4B059DB24E9A" Type="Text" Created="2011-03-01 14:30:17 -0500" Modified="2014-07-06 19:56:43 -0400">
+                            <Title>HHarlow-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>12,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="20" UUID="C62DCF1D-14EC-4C33-A018-1A6B7F8D75DA" Type="Text" Created="2011-03-03 19:58:19 -0500" Modified="2014-07-06 19:58:06 -0400">
+                            <Title>EHooker-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="39" UUID="C367F9E3-C85E-4C24-AB18-C35D6C76E01E" Type="Folder" Created="2014-06-27 16:19:55 -0400" Modified="2014-06-27 16:19:59 -0400">
+                    <Title>Cognitivists</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="29" UUID="78BED9DA-FF20-4C74-93D9-A1183B2270A2" Type="Text" Created="2011-03-03 12:01:36 -0500" Modified="2014-06-27 16:41:36 -0400">
+                            <Title>CognitivistOverview</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1124,160</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="27" UUID="FAB5FE30-56BA-4A53-AC04-A57154DA6CDC" Type="Text" Created="2011-03-11 10:18:38 -0500" Modified="2014-07-06 19:58:32 -0400">
+                            <Title>NChomsky-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>12,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="19" UUID="1A458469-93D2-428D-B412-252089F8EE72" Type="Text" Created="2011-03-02 11:44:57 -0500" Modified="2014-07-06 19:58:06 -0400">
+                            <Title>DMarr-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>28,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="21" UUID="7A0AB694-07C4-44AC-9536-1036AF93CC6C" Type="Text" Created="2011-03-03 13:41:30 -0500" Modified="2014-07-07 15:18:47 -0400">
+                            <Title>GMiller-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="44" UUID="C1EA99B8-5490-4323-BD6E-066579A062C9" Type="Text" Created="2014-07-21 19:56:53 -0400" Modified="2014-07-21 19:56:53 -0400">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="127CBE8D-A2AA-4972-8880-8CD92654C1A7" Type="ResearchFolder" Created="2014-05-22 17:39:45 -0400" Modified="2014-05-22 17:39:45 -0400">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="58" UUID="8B9AE16A-BF0F-48DF-9EDC-DEE7FCBAC52E" Type="Folder" Created="2014-07-21 20:33:55 -0400" Modified="2014-07-21 20:33:57 -0400">
+                    <Title>Spitzer</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="46" UUID="6F1CBAB9-F898-4BDC-80E0-D5CC39C3863F" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>1953-Spitzer-OrgoneEnergy</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                            <References>
+                                <Reference BinderID="16" Destination="[Internal Link]">Spitzer-bkg</Reference>
+                            </References>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="59" UUID="FABD9FA1-E885-4D9F-9A7E-F58E0511B313" Type="Folder" Created="2014-07-21 20:33:58 -0400" Modified="2014-07-21 20:33:59 -0400">
+                    <Title>Albee</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="7" Destination="[Internal Link]">GAlbee</Reference>
+                    </References>
+                    <Children>
+                        <BinderItem ID="50" UUID="47AE7A91-A854-4E1D-A404-8F3E156592F0" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Albee-1957-ManpowerTrendsin3MentalHealthProfessions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="51" UUID="5ECA3613-1DE4-480C-9F89-3FC5A327DF2A" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Albee-1969-AConferenceOnRecruitment</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="52" UUID="47A8C7D2-B65F-47EF-9F47-4E8DAD237D21" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Albee-1969EmergingConcepts</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="53" UUID="3FF6FE4C-6428-47CE-A755-9E0C672ECB16" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Albee-1970-UncertainFutureofClinicalPsych</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="54" UUID="D1E19A06-6DA9-4CC3-B667-549EB6AB2864" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Albee-1970-UncertainFutureofClinicalPsychErratum</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="55" UUID="79158D90-7FD2-418B-9046-60B434DD49C4" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Albee-AmericanPsychInThe1960s</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="56" UUID="7EBAD7EE-6FF8-49C5-AA19-EDAEB06EC757" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Albee-ConceptualModelsInPsych</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="60" UUID="05CED9D0-4414-4BEB-916D-7981A30351B6" Type="Folder" Created="2014-07-21 20:34:00 -0400" Modified="2014-07-21 20:34:01 -0400">
+                    <Title>Marmor</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="47" UUID="FE6D22B4-7699-46A3-BCB0-93B77310C136" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>JuddMarmorPapers</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <References>
+                                <Reference BinderID="25" Destination="[Internal Link]">JMarmor-bio</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="48" UUID="C284ACFC-6D3B-4734-B743-C7A81218D37F" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Marmor-LimitsOfFreeAssociation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <References>
+                                <Reference BinderID="25" Destination="[Internal Link]">JMarmor-bio</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="49" UUID="70E9DE05-AE05-445D-A6F1-192589969A9A" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Marmor-LimitsOfFreeAssociation2</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                            <References>
+                                <Reference BinderID="25" Destination="[Internal Link]">JMarmor-bio</Reference>
+                            </References>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="61" UUID="4DBC11B6-70D6-4398-92BA-90283C218910" Type="Folder" Created="2014-07-21 20:34:49 -0400" Modified="2014-07-21 20:34:51 -0400">
+                    <Title>Clark</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="62" UUID="33207D4B-F670-40A7-8E54-FDBAA89DE1A3" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Clark-1952-TheEffectsofSegregation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="63" UUID="44C797B4-F7CE-4813-90CF-FA1BF98458AC" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Clark-1958-AQuestionOfValues</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="64" UUID="E452215B-685B-4D7B-8F4E-41B50CD2DFFF" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Clark-1971-ThePathosOfPower</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                        </BinderItem>
+                        <BinderItem ID="65" UUID="4F53E295-B586-45BF-B8BF-071C07649B3B" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Cook-1957-Desegregation-APsychAnalysis</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="69" UUID="2BD7B5D4-4AC6-4A6A-BAE1-2F01AA076970" Type="Folder" Created="2014-07-21 20:35:38 -0400" Modified="2014-07-21 20:35:40 -0400">
+                    <Title>Bandura</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="66" UUID="FB5C8EC2-9DC9-472D-874C-FE0731068103" Type="Media" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Bandura-09observlearning</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>mpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <PlaybackPosition>0.0</PlaybackPosition>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="67" UUID="DAAE4DFE-6A4D-48F4-9E75-0609E7BC6175" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Bandura-1965-AdvancinExperimentalSocPsychology Bandura</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="68" UUID="AE76E242-BBAE-4609-93A9-295FCB80EE79" Type="PDF" Created="2013-07-25 16:09:28 -0400" Modified="2013-07-25 16:09:28 -0400">
+                            <Title>Bandura-1974-AP</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="B432F771-CC92-4817-8531-5119346CDB47" Type="TrashFolder" Created="2014-05-22 17:39:45 -0400" Modified="2014-05-22 17:39:45 -0400">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="34" UUID="87B37D36-DD57-41C6-BCF8-0780BB2C929C" Type="Text" Created="2011-02-23 14:57:16 -0500" Modified="2011-02-23 14:57:16 -0500">
+                    <Title>RHopcke-header</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="35" UUID="6F60A0C6-1234-435C-966E-3835CB76FFA5" Type="Text" Created="2010-03-03 11:37:18 -0500" Modified="2010-03-03 11:37:18 -0500">
+                    <Title>RHopcke</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="36" UUID="39D4FF6B-F064-4AAE-9F9D-57BFF568E96F" Type="Text" Created="2011-02-14 09:11:36 -0500" Modified="2011-02-14 09:11:36 -0500">
+                    <Title>RHopcke2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="41" UUID="BE382EB9-1487-4244-927E-FA0D7BDA9E2B" Type="Text" Created="2014-07-06 19:51:42 -0400" Modified="2014-07-06 19:51:44 -0400">
+                    <Title>`</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="42" UUID="B28F9F8E-C20C-466E-A6E7-4DA77C183525" Type="Text" Created="2014-07-06 19:51:58 -0400" Modified="2014-07-06 19:51:58 -0400">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="57" UUID="19AEF427-ACF7-4D26-A671-2868176FFBDC" Type="Text" Created="2014-07-21 20:33:48 -0400" Modified="2014-07-21 20:33:51 -0400">
+                    <Title>Spitzer</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="EBFE85D4-4B73-462A-9D03-C411D05FFE34" Color="0.962266 0.962266 0.962266">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="60DD97E8-6D85-42BC-AD18-7322FEBA7950" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">health</SearchSettings>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-05-22 17:39:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2016-07-11 16:42:46 -0400"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>
