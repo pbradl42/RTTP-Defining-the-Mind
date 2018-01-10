@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="PIC-142B-01" Modified="2016-07-11 16:42:50 -0400" ModID="099AD7BB-076F-4C0C-81DF-1A0205159505">
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="PIC-142B-Desktop" Modified="2018-01-10 12:57:00 -0500" ModID="CD9FDF3A-6CCA-4737-9E4C-7E91D27E4BDD">
     <Binder>
         <BinderItem ID="0" UUID="83E02873-467E-40BE-AB78-2B45BB5561E1" Type="DraftFolder" Created="2014-05-22 17:39:45 -0400" Modified="2014-07-21 19:56:59 -0400">
             <Title>RoleSheets v1.0</Title>
@@ -26,13 +26,13 @@
                         <TextSelection>3,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="7" UUID="FEE2E91D-1D9C-4566-8A77-FA493447B857" Type="Text" Created="2011-03-03 20:26:14 -0500" Modified="2014-07-21 20:34:34 -0400">
+                <BinderItem ID="7" UUID="FEE2E91D-1D9C-4566-8A77-FA493447B857" Type="Text" Created="2011-03-03 20:26:14 -0500" Modified="2018-01-10 12:57:00 -0500">
                     <Title>GAlbee</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>7122,0</TextSelection>
+                        <TextSelection>6360,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="4" UUID="15427049-F26A-41D4-9784-B1E30D085CD7" Type="Text" Created="2011-03-03 20:25:36 -0500" Modified="2014-07-06 19:26:43 -0400">
@@ -707,7 +707,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-05-22 17:39:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-07-11 16:42:46 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-01-10 12:55:58 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
