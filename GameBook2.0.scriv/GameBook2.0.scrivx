@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="PIC-142B-Desktop" Modified="2018-03-01 15:23:54 -0500" ModID="99FE01BF-CCA3-4FED-9891-B3EA4D6A88B8">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="PIC-142B-Desktop" Modified="2018-03-01 15:48:20 -0500" ModID="52239023-5EA6-4B24-892E-93854BA5D3F6">
     <Binder>
-        <BinderItem ID="0" UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2014-07-21 03:45:18 -0400">
-            <Title>Game Book v1.0</Title>
+        <BinderItem ID="0" UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
+            <Title>Game Book v2.0</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
@@ -14,7 +14,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>2459,0</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem ID="4" UUID="AA2CC73D-FDA6-4511-8BFF-D0C121A42FB0" Type="Folder" Created="2014-07-21 03:40:59 -0400" Modified="2014-07-21 03:41:15 -0400">
@@ -79,7 +79,7 @@
                                 <TextSelection>98,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="17" UUID="EB72C8CB-C485-4557-88A0-C76023ACA6E7" Type="Text" Created="2014-07-21 03:43:12 -0400" Modified="2018-03-01 14:20:29 -0500">
+                                <BinderItem ID="17" UUID="EB72C8CB-C485-4557-88A0-C76023ACA6E7" Type="Text" Created="2014-07-21 03:43:12 -0400" Modified="2018-03-01 15:43:46 -0500">
                                     <Title>Brief overview of the game</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1148,14 +1148,14 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="178" UUID="A5D7036C-2B38-41C9-9BE2-111F6CB8A266" Type="Text" Created="2014-07-21 04:09:58 -0400" Modified="2016-09-22 17:05:46 -0400">
+                                <BinderItem ID="178" UUID="A5D7036C-2B38-41C9-9BE2-111F6CB8A266" Type="Text" Created="2014-07-21 04:09:58 -0400" Modified="2018-03-01 15:44:26 -0500">
                                     <Title>Obits and Tributes</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>1119,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="179" UUID="52797CB0-DF18-4B1A-9D58-9B94ABF4EC4F" Type="Text" Created="2014-07-21 04:10:05 -0400" Modified="2016-09-22 17:05:56 -0400">
@@ -2614,7 +2614,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="CADF5D6E-EF6B-400A-8C7F-CFF850A380D1" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">apalike</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">Psychr</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
@@ -2639,7 +2639,7 @@
         </StatusItems>
     </StatusSettings>
     <ProjectProperties>
-        <ProjectTitle>Defining the Mind: The struggle for legitimacy in Psychriatry and Psychology in the 1970's</ProjectTitle>
+        <ProjectTitle>Defining the Mind: The struggle for legitimacy in Psychiatry and Psychology in the 1970's</ProjectTitle>
         <AbbreviatedTitle>Defining the Mind</AbbreviatedTitle>
         <FullName>Peter Bradley</FullName>
         <LastName>Bradley</LastName>

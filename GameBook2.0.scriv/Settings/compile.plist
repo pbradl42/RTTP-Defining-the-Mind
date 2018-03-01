@@ -33,9 +33,9 @@
 	<key>SCRCompileColorPrintedHyperlinksKey</key>
 	<true/>
 	<key>SCRCompileConvertEllipsesToTriplePeriodsKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileConvertEmDashesToHyphensKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileConvertItalicsToUnderlineKey</key>
 	<false/>
 	<key>SCRCompileConvertLinkedRTFDImagesToEmbeddedImagesKey</key>
@@ -45,7 +45,7 @@
 	<key>SCRCompileConvertMultiMarkdownToRichTextKey</key>
 	<false/>
 	<key>SCRCompileConvertSpacesKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileConvertSpacingToPlainTextKey</key>
 	<false/>
 	<key>SCRCompileConvertTablesToImagesKey</key>
@@ -57,7 +57,7 @@
 	<key>SCRCompileCustomSeparatorsRespectIndentsKey</key>
 	<false/>
 	<key>SCRCompileDeleteStruckThroughTextKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileDifferentAlternatePageHeaderAndFooterKey</key>
 	<false/>
 	<key>SCRCompileDifferentFirstPageHeaderAndFooterKey</key>
@@ -722,7 +722,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileRemoveTextColorKey</key>
 	<false/>
 	<key>SCRCompileRemoveTrailingWhitespaceKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileResampleImagesKey</key>
 	<false/>
 	<key>SCRCompileRestrictWidthOfStitchedTablesKey</key>
@@ -766,7 +766,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileStitchTablesTogetherKey</key>
 	<false/>
 	<key>SCRCompileStraightenTypographersQuotesKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileTableImagesMaxWidthKey</key>
 	<integer>600</integer>
 	<key>SCRCompileTextAndFolderCustomSeparatorStringKey</key>
