@@ -39,6 +39,10 @@
 <ul>
 <li>
 <p class="binderItem"><strong>Series page</strong><br/><!--<br/>
+\addbibresource{APA.bib}<br/>
+\DeclareBibliographyAlias{webpage}{online} <br/>
+<br/>
+<br/>
 \frontmatter<br/>
 \definecolor{ferrisred}{RGB}{186,18,43}<br/>
 \definecolor{ferrsgold}{RGB}{252,201,23}<br/>
@@ -50,8 +54,7 @@
 \makechapterstyle{ferrisstyle}{%  Holder for working on Chapter headings<br/>
   \chapterstyle{article}<br/>
   \renewcommand*{\chapnumfont}{\normalfont\huge\bfseries \leavevmode\color{ferrisred}}<br/>
-  \renewcommand*{\chaptitlefont}{\normalfont\huge\bfseries \leavevmode\color{ferrisred}}<br/>
-  \settowidth{\c...</p>
+  \renewcommand*{\chaptitlefont}{\...</p>
 </li>
 <li>
 <p class="binderItem"><strong>TitlePage</strong><br/><br/>
@@ -89,7 +92,21 @@ John Heywood, University of Lancaster<br/>
 </ul>
 <hr/>
 <li>
-<p class="binderItem"><strong>Introduction</strong><br/><!--\mainmatter--></p>
+<p class="binderItem"><strong>Introduction</strong><br/><!--<br/>
+\pagebreak <br/>
+<br/>
+\part{GAME BOOK}<br/>
+\label{gamebook}<br/>
+<br/>
+\chapter{FRONT MATTER}<br/>
+\label{frontmatter}<br/>
+<br/>
+<br/>
+<br/>
+\chapter{INTRODUCTION}<br/>
+\label{introduction}<br/>
+<br/>
+\mainmatter--></p>
 </li>
 <hr/>
 <ul>
@@ -237,14 +254,16 @@ APA policy on the use of the title "psychologist" is contained in the General Gu
 <p class="binderItem"><strong>Calls for Papers and Symposia</strong><br/><br/>
 #### Call for Papers and Symposia<br/>
 ##### Introduction<br/>
- I. The Program committee herein announces a Call of Papers and Symposia for the annual convention of the APA. Please read the relevant rules carefully if you plan to take part in the program. Note especially the deadlines, the form for abstracts of contributed papers, the forms for symposium proposals, and the proper persons to receive your correspondence. The pertinent references have been collected into the box on this page for your conven...</p>
+<br/>
+ I. The Program committee herein announces a Call of Papers and Symposia for the annual convention of the APA. Please read the relevant rules carefully if you plan to take part in the program. Note especially the deadlines, the form for abstracts of contributed papers, the forms for symposium proposals, and the proper persons to receive your correspondence. The pertinent references have been collected into the box on this page for your conve...</p>
 </li>
 <li>
 <p class="binderItem"><strong>Role of the Gamemaster</strong><br/>Role of the gamemaster<br/>
+<br/>
 The gamemaster's central responsibility will be to ensure that the conferences run smoothly.  The gamemaster must therefore maintain a robust relationship with the program committee.  In a small class, the gamemaster may prefer to the responsibilities of the program committee for himself or herself.<br/>
 <br/>
 * Act as secretary to the Board of Directors if there is no preceptor available.<br/>
-* Remind / cajole the program committee to prepare the schedule at least 48 hours in advance o...</p>
+* Remind / cajole the program committee to prepare the schedule at least 48 hours in advance ...</p>
 </li>
 </ul>
 <hr/>
@@ -271,7 +290,8 @@ Marmor “Limitations of Free Associati...</p>
 </li>
 <li>
 <p class="binderItem"><strong>Committee Structure</strong><br/>#### Committee structure<br/>
-The APA is overseen by a Board of Directors, which is responsible for maintaining the organization, and approving all official public proclamations and publications of the organization.  The president, who opens the conference with his or her presidential address, also serves as chair of the Board of Directors during that conference. The secretary of the Board of Directors is responsible for maintaining the minutes for that meeting and implementing whatever policy decisi...</p>
+<br/>
+The APA is overseen by a Board of Directors, which is responsible for maintaining the organization, and approving all official public proclamations and publications of the organization.  The president, who opens the conference with his or her presidential address, also serves as chair of the Board of Directors during that conference. The secretary of the Board of Directors is responsible for maintaining the minutes for that meeting and implementing whatever policy decis...</p>
 </li>
 </ul>
 <hr/>
@@ -368,8 +388,10 @@ Ethical codes of research have generally followed the discovery or publication o
 <br/>
 Works cited should go here (this page is optional). See the Works Cited Format document for information on formatting citations.<br/>
 <br/>
-<!--\bibliographystyle{apalike}<br/>
-\bibliography{../APA}<br/>
+<!--<br/>
+\backmatter<br/>
+\printindex<br/>
+\printbibliography<br/>
 <br/>
 --></p>
 </li>
