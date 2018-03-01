@@ -1,9 +1,0 @@
-[0] Config.pm:343> INFO - This is Biber 2.5
-[0] Config.pm:346> INFO - Logfile is 'GameBook2.0.1.blg'
-[39] biber-darwin:290> INFO - === Thu Mar  1, 2018, 15:28:15
-[58] Biber.pm:351> INFO - Reading 'GameBook2.0.1.bcf'
-[132] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[136] Utils.pm:149> WARN - The file 'GameBook2.0.1.bcf' does not contain any citations!
-[141] bbl.pm:526> INFO - Writing 'GameBook2.0.1.bbl' with encoding 'UTF-8'
-[142] bbl.pm:619> INFO - Output to GameBook2.0.1.bbl
-[142] Biber.pm:108> INFO - WARNINGS: 1

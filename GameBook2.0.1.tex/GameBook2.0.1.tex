@@ -3,6 +3,7 @@
 \def\myauthor{Peter Bradley}
 \def\latexmode{memoir}
 
+
 \addbibresource{APA.bib}
 \DeclareBibliographyAlias{webpage}{online} 
 
@@ -36,10 +37,14 @@
  \renewcommand*{\beforepartskip}{\null}%
  \renewcommand*{\afterpartskip}{\vfil}%
  \renewcommand*{\midpartskip}{\par\vskip 20pt}%
+ 
+
+ \renewcommand*{\thepart}{\Roman{part}}
  \renewcommand*{\partnamefont}{\normalfont\huge\bfseries \leavevmode\color{ferrisred}}%
  \renewcommand*{\partnumfont}{\normalfont\huge\bfseries \leavevmode\color{ferrisred}}%
  \renewcommand*{\parttitlefont}{\normalfont\huge\bfseries \leavevmode\color{ferrisred}}%
  \renewcommand*{\printpartname}{\partnamefont \partname}%
+ 
  \renewcommand*{\partnamenum}{\space}%
  \renewcommand*{\printpartnum}{\partnumfont \thepart}%
 
@@ -57,7 +62,8 @@
 
 
 \setcounter{secnumdepth}{8}
-\setcounter{tocdepth}{8}
+\setsecnumdepth{subsubsection}
+\setcounter{tocdepth}{3}
 
 
 % Set numbering system to sub subsection
@@ -74,14 +80,23 @@
 
 
 
-Defining the Mind:
-The struggle for legitimacy in psychology and psychiatry during the 1970s.
+\pagebreak 
 
-Peter Bradley
-Ferris State University
+\part{GAME BOOK}
+\label{gamebook}
 
-With help from
-John Heywood, University of Lancaster
+
+\title{Defining the Mind:\protect\\
+\large{The struggle for legitimacy in psychology and psychiatry during the 1970s.}}
+
+\author[1]{Peter Bradley\thanks{peterbradley@ferris.edu}}
+\affil[1]{Honors Program, Ferris State University}
+
+\maketitle
+\newpage
+
+
+
 
 \tableofcontents
 \listoftables
@@ -89,26 +104,15 @@ John Heywood, University of Lancaster
 \newpage
 
 
-\pagebreak 
 
-\chapter{INTRODUCTION}
-\label{introduction}
-
-
-\pagebreak 
-
-\part{GAME BOOK}
-\label{gamebook}
-
-\chapter{FRONT MATTER}
-\label{frontmatter}
-
-
-
-\chapter{INTRODUCTION}
-\label{introduction}
 
 \mainmatter
+
+
+\pagebreak 
+
+\chapter{INTRODUCTION}
+\label{introduction}
 
 \section{The Game}
 \label{thegame}
