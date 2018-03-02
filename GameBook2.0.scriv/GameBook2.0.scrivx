@@ -1046,7 +1046,7 @@
                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>562,0</TextSelection>
+                                                <TextSelection>2069,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem ID="159" UUID="47778C9E-06B6-4DB7-B2AC-20445FEA87B4" Type="Folder" Created="2014-07-21 04:07:32 -0400" Modified="2014-07-21 04:08:24 -0400">
@@ -1430,7 +1430,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>24535,0</TextSelection>
+                                <TextSelection>22,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
