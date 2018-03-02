@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="50">
-            <Title>Freud-Homosexuality</Title>
-            <Text>## Freud, Sigmund “The psychogenesis of a case of homosexuality in a woman” (1920)
-
-&lt;!--\label{app: Freud}
-\includepdf[pages={1-}]{../Appendices/1920-Freud-HomosexualityInAWoman.pdf}--&gt;</Text>
+        <Document ID="168">
+            <Title>Speaking</Title>
+            <Text>#### Speaking</Text>
         </Document>
         <Document ID="28">
             <Title>Assignments</Title>
@@ -102,8 +99,8 @@ SuccesreD Rreornc
 ACTTVTIIES HANDBOOK, VOL. 2
 </Text>
         </Document>
-        <Document ID="176">
-            <Title>Annotated Bibliography</Title>
+        <Document ID="193">
+            <Title>Experiments</Title>
         </Document>
         <Document ID="29">
             <Title>Thanks to John Heywood, University of Lancaster</Title>
@@ -148,51 +145,8 @@ Wilson, K. K. (20XX) The Disparate Classification of Gender and Sexual Orientati
             <Text>￼￼
 ￼￼</Text>
         </Document>
-        <Document ID="175">
-            <Title>What happened afterwards</Title>
-            <Text>### After this era
-#### The DSM-V Controversy
-These were collected in 2009. The issue is ongoing.
-NIMH Rejection: http://www.newyorker.com/online/blogs/elements/2013/05/the-new-criteria-for-mental-disorders.html 
-
-The D.S.M. And the Nature of Disease
-http://www.newyorker.com/online/blogs/elements/2013/04/the-dsm-and-the-nature-of-disease.html 
-
-(2009). "What Should Count as a Mental Disorder in DSM-V? - Psychiatric Times." from http://www.psychiatrictimes.com/display/article/10168/1402032.
-
-Andrews, G. (2009). Stress-induced and fear circuitry disorders : advancing the research agenda for DSM-V. Washington, DC, American Psychiatric Pub.
-
-Beach, S. R. H. (2006). Relational processes and DSM-V : neuroscience, assessment, prevention, and intervention. Washington, DC, American Psychiatric Pub.
-
-Kal, E. F. (2008). "DSM-V Compromise Proposed." Psychiatr News 43(21): 23-a-23-a.
-
-O'Donohue, W. T., K. A. Fowler, et al. (2007). Personality disorders : toward the DSM-V. Los Angeles, SAGE Publications.
-
-Porcelli, P. and N. Sonino (2007). Psychological factors affecting medical conditions : a new classification for DSM-V. Basel ; New York, Karger.
-
-Saunders, J. B. and American Psychiatric Association. (2007). Diagnostic issues in substance use disorders : refining the research agenda for DSM-V. Arlington, VA, American Psychiatric Association.
-
-Spitzer, R. L. (2008). "DSM-V: Open and Transparent?" Psychiatr News 43(14): 26-26.
-
-Sunderland, T. and American Psychiatric Association. (2007). Diagnostic issues in dementia : advancing the research agenda for DSM-V. Arlington, VA, American Psychiatric Association.
-
-Widiger, T. A. (2006). Dimensional models of personality disorders : refining the research agenda for DSM-V. Washington, D.C., American Psychiatric Association.
-
- 	##### Contemporary – Spitzer 2003 Controversy
-Epstein, R. (2003). "Am I Anti-Gay? You be the judge. A letter form the editor in chief.   ." Psychology Today Jan/Feb.
-
-Hausman, K. (2001). "Furor Erupts Over Study On Sexual Orientation." Psychiatr News 36(13): 20-34.
-
-Nicolosi, J. (2007, 4/30/2007). "Why I Am Not a Neutral Therapist." Retrieved 10/24/2008, from http://www.narth.com/docs/notneutral.html.
-
-Nicolosi, J. (2008). "The Meaning of Same-Sex Attraction." 10/24/2008, from http://www.narth.com/docs/niconew.html.
-
-Satinover, J. (?). "The "Trojan Couch": How the Mental Health Associations Misrepresent Science." National Association for Research and Theraphy of Homosexuality. Retrieved 10/24, 2008, from http:/www.narth.com/docs/TheTrojanCouchSatinover.pdf.
-
-Spitzer, R. (2003). "Can some gay men and lesbians change their sexual orientation? 200 participants reporting a change from homosexual to heterosexual orientation." Archives of Sexual Behavior 32(5): 403-417.
-
-Zucker, K. and J. Drescher, Eds. (2006). Ex-Gay Research: Analyzing the Spitzer Study and Its Relation to Science, Religion, Politics, and Culture. New York, Routledge.
-</Text>
+        <Document ID="22">
+            <Title>Narrative</Title>
         </Document>
         <Document ID="196">
             <Title>AAnastasi</Title>
@@ -667,45 +621,9 @@ Cook, S. W. (1957). "Desegregation: A Psychological Analysis." The American Psyc
             <Comments>Quoted from http://www.northsidecenter.org/v4/ourmission.php
 See http://www.will.uiuc.edu/community/beyondbrown/brown5cases.htm</Comments>
         </Document>
-        <Document ID="24">
-            <Title>Rules and Procedures</Title>
-            <Text>
-
-
-Each week (two or three sessions, depending on your schedule) of game play reenacts one annual conference of the APA in the early 1970s. The five weeks of game play cover the years 1971-1975. In reality, these conferences are huge events. There are presentations on current research, symposia on issues facing the discipline, administrative meetings for various committees, public discussions and votes on proclamations, and publishers promoting their products. In game play, players will present papers, propose research projects, vote on resolutions and grants, and hold committee meetings.
-
-Each conference opens with a presidential address. The position of President is both an honorific and administrative position. The President is often elected based on his or her reputation as a researcher, but he or she also must have keen leadership skills and knowledge of the policies and procedures of the organization's committee structure. Since these two areas of expertise do not always appear in the same person, an individual is not elected directly to the presidency by the membership. Rather, the membership holds an annual election for the vice-president, who is then promoted to president after a year of sitting on the Board of Directors and observing the inner workings of the political system.
- 
-The Board of Directors is composed of the President, the Vice president, the former president and two members elected at large each of whom serving three year terms. For classes smaller than 16, the Board of Directors will be limited to the current President, the Vice President and the Former President. The executive secretary, who serves without vote, is responsible for maintaining the minutes of the Board of Directors and taking whatever actions the committee approves during its meetings.
-
-At each year's conference, the following events occur:
-
-&lt;!--\noindent\fbox{%
-    \parbox{\textwidth}{%
-\begin{enumerate}
-
-\item Presidential Address \newline
-\item  Board of Directors circulates proposals to be considered by the membership. \newline
-\item Symposia on topics proposed by membership, as scheduled by the program committee \newline
-\item  Open sessions for presenting current research (papers or plenary addresses), as scheduled by the program committee. \newline
-\item  Board of Directors meets in open session. \newline
-\begin{enumerate}
-	\item  All committees and task forces report \newline
-	\item  Old Business (tabled from previous meeting) \newline
-	\item  New Business \newline
-\end{enumerate}
-\item  Discussion of any proposals circulated in step (2) \newline
-\item  Create and administer ballots for proposals. \newline
-\item  Election for vice president, who assumes that position at the close of that conference \newline
-\item  Election for member-at-large on the executive committee (if necessary) \newline
-\item  Executive committee meet in closed session, if necessary. \newline
-\end{enumerate}
-
-  }%
-}
- --&gt;
-
-Game play may take many forms in the classroom. You may be questioning  the President about his or her vision for future directions in psychological or psychiatric research, engaging with or participating in a symposium with two or three of your colleagues on a contentious issue of the day, participating in research, evaluating research results, discussing proposals in committee, or even arguing about reports from task forces.  The schedule of events will be left to the Program Committee, and it is very important that they distribute the schedule early and widely. See ‘&lt;!--\ref{program committee}--&gt;’ on page &lt;!--\pageref{program committee}--&gt; for more on the potential forms of conference activities.</Text>
+        <Document ID="169">
+            <Title>Items you will neee</Title>
+            <Text>### Items you might need</Text>
         </Document>
         <Document ID="82">
             <Title>clark-hull-2-sized</Title>
@@ -800,6 +718,13 @@ Display: Aggression: Submission =
 
 &lt;!--\label{app: APAEthics}
 \includepdf[pages={1-}]{../Appendices/APAEthics1968.pdf}--&gt;</Text>
+        </Document>
+        <Document ID="238">
+            <Title>DSMI</Title>
+            <Text>## APA *Diagnostic and Statistical Manual* Mental Disorders, 1952
+
+&lt;!--\label{app: DSMI}
+\includepdf[pages={1-}]{../PrimarySourceMaterials/DSMI.pdf}--&gt;</Text>
         </Document>
         <Document ID="83">
             <Title>Ernst_willhelm_von_bruecke.jpeg</Title>
@@ -1843,7 +1768,7 @@ Hull, C. K. (1934). "The Concept of Habit-Family Hierachy and Maze Learning: Par
 
 Hull, C.K. (1940). Mathematico-deductive theory of rote learning: A study in scientific methodology. getcited.org (1940)
 
-James, W. (1904). "The Chicago School." Psychological Bulletin 1: 1-5.
+James, W. (1904). "The Chicago School." Psychological Bulletin 1: 1-5
 
 	Jastrow, J. (1932). The house that Freud built, Greenberg.
 
@@ -1959,7 +1884,7 @@ The Kinsey report found that homosexual activity as a common part of male sexual
  \centering
 
      \includegraphics{../images/1965-gay-Picket-thumb-225x186-17508.png}
- \caption{from http://bilerico.lgbtqnation.com/}
+ \caption{‘Homophile’ activists picketing in 1965. From http://bilerico.lgbtqnation.com/}
 \label{fig: 1965Picket}
 \end{figure}
 --&gt;
@@ -1972,7 +1897,15 @@ Two years after the publication of the Kinsey report, a group of 'homophile' act
 
 At the same time, a secret social club for Lesbians called The Daughters of Bilitis was founded in San Francisco  by Del Martin and Phyllis Lyon. To stay in touch with its members they created a magazine called 'The Ladder', which came under the editorship of Barbara Gittings in 1963. The magazine flourished under Gittings' direction, growing from a simple hand-stapled newsletter to a true 40-page magazine. Gittings became a leader, along with Frank Kameny, of the Mattachine society.
 
-http://web-static.nypl.org/exhibitions/1969/daughters.html (flyer distributed by the daughters of bilitis regarding the penalties for homosexuality in all of the states).
+&lt;!--\begin{figure}[h]
+ \centering
+
+     \includegraphics{../PrimarySourceMaterials/MattachineSocietyPamphlet1964-A.jpg}
+\includegraphics{../PrimarySourceMaterials/MattachineSocietyPamphlet1964-B.jpg}
+ \caption{‘Penalties for Sex Offenses’, a Pamphlet distributed by the Mattachine Society in 1964 to educate its members.  From http://web-static.nypl.org/exhibitions/1969/ref/1696842.html}
+\label{fig: MattachinePamphlet}
+\end{figure}
+--&gt;
 
 ##### Connecting these threads: Evelyn Hooker
 
@@ -2176,11 +2109,15 @@ Monomania, lypemania and mania were distinguished by the nature of the passions 
 
 As the curable, transient forms of insanity were diseases of malformed passions, their treatment required reforming or redirecting the passions. His five varieties of insanity are defined thus:
 
-	1.	Lypemania (melancholy of the ancients) delirium wih respect to one, or a small number of objects, with predominance of a sorrowful and depressing passion.
-	2.	Monomania, in which the delirium is  limited to one or a small number of objects, with excitement, and predominance of a gay, and expansive passion.
-	3.	Mania, in which the delirium extends to all kids of objects, and is accompanied by excitement.
-	4.	Dementia, win which the insensate utter folly, because the organs of thought have lost their energy, and the strength requisite to fulfill their functions.
-	5.	Imbecility, or idiocy, in which the conformation of the organs has never been such, that hose who are thus afflicted, could reason justly. (29)]
+1. Lypemania (melancholy of the ancients) delirium with respect to one, or a small number of objects, with predominance of a sorrowful and depressing passion.
+
+2. Monomania, in which the delirium is  limited to one or a small number of objects, with excitement, and predominance of a gay, and expansive passion.
+
+3. Mania, in which the delirium extends to all kids of objects, and is accompanied by excitement.
+
+4. Dementia, win which the insensate utter folly, because the organs of thought have lost their energy, and the strength requisite to fulfill their functions.
+
+5. Imbecility, or idiocy, in which the conformation of the organs has never been such, that hose who are thus afflicted, could reason justly. (29)]
 
 It is important to note here that the passions *accompany* delirium with respect to collections of objects.  One cannot be passionate without being passionate about something. The 'something' that is the object of passion is supplied by the senses---and hence, we're still within a Lockean framework of understanding the mind.  
 
@@ -2257,7 +2194,7 @@ One way to chart the rise of psychiatric diagnosis is to consider how people wit
 22&amp;\multicolumn{2}{ | p{5.8cm} | }{Mental Retardation, Idiocy} \\ \hline
       &amp;00&amp;Idiotic \\ \hline
 
-\caption{Classifications of 1880}
+\caption{Mental Illness Classification used in the US Census of 1880}
 \label{table: 1880classifications}
 \end{longtable}
 --&gt;
@@ -2346,9 +2283,7 @@ The barrier between the mentally ill and the mentally healthy had been permanent
 This conflation of psychiatric conditions and normal life left Freud in the precarious position of having to define 'mental illness.'  He did so thus:
 &gt; Symptoms—and of course we are dealing now with psychical (or psychogenic) symptoms and psychical illness—are acts detrimental, or at least useless, to the subject's life as a whole, often complained by him as unwelcome and bringing unpleasure or suffering to him. (*Introductory Lectures*, p. 445)
 
-####### Neurosis v. Psychosis
-
-One of the hallmarks of Freud's theory is his thesis that the there is no hard and fast distinction to be made between the mentally ill and the mentally healthy. His *Introductory Lectures* are structured to introduce the reader to psychopathology in everyday life before extending the analysis of common activities to psychotics and neurotic patients.  As such, there are no hard and fast definitions of psychosis and neurosis.
+**Neurosis v. Psychosis.** One of the hallmarks of Freud's theory is his thesis that the there is no hard and fast distinction to be made between the mentally ill and the mentally healthy. His *Introductory Lectures* are structured to introduce the reader to psychopathology in everyday life before extending the analysis of common activities to psychotics and neurotic patients.  As such, there are no hard and fast definitions of psychosis and neurosis.
 
 During the course of normal development of mentally healthy adults, the ego must become 'reasonable': it must no longer let “itself be governed by the pleasure principle, but obeys the reality principle, which also at bottom seeks to obtain pleasure, but pleasure which is assured through taking account of reality, even though it is pleasure postponed and diminished.” (p. 444) A neurotic's ego fails to make this transition, and gets stuck at one point in development.  Thus, the neurotic's libido and ego are still struggling in a child-like way, but the contents of the struggle have been transformed into objects of adulthood. Neurotic symptoms are the “outcome of a conflict which arises over a new method of satisfying the libido” (p. 446) and a person is ill from neurosis only if “his ego has lost the capacity to allocate his libido in some way” (p. 480). A psychotic patient, however, has lost the battle for the reality principle, and the libido has created its own reality.
 
@@ -2369,9 +2304,9 @@ The story is not all smooth sailing. In 1916, the Princeton philosopher and psyc
 
 What followed is a history of tension between those in the psychological and psychoanalytic communities. Helped by the military's preference for psychoanalysts in the treatment of 'shell-shock' during WWI and 'combat fatigue' in WWII, psychoanalysis gained credibility in the eyes of the American public.
 
-##### The DSMs
+##### Classification of Mental Illness, 1918-1952
 
-In 1917 during its annual meeting in New York, the American Medico-Psychological Association (now the American Psychiatric Association) in cooperation with the National Commission on Mental Hygiene formed a committee on statistics and charged it with creating a guide for classifying mental illness. The resulting document, Statistical Manual for the Use of Institutions for the Insane, was published in 1918 and adopted around the nation. It is available freely on google books. The manual outlined 21 medical-psychological categories:
+In 1917 during its annual meeting in New York, the American Medico-Psychological Association (now the American Psychiatric Association) in cooperation with the National Commission on Mental Hygiene formed a committee on statistics and charged it with creating a guide for classifying mental illness. The resulting document, Statistical Manual for the Use of Institutions for the Insane, was published in 1918 and adopted around the nation. It is available freely on google books. The manual outlined 21 medical-psychological categories, displayed in table &lt;!--\ref{table: 1918Classification}--&gt;:
 
 &lt;!-- \begin{longtable}[!t]{ | p{4cm} | p{10.8cm} | }
 \hline
@@ -2461,13 +2396,13 @@ In 1917 during its annual meeting in New York, the American Medico-Psychological
 (d) Constitutional psychopathic inferiority without psychosis \newline
 (e) Mental deficiency without psychosis \newline
 (f) Others (to be specified)\\ \hline
-\caption{Statistical Manual for the Use of Institutions for the Insane classification of insanity, 1918}
+\caption{\emph{Statistical Manual for the Use of Institutions for the Insane classification of insanity}, 1918}
 \label{table: 1918Classification}
 \end{longtable}
 --&gt;
 
 
-In 1928, the New York Academy of Medicine invited the Public Health Service, the Army and Navy Medical Departments and the American Hospital Association to collaborate on a standard nomenclature of disease. That standard was first published in 1933 as A Standard Classified Nomenclature of Disease, generally referred to as The Standard, and was widely used until at least the 1960s. In its original form, it used the following ten categories:
+In 1928, the New York Academy of Medicine invited the Public Health Service, the Army and Navy Medical Departments and the American Hospital Association to collaborate on a standard nomenclature of disease. That standard was first published in 1933 as *A Standard Classified Nomenclature of Disease*, generally referred to as *The Standard*, and was widely used until at least the 1960s. In its original form, it used the following ten categories, as displayed in table &lt;!--\ref{table: 1933Classification}--&gt;:
 	•	&lt;!-- \begin{longtable}[!t]{ | p{13.8cm}  | }
 \hline
 0 Diseases due to prenatal influences\\
@@ -2482,16 +2417,16 @@ In 1928, the New York Academy of Medicine invited the Public Health Service, the
 8 New growths\\
 9 Diseases due to unknown or uncertain causes, the structural reaction (generative, infiltrative, inflammatory, proliferate, sclerotic, or reparative) to which is manifest; and hereditary and familial diseases of this nature.\\
 X Diseases due to unknown or uncertain causes, the functional reaction to which is alone manifest; and hereditary and familial diseases of this nature.\\ \hline
-\caption{Standard Classified Nomenclature classification of disease, 1933}
+\caption{\emph{Standard Classified Nomenclature classification of disease}, 1933}
 \label{table: 1933Classification}
 \end{longtable}
 --&gt;
 
-You'll notice that the medical classification is entirely based on the origin or cause of a condition ('Diseases due to...'), not the symptoms. In the &lt;!--\ref{1918Classification}--&gt;, classification system, mental diseases are classified by the Freudian terms 'psychosis' and 'neurosis', except for melancholy and dimentia.
+You may notice that the medical classification is entirely based on the origin or cause of a condition ('Diseases **due to...**’), not the symptoms. In the &lt;!--\ref{table: 1918Classification}--&gt;, classification system, mental diseases are classified by the Freudian terms 'psychosis' and 'neurosis', except for melancholy and dimentia.
 
-During the WWII, psychiatrists classified patients according to the standards of the branch of the armed forces for which they worked. In 1943, Brigadier General William C. Menninger issued a bulletin called “Medical 203” that laid the foundations for medical classification of mental illness. The Navy, Army and Veterans affairs branches all used slightly different diagnostic criteria and classifications.
+During WWII, psychiatrists classified patients according to the standards of the branch of the armed forces for which they worked. In 1943, Brigadier General William C. Menninger issued a bulletin called “Medical 203” that laid the foundations for medical classification of mental illness. The Navy, Army and Veterans affairs branches all used slightly different diagnostic criteria and classifications.
 
-In 1949, the International Statistical Classification of Diseases (ICD) included, for the first time, a taxonomy of mental disorders. Its classification system was:
+The International Statistical Classification of Diseases (ICD) included a taxonomy of mental disorders for the first time in 1949. Its classification system is displayed in table &lt;!--\ref{table: 1949Classification}--&gt;:
 	•	&lt;!-- \begin{longtable}[!t]{ | p{2cm} | p{11.8cm} | }
 \hline
 
@@ -2585,15 +2520,14 @@ In 1949, the International Statistical Classification of Diseases (ICD) included
 326.2&amp;     Other speech impediments of non-organic origin\\
 326.3&amp;     Acute situational maladjustment\\
 326.4&amp;     Other and unspecified\\ \hline
-\caption{ICD-6 classification of mental diseases, 1949}
+\caption{\emph{ICD-6 classification of mental diseases}, 1949}
 \label{table: 1949Classification}
 \end{longtable}
 --&gt;
 
-In the interest of unifying these different classification schema, the American Psychiatric Association voted to create the first Diagnostic and Statistical Manual (DSM). The nomenclature committee adapted the Medical 203 bulletin into the DSM and circulated it to a randomly selected sample of the membership (10%). When it was overwhelmingly approved by those who replied, the APA adopted it as the standard for diagnosis in medical treatment of psychological disorders. It was published in 1952, and is available online at http://www.psychiatryonline.com/DSMPDF/dsm-i.pdf
-
-The first DSM distinguished between “Disorders caused by or associated with impairment of brain tissue function,” “Mental Deficiency,”  “Disorders of psychogenic origin or without clearly defined physical cause or structural change in the brain” and “Nondiagnostic Terms for Hospital Record.”  This fourth category included “Alcoholic intoxication (simple drunkenness),” and “Dead on admission.”  It is the third category, those without a physical cause, that is of the most interest to us (the corresponding category of the ICD-6 is included in the right most column):
-	•	&lt;!-- \begin{longtable}[!t]{ | p{2cm} | p{8.8cm} | p{2cm} | }
+In the interest of unifying these different classification schema, the American Psychiatric Association voted to create the first Diagnostic and Statistical Manual (DSM). The nomenclature committee adapted the Medical 203 bulletin into the DSM and circulated it to a randomly selected sample of the membership (10%). When it was overwhelmingly approved by those who replied, the APA adopted it as the standard for diagnosis in medical treatment of psychological disorders. It is included as Appendix &lt;!--\ref{app: DSMI}--&gt;
+The first DSM distinguished between “Disorders caused by or associated with impairment of brain tissue function,” “Mental Deficiency,”  “Disorders of psychogenic origin or without clearly defined physical cause or structural change in the brain” and “Nondiagnostic Terms for Hospital Record.”  This fourth category included “Alcoholic intoxication (simple drunkenness),” and “Dead on admission.”  It is the third category, those without a physical cause, that is of the most interest to us. They are displayed here in table &lt;!--\ref{table: 1952Classification}--&gt; 
+&lt;!-- \begin{longtable}[!t]{ | p{2cm} | p{8.8cm} | p{2cm} | }
 \hline
 \multicolumn{2}{ | p{12.8cm} | }{\textbf{Psychotic Disorders}}&amp; \textbf{ICD-6 Ref} \\ \hline
 --7&amp;\multicolumn{2}{ | p{12.8cm} | }{Disorders due to disturbance of metabolism, growth, nutrition or endocrine function} \\
@@ -2618,7 +2552,7 @@ The first DSM distinguished between “Disorders caused by or associated with im
      000-x31&amp;     Paranoia&amp;(303) \\
      000-x32&amp;     Paranoid state&amp;(303) \\
 000-xy0&amp;Psychotic reaction without clearly defined structural change, other than above&amp;(309.1)* \\ \hline
-\multicolumn{3}{ | p{13.8cm} | }{Psychophysiologic autonomic and visceral disorders} \\ \hline
+\multicolumn{3}{ | p{13.8cm} | }{\textbf{Psychophysiologic autonomic and visceral disorders}} \\ \hline
 --55&amp;\multicolumn{2}{ | p{12.8cm} | }{Disorders due to disturbance of innervation or of psychic control} \\ \hline
 001-580&amp;Psychophysiologic skin reaction&amp;(317.3) \\
 002-580&amp;Psychophysiologic musculoskeletal reaction&amp;(317.4) \\
@@ -2630,7 +2564,7 @@ The first DSM distinguished between “Disorders caused by or associated with im
 008-580&amp;Psychophysiologic endocrine reaction&amp;(317.5) \\
 009-580&amp;Psychophysiologic nervous system reaction&amp;(318.3) \\
 00x-580&amp;Psychophysiologic reaction of organs of special sense&amp;(317.5) \\ \hline
-\multicolumn{3}{ | p{13.8cm} | }{Psychoneurotic Disorders} \\ \hline
+\multicolumn{3}{ | p{13.8cm} | }{\textbf{Psychoneurotic Disorders}} \\ \hline
 --x&amp;\multicolumn{2}{ | p{12.8cm} | }{Disorders of psychogenic origin or without clearly defined tangible cause of structural change} \\ \hline
 000-x00&amp;Psychoneurotic reactions&amp;(318.5)* \\
      000-x01&amp;     Anxiety reaction&amp;(310) \\
@@ -2640,7 +2574,7 @@ The first DSM distinguished between “Disorders caused by or associated with im
      000-x05&amp;     Obsessive compulsive reaction&amp;(313) \\
      000-x06&amp;     Depressive reaction&amp;(314) \\
      000-x0y&amp;     Psychoneurotic reaction, other&amp;(318.5*) \\ \hline
-\multicolumn{3}{ | p{13.8cm} | }{Personality Disorders} \\ \hline
+\multicolumn{3}{ | p{13.8cm} | }{\textbf{Personality Disorders}} \\ \hline
 --x&amp;\multicolumn{2}{ | p{12.8cm} | }{Disorders of psychogenic origin or without clearly defined tangible cause of structural change} \\ \hline
 000-x40&amp;Personality pattern disturbance&amp;(320.7) \\
      000-x41&amp;     Inadequate personality&amp;(320.3) \\
@@ -2665,7 +2599,7 @@ The first DSM distinguished between “Disorders caused by or associated with im
      000-x73&amp;     Enuresis&amp;(321.3) \\
      000-x74&amp;     Somnambulism&amp;(321.4) \\
      000-x7y&amp;     Other&amp;(321.4)* \\ \hline
-\multicolumn{3}{ | p{13.8cm} | }{Transient Situational Personality Disorders} \\ \hline
+\multicolumn{3}{ | p{13.8cm} | }{\textbf{Transient Situational Personality Disorders}} \\ \hline
 000-x80&amp;Transient situational personality disturbance&amp;(326.4)* \\
      000-x81&amp;     Gross stress reaction&amp;(326.3)* \\
      000-x82&amp;     Adult situational reaction&amp;(326.6)* \\
@@ -2676,14 +2610,14 @@ The first DSM distinguished between “Disorders caused by or associated with im
          000-x843&amp;          Neurotic disturbance&amp;(324.1)* \\
      000-x85&amp;     Adjustment reaction of adolescence&amp;(324.2)* \\
      000-x86&amp;     Adjustment reaction of late life&amp;(326.5)* \\ \hline
-\caption{DSM-I Classification of mental disorders, 1952}
+\caption{\emph{DSM-I Classification of mental disorders} Corresponding diagnosis from the ICD-6 are noted in the right most column, 1952}
 \label{table: 1952Classification}
 \end{longtable}
 --&gt;
 
 Notice that while the major classification here is 'Psychotic Disorders', the word "reaction" appears in 41 of the 48 diagnoses. See the overview of Classical Psychanalysis in section &lt;!--\ref{classical}--&gt; on page &lt;!--\pageref{classical}--&gt;.
 
-The APA published the revised DSM-II in 1968. It's classification is included as an appendix.
+The APA published the revised DSM-II in 1968. It is included as Appendix &lt;!--\ref{app: DSMII}--&gt;..
 
 ##### The Rise of Psychopharmacology
 
@@ -2876,6 +2810,8 @@ ________ NerV01tS Dyspepsia.
 \newcolumntype{d}[1]{D{.}{\cdot}{#1} } % Define table column
 
 \pagestyle{plain}
+
+\DeclareCaptionType{InfoBox}
 
 
 \setcounter{secnumdepth}{8}
@@ -8677,6 +8613,52 @@ r
 193
 </Text>
         </Document>
+        <Document ID="175">
+            <Title>What happened afterwards</Title>
+            <Text>### After this era
+#### The DSM-V Controversy
+These were collected in 2009. The issue is ongoing.
+NIMH Rejection: http://www.newyorker.com/online/blogs/elements/2013/05/the-new-criteria-for-mental-disorders.html 
+
+The D.S.M. And the Nature of Disease
+http://www.newyorker.com/online/blogs/elements/2013/04/the-dsm-and-the-nature-of-disease.html 
+
+(2009). "What Should Count as a Mental Disorder in DSM-V? - Psychiatric Times." from http://www.psychiatrictimes.com/display/article/10168/1402032.
+
+Andrews, G. (2009). Stress-induced and fear circuitry disorders : advancing the research agenda for DSM-V. Washington, DC, American Psychiatric Pub.
+
+Beach, S. R. H. (2006). Relational processes and DSM-V : neuroscience, assessment, prevention, and intervention. Washington, DC, American Psychiatric Pub.
+
+Kal, E. F. (2008). "DSM-V Compromise Proposed." Psychiatr News 43(21): 23-a-23-a.
+
+O'Donohue, W. T., K. A. Fowler, et al. (2007). Personality disorders : toward the DSM-V. Los Angeles, SAGE Publications.
+
+Porcelli, P. and N. Sonino (2007). Psychological factors affecting medical conditions : a new classification for DSM-V. Basel ; New York, Karger.
+
+Saunders, J. B. and American Psychiatric Association. (2007). Diagnostic issues in substance use disorders : refining the research agenda for DSM-V. Arlington, VA, American Psychiatric Association.
+
+Spitzer, R. L. (2008). "DSM-V: Open and Transparent?" Psychiatr News 43(14): 26-26.
+
+Sunderland, T. and American Psychiatric Association. (2007). Diagnostic issues in dementia : advancing the research agenda for DSM-V. Arlington, VA, American Psychiatric Association.
+
+Widiger, T. A. (2006). Dimensional models of personality disorders : refining the research agenda for DSM-V. Washington, D.C., American Psychiatric Association.
+
+ 	##### Contemporary – Spitzer 2003 Controversy
+Epstein, R. (2003). "Am I Anti-Gay? You be the judge. A letter form the editor in chief.   ." Psychology Today Jan/Feb.
+
+Hausman, K. (2001). "Furor Erupts Over Study On Sexual Orientation." Psychiatr News 36(13): 20-34.
+
+Nicolosi, J. (2007, 4/30/2007). "Why I Am Not a Neutral Therapist." Retrieved 10/24/2008, from http://www.narth.com/docs/notneutral.html.
+
+Nicolosi, J. (2008). "The Meaning of Same-Sex Attraction." 10/24/2008, from http://www.narth.com/docs/niconew.html.
+
+Satinover, J. (?). "The "Trojan Couch": How the Mental Health Associations Misrepresent Science." National Association for Research and Theraphy of Homosexuality. Retrieved 10/24, 2008, from http:/www.narth.com/docs/TheTrojanCouchSatinover.pdf.
+
+Spitzer, R. (2003). "Can some gay men and lesbians change their sexual orientation? 200 participants reporting a change from homosexual to heterosexual orientation." Archives of Sexual Behavior 32(5): 403-417.
+
+Zucker, K. and J. Drescher, Eds. (2006). Ex-Gay Research: Analyzing the Spitzer Study and Its Relation to Science, Religion, Politics, and Culture. New York, Routledge.
+</Text>
+        </Document>
         <Document ID="219">
             <Title>Albee-ConceptualModelsInPsych</Title>
             <Text> CONCEPTUAL MODELS AND MANPOWER REQUIREMENTS IN PSYCHOLOGY
@@ -12174,6 +12156,50 @@ Includes emeriti identification card.
             <Title>Writing</Title>
             <Text>#### Writing</Text>
         </Document>
+        <Document ID="176">
+            <Title>Annotated Bibliography</Title>
+        </Document>
+        <Document ID="24">
+            <Title>Rules and Procedures</Title>
+            <Text>
+#### Basic game play
+
+Each week (two or three sessions, depending on your schedule) of game play reenacts one annual conference of the APA in the early 1970s. The five weeks of game play cover the years 1971-1975. In reality, these conferences are huge events. There are presentations on current research, symposia on issues facing the discipline, administrative meetings for various committees, public discussions and votes on proclamations, and publishers promoting their products. In game play, players will present papers, propose research projects, vote on resolutions and grants, and hold committee meetings.
+
+Each conference opens with a presidential address. The position of President is both an honorific and administrative position. The President is often elected based on his or her reputation as a researcher, but he or she also must have keen leadership skills and knowledge of the policies and procedures of the organization's committee structure. Since these two areas of expertise do not always appear in the same person, an individual is not elected directly to the presidency by the membership. Rather, the membership holds an annual election for the vice-president, who is then promoted to president after a year of sitting on the Board of Directors and observing the inner workings of the political system.
+ 
+The Board of Directors is composed of the President, the Vice president, the former president and two members elected at large each of whom serving three year terms. For classes smaller than 16, the Board of Directors will be limited to the current President, the Vice President and the Former President. The executive secretary, who serves without vote, is responsible for maintaining the minutes of the Board of Directors and taking whatever actions the committee approves during its meetings.
+
+At each year's conference, the following events occur:
+
+&lt;!--\noindent\fbox{%
+    \parbox{\textwidth}{%
+\begin{enumerate}
+
+\item Presidential Address \newline
+\item  Board of Directors circulates proposals to be considered by the membership. \newline
+\item Symposia on topics proposed by membership, as scheduled by the program committee \newline
+\item  Open sessions for presenting current research (papers or plenary addresses), as scheduled by the program committee. \newline
+\item  Board of Directors meets in open session. \newline
+\begin{enumerate}
+	\item  All committees and task forces report \newline
+	\item  Old Business (tabled from previous meeting) \newline
+	\item  New Business \newline
+\end{enumerate}
+\item  Discussion of any proposals circulated in step (2) \newline
+\item  Create and administer ballots for proposals. \newline
+\item  Election for vice president, who assumes that position at the close of that conference \newline
+\item  Election for member-at-large on the executive committee (if necessary) \newline
+\item  Executive committee meet in closed session, if necessary. \newline
+\end{enumerate}
+
+  }%
+} \captionof{InfoBox}{Sample schedule of events for APA conferences\label{info:A}}
+
+ --&gt;
+
+Game play may take many forms in the classroom. You may be questioning  the President about his or her vision for future directions in psychological or psychiatric research, engaging with or participating in a symposium with two or three of your colleagues on a contentious issue of the day, participating in research, evaluating research results, discussing proposals in committee, or even arguing about reports from task forces.  The schedule of events will be left to the Program Committee, and it is very important that they distribute the schedule early and widely. See ‘&lt;!--\ref{programcommittee}--&gt;’ on page &lt;!--\pageref{programcommittee}--&gt; for more on the potential forms of conference activities.</Text>
+        </Document>
         <Document ID="192">
             <Title>primary sources</Title>
         </Document>
@@ -12273,30 +12299,166 @@ When I say ‘mechanism’, I am using a very specific notion in the Philosophy 
 
 When one looks at the history of psychological theories, it is not hard to see the metaphorical connections between the psychological mechanisms posited at a certain time, and the most complicated machines available to that society. Psychoanalysis, which was dominants in American Psychiatry from 1890 until 1974, posits an underlying unconscious, which ‘boils’ away, providing energy for all observable behavior.  When that behavior is correctly directed with the right set of pressures, it moves the organism forward. When it is not, either the pressure goes out sideways, creating negative behaviors, or it builds towards ultimate ‘explosion’ in psychosis.  It is, in short, a steam engine.
 
-Behaviorism - mechanism of stimulus and response, metaphor to training animal behavior.
+Behaviorism sought to explain all behavior in terms of stimulus and response, without recourse to ‘internal states’ or ‘processes’.  Behaviorism’s rise which started in 1913 and peaked with the Radical Behaviorism of Skinner in 1958 correspond roughly to the electrification of the United States, as well as the rise of mass media including radio and television.  Electric lights, toasters, radios and TVs are straightforward stimulus-response mechanisms: apply electricity and something happens.  Don’t apply electricity and nothing happens.  The wiring is relatively simple, without internal computation or representation. 
 
-Cognitivism -- metaphor of the computer. informational input, behavioral output, executive function, expert systems, algorithmic thinking
+On the other hand, once the notion of a ‘computer’ with internal working memory (RAM) and permanent storage (hard drives) becomes current, Cognitivism results. Here, the mind is a metaphor of the computer: it takes information in, executes computational functions, and produces behavioral output.  Today, we use computer-based nomenclature when talking about the mind all the time: someone might not have the ‘bandwidth’ for a new task, the ‘executive function’ system might be down, we look for ‘expert systems’, or think ‘algorithmically.’ 
 
-The main issue of debate in this game is whether or not psychoanalysis is a viable theory of human action. If it is, mental illnesses out to be classified according to the competing psychoactive mechanisms. If it is not, we need to figure out how mental illness should be classified.
+
+#### The Central issues
+
+The **main issue of debate** in this game is whether or not psychoanalysis is a viable theory of human action. If it is, mental illnesses out to be classified according to the competing psychoactive mechanisms. If it is not, we need to figure out how mental illness should be classified.
 
 The issue of the demedicalization of homosexuality is merely the tip of the iceberg---it  forced psychiatry to address the viability of psychoanalysis and the need for psychological observation of individuals *not* in already in treatment.
 
-&lt;!-- \begin{longtable}[!t]{ | p{10cm} | p{3cm} |  p{1cm} | }
+&lt;!-- \begin{longtable}[!t]{ | p{7cm} | p{2cm} |  p{1cm} | }
 \hline
 
 \textbf{Issue}&amp;\textbf{Partisans}&amp;\textbf{Session}\\ \hline \hline
-Homosexuality is / is not a mental disorder&amp; \\ \hline
-The ‘medical model’ is / is not a suitable approach to understanding the human mind&amp; \\ \hline
-Psychoanalysis is / is not scientific.&amp; \\ \hline
-Mental disorders should be classified according to observable symptoms / underlying mechanisms.&amp; \\ \hline
-Mental illness / mental disorder are / are not genuine medical conditions. If so, how do we define a mental illness / disorder?&amp; \\ \hline
-The mentally ill must / should be treated exclusively by psychiatrists / psychiatrists and psychologists / exclusively psychologists &amp; \\ \hline
-What ethical limitations are there on psychological / psychiatric research?&amp; \\ \hline
+Homosexuality \emph{is / is not} a mental disorder&amp; \\ \hline
+The ‘medical model’ \emph{is / is not} a suitable approach to understanding the human mind&amp; \\ \hline
+Psychoanalysis \emph{is / is not} scientific.&amp; \\ \hline
+Mental disorders should be classified according to \emph{observable symptoms / underlying mechanisms}.&amp; \\ \hline
+Mental illness / mental disorder \emph{are / are not} genuine medical conditions. If so, how do we define a mental illness / disorder?&amp; \\ \hline
+The mentally ill \emph{must / should be} treated exclusively by psychiatrists / psychiatrists and psychologists / exclusively psychologists &amp; \\ \hline
+Are there ethical limitations on psychological / psychiatric research? And if so, what are they?&amp; \\ \hline
 What is the proper role of an intellectual---specifically a social scientist---in a democratic society?&amp; \\ \hline
-\caption{Major Issues}
+\caption{Major Issues for debate}
 \label{table: major issues}
 \end{longtable}
 --&gt;</Text>
+        </Document>
+        <Document ID="185">
+            <Title>APAHandbookV1N81</Title>
+            <Text> ,. fo, rtion. For eople cnship
+relational To
+have a ula in trrelation Ld does
+re canno/ led, that
+lrancisco:
+kentice-
+ConcePt
+lnstructions
+ACTIVITY
+8l E
+[UIENTAL ILLNESS James M. Gardner
+We often make judgments about the behavior of other people, determining whether particular acts were or were not appropriate. Occasionallywe may even decide, based on our observations, *rat someone is "mentally ill." This exercise offers a classroom opportunity to study such attributions.
+Ask for six volunteers to play roles in a skit. Take them out of the room and have them choose a role from six 3 x 5 inch cards bearing the following descriptions:
+1. You are an escaped convict, previously convicted of murder. 2. You are a successful business executive whose spouse just
+announced the existence of a love affair, whose child is in the hospital, and whose car broke down this moming.
+3. You are married with two children and unemployed; you desperately need a job and are on your way to an interview.
+4. You are on yourway to a sale.
+5. You are lonely, have few friends, became bored watching TV, and are going somewhere just to have something to do.
+6. You are waiting at the bus stop for the bus. Your role is to try to engage each of the waiting passengers in conversation so that the class can observe how they act. Some questions that you might ask are: Do you have the proper time? Does the bus usually run late?
+While the actors study their roles, return to the room and instnrct the other students to observe closely the behavior of each actor. Bring in tlre actor who drew the sixth role-the catalyst. Then bring in the other actors one by one, and let them interact with the catalyst for about 1 minute each.
+When the skit is over, have the actors return to their seats. On the chalkboard, set up a matrix with the names of the actors in a vertical column on the left; list them in any order, except put tlre catalyst's name last. Tell the class that the six actors were playing rolds, that you are going to list those roles across the top of tlre matrix, and tJlat you are going to poll the class to determine how many believe each actor could have been piaying each role. AIso tell them that you are going to include a role that no one played. Then list the roles one at a tjme, polling students on each one before you list the next. List the roles in the same order as they appear above, but insert "a mentally ill person" between the third and fourth roles.
+Adapted from tlre "Mental Illness Game" by James M. Gardner, Teachin! of Psychololy, 1976,3(9, 141-142. Copyright 1976 by Division T\vo of the American Psychological Association. Reprinted by permission.
+{ANDBOOK
+MISCELLANEOUS
+r99
+ Discussion
+Whenthe votingis completed, examine the data. First, determine
+which actors appeared to play several roles and which were identified
+with only one role. Next, determine which roles were cleady identified
+and which appeared to be played by many actors. Then ask tiee actors to
+state which role they played. It will become apparent that no one was
+assigned tlre role of "a mentally ill person." Now check how many
+believed each of the six actors to be playing that role. compare the total
+number here to totals for other roles. usually the total for "a mentally ill A personi' is one of the highest.
+This c outcome can lead to a discussion of how easy it is for people to be
+Suggested Background Readings
+labeled mentally ill when there is no psychological problem present. Ask the students to verbalize what behaviors tlrey observed in the actors that they felt were indicative of mental illness. Is there any agreement on those behaviors? Were those behaviors exhibited by actors who were not thought to be mentally ill? You can add a number of topics to tJre discussion such as witch hunts and the legal definition of insanity. you can also discuss tlre concept of mental ilLress. Does the use of tlre term
+r7lnesis promote a medical model? What other terrns are used and how are tJrey different?
+Gardner, J.M. Commwtity pycholo{y: The left hand of the ma{ician. NewYork: Plenum, 1980.
+Sahakian, W. S. (Ed.). Psychopathology today. ftasca, Ill.: F. E. Peacock, 1970.
+Szasz, T. S. The mythof mental illness.AmericanPrycholo{ist, 1960, /5, 113-118.
+Szasz, T. S. Tfte manufacture ofmadness. NewYork: Delta, 1970.
+200
+ACTNTITIES HANDBOOK
+MISCELLA
+Concept
+lnstructior
+</Text>
+        </Document>
+        <Document ID="25">
+            <Title>Objectives and victory conditons</Title>
+            <Text>#### Victory Objectives
+
+The game normally 'ends' with a decisive vote on the definition of 'Mental Illness,' probably in 1975.  There are three basic definitions that ought to be advanced:
+&lt;!-- \begin{longtable}[!t]{ | p{2cm} | p{12cm} | }
+\hline
+
+\textbf{Advocates}&amp;\textbf{Definition}\\ \hline
+APA Task Force&amp;A Medical disorder is a relatively distinct condition resulting from an organismic dysfunction which in its fully developed or extreme form is directly and intrinsically associated with distress, disability, or certain other types of disadvantage.  The disadvantage may be of a physical, perceptual, sexual, or interpersonal nature. Implicitly there is a call for action on the part of the person who has the condition, the medical or its allied professions, and society.
+
+A mental disorder is a medical disorder whose manifestations are primarily signs or symptoms of a psychological (behavioral) nature, or if physical, can be understood only using psychological concepts.\\ \hline
+Behaviorists&amp; A person can be called 'mentally ill' when he or she exhibits emotional or behavioral functioning which is so impaired as to interfere substantially with his or her capacity to function in society. \\ \hline
+Psychoanalytic&amp;A person is mentally ill when he or she suffers from internal conflicts that may be subconscious or unconscious, manifesting behavior that is unwanted or disturbing to the individual or the society. \\ \hline
+Szasz&amp;There is no 'thing' called 'mental illness,' only  sets of behaviors that may be destructive to an individual and his or her society. \\ \hline
+ 
+\caption{Major Issues}
+\label{table: major issues}
+\end{longtable}
+--&gt;
+Factional affiliation and objectives vary from individual to individual.
+
+##### Credibility Points and Voting
+
+At the end of each 'conference', each member of the APA must give his or her 'influence point' to the speaker he or she believes presented the best paper. When it comes time for the final Victory Objective vote—on the final definition of mental illness—those influence points can be turned into votes.  
+</Text>
+            <Comments>Flesh out
+</Comments>
+        </Document>
+        <Document ID="50">
+            <Title>Freud-Homosexuality</Title>
+            <Text>## Freud, Sigmund “The psychogenesis of a case of homosexuality in a woman” (1920)
+
+&lt;!--\label{app: Freud}
+\includepdf[pages={1-}]{../Appendices/1920-Freud-HomosexualityInAWoman.pdf}--&gt;</Text>
+        </Document>
+        <Document ID="177">
+            <Title>Further Reading</Title>
+            <Text>## Further Reading
+### DSM-III
+
+Bayer, R. and R. Spitzer (1982). "Edited Correspondence on the status of homosexuality in DSM-III." Journal of the History of Behavioral Sciences 18(1): 32-52.
+
+Bieber, I. (1962). Homosexuality: A Psychoanalytic Study. New York, Basic Books.
+
+Drescher, J. and J. P. Merlino (2007). American psychiatry and homosexuality : an oral history. New York, Harrington Park Press.
+
+Evans, A. (2010) “Zap, You're Alive!”, http://gaytoday.badpuppy.com/garchive/viewpoint/083099vi.htm
+
+Fryer, J. (2008). "Dr. Anonymous Speech." Retrieved 10/6/2008, 2008, from http://www.oism.info/en/society/social_control/dr_anonymous_apa_speech_1972.htm.
+
+Gold, Ron (2004). ‘Three Stories of Gay Liberation’ http://www.queerstories.org/custom.html
+
+Moor, P. (2002). "The View from Irving Bieber's Couch: 'Heads I Win, Tails You Lose'." Journal of Gay &amp; Lesbian Psychotherapy 5(3/4): 25-36.
+
+Nicolosi, J. (1991). Reparative Theraphy of Male Homosexuality. Jason Aronson, Inc., , Northvale, New Jersey.
+
+Nicolosi, J. (1993). Healing Homosexuality: Case Stories of Reparative Therapy Northvale, NJ, Jason Aronson.
+
+Scasta, D. L. (2002). "John E Fryer, MD, and the Dr. H. Anonymous Episode." Journal of Gay &amp; Lesbian Psychotherapy 6(4): 73-84.
+
+Sheehy, N., A. J. Chapman, et al. (1997). Biographical dictionary of psychology. London ; New York, Routledge Reference.
+
+Socarides, C. W. (1963). "Review of Homosexuality. A Psychoanalytic Study : By Irving Bieber, et al. New York: Basic Books, Inc. 1962. 358 pp." Psychoanalytic Quarterly 32: 111-114.
+
+Society of Medical, P. and I. Bieber (1962). Homosexuality; a psychoanalytic study. New York, Basic Books.
+
+Silverstein, Charles  The Origin of the Gay Psychotherapy Movement
+ (Published in Duberman, A Queer World, New York University Press, 1997. 7,300 words http://drcsilverstein.com/origin.html
+
+Spitzer, R. (1981). "The diagnostic status of homosexuality in DSM-III: a reformulation of the issues." American Journal of Psychiatry 138: 210-215.
+
+Spitzer, R. L. and American Psychiatric Association. (1981). DSM-III case book : a learning companion to the Diagnostic and statistical manual of mental disorders (third edition). Washington, D.C., American Psychiatric Association.
+
+Spitzer, R. L. and J. Endicott (1978). Medical and Mental Disorder: Proposed Definition and Criteria. Critical Issues in Psychiatric Diagnosis. R. L. Spitzer and D. F. Klein. New York, Raven Press: 15-40.
+
+Stoller, R.J., Marmor, J., Bieber, I., Gold, R., Socarides, C.W., Green, R. and Spitzer, R. “A Symposium: Should Homosexuality Be in the APA Nomenclature?” American Journal of Psychiatry 130(11) p. 1207-16
+
+Zusne, L. (1984). Biographical dictionary of psychology, Greenwood Press.
+
+</Text>
         </Document>
         <Document ID="191">
             <Title>APAHandbookV4N80</Title>
@@ -12326,6 +12488,54 @@ PSYCHOLOGICAL DISORDERS AND TREAT'MENTS
 r 375
 "
 </Text>
+        </Document>
+        <Document ID="26">
+            <Title>Other rules</Title>
+            <Text>#### Special Rules
+If possible, each player must serve on at least one committee at some point during the game.
+
+##### Writing Tasks	
+Every player will write and present at least once during the course of the game. Your role sheet should specify the specific tasks you need to complete.
+
+A special note for data-driven writing tasks: don't say 'studies have shown that' or (in the 1st person) 'I have shown that...', show it. That will probably mean that you will have to go to the library, find the original research reports of your character, and familiarize yourself with the basic research design, as well as the relationship between the evidence presented and the thesis that evidence is reported to support. If that sounds like a great deal of effort, it should. Above all, remember that you're not writing a report on this person or position, you are playing the person and defending the position.  So don't write about  what you (as the character) believe, write as if you believe it.
+
+##### Proposals
+
+Proposals should be formal. They should be distributed to the membership at least 24 hours before a vote is called. It is usually sufficient to distribute proposals during the first session of a conference year, and hold a vote during the second (or third). Ample time for discussion should be allotted for each proposal.
+
+Formal proposals begin by laying out the reasons for the proposal with a series of 'WHEREAS...' clauses.  It should then state the resolution. For example, in 1969, the APA resolved:
+
+&gt;*WHEREAS* in many state legislature, bills have recently been introduced for the purpose of repealing or drastically modifying the existing criminal codes with respect to the termination of unwanted pregnancies;
+
+&gt;and *WHEREAS* termination of unwanted pregnancies is clearly a mental health and child welfare issue, and a legitimate concern of APA;
+
+&gt; *BE IT RESOLVED* that termination of pregnancy be considered a civil right of the pregnant woman, to be handled as other medical and surgical procedures in consultation with her physician, and to be considered legal if performed by a licensed physician in a licensed medical facility.
+
+You should follow this format when drafting your proposals. Proposals in the incorrect format cannot be distributed.
+
+##### Papers and Symposia
+
+Academic conferences are opportunities to disseminate information you have gathered for your views. The method of presenting those ideas or that data, however, can vary a great deal.  The APA currently supports two kinds of presentations: Individual Reports and Symposia. The Program Committee (see below) is encouraged to experiment with new kinds of presentations, including posters, round tables, workshops, and even exhibits, if they choose. Individual Reports are talks given by a single researcher or group of researchers. Symposia are 'panel' presentations, where a group of presentations are offered on a theme or a specific problem.
+
+The Program Committee reviews all proposals for both individual reports and symposia.  The guidelines for proposing a report are included in the official 'Call for Papers and Symposia', which follows on page 12.
+
+##### Research Grants
+
+Research grants are 1-2 page proposals specifying a research project you'd like to carry out.  These are submitted to the Research committee (see p. 7) and follow the form specified in the Call for Research Grants', which follows on page 17. If you win a research grant, you will be expected to present your findings at the next annual conference.
+
+##### Reading aloud
+
+Presentations at academic conferences are evaluated by peers primarily on the basis of the content presented, not the style of presentation. While it is important to practice good public speaking skills-making eye contact with the audience, modulating one's voice, etc.—getting the data right is more important than being entertaining. For that reason, this game will allow 'reading' of some experimental reports.  Experimental reports highlight the data presented, and carefully articulate the structure of the experiment performed. It is also advisable to bring handouts for the membership when presenting data.
+
+Presidential addresses, however, should be carefully crafted general lectures. These should appeal to the membership of the APA, which includes many individuals from a variety of backgrounds. They should also be understandable by the general public, as the President is often seen as a spokesperson and advocate for the discipline.
+
+Symposia and presentations to the committees, however, must be delivered without a transcript. Cue cards or notes are allowed, but in these cases, the speaker must strive to make a personal connection with the audience, and hence, must not simply read a prepared speech.</Text>
+        </Document>
+        <Document ID="194">
+            <Title>Front matter</Title>
+        </Document>
+        <Document ID="51">
+            <Title>Kraft-Ebing, Ricard von. "Psychopathie Sexualis", 1894</Title>
         </Document>
         <Document ID="184">
             <Title>APAHandbookV1N80</Title>
@@ -12405,6 +12615,30 @@ Concept
 lnstnrction
 198
 I,IISCELLA]
+</Text>
+        </Document>
+        <Document ID="186">
+            <Title>APAHandbookV2N19</Title>
+            <Text> '7 A -L '/
+This activity is a good "opener" to get students to pay attention and talk. The materials are readily available, and once you have them, there is no advance prepiiation. The music from the movie )aws could be replaced by music from any currcntthriller, with appropriate modifications in imagery. No prior knowledge of psychol- ogy is necessary, and the activity is suitable for classes of all sizes.
+CoNcepr
+Mlrrnrlts Nrroro
+lNsrnucrrots
+The concept of classical conditioning is often difficult for students to grasp if the instructor immediately begins to use the time-honored example of Pavlov and his dogs. The students may get lost in the maze of terms-Us, UR, CR, CS-and fail to see any relevance between slobbering dogs and human leaming. Thus I think that it is important to begin a presentation of classical conditioning with a real-life example that most students have experienced.
+You will need a tape recording of a few seconds of the shark-attack music from the movie /aws.
+I use this demonstration at the beginning of the section on conditioning in general psychology classes before I introduce the concepts. First I ask students to close their eyes and engage in mental imagery. I tell them to imagine that it is a hot summer day and that they are at the beach. The sun is scorching. They are getting hotter and hotter, can stand it no longer, run toward the ocean, and splash in the shallow water. Then they swim out to deeper water and enjoy cooling off after being in the sun. It is fairly easy to stretch this imagery process out for 2 or 3 minutes. Then, as unobtrusively as possible, I start the music ftom [aws. From the expressions on their faces and the laughter, I can tell immediately that most students have seen /aws and have been conditioned to associate the killer shark with the music.
+The key part of the demonstration is the discussion that follows. Without knowing the appropriate classical conditioning terms/ students are able to explain in their own words what happened during the movie. They can tell you that the shark (technically a CS, but a US in this demonstration) yields a response of fear or disgust (the UR). They know that the music (CS) originally had no meaning but came to elicit a response (CR) during the movie because it signaled that the shark was about to appear and have a swimmer for lunch. At this point, they are prepared to hear your discussion on Pav-
+LEARNING AND MEMORY r65
+DrscussroN
+JAWS: DnmoNSrRArrNG CressrcAt,
+CoNorrroNrI\TG
+Randolph A. Smith Ouachita B aptist Univer sity
+ Succrsrro Rrrorxc
+lov's experiment, to understand it and the terminology used and to see the application of classical conditioning to human behavior. As you go on tJrrough the classical con- ditioning information/ youran point out that you actually demonstrated second-order conditioning to $-rem, because their responses to a shark are leamed through classical conditioning since they associate sharks with mutilation, blood, death, and so forth. All in all, the demonstration helps to bring classical conditioning and its principles to life in a highly relevant situati,on.
+cogan, D., &amp; cogan, R. (19841. classical salivary conditioning: An easy dgmonstra- tion. TeachinS of Psychology, 11, L70-17t.
+Gibb, G. D. (1983); Making elassical conditioning understandable through a demon- stration techniqire. Tdaching of Psychology, 10, 1-l}-l.Ig.
+66t
+ACTTVITTES HANDBOO&amp; VOL. 2
 </Text>
         </Document>
         <Document ID="159">
@@ -13016,218 +13250,6 @@ Educational Policies Commission of the National Education Association and the Am
  September 2004 ● American Psychologist
 501
 </Text>
-        </Document>
-        <Document ID="168">
-            <Title>Speaking</Title>
-            <Text>#### Speaking</Text>
-        </Document>
-        <Document ID="193">
-            <Title>Experiments</Title>
-        </Document>
-        <Document ID="22">
-            <Title>Narrative</Title>
-        </Document>
-        <Document ID="169">
-            <Title>Items you will neee</Title>
-            <Text>### Items you might need</Text>
-        </Document>
-        <Document ID="194">
-            <Title>Front matter</Title>
-        </Document>
-        <Document ID="185">
-            <Title>APAHandbookV1N81</Title>
-            <Text> ,. fo, rtion. For eople cnship
-relational To
-have a ula in trrelation Ld does
-re canno/ led, that
-lrancisco:
-kentice-
-ConcePt
-lnstructions
-ACTIVITY
-8l E
-[UIENTAL ILLNESS James M. Gardner
-We often make judgments about the behavior of other people, determining whether particular acts were or were not appropriate. Occasionallywe may even decide, based on our observations, *rat someone is "mentally ill." This exercise offers a classroom opportunity to study such attributions.
-Ask for six volunteers to play roles in a skit. Take them out of the room and have them choose a role from six 3 x 5 inch cards bearing the following descriptions:
-1. You are an escaped convict, previously convicted of murder. 2. You are a successful business executive whose spouse just
-announced the existence of a love affair, whose child is in the hospital, and whose car broke down this moming.
-3. You are married with two children and unemployed; you desperately need a job and are on your way to an interview.
-4. You are on yourway to a sale.
-5. You are lonely, have few friends, became bored watching TV, and are going somewhere just to have something to do.
-6. You are waiting at the bus stop for the bus. Your role is to try to engage each of the waiting passengers in conversation so that the class can observe how they act. Some questions that you might ask are: Do you have the proper time? Does the bus usually run late?
-While the actors study their roles, return to the room and instnrct the other students to observe closely the behavior of each actor. Bring in tlre actor who drew the sixth role-the catalyst. Then bring in the other actors one by one, and let them interact with the catalyst for about 1 minute each.
-When the skit is over, have the actors return to their seats. On the chalkboard, set up a matrix with the names of the actors in a vertical column on the left; list them in any order, except put tlre catalyst's name last. Tell the class that the six actors were playing rolds, that you are going to list those roles across the top of tlre matrix, and tJlat you are going to poll the class to determine how many believe each actor could have been piaying each role. AIso tell them that you are going to include a role that no one played. Then list the roles one at a tjme, polling students on each one before you list the next. List the roles in the same order as they appear above, but insert "a mentally ill person" between the third and fourth roles.
-Adapted from tlre "Mental Illness Game" by James M. Gardner, Teachin! of Psychololy, 1976,3(9, 141-142. Copyright 1976 by Division T\vo of the American Psychological Association. Reprinted by permission.
-{ANDBOOK
-MISCELLANEOUS
-r99
- Discussion
-Whenthe votingis completed, examine the data. First, determine
-which actors appeared to play several roles and which were identified
-with only one role. Next, determine which roles were cleady identified
-and which appeared to be played by many actors. Then ask tiee actors to
-state which role they played. It will become apparent that no one was
-assigned tlre role of "a mentally ill person." Now check how many
-believed each of the six actors to be playing that role. compare the total
-number here to totals for other roles. usually the total for "a mentally ill A personi' is one of the highest.
-This c outcome can lead to a discussion of how easy it is for people to be
-Suggested Background Readings
-labeled mentally ill when there is no psychological problem present. Ask the students to verbalize what behaviors tlrey observed in the actors that they felt were indicative of mental illness. Is there any agreement on those behaviors? Were those behaviors exhibited by actors who were not thought to be mentally ill? You can add a number of topics to tJre discussion such as witch hunts and the legal definition of insanity. you can also discuss tlre concept of mental ilLress. Does the use of tlre term
-r7lnesis promote a medical model? What other terrns are used and how are tJrey different?
-Gardner, J.M. Commwtity pycholo{y: The left hand of the ma{ician. NewYork: Plenum, 1980.
-Sahakian, W. S. (Ed.). Psychopathology today. ftasca, Ill.: F. E. Peacock, 1970.
-Szasz, T. S. The mythof mental illness.AmericanPrycholo{ist, 1960, /5, 113-118.
-Szasz, T. S. Tfte manufacture ofmadness. NewYork: Delta, 1970.
-200
-ACTNTITIES HANDBOOK
-MISCELLA
-Concept
-lnstructior
-</Text>
-        </Document>
-        <Document ID="186">
-            <Title>APAHandbookV2N19</Title>
-            <Text> '7 A -L '/
-This activity is a good "opener" to get students to pay attention and talk. The materials are readily available, and once you have them, there is no advance prepiiation. The music from the movie )aws could be replaced by music from any currcntthriller, with appropriate modifications in imagery. No prior knowledge of psychol- ogy is necessary, and the activity is suitable for classes of all sizes.
-CoNcepr
-Mlrrnrlts Nrroro
-lNsrnucrrots
-The concept of classical conditioning is often difficult for students to grasp if the instructor immediately begins to use the time-honored example of Pavlov and his dogs. The students may get lost in the maze of terms-Us, UR, CR, CS-and fail to see any relevance between slobbering dogs and human leaming. Thus I think that it is important to begin a presentation of classical conditioning with a real-life example that most students have experienced.
-You will need a tape recording of a few seconds of the shark-attack music from the movie /aws.
-I use this demonstration at the beginning of the section on conditioning in general psychology classes before I introduce the concepts. First I ask students to close their eyes and engage in mental imagery. I tell them to imagine that it is a hot summer day and that they are at the beach. The sun is scorching. They are getting hotter and hotter, can stand it no longer, run toward the ocean, and splash in the shallow water. Then they swim out to deeper water and enjoy cooling off after being in the sun. It is fairly easy to stretch this imagery process out for 2 or 3 minutes. Then, as unobtrusively as possible, I start the music ftom [aws. From the expressions on their faces and the laughter, I can tell immediately that most students have seen /aws and have been conditioned to associate the killer shark with the music.
-The key part of the demonstration is the discussion that follows. Without knowing the appropriate classical conditioning terms/ students are able to explain in their own words what happened during the movie. They can tell you that the shark (technically a CS, but a US in this demonstration) yields a response of fear or disgust (the UR). They know that the music (CS) originally had no meaning but came to elicit a response (CR) during the movie because it signaled that the shark was about to appear and have a swimmer for lunch. At this point, they are prepared to hear your discussion on Pav-
-LEARNING AND MEMORY r65
-DrscussroN
-JAWS: DnmoNSrRArrNG CressrcAt,
-CoNorrroNrI\TG
-Randolph A. Smith Ouachita B aptist Univer sity
- Succrsrro Rrrorxc
-lov's experiment, to understand it and the terminology used and to see the application of classical conditioning to human behavior. As you go on tJrrough the classical con- ditioning information/ youran point out that you actually demonstrated second-order conditioning to $-rem, because their responses to a shark are leamed through classical conditioning since they associate sharks with mutilation, blood, death, and so forth. All in all, the demonstration helps to bring classical conditioning and its principles to life in a highly relevant situati,on.
-cogan, D., &amp; cogan, R. (19841. classical salivary conditioning: An easy dgmonstra- tion. TeachinS of Psychology, 11, L70-17t.
-Gibb, G. D. (1983); Making elassical conditioning understandable through a demon- stration techniqire. Tdaching of Psychology, 10, 1-l}-l.Ig.
-66t
-ACTTVITTES HANDBOO&amp; VOL. 2
-</Text>
-        </Document>
-        <Document ID="177">
-            <Title>Further Reading</Title>
-            <Text>## Further Reading
-### DSM-III
-
-Bayer, R. and R. Spitzer (1982). "Edited Correspondence on the status of homosexuality in DSM-III." Journal of the History of Behavioral Sciences 18(1): 32-52.
-
-Bieber, I. (1962). Homosexuality: A Psychoanalytic Study. New York, Basic Books.
-
-Drescher, J. and J. P. Merlino (2007). American psychiatry and homosexuality : an oral history. New York, Harrington Park Press.
-
-Evans, A. (2010) “Zap, You're Alive!”, http://gaytoday.badpuppy.com/garchive/viewpoint/083099vi.htm
-
-Fryer, J. (2008). "Dr. Anonymous Speech." Retrieved 10/6/2008, 2008, from http://www.oism.info/en/society/social_control/dr_anonymous_apa_speech_1972.htm.
-
-Gold, Ron (2004). ‘Three Stories of Gay Liberation’ http://www.queerstories.org/custom.html
-
-Moor, P. (2002). "The View from Irving Bieber's Couch: 'Heads I Win, Tails You Lose'." Journal of Gay &amp; Lesbian Psychotherapy 5(3/4): 25-36.
-
-Nicolosi, J. (1991). Reparative Theraphy of Male Homosexuality. Jason Aronson, Inc., , Northvale, New Jersey.
-
-Nicolosi, J. (1993). Healing Homosexuality: Case Stories of Reparative Therapy Northvale, NJ, Jason Aronson.
-
-Scasta, D. L. (2002). "John E Fryer, MD, and the Dr. H. Anonymous Episode." Journal of Gay &amp; Lesbian Psychotherapy 6(4): 73-84.
-
-Sheehy, N., A. J. Chapman, et al. (1997). Biographical dictionary of psychology. London ; New York, Routledge Reference.
-
-Socarides, C. W. (1963). "Review of Homosexuality. A Psychoanalytic Study : By Irving Bieber, et al. New York: Basic Books, Inc. 1962. 358 pp." Psychoanalytic Quarterly 32: 111-114.
-
-Society of Medical, P. and I. Bieber (1962). Homosexuality; a psychoanalytic study. New York, Basic Books.
-
-Silverstein, Charles  The Origin of the Gay Psychotherapy Movement
- (Published in Duberman, A Queer World, New York University Press, 1997. 7,300 words http://drcsilverstein.com/origin.html
-
-Spitzer, R. (1981). "The diagnostic status of homosexuality in DSM-III: a reformulation of the issues." American Journal of Psychiatry 138: 210-215.
-
-Spitzer, R. L. and American Psychiatric Association. (1981). DSM-III case book : a learning companion to the Diagnostic and statistical manual of mental disorders (third edition). Washington, D.C., American Psychiatric Association.
-
-Spitzer, R. L. and J. Endicott (1978). Medical and Mental Disorder: Proposed Definition and Criteria. Critical Issues in Psychiatric Diagnosis. R. L. Spitzer and D. F. Klein. New York, Raven Press: 15-40.
-
-Stoller, R.J., Marmor, J., Bieber, I., Gold, R., Socarides, C.W., Green, R. and Spitzer, R. “A Symposium: Should Homosexuality Be in the APA Nomenclature?” American Journal of Psychiatry 130(11) p. 1207-16
-
-Zusne, L. (1984). Biographical dictionary of psychology, Greenwood Press.
-
-</Text>
-        </Document>
-        <Document ID="25">
-            <Title>Objectives and victory conditons</Title>
-            <Text>#### Victory Objectives
-
-The game normally 'ends' with a decisive vote on the definition of 'Mental Illness,' probably in 1975.  There are three basic definitions that ought to be advanced:
-&lt;!-- \begin{longtable}[!t]{ | p{2cm} | p{12cm} | }
-\hline
-
-\textbf{Advocates}&amp;\textbf{Definition}\\ \hline
-APA Task Force&amp;A Medical disorder is a relatively distinct condition resulting from an organismic dysfunction which in its fully developed or extreme form is directly and intrinsically associated with distress, disability, or certain other types of disadvantage.  The disadvantage may be of a physical, perceptual, sexual, or interpersonal nature. Implicitly there is a call for action on the part of the person who has the condition, the medical or its allied professions, and society.
-
-A mental disorder is a medical disorder whose manifestations are primarily signs or symptoms of a psychological (behavioral) nature, or if physical, can be understood only using psychological concepts.\\ \hline
-Behaviorists&amp; A person can be called 'mentally ill' when he or she exhibits emotional or behavioral functioning which is so impaired as to interfere substantially with his or her capacity to function in society. \\ \hline
-Psychoanalytic&amp;A person is mentally ill when he or she suffers from internal conflicts that may be subconscious or unconscious, manifesting behavior that is unwanted or disturbing to the individual or the society. \\ \hline
-Szasz&amp;There is no 'thing' called 'mental illness,' only  sets of behaviors that may be destructive to an individual and his or her society. \\ \hline
- 
-\caption{Major Issues}
-\label{table: major issues}
-\end{longtable}
---&gt;
-Factional affiliation and objectives vary from individual to individual.
-
-##### Credibility Points and Voting
-
-At the end of each 'conference', each member of the APA must give his or her 'influence point' to the speaker he or she believes presented the best paper. When it comes time for the final Victory Objective vote—on the final definition of mental illness—those influence points can be turned into votes.  
-</Text>
-            <Comments>Flesh out
-</Comments>
-        </Document>
-        <Document ID="26">
-            <Title>Other rules</Title>
-            <Text>#### Special Rules
-If possible, each player must serve on at least one committee at some point during the game.
-
-##### Writing Tasks	
-Every player will write and present at least once during the course of the game. Your role sheet should specify the specific tasks you need to complete.
-
-A special note for data-driven writing tasks: don't say 'studies have shown that' or (in the 1st person) 'I have shown that...', show it. That will probably mean that you will have to go to the library, find the original research reports of your character, and familiarize yourself with the basic research design, as well as the relationship between the evidence presented and the thesis that evidence is reported to support. If that sounds like a great deal of effort, it should. Above all, remember that you're not writing a report on this person or position, you are playing the person and defending the position.  So don't write about  what you (as the character) believe, write as if you believe it.
-
-##### Proposals
-
-Proposals should be formal. They should be distributed to the membership at least 24 hours before a vote is called. It is usually sufficient to distribute proposals during the first session of a conference year, and hold a vote during the second (or third). Ample time for discussion should be allotted for each proposal.
-
-Formal proposals begin by laying out the reasons for the proposal with a series of 'WHEREAS...' clauses.  It should then state the resolution. For example, in 1969, the APA resolved:
-
-&gt;*WHEREAS* in many state legislature, bills have recently been introduced for the purpose of repealing or drastically modifying the existing criminal codes with respect to the termination of unwanted pregnancies;
-
-&gt;and *WHEREAS* termination of unwanted pregnancies is clearly a mental health and child welfare issue, and a legitimate concern of APA;
-
-&gt; *BE IT RESOLVED* that termination of pregnancy be considered a civil right of the pregnant woman, to be handled as other medical and surgical procedures in consultation with her physician, and to be considered legal if performed by a licensed physician in a licensed medical facility.
-
-You should follow this format when drafting your proposals. Proposals in the incorrect format cannot be distributed.
-
-##### Papers and Symposia
-
-Academic conferences are opportunities to disseminate information you have gathered for your views. The method of presenting those ideas or that data, however, can vary a great deal.  The APA currently supports two kinds of presentations: Individual Reports and Symposia. The Program Committee (see below) is encouraged to experiment with new kinds of presentations, including posters, round tables, workshops, and even exhibits, if they choose. Individual Reports are talks given by a single researcher or group of researchers. Symposia are 'panel' presentations, where a group of presentations are offered on a theme or a specific problem.
-
-The Program Committee reviews all proposals for both individual reports and symposia.  The guidelines for proposing a report are included in the official 'Call for Papers and Symposia', which follows on page 12.
-
-##### Research Grants
-
-Research grants are 1-2 page proposals specifying a research project you'd like to carry out.  These are submitted to the Research committee (see p. 7) and follow the form specified in the Call for Research Grants', which follows on page 17. If you win a research grant, you will be expected to present your findings at the next annual conference.
-
-##### Reading aloud
-
-Presentations at academic conferences are evaluated by peers primarily on the basis of the content presented, not the style of presentation. While it is important to practice good public speaking skills-making eye contact with the audience, modulating one's voice, etc.—getting the data right is more important than being entertaining. For that reason, this game will allow 'reading' of some experimental reports.  Experimental reports highlight the data presented, and carefully articulate the structure of the experiment performed. It is also advisable to bring handouts for the membership when presenting data.
-
-Presidential addresses, however, should be carefully crafted general lectures. These should appeal to the membership of the APA, which includes many individuals from a variety of backgrounds. They should also be understandable by the general public, as the President is often seen as a spokesperson and advocate for the discipline.
-
-Symposia and presentations to the committees, however, must be delivered without a transcript. Cue cards or notes are allowed, but in these cases, the speaker must strive to make a personal connection with the audience, and hence, must not simply read a prepared speech.</Text>
-        </Document>
-        <Document ID="51">
-            <Title>Kraft-Ebing, Ricard von. "Psychopathie Sexualis", 1894</Title>
         </Document>
     </Documents>
 </SearchIndexes>
