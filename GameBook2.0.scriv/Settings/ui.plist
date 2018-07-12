@@ -987,7 +987,11 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
+<<<<<<< HEAD
 	<string>{{0, 3527}, {464, 680}}</string>
+=======
+	<string>{{0, 1050.9578}, {464, 680}}</string>
+>>>>>>> bd7d5fda5bdf6cf92947a9bb4c222d3c6f3f571b
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{12951, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>

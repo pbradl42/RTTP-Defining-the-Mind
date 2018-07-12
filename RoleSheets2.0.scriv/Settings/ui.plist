@@ -1032,9 +1032,9 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {1060, 686}}</string>
+	<string>{{0, 0}, {1060, 220.20001}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{0, 0}</string>
+	<string>{8, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -1045,7 +1045,7 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>375 90 1440 787 0 0 1440 877 </string>
+	<string>0 90 1440 787 0 0 1440 877 </string>
 	<key>selectedCollectionTabIndex</key>
 	<integer>0</integer>
 	<key>supportingDocumentEditor.scrollRect</key>
