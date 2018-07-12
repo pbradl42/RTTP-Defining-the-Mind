@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-2" Modified="2018-07-09 20:01:38 -0400" ModID="A0C4D5BA-8634-4E31-8C24-888182F2E8AF">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-2" Modified="2018-07-10 20:54:30 -0400" ModID="4D9A2597-4163-47CB-9552-DB6A12256C1E">
     <Binder>
         <BinderItem ID="0" UUID="83E02873-467E-40BE-AB78-2B45BB5561E1" Type="DraftFolder" Created="2014-05-22 17:39:45 -0400" Modified="2014-07-21 19:56:59 -0400">
             <Title>RoleSheets v1.0</Title>
@@ -710,7 +710,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-05-22 17:39:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-07-09 19:59:17 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-07-10 20:53:23 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

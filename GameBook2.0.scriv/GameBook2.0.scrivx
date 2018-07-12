@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-2" Modified="2018-07-10 16:12:00 -0400" ModID="AB0403A7-D495-4F39-AE2E-7B4379172183">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-2" Modified="2018-07-10 20:53:35 -0400" ModID="721C803E-2A7F-4040-94C8-47E9BF37696E">
     <Binder>
         <BinderItem ID="0" UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -3473,7 +3473,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="171" Characters="1575" Date="2018-07-10 00:00:09 -0400"></PreviousSession>
+        <PreviousSession Words="171" Characters="1575" Date="2018-07-10 20:53:24 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
