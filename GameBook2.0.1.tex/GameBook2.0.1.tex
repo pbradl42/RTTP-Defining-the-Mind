@@ -58,6 +58,7 @@
 \newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
 
+\newcommand*{\fullref}[1]{See \nameref{#1} on page~\pageref{#1}} % One single link
 
 \widowpenalty10000
 \clubpenalty10000
@@ -123,7 +124,7 @@
 \newpage
 \listoffigures
 \newpage
-%\listoftheorems[ignoreall,show={mypurpose,mythesis,myentities,myobjects}]
+
 
 
 
@@ -273,73 +274,84 @@ For the most part, the historical events with which a character interacts occurr
 
 The study of the mind can be traced back to the very foundations of Western civilization in Ancient Greece. For the purposes of this game, we're going to confine ourselves to the era of `scientific' study of the mind, both in a medical and research context. All historical events up until 1974 that are described in this game book are listed here in a round time line, for ease of reference.
 
+\subsection{Timeline}
+\label{timeline}
+
+Major `eras' are separated for ease of reference.
+
  \begin{longtable}[!t]{ | P{2cm} | P{11.8cm} | }
 \hline
-\multicolumn{2}{ | P{13.8cm} | }{Timeline} \\ \hline
 \textbf{Year} & \textbf{Event} \\ \hline
-1792 & Philippe Pinel appointed physician at the Bicêtre hospital in Paris \\
-1794 & Pinel appointed chief physician of the Hospice de la Salpêtrière \\
-1801&Pinel publishes *A Treatise on Insanity*, with his 4-fold classification of mental illness (translated in English in 1806) \\
-1805&Esquirol published *Mental Maladies*, with a 5-fold classification of mental illness \\
-1812&George Boole published *The Laws of Thought* \\
-1825&Popular wave of 'homocidal monomania', inspiring (among others) Dostovesky's *Crime and Punishment* \\
-1847&Helmholtz, Ludwig, Bois-Reyomnd and Brücke vow to develop an account of human and animal behavior that was entirely in physical-chemical terms. \\
-1850&Fechner first posits that the intensity of a psychological experience had a mathematical relation to the intensity of the physical stimulus (Now known as 'Fechner's Law') \\
-1878&William James contracts to write *The Principles of Psychology* \\
-1879&Wilhelm Wundt's lab at the University of Leipzig opens \\
-1880&Josef Breuer takes 'Anna O' as a patient in Vienna \\
-1881&George Beard publishes *American Nervousness*, introducing the idea of a 'nervous breakdown' \\
+1792 & Philippe Pinel appointed physician at the Bicêtre hospital in Paris \fullref{foundationinempiricism:phillipepinel} \\
+1794 & Pinel appointed chief physician of the Hospice de la Salpêtrière \\ 
+1801&Pinel publishes \emph{A Treatise on Insanity}, with his 4-fold classification of mental illness (translated in English in 1806) \fullref{pinelphilippe.atreatiseoninsanity1806} \\
+1805&Esquirol published \emph{Mental Maladies}, with a 5-fold classification of mental illness \fullref{mentalalienation-esquirol} \\
+1812&George Boole published \emph{The Laws of Thought} \fullref{concurrentdevelopments:logicandcomputing}
+ \\
+1825&Popular wave of 'homocidal monomania', inspiring (among others) Dostovesky's \emph{Crime and Punishment} \\ \hline
+\multicolumn{2}{ | p{13.8cm} | }{\tahead{Empiricism in psychology}} \\ \hline
+1847&Helmholtz, Ludwig, Bois-Reyomnd and Brücke vow to develop an account of human and animal behavior that was entirely in physical-chemical terms. \fullref{birthofpsychology:germanphysiologicalpsychologyinthe1880s-1890s.} \\
+1850&Fechner first posits that the intensity of a psychological experience had a mathematical relation to the intensity of the physical stimulus (Now known as 'Fechner's Law') \fullref{sensationandperception:fechner} \\
+1878&William James contracts to write \emph{The Principles of Psychology} \fullref{americanpsychology:williamjamesandthefunctionofconsciousness} \\
+1879&Wilhelm Wundt's lab at the University of Leipzig opens \fullref{introspection:wundt} \\
+1880&Josef Breuer takes 'Anna O' as a patient in Vienna \fullref{hysteriaandhypnosis:freudbreueronannao.} \\
+1881&George Beard publishes \emph{American Nervousness}, introducing the idea of a 'nervous breakdown' \fullref{americannervousness---georgebeard} \\
 1881&Breuer attempts hypnosis on Anna O. \\
-1882&Charcot founds the first clinic on "Incurable" mental illness (what we now call "neurological conditions") at the Salpêtrière in Paris. \\
+1882&Charcot founds the first clinic on "Incurable" mental illness (what we now call "neurological conditions") at the Salpêtrière in Paris. \fullref{earlyneurology---charcot} \\
 1883&Christine Ladd-Franklin completes and publishes her dissertation titled "On the Algebra of Logic" under C.S. Peirce. Johns Hopkins refuses to grant her the doctorate because of her gender. \\
-1885&Hermann Ebbinghaus' memory experiments call into question the reliability of introspection-based research in psychology, and establishes the paradigm for experimental psychology. (I.e. Wilhelm Wundt) \\
+1885&Hermann Ebbinghaus' memory experiments call into question the reliability of introspection-based research in psychology, and establishes the paradigm for experimental psychology.\fullref{experimentalism:ebbinghausandtheunreliabilityofintrospection} \\
 1885-1887&Charlotte Perkins-Gilman treated for Post-Partum Depression by George Beard's student Silas Wier-Mitchell. \\
 
-1890&a young Sigmund Freud, blocked from a hospital appointment in Germany by anti-semitism, moves to Paris to work under Charcot. \\
-1891&the 'neuron doctrine' first advanced. \\
+1890&A young Sigmund Freud, blocked from a hospital appointment in Germany by anti-semitism, moves to Paris to work under Charcot. \\
+1891&The 'neuron doctrine' first advanced by Wilhelm Waldeyer in Germany. \\
 1891&Christine Ladd-Franklin leaves Johns Hopkins, where she was denied a PhD because of her gender, to study in Germany with Müller and Helmholtz. \\
 1891-1900&Ivan Pavlov conducts research on dog salivation in response to physical stimulus. We now call his method 'classical conditioning'. \\
-1892&Krafft-Ebing publishes Psychopathia Sexualis \\
+1892&Krafft-Ebing publishes \emph{Psychopathia Sexualis} \fullref{kraft-ebingricardvon.psychopathiesexualis1894}\\
 1892&G. Stanley Hall appointed 1st President of the American Psychological Association \\
 1892&Charlotte Perkins Gilman publishes "The Yellow Wallpaper", based on her experiences with psychological treatment \\
 1894&Christine Ladd-Franklin, along with Margaret Washburn, are the first Women to be elected to the American Psychological Association. \\
-1895&Freud and Bruer publish their report of Anna O titled "The Psychic Mechanism of Hysterical Phenomena" \\
-1896&William James' *The Principles of Psychology* published \\
+1895&Freud and Bruer publish their report of Anna O titled "The Psychic Mechanism of Hysterical Phenomena" \fullref{hysteriaandhypnosis:freudbreueronannao.} \\ \hline
+\multicolumn{2}{ | p{13.8cm} | }{\tahead{Birth of Psychology as a discipline}} \\ \hline
+1896&William James' \emph{The Principles of Psychology} published. \fullref{americanpsychology:williamjamesandthefunctionofconsciousness} \\ 
+
 1905&Mary Whiton Calkins elected first woman President of the American Psychological Association \\
-1909&G. Stanley Hall invites Freud and Jung to give a series of lectures at Clark University. In the audience are William James, Franz Boas (anthropology), E.B. Tichner (psychology) and Emma Goldman (the anarchist, a character in the Suffragist game). After the lectures, Freud and Jung accept an invitation from James Jackson Putnam, a prominent neurologist in New York, to vacation at his home in the Adirondacks. During this vacation, Freud and Jung have a disagreement, which causes rift between them that never closed. \\
+1909&G. Stanley Hall invites Freud and Jung to give a series of lectures at Clark University. In the audience are William James, Franz Boas (anthropology), E.B. Tichner (psychology) and Emma Goldman (the anarchist) \footnote{Students who are experienced with Reacting may recognize Emma Goldman as a character in the Greenwich Village 1913 game}. After the lectures, Freud and Jung accept an invitation from James Jackson Putnam, a prominent neurologist in New York, to vacation at his home in the Adirondacks. During this vacation, Freud and Jung have a disagreement, which causes rift between them that never closed. \fullref{theclarklectures} \\
 1911&Ramon y Cajal demonstrates neurons in the hippocampus, confirming the 'neuron doctrine' \\
 1911&Putnam founds the American Psychiatric Association. \\
 1912&Alan Turing born \\
 1913&Ebbinhaus' work translated into English \\
-1913&John B. Watson publishes "Psychology as the Behaviorist Views it", launching Behaviorism. \\
+1913&John B. Watson publishes "Psychology as the Behaviorist Views it", launching Behaviorism. \fullref{psychologysfirstrevolution:behaviorism} \\
 1917&At the inaugural meeting of the American Psychiatric Association, the DSM-I is adopted. There are 21 mental disorders classified. \\
-1933&A Standard Classified Nomenclature of Disease published by the NY Academic of Medicine, along with the Public Health Serve, the Army and Navy Medical Department and the American Hospital Association. \\
+1933&\emph{A Standard Classified Nomenclature of Disease} published by the NY Academic of Medicine, along with the Public Health Serve, the Army and Navy Medical Department and the American Hospital Association. \\
 1936&Turing posits the idea of a machine that can compute any mathematical function \\
-1939&B.F Skinner publishes *The Behavior of Organisms: An Experimental Analysis*, introducing the concept of 'reinforcement' and 'operant conditioning' \\
+1939&B.F Skinner publishes \emph{The Behavior of Organisms: An Experimental Analysis}, introducing the concept of 'reinforcement' and 'operant conditioning' \fullref{operantconditioningradicalbehaviorism:skinner} \\
 
 1939-1945& WWII: significant migration of German researchers to the US; most of the top researchers in the field recruited to the war effort. Large numbers of young intellectuals trained in basic psychiatry for the military. \\
- &Individuals discharged from the US Military for homosexuality begin organic communities in the major ports of the West Coast: San Deigo, Long Beach (L.A.) and San Fransisco. \\
-
-1943&bulletin "Medica 203", which defined mental illness for the US military was written by Brigadier General William C. Menninger \\
-1948&Kinsey publishes *Sexual Behavior in the Human Male* \\
-1949&*The International Statistical Classification of Diseases.* Was published. It had 27 major categories of mental illness and 60 sub-categories \\
+ &Individuals discharged from the US Military for homosexuality begin organic communities in the major ports of the West Coast: San Diego, Long Beach (L.A.) and San Fransisco. \\
+1943&bulletin "Medical 203", which defined mental illness for the US military was written by Brigadier General William C. Menninger \\ \hline
+\multicolumn{2}{ | p{13.8cm} | }{\tahead{Scientific study of sexuality, and birth of computing}} \\ \hline
+1948&Kinsey publishes \emph{Sexual Behavior in the Human Male} \fullref{thekinseyreport} \\
+1949&\emph{The International Statistical Classification of Diseases.} Was published. It had 27 major categories of mental illness and 60 sub-categories \fullref{app: DSMI} \\
 1950&Alan Turing publishes "Computing Machinery and Intelligence", articulating the thesis that the mind can be modeled on a machine, as well as a test for the intelligence of such a machine. \\
-1950&The Mattachine Society, in Philadelphia, and the Daughters of Bilitis, in San Francisco, are founded. \\
+1950&The Mattachine Society, in Philadelphia, and the Daughters of Bilitis, in San Francisco, are founded. \fullref{earlyhomophilemovements} \\
 1952&Alan Turing arrested as a homosexual. Is sentenced to chemical castration through hormone therapy. \\
-1952&The American Psychiatric Association published the DSM-II, which has 28 major categories of mental illness, and 44 sub categories. \\
-June 7th, 1954&Alan Turing commits suicide. \\
-1954&Evelyn Hooker begins her research on the Mental health of male homosexuals in Los Angeles. \\
-September 10-12 1956&MIT hosts the second Symposium on Information Theory. In attendance are John von Neumann (the father of computer science), Norbert Weiner (founder of cybernetics), Claude Shannon (creator of Information theory), Warren McCulloch and Walter Pitts (Creators of a mathematical model of a neuron), Margaret Mead (Anthropology), Herbert Simon and Alan Newell (Computer Science), Noam Chomsky (linguistics) and George Miller (psychology). The cognitive revolution has begun. \\
-1955&The Wallace Lab began marketing *Miltown*, the first anti-psychotic medicine. \\
-1957&Skinner publishes *Verbal Behavior*, Chomsky publishes stunning critique. \\
-1959&*Trofranil*, the first antidepressant, appears on the market. \\
-1960&*Librium*, the first anti-anxiety, appears on the market. \\
-1963&*Valium* is introduced. \\
+1952&The American Psychiatric Association published the DSM-II, which has 28 major categories of mental illness, and 44 sub categories. \fullref{app: DSMII} \\
+June 7th, 1954&Alan Turing commits suicide. \fullref{briefhistoryofthestudyofhomosexualityinamerica} \\
+1954&Evelyn Hooker begins her research on the Mental health of male homosexuals in Los Angeles. \fullref{connectingthesethreads:evelynhooker} \\
+September 10-12 1956&MIT hosts the second Symposium on Information Theory. In attendance are John von Neumann (the father of computer science), Norbert Weiner (founder of cybernetics), Claude Shannon (creator of Information theory), Warren McCulloch and Walter Pitts (Creators of a mathematical model of a neuron), Margaret Mead (Anthropology), Herbert Simon and Alan Newell (Computer Science), Noam Chomsky (linguistics) and George Miller (psychology). The cognitive revolution has begun. \fullref{thesecondrevolution:cognitivescience} \\
+1955&The Wallace Lab began marketing \emph{Miltown}, the first anti-psychotic medicine. \\
+1957&Skinner publishes \emph{Verbal Behavior}, Chomsky publishes stunning critique. \fullref{chomskyn.reviewofverbalbehaviourbyb.f.skinner1959}\\
+1959&\emph{Trofranil}, the first antidepressant, appears on the market. \\
+1960&\emph{Librium}, the first anti-anxiety, appears on the market. \\
+1963&\emph{Valium} is introduced. \\ \hline
+
+\multicolumn{2}{ | P{13.8cm} | }{\tahead{First street activism in the gay and lesbian community}} \\ \hline
 1963&Barbara Gittings becomes editor of the newsletter of the Daughters of Bilitis. \\
 1968&Members of the Mattachine society disrupt public lecture by Charles Socarides \\
-1969&Oliver Sacks administers L-DOPA to patients comatose since the 1920's, and is amazed to find them awaken. His memoir 'Awakenings' is published in 1972, and widely read and discussed in the medical community. \\
-June 28, 1969&July 3rd, 1969: Stonewall \\
-1970&Gay rights protesters picket, and overwhelm, the annual meeting of the APA in San Fransisco. \\ \hline \hline
+1969&Oliver Sacks administers L-DOPA to patients comatose since the 1920's, and is amazed to find them awaken. His memoir 'Awakenings' is published in 1972, and widely read and discussed in the medical community. \\ \hline
+June 28, 1969-July 3rd, 1969&\fullref{stonewall:thestreetactivists} \\
+1970&Gay rights protesters picket, and overwhelm, the annual meeting of the APA in San Fransisco. \\ \hline
+\multicolumn{2}{ | P{13.8cm} | }{\tahead{Game Begins}} \\ \hline
 
 September 10th, 2009&the United Kingdom issues a formal apology to Alan Turing for his treatment after massive petition drive. \\
 Dec 24th, 2013&Turing granted Royal Pardon by Queen Elizabeth II. \\ \hline
@@ -352,8 +364,12 @@ Dec 24th, 2013&Turing granted Royal Pardon by Queen Elizabeth II. \\ \hline
 \section{Narrative}
 \label{narrative}
 
+This events that lead up to the clash over the validity of scientific studies of the human mind span countries and continents. Ideas flow quickly---even in the 18th and 19th centuries, so understanding how the peculiar American definitions of mental health and illness came about require a bit of explanation.
+
 \subsection{Brief history of the concept of `Psychology'}
 \label{briefhistoryoftheconceptofpsychology}
+
+Psychology is probably the youngest of commonly accepted academic disciplines---the first PhD in Psychology was earned by G. Stanley Hall in 1878. But we'll get to that. First, we have to go back to the notion of science itself.
 
 \subsubsection{Pre-history of Psychology: Empiricism about the Mind}
 \label{pre-historyofpsychology:empiricismaboutthemind}
@@ -452,8 +468,8 @@ Thus, with Hume, we can find the origin of the empirical study of the mind, alth
 
 It is important to point out here that for these thinkers, the objects of study are \emph{ideas}. The central claims are that there are regular, law-like relationships between ideas themselves, whether they be causal or grammatical. That central claim unites them with early psychology\footnote{There are many instances of this claim in the history of psychology: see, e.g. Wundt, 1876 (p. 175)}. But as we will see, is the challenged in the Behaviorist revolution in the US in the early 1930's and 1940's.
 
-\subsubsection{Birth of Psychology – German Physiological Psychology in the 1880s--1890s.}
-\label{birthofpsychology–germanphysiologicalpsychologyinthe1880s-1890s.}
+\subsubsection{Birth of Psychology: German Physiological Psychology in the 1880s--1890s.}
+\label{birthofpsychology:germanphysiologicalpsychologyinthe1880s-1890s.}
 
 In about 1847, four friends, three of them students of Johannes Müller (1801--1858), gathered together in Berlin to swear an oath dedicating themselves to undermining vitalism: the theory that all living entities shared a special irreducible `vital force.' They committed themselves to the view that:
 
@@ -535,7 +551,7 @@ The importance of Pavlov's theorizing should be obvious at this point: classical
 \subsubsection{American Psychology: William James and the function of consciousness}
 \label{americanpsychology:williamjamesandthefunctionofconsciousness}
 
-During this period of profound growth and advancement of psychology in Germany, American Universities were not institutions of research, but institutions of education. Starting in about 1876, that started to change. Johns Hopkins University was founded in Baltimore in 1876 with the explicit mission of ``The encouragement of research; the encouragement of young men; the advancement of individual scholars, who by their excellence will advance the sciences they pursue, and the society where they dwell'' (Daniel Coit Gilman, the first President of Johns Hopkins who greatly admired the German university.\footnote{And the `German Mind' apparently: ``The thoroughness of the German mind, its desire for perfection in every detail, and its philosophical aptitudes are well illustrated by the controversies now in vogue in the land of universities.''(http:\slash \slash webapps.jhu.edu\slash jhuniverse\slash information\_about\_hopkins\slash about\_jhu\slash daniel\_coit\_gilman\slash )})
+During this period of profound growth and advancement of psychology in Germany, American Universities were not institutions of research, but institutions of education. Starting in about 1876, that started to change. Johns Hopkins University was founded in Baltimore in 1876 with the explicit mission of ``The encouragement of research; the encouragement of young men; the advancement of individual scholars, who by their excellence will advance the sciences they pursue, and the society where they dwell.''\footnote{Daniel Coit Gilman admired not just the German University, but what he called the ``German Mind'' as well: ``The thoroughness of the German mind, its desire for perfection in every detail, and its philosophical aptitudes are well illustrated by the controversies now in vogue in the land of universities.''(http:\slash \slash webapps.jhu.edu\slash jhuniverse\slash information\_about\_hopkins\slash about\_jhu\slash daniel\_coit\_gilman\slash )} 
 
 Of the 53 men appointed to the faculty of Hopkins by 1884, nearly all had been educated at German Universities, and 13 held what was then a German degree, the ``PhD.'' The few exceptions to this rule were the eminent American pragmatists John Dewey and C.S. Peirce. 
 
@@ -815,13 +831,14 @@ The Kinsey report found that homosexual activity as a common part of male sexual
 \subsubsection{Early `Homophile' movements}
 \label{earlyhomophilemovements}
 
-\begin{figure}[h]
- \centering
+\begin{wrapfigure}{r}{0.5\textwidth}
+ \begin{center}
 
  \includegraphics{../images/1965-gay-Picket-thumb-225x186-17508.png}
+\end{center}
  \caption{'Homophile' activists picketing in 1965. From http://bilerico.lgbtqnation.com/}
 \label{fig: 1965Picket}
-\end{figure}
+\end{wrapfigure}
 
 
 Two years after the publication of the Kinsey report, a group of `homophile' activists founded the Mattachine society, which is now generally recognized as the first national gay-rights organization.\footnote{The `Society for Human Rights' was founded in 1924, but never gained national prominence.}
@@ -830,14 +847,15 @@ The Mattachine society, named for a European tradition of theater masks, sought 
 
 At the same time, a secret social club for Lesbians called The Daughters of Bilitis was founded in San Francisco by Del Martin and Phyllis Lyon. To stay in touch with its members they created a magazine called `The Ladder', which came under the editorship of Barbara Gittings in 1963. The magazine flourished under Gittings' direction, growing from a simple hand-stapled newsletter to a true 40-page magazine. Gittings became a leader, along with Frank Kameny, of the Mattachine society.
 
-\begin{figure}[h]
- \centering
+\begin{wrapfigure}{r}{0.5\textwidth}
+ \begin{center}
 
  \includegraphics{../PrimarySourceMaterials/MattachineSocietyPamphlet1964-A.jpg}
 \includegraphics{../PrimarySourceMaterials/MattachineSocietyPamphlet1964-B.jpg}
+\end{center}
  \caption{'Penalties for Sex Offenses', a Pamphlet distributed by the Mattachine Society in 1964 to educate its members. From http://web-static.nypl.org/exhibitions/1969/ref/1696842.html}
 \label{fig: MattachinePamphlet}
-\end{figure}
+\end{wrapfigure}
 
 
 \subsubsection{Connecting these threads: Evelyn Hooker}
@@ -857,13 +875,14 @@ Hooker presented her findings at the 1956 APA in Chicago. Her paper was publishe
 By the 1960s, tensions were growing in the gay community. Another group of younger gay\footnote{The use of the word `gay' as a replacement for `homosexual' dates from precisely this time with precisely these people. The Mattachine society and the older organizations used `homosexual' and `homophile' to refer to themselves. Ironically, the use of `Gay' to mean `homosexual' is no attributed to Frank Kameny himself, who started a ``Gay is good'' campaign in 1968, to parallel the ``Black is beautiful'' campaign.} activists were growing irritated with both the slow progress of the Mattachine society and its restrictions on behavior. In 1968, a group of young `street-activists' disrupted a meeting of the American Medical Association in New York by shouting down Charles Socarides, a Psychiatrist known for his psychoanalytic treatment of homosexuals.
 
 But everything changed forever on Saturday, June 28, 1969 at 1:20 AM, when the police raided the Stonewall Inn in Greenwich Village. These raids were common---the police would arrest everyone, roughing people up, and generally intimidating the population. But this time, the gay and lesbian patrons of the Stonewall resisted. Events escalated. The riots that followed lasted until Wednesday night, July 3rd. 
-\begin{figure}[h]
- \centering
+\begin{wrapfigure}{r}{0.5\textwidth}
+ \begin{center}
 
- \includegraphics{../images/KamenyPicketInstructions.jpg}
+ \includegraphics[scale=0.5]{../images/KamenyPicketInstructions.jpg}
+\end{center}
  \caption{Rules for Picketing. From the Kameny papers website: http://www.kamenypapers.org/memorabilia.htm, collected 7/14/2016}
 \label{fig: MattachineRules}
-\end{figure}
+\end{wrapfigure}
 
 
 On July 4th, the gay community's attention turned to Independence Hall in Philadelphia and the Mattachine society's annual march. As usual, Frank Kameny and Barbara Gittings, long time leaders of that gay and lesbian advocacy group, required the women to wear skirts and men suits. But the tide had turned. The young protestors from Stonewall would not conform. Kameny's approach of assimilation to ``straight'' behavior had been surpassed by the direct action begun at Stonewall. Militant groups such as the Gay Liberation Front and the Gay Activist Alliance sprouted up overnight (both started in New York). Plans were made to confront those who continued to classify homosexuality as a mental disorder, and directly challenge those who continued to treat homosexuals using barbaric methods.
@@ -1073,14 +1092,14 @@ It would be a mistake, however, to accept the simplistic narrative that the doct
 One way to chart the rise of psychiatric diagnosis is to consider how people with mental illness are counted. Starting in 1830, the US census included categories for the disabled, including `blind' and `deaf.' From 1840--1870, the census included the category `idiocy\slash insanity.' Starting in 1880, however, the federal government began using categories of mental illness. In 1880, those categories were:
  \begin{longtable}[!t]{ | p{1cm} | p{1cm} |p{4.8cm} | }
 \hline
-21&\multicolumn{2}{ | p{5.8cm} | }{Mental Disease, Insanity} \\ \hline
+21&\multicolumn{2}{ | p{5.8cm} | }{\tahead{Mental Disease, Insanity}} \\ \hline
  &00&Melancholy \\ \hline
  & 01&Mania \\ \hline
  &02&Hysteria \\ \hline
  &03&Nerves \\ \hline
  &04&Dementia \\ \hline
  &05&Insane (not elsewhere classified) \\ \hline
-22&\multicolumn{2}{ | p{5.8cm} | }{Mental Retardation, Idiocy} \\ \hline
+22&\multicolumn{2}{ | p{5.8cm} | }{\tahead{Mental Retardation, Idiocy}} \\ \hline
  &00&Idiotic \\ \hline
 
 \caption{Mental Illness Classification used in the US Census of 1880}
@@ -1094,13 +1113,14 @@ Readers of these sections will no doubt recognize this taxonomy as owing an inte
 
 Charcot began his career at the Salpêtrière tending to the `incurables'---the patients whose conditions had been classified as `idiocy' or `dementia.' Charcot saw himself primarily as a nosologist: a classifier or taxonomizer of disease, rather than a healer. His appointment was, in many ways, ideal. This was a patient population for which there was no hope of cure, and morever, had not been studied in a careful way. 
 
-\begin{figure}[h]
- \centering
+\begin{wrapfigure}{r}{0.5\textwidth}
+ \begin{center}
 
- \includegraphics{../images/hysterie-troisiemephase.jpg}
+ \includegraphics[scale=0.25]{../images/hysterie-troisiemephase.jpg}
+\end{center}
  \caption{Photo of patient of M. Charcot in the Salpêtrière. From Wellcome images, https://wellcomecollection.org/works/fh922zk8 }
 \label{fig: charcotpatient}
-\end{figure}
+\end{wrapfigure}
 
 
 Charcot is, today, often classified as a neurologist. That is a bit of historicism, as there was no such field when he began work. In fact, the `neuron doctrine', or the idea that the nervous system is composed of individual cells called `neurons,' is not formally advanced until 1891. And it isn't until 1911 that Ramon y Cajal uses the Golgi stain to highlight neurons in the hippocampus, confirming the neuron doctrine.
@@ -1186,7 +1206,7 @@ In the early spring of 1881, Anna O fell mute for a period of two weeks. At this
 
 After her father's death, her illness became much more severe. Breuer noticed, however, that her periods of sleep in the later afternoon, during which she was `tormented' by hallucinations, resembled hypnotic states. He decided to preemptively hypnotize her and prompt her to `talk through' these tormenting phantasies. The symptoms subsided quickly. The day after a session, she would become `quite calm' and `agreeable, obedient, industrious and even in good spirits'. The second day after a session she would be `increasingly moody, contrary and disagreeable, and this worsened on the third.' Anna O. named these sessions (in English) the `talking cure' and `chimney-sweeping.' Breuer preferred the more sophisticated `cathartic procedure.'
 
-Breuer communicated this to his friend Sigmund Freud, who offered to co-author a paper laying out the findings. That paper, titled `The Psychic Mechanism of Hysterical Phenomena,' first appeared in 1893, but was republished as the first chapter of Freud and Breuer's Studies on Hysteria (1895). In it, Freud and Breuer propose a new form of hysteria, called `traumatic hysteria', which they conjecture is always connected to some traumatic event that evokes the syndrome. They further hypothesize that the traumatic event can be unavailable to the conscious, reflective mind of patient---i.e. be unconscious---yet still be causally responsible for the hysterical symptoms. Moreover, they hypothesize that making the patient aware of the trauma, via Breuer's `cathartic procedure' using hypnosis if necessary, alleviates the hysteria.
+Breuer communicated this to his friend Sigmund Freud, who offered to co-author a paper laying out the findings. That paper, titled `The Psychic Mechanism of Hysterical Phenomena,' first appeared in 1893, but was republished as the first chapter of Freud and Breuer's \emph{Studies on Hysteria} (1895). In it, Freud and Breuer propose a new form of hysteria, called `traumatic hysteria', which they conjecture is always connected to some traumatic event that evokes the syndrome. They further hypothesize that the traumatic event can be unavailable to the conscious, reflective mind of patient---i.e. be unconscious---yet still be causally responsible for the hysterical symptoms. Moreover, they hypothesize that making the patient aware of the trauma, via Breuer's `cathartic procedure' using hypnosis if necessary, alleviates the hysteria.
 
 \paragraph{Freud: The foundation of psychoanalysis}
 \label{freud:thefoundationofpsychoanalysis}
@@ -1221,18 +1241,18 @@ Experienced Reactors may recognize Emma Goldman from Mary Jane Tracey's Suffrage
 
 After the lectures, James Jackson Putnam, a neurologist in New York City, invited Freud and Jung to retire to his family's Adirondack `great camp' for the weekend. Putnam became an important advocate for psychoanalysis in the United States, establishing its legitimacy as a treatment for hysteria. While there are articles prior to 1909 on psychoanalysis (notably one by Putnam himself in 1906), we don't find significant discussion of psychoanalysis in the mainstream journals of Psychology until after the Clark lectures.\footnote{For a discussion, see Hornstein, G. A. (2002). The Return of the Repressed: Psychology's Problematic Relations with Psychoanalysis, 1909--1960. Evolving Perspectives on the History of Psychology. W. E. Pickren and D. A. Dewsbury. Washington, DC, The American Psychological Association.} An effort to convince the American public of the scientific nature of psychoanalysis was mounted by Putnam camp attendees A.A. Brill, founder of the New York Psychoanalytic Society, and Ernest Jones, student of Freud. By 1916, Jones had published 20 articles, notes and reviews in the Journal of Abnormal Psychology offering or advocating for psychoanalysis.\footnote{Hornstein, p. 474.}
 
-Putnam and Freud went on to become close friends, and Putnam spent much of the rest of his career attempting to professionalize and regularize the practice of psychiatry. He founded the American Psychoanalytic Association (APsaA) in 1911, which is still active today. His posthumously published Addresses on Psychoanalysis, which contains a preface by Freud himself, not only seeks to introduce Freudian theory to his scientific community, but also to dispel misunderstanding gained ``through the gossip of prejudice and misconception'' (Putnam \& Jones, 1921, p. 3).
+Putnam and Freud went on to become close friends, and Putnam spent much of the rest of his career attempting to professionalize and regularize the practice of psychiatry. He founded the American Psychoanalytic Association (APsaA) in 1911, which is still active today. His posthumously published \emph{Addresses on Psychoanalysis}, which contains a preface by Freud himself, not only seeks to introduce Freudian theory to his scientific community, but also to dispel misunderstanding gained ``through the gossip of prejudice and misconception'' (Putnam \& Jones, 1921, p. 3).
 
 Putnam's influence here cannot be understated. Putnam introduced psychoanalytic ideas to the budding field of medical neurology. His position as a medical doctor at Harvard gave psychoanalysis legitimacy as a medical practice in America, and his stature in the neurological community helped to assuage any doubts about the lack of a physical basis for the hypothetical entities posited by Freud's structural hypothesis.
 
-The story is not all smooth sailing. In 1916, the Princeton philosopher and psychologist Warren Fite reviewed of Jung's Psychology of the Unconscious for The Nation, writing that it ``presents some five hundred-odd pages of incoherence and obscenity in the form of a psycho-analytic interpretation of the experiences of a sentimental young American woman.'' (Fite, 1916) The fact that the United States was at war with Germany didn't help the psychoanalytic cause: Christine Ladd-Franklin, a student of C.S. Peirce and protege of no less than Hermann Helmholtz as well as one of the first women in the APA, called Freud's theory the product of an ``undeveloped{\ldots} German mind.''
+The story is not all smooth sailing. In 1916, the Princeton philosopher and psychologist Warren Fite reviewed of Jung's \emph{Psychology of the Unconscious} for \emph{The Nation}, writing that it ``presents some five hundred-odd pages of incoherence and obscenity in the form of a psycho-analytic interpretation of the experiences of a sentimental young American woman.'' (Fite, 1916) The fact that the United States was at war with Germany didn't help the psychoanalytic cause: Christine Ladd-Franklin, a student of C.S. Peirce and protege of no less than Hermann Helmholtz as well as one of the first women in the APA, called Freud's theory the product of an ``undeveloped{\ldots} German mind.''
 
 What followed is a history of tension between those in the psychological and psychoanalytic communities. Helped by the military's preference for psychoanalysts in the treatment of `shell-shock' during WWI and `combat fatigue' in WWII, psychoanalysis gained credibility in the eyes of the American public.\footnote{See Chapter 1 of Menninger and Nemiah (2000) for an interesting discussion of this history.}
 
 \subsubsection{Classification of Mental Illness, 1918--1952}
 \label{classificationofmentalillness1918-1952}
 
-In 1917 during its annual meeting in New York, the American Medico-Psychological Association (now the American Psychiatric Association) in cooperation with the National Commission on Mental Hygiene formed a committee on statistics and charged it with creating a guide for classifying mental illness. The resulting document, Statistical Manual for the Use of Institutions for the Insane, was published in 1918 and adopted around the nation. It is available freely on google books. The manual outlined 21 medical-psychological categories, displayed in table \ref{table: 1918Classification}:
+In 1917 during its annual meeting in New York, the American Medico-Psychological Association (now the American Psychiatric Association) in cooperation with the National Commission on Mental Hygiene formed a committee on statistics and charged it with creating a guide for classifying mental illness. The resulting document, \emph{Statistical Manual for the Use of Institutions for the Insane}, was published in 1918 and adopted around the nation. It is available freely on google books. The manual outlined 21 medical-psychological categories, displayed in table \ref{table: 1918Classification}:
 
  \begin{longtable}[!t]{ | p{4cm} | p{10.8cm} | }
 \hline
@@ -1248,7 +1268,7 @@ In 1917 during its annual meeting in New York, the American Medico-Psychological
 (c) Delirious and confused types\newline
 (d) Depressed and agitated states in addition to deterioration\newline
 (e) Paranoid types\newline
-(f) Pre-senile types\newline \\
+(f) Pre-senile types \\ \hline
 
 \multicolumn{2}{ | p {14.8cm} | }{3. Psychoses with cerebral arteriosclerosis} \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{4. General paralysis} \\ \hline
@@ -1264,7 +1284,7 @@ In 1917 during its annual meeting in New York, the American Medico-Psychological
  Multiple sclerosis\newline
  Tabes\newline
  Acute chorea\newline
- Other conditions (to be specified)\newline \\
+ Other conditions (to be specified) \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{9. Alcoholic psychoses} \\ \hline
  &(a) Pathological intoxication\newline
 (b) Delirium tremens\newline
@@ -1274,13 +1294,13 @@ In 1917 during its annual meeting in New York, the American Medico-Psychological
 (f) Acute paranoid type\newline
 (g) Chronic paranoid type\newline
 (h) Alcoholic deterioration\newline
-(i) Other types, acute or chronic\newline \\
+(i) Other types, acute or chronic \\ \hline
 
 \multicolumn{2}{ | p {14.8cm} | }{10. Psychoses due to drugs or other exogenous toxins} \\ \hline
  &(a) Opium (and derivatives), cocaine, bromides, chloral, etc. alone or combined (to be specified)\newline
 (b) Metals, as lead, arsenic, etc. (to be specified)\newline
 (c) Gases (to be specified)\newline
-(d) Other exogenous toxins (to be specified) \\
+(d) Other exogenous toxins (to be specified) \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{11. Psychoses with pellagra} \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{12. Psychoses with other somatic diseases} \\ \hline
  &(a) Delirium with infectious diseases\newline
@@ -1289,29 +1309,29 @@ In 1917 during its annual meeting in New York, the American Medico-Psychological
 (d) Delirium of unknown origin\newline
 (e) Cardio-renal diseases\newline
 (f) Disease of the ductless glands\newline
-(g) Other diseases or conditions (to be specified) \\
+(g) Other diseases or conditions (to be specified) \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{13. Manic-depressive psychoses} \\ \hline
  &(a) Manic type \newline
 (b) Depressive type \newline
 (c) Stupor \newline
 (d) Mixed type \newline
-(e) Circular type \\
+(e) Circular type \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{14. Involution melancholia} \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{15. Dementia praecox} \\ \hline
  & (a) Paranoid type \newline
 (b) Catatonic type \newline
 (c) Hebephrenic type \newline
-(d) Simple type \\
+(d) Simple type \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{16. Paranoia or paranoic conditions} \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{17. Epileptic psychoses} \\ \hline
  &(a) Deterioration \newline
 (b) Clouded states \newline
-(c) Other conditions (to be specified) \\
+(c) Other conditions (to be specified) \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{18. Psychoneuroses and neuroses} \\ \hline
  &(a) Hysterical type \newline
 (b) Psychasthenic type \newline
 (c) Neurasthenic type \newline
-(d) Anxiety neuroses \\
+(d) Anxiety neuroses \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{19. Psychoses with constitutional psychopathic inferiority} \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{20. Psychoses with mental deficiency} \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{21. Undiagnosed psychoses} \\ \hline
@@ -1328,7 +1348,8 @@ In 1917 during its annual meeting in New York, the American Medico-Psychological
 
 
 In 1928, the New York Academy of Medicine invited the Public Health Service, the Army and Navy Medical Departments and the American Hospital Association to collaborate on a standard nomenclature of disease. That standard was first published in 1933 as \emph{A Standard Classified Nomenclature of Disease}, generally referred to as \emph{The Standard}, and was widely used until at least the 1960s. In its original form, it used the following ten categories, as displayed in table \ref{table: 1933Classification}:
- •  \begin{longtable}[!t]{ | p{13.8cm} | }
+
+ \begin{longtable}[!t]{ | p{13.8cm} | }
 \hline
 0 Diseases due to prenatal influences\\
 1 Diseases due to lower plant and animal parasites\\
@@ -1352,7 +1373,8 @@ You may notice that the medical classification is entirely based on the origin o
 During WWII, psychiatrists classified patients according to the standards of the branch of the armed forces for which they worked. In 1943, Brigadier General William C. Menninger issued a bulletin called ``Medical 203'' that laid the foundations for medical classification of mental illness. The Navy, Army and Veterans affairs branches all used slightly different diagnostic criteria and classifications.
 
 The International Statistical Classification of Diseases (ICD) included a taxonomy of mental disorders for the first time in 1949. Its classification system is displayed in table \ref{table: 1949Classification}:
- •  \begin{longtable}[!t]{ | p{2cm} | p{11.8cm} | }
+
+ \begin{longtable}[!t]{ | p{2cm} | p{11.8cm} | }
 \hline
 
 \textbf{(300-309)}&\textbf{Psychoses} \\ \hline
@@ -1449,9 +1471,9 @@ The International Statistical Classification of Diseases (ICD) included a taxono
 \label{table: 1949Classification}
 \end{longtable}
 
-
 In the interest of unifying these different classification schema, the American Psychiatric Association voted to create the first Diagnostic and Statistical Manual (DSM). The nomenclature committee adapted the Medical 203 bulletin into the DSM and circulated it to a randomly selected sample of the membership (10\%). When it was overwhelmingly approved by those who replied, the APA adopted it as the standard for diagnosis in medical treatment of psychological disorders. It is included as Appendix \ref{app: DSMI}
-The first DSM distinguished between ``Disorders caused by or associated with impairment of brain tissue function,'' ``Mental Deficiency,'' ``Disorders of psychogenic origin or without clearly defined physical cause or structural change in the brain'' and ``Nondiagnostic Terms for Hospital Record.'' This fourth category included ``Alcoholic intoxication (simple drunkenness),'' and ``Dead on admission.'' It is the third category, those without a physical cause, that is of the most interest to us. They are displayed here in table \ref{table: 1952Classification}
+The first DSM distinguished between ``Disorders caused by or associated with impairment of brain tissue function,'' ``Mental Deficiency,'' ``Disorders of psychogenic origin or without clearly defined physical cause or structural change in the brain'' and ``Nondiagnostic Terms for Hospital Record.'' This fourth category included ``Alcoholic intoxication (simple drunkenness),'' and ``Dead on admission.'' It is the third category, those without a physical cause, that is of the most interest to us. They are displayed here in table \ref{table: 1952Classification} 
+
  \begin{longtable}[!t]{ | p{2cm} | p{8.8cm} | p{2cm} | }
 \hline
 \multicolumn{2}{ | p{12.8cm} | }{\textbf{Psychotic Disorders}}& \textbf{ICD-6 Ref} \\ \hline
@@ -1645,22 +1667,21 @@ The \textbf{main issue of debate} in this game is whether or not psychoanalysis 
 
 The issue of the demedicalization of homosexuality is merely the tip of the iceberg---it forced psychiatry to address the viability of psychoanalysis and the need for psychological observation of individuals \emph{not} in already in treatment.
 
- \begin{longtable}[!t]{ | P{7cm} | P{2cm} | P{1cm} | }
+ \begin{longtable}[!t]{ | P{7cm} | P{2cm} | P{2cm} | }
 \hline
 
-\tahead{Issue}&\tahead{Partisans}&\tahead{Session}\\ \hline \hline
-Homosexuality \emph{is / is not} a mental disorder& \\ \hline
-The 'medical model' \emph{is / is not} a suitable approach to understanding the human mind& \\ \hline
-Psychoanalysis \emph{is / is not} scientific.& \\ \hline
-Mental disorders should be classified according to \emph{observable symptoms / underlying mechanisms}.& \\ \hline
-Mental illness / mental disorder \emph{are / are not} genuine medical conditions. If so, how do we define a mental illness / disorder?& \\ \hline
-The mentally ill \emph{must / should be} treated exclusively by \emph{psychiatrists / psychiatrists} and \emph{psychologists / exclusively psychologists} & \\ \hline
-What are the ethical limitations on psychological / psychiatric research?& \\ \hline
-What is the proper role of an intellectual---specifically a social scientist---in a democratic society?& \\ \hline
+\tahead{Issue}&\tahead{Partisans}&\tahead{Session} \\ \hline \hline
+Homosexuality \emph{is / is not} a mental disorder&Spitzer, Socarides, Bieber, Marmor& \\ \hline
+The 'medical model' \emph{is / is not} a suitable approach to understanding the human mind&Albee, XX& \\ \hline
+Psychoanalysis \emph{is / is not} scientific.&& \\ \hline
+Mental disorders should be classified according to \emph{observable symptoms / underlying mechanisms}.&Spitzer, XX psychoanalyst& \\ \hline
+Mental illness / mental disorder \emph{are / are not} genuine medical conditions. If so, how do we define a mental illness / disorder?&Spitzer, Szasz, Albee XX& \\ \hline
+The mentally ill \emph{must / should be} treated exclusively by \emph{psychiatrists / psychiatrists} and \emph{psychologists / exclusively psychologists} &Albee& \\ \hline
+What are the ethical limitations on psychological / psychiatric research?&& \\ \hline
+What is the proper role of an intellectual---specifically a social scientist---in a democratic society?&Clark, Chomsky, Tyler& \\ \hline
 \caption{Major Issues for debate}
 \label{table: majorissues}
 \end{longtable}
-
 
 \section{Rules and Procedures}
 \label{rulesandprocedures}
@@ -1768,7 +1789,11 @@ Factional affiliation and objectives vary from individual to individual.
 ]}
 \label{credibilitypointsandvoting}
 
-At the end of each `conference', each member of the APA must give his or her `influence point' to the speaker he or she believes presented the best paper. When it comes time for the final Victory Objective vote---on the final definition of mental illness---those influence points can be turned into votes.
+At the end of each `conference', each member of the APA must give at least one `credibility point' to the speaker he or she believes presented the best paper. But they can give more. Non-members are not required to give their credibility points away, but can choose to do so. 
+
+Any approved research project earns 5 creditability points for its author. Those who jointly propose research projects must decide amoung themselves how to split the credibility points. They cannot be divided into smaller units (e.g. You can't have a 0.5 credibility)
+
+When it comes time for the final Victory Objective vote---on the final definition of mental illness---those influence points can be turned into votes.
 
 \subsection{Special Rules}
 \label{specialrules}
@@ -2222,12 +2247,12 @@ The membership of the Board of Directors is:
  \begin{longtable}[!t]{ | p{3cm} | p{10cm} | }
 \hline
 \textbf{Position}&\textbf{Term} \\ \hline
-President&Chair of the Board of Directors, serving a 1-year term \\
-Vice-president – elected annually&Serves a 1-year term as Vice-president, automatically promoted to President for the next year at the close of that year's annual conference \\
-Former President&Serves a 1-year term after their service as the chair of the Board of Directors. \\
-Executive secretary (preceptor), without vote.& \\
+President&Chair of the Board of Directors, serving a 1-year term \\ \hline
+Vice-president – elected annually&Serves a 1-year term as Vice-president, automatically promoted to President for the next year at the close of that year's annual conference \\ \hline
+Former President&Serves a 1-year term \emph{after} their service as the chair of the Board of Directors. \\ \hline
+Executive secretary (preceptor), without vote.& \\ \hline
 
-Committee member elected at large&Serving 3-year term.\footnote{Only for classes larger than 16} \\
+Committee member elected at large&Serving 3-year term.\footnote{Only for classes larger than 16} \\ \hline
 Committee member elected at large&Serving 3-year term.\footnote{Only for classes larger than 16} \\ \hline
 \caption{Board of Directors Membership}
 \label{table: boardMembership}
@@ -2238,10 +2263,10 @@ The membership of the Board of Directors for the course of gameplay is contained
  \begin{longtable}[!t]{ | p{1cm} | p{2.5cm} | p{2.5cm} | p{2.5cm} | p{2.5cm} | p{2.5cm} | }
 \hline
 \textbf{Year}&\textbf{Former President}&\textbf{President}&\textbf{President-Elect}&\textbf{Member at large 1}&\textbf{Member at large 2} \\ \hline
-1971&Harlow&Miller&Bandura&Milgram&Albee\\
-1972&Miller&Bandura&Elected 1971&Elected 1971&-\\
-1973&Bandura&1971&Elected 1972&-&Elected 1972\\
-1974&1971&1972&Elected 1973&-&-\\
+1971&Harlow&Miller&Bandura&Milgram&Albee\\ \hline
+1972&Miller&Bandura&Elected 1971&Elected 1971&-\\ \hline
+1973&Bandura&1971&Elected 1972&-&Elected 1972\\ \hline
+1974&1971&1972&Elected 1973&-&-\\ \hline
 1975&1972&1973&Elected 1974&Elected 1974&-\\ \hline
 \caption{Terms for Board of Directors members}
 \label{table: boardMembership}
@@ -2254,6 +2279,8 @@ The Board of Directors has the power to create ad hoc committees or task forces 
 Unlike the creation of ad hoc committees or task forces, the creation of new permanent standing committees require a majority vote of the APA membership, not just the Board of Directors. A full proposal for such a committee, specifying its membership structure, voting procedures, rights and responsibilities should be distributed to the membership at least 48 hours before the vote. Dissolving a standing committee requires a majority vote of the membership.
 
 The Board of Directors represents the membership, it does not act in opposition. It is incredibly important, then, that the Board seeks approval from the membership as a whole at every turn. The Board is a capable of assigning duties to various subcommittees on its own, but all matters of policy should be turned over to the membership for an up or down vote.
+
+\newpage
 
 \subsubsection{Research Committee}
 \label{researchcommittee}
@@ -2294,6 +2321,8 @@ Members of the Research committee in 1971:
 
 \end{itemize}
 
+\newpage
+
 \subsubsection{Nomenclature Committee}
 \label{nomenclaturecommittee}
 
@@ -2324,6 +2353,8 @@ Members of the nomenclature committee in 1971:
 \item R. Spitzer (expiring 1976)
 
 \end{itemize}
+
+\newpage
 
 \subsubsection{Program Committee}
 \label{programcommittee}
@@ -2388,6 +2419,8 @@ A sample schedule is available on page \pageref{sample:bod}.
 
 
  
+
+\newpage
 
 \subsection{Elections}
 \label{elections}
@@ -2513,8 +2546,10 @@ As the id is the source of psychic energy, unacceptable drives using one of the 
 
 \end{itemize}
 
-As an example, classical psychoanalysis holds that obsessive-compulsive reaction can be traced to unresolved conflicts in the anal stage of development, where frustration at potty-training is turned into rage towards one's mother. That rage, in turn, is found to be unacceptable by the ego and repressed through one of the standard mechanisms creating obsessions with objects or scenarios that are symbolically linked to the original frustration. The particular object of obsession is essentially random, as the subject latches onto some mundane object present at the time of the frustration. The choice of obsessional object, however, can provide clues as to the true cause of the frustration, as it is invariably linked, through one of the mechanisms of representation, to the true object. The compulsive aspect of this conditions is an `acceptable' outlet for the unacceptable rage towards one's mother. Psychoanalysts go on to hold that obsessive-compulsive is often unconsciously aware of his or her rage and may take extreme steps to avoid losing control when provoked.
-\textbf{Psychoanalytic Treatment.}
+As an example, classical psychoanalysis holds that obsessive-compulsive reaction can be traced to unresolved conflicts in the anal stage of development, where frustration at potty-training is turned into rage towards one's mother. That rage, in turn, is found to be unacceptable by the ego and repressed through one of the standard mechanisms creating obsessions with objects or scenarios that are symbolically linked to the original frustration. The particular object of obsession is essentially random, as the subject latches onto some mundane object present at the time of the frustration. The choice of obsessional object, however, can provide clues as to the true cause of the frustration, as it is invariably linked, through one of the mechanisms of representation, to the true object. The compulsive aspect of this conditions is an `acceptable' outlet for the unacceptable rage towards one's mother. Psychoanalysts go on to hold that obsessive-compulsive is often unconsciously aware of his or her rage and may take extreme steps to avoid losing control when provoked. 
+
+\paragraph{Psychoanalytic Treatment}
+\label{psychoanalytictreatment}
 
 Psychoanalysis---the process of psychoanalytic treatment---aims at resolving unresolved conflicts that cause neurosis.\footnote{There is something of a controversy over whether psychoanalysis can be used to treat psychosis. While many psychoanalysts believe psychosis and neurosis to be on a single spectrum of mental dysfunction, the psychotic patient's connection to reality is so tenuous that the techniques of free-association and transference threaten to develop the psychosis further, rather than dissolve it.} The psychoanalyst seeks to align the psychic forces within the individual so that they are no longer in conflict. A psychoanalyst must keep all five psychoanalytic hypotheses---the topographical, dynamic, economy, genetic and structural---in mind during treatment, but in practice, tends to focus on one or two at a time. 
 
@@ -2530,41 +2565,32 @@ Throughout treatment, the psychoanalysts must be aware of \textbf{resistance}. R
 
 The psychoanalytic treatment can then be broken down into four basic steps:
 
-\begin{adjustwidth}{2.5em}{2.5em}
-\begin{verbatim}
+\begin{itemize}
+\item \textbf{Confrontation}: The first step in psychoanalysis: the patient's conscious ego must be made aware that there is a problem. 
 
-* **Confrontation**: The first step in psychoanalysis: the patient's conscious ego must be made aware that there is a problem. 
+\item \textbf{Clarification}: The problem is put into sharp focus. Often, this process works with the previous, as minor conflicts give way to greater conflicts.
 
-* **Clarification**: The problem is put into sharp focus. Often, this process works with the previous, as minor conflicts give way to greater conflicts.
+\item \textbf{Interpretation}: The process of bringing the unconscious conflict into consciousness.
 
-* **Interpretation**: The process of bringing the unconscious conflict into consciousness.
+\item \textbf{Working through}: the progressive elaboration of resistance mechanisms as they manifest.
 
-* **Working through**: the progressive elaboration of resistance mechanisms as they manifest.
-
-\end{verbatim}
-\end{adjustwidth}
+\end{itemize}
 
 There are, of course, many more complications that occur in any single patient's psychoanalytic treatment, but these four basic steps are almost universally recognized.
 
 When embarking on a new treatment, then, the psychoanalyst has three basic aims:
 
-\begin{adjustwidth}{2.5em}{2.5em}
-\begin{verbatim}
+\begin{enumerate}
+\item To translate the productions of the patient into their unconscious antecedents. The patient's thoughts, fantasies, feelings, behavior, and impulses have to be traced to their unconscious predecessors.
 
-1. To translate the productions of the patient into their unconscious antecedents. The patient's thoughts, fantasies, feelings, behavior, and impulses have to be traced to their unconscious predecessors.
+\item The unconscious elements must be synthesized into meaningful insights. Fragments of past and present history, conscious and unconscious, must be connected so as to give a sense of continuity and coherence in terms of the patient's life.
 
-2. The unconscious elements must be synthesized into meaningful insights. Fragments of past and present history, conscious and unconscious, must be connected so as to give a sense of continuity and coherence in terms of the patient's life.
+\item The insight so obtained must be communicable to the patient. As one listens one must ascertain what uncovered material will be constructively utilizable by the patient. (quoting from the \textbackslash{}emph\{American Handbook of Psychiatry\}, p. 779)
 
-3. The insight so obtained must be communicable to the patient. As one listens one must ascertain what uncovered material will be constructively utilizable by the patient. (quoting from the *American Handbook of Psychiatry*, p. 779)
+\end{enumerate}
 
-\end{verbatim}
-\end{adjustwidth}
-
-\textbf{Adler}
-
-INTENTIONALLY LEFT BLANK FOR THE TIME BEING
-
-\textbf{Jung}
+\paragraph{Jung}
+\label{jung}
 
 Jungian psychoanalysis is distinguished from classical psychoanalysis by two major shifts in the basic theory.
 
@@ -2572,13 +2598,7 @@ First, Jungian psychoanalysis holds that the subconscious contains psychical ele
 
 Jungian psychoanalysts believe they have evidence of unconscious contents that are not explainable by the experiences of the individual. Thus, they hypothesize the existence of a deeper `collective unconscious' that is composed of `archetypes' that inform and structure the content of both the unconscious as well as our conscious lives.
 
-\begin{adjustwidth}{2.5em}{2.5em}
-\begin{verbatim}
-
-Second, on a related note, Jungian psychoanalysis extends the *genetic hypothesis* from Freud's insistence that all psychic energy was sexual energy to include sexual energy as just one of many sources of psychic energy.
-
-\end{verbatim}
-\end{adjustwidth}
+Second, on a related note, Jungian psychoanalysis extends the \emph{genetic hypothesis} from Freud's insistence that all psychic energy was sexual energy to include sexual energy as just one of many sources of psychic energy.
 
 For example, Freud originally posited that neurosis originated in traumatic experience in childhood on the basis of self-reports of his case-study patients. He ultimately came to realize, however, that these self-reports were fictionalizations, theorizing that the true cause of his patient's neurosis lay in their infantile fixations. Once again, Jung extends Freud's insight to allow for fixations throughout life. He argues that:
 
@@ -2623,23 +2643,13 @@ Behaviorism holds that psychology is properly limited to the observation, predic
 
 \begin{enumerate}
 \item \emph{Internal entities are neither the object of scientific study nor explanatorily relevant to psychology.\footnote{See, for further explication of this claim, Skinner 1953, p. 27--31. Watson does not use the term `inner state', but refers rather to `consciousness', which he (possibly fallaciously) equates with the object of introspection. Thus, after objecting to the unreliability of introspective reports in a laboratory setting he claims ``The time seems to have come when psychology must discard all references to consciousness; when it need no longer delude itself into thinking that it is making mental states the object of observation.''}} Behaviorism begins with the deceptively simply insight that while psychoanalytic explanations are framed in terms of psychic entities (ego, id, etc.), quantities (psychic energy) and interactions (the mechanisms of repression), what all psychological theories seek to explain is behavior. These psychic entities, and the massive vocabulary that is required to discuss them, are all hypothetical, posited for the sake of explaining why people behave the way they do. Moreover, psychoanalytic hypotheses require a sharp dividing line between human behavior and animal behavior, which is not born out by empirical observation.\footnote{Animals do not have superegos or techniques of repression, so the behaviors explained in psychoanalytic terms should not generalize across species. But they do. Therefore, psychoanalytic explanations are insufficient.}
-
-\end{enumerate}
-
 To be scientific, then, psychology must limit itself to observable behavior. The discourse of psychology as a scientific discipline is restricted to those terms that denote observable variables: behavior and environmental conditions, not internal mental states. From characterizing the phenomenon to be studied to offering an explanation, the behaviorist is committed to avoiding all terms that denote entities, quantities or interactions that are internal or unobservable.\footnote{Watson seeks to eliminate the following misleading and unscientific terms from psychology: ``consciousness, mental states, mind, content, introspectively verifiable, imagery, and the like.'' (1913)}
-
 A corollary of the thesis, which is frequently highlighted as an independent claim, is that \emph{introspection is not a scientific form of observation}. One might argue (as historical figures like William James and William Wundt did–see \ref{americanpsychology:williamjamesandthefunctionofconsciousness} and \ref{introspection:wundt}) that internal states \emph{are} scientifically observable via introspection. Behaviorists, however, reject introspection as scientifically unreliable.\footnote{See, e.g. Watson 1913 ``Introspection forms no essential part of its methods, nor is the scientific value of its data dependent upon the readiness with which they lend themselves to interpretation in terms of consciousness'' and Skinner 1953 p. 30} Evidence from Wundt and James demonstrates, they argue, that introspective procedures produce different results for different practitioners, and scientific evidence should be replicable regardless of the practitioner.
-
 Behaviorists disagree on whether internal mental states are non-existent fictions or merely unavailable to scientific inquiry; but that is not important here. What is important is that these putative internal mental states do not enter into the scientific study of behavior, or the scientific language that describes and explains behavior.
 
-\begin{enumerate}
 \item \emph{The proper object of study for psychology is the organism and its environment}. As a corollary of this insight, Behaviorists see behavior as the activity of an \emph{organism}, not the activity of a \emph{mind}. Psychology, for the behaviorist, is not the study of \emph{parts} of an organism (such as the ``ego,'' ``id,'' and ``superego'') and their relations, but rather the organism \emph{as a whole} and its relationships with its environments. And similarly, explanations offered by Behaviorists refer to organisms, behaviors and environmental conditions, not methods of repression and techniques of representation. Behaviorism restricts is object of study as well as its explanations to the macroscopic scale: things that can be directly observed by the naked eye. In the classical sense, Behaviorism rejects \emph{as non-scientific} explanations in terms of or investigations into things that are larger (societies, cultures)\footnote{Recall that Behaviorism was formed in the first half of the 20th century, when Hegelianism was a viable theory of social science. Behaviorists here are not rejecting the plausibility of modern social psychology, anthropology or sociology. They are rejecting the idea of a transcendent spirit that instantiates human culture.} or smaller (brains, neurons).
-
-\end{enumerate}
-
 This thesis unites behaviorism with classical psychoanalysis in opposition to Jung, because it holds that all present behavior is the result of discrete learning events in the individual's past. But unlike psychoanalytic explanations that posit unresolved psychic conflict to explain behavior, the behaviorist appeals only to previous learning experiences. To discover the reason for a given behavior then, is to discover the patterns of environmental reinforcement (called `conditioning') that have caused the organism to learn this behavior. To cure a behavior is to `extinguish' those conditioned responses in the organism or block those responses by substituting a new and novel response. Behaviorists hypothesize that learning can be physically realized in neurology, and hence, behaviorism is far more simple and plausible a theory than psychoanalysis, which cannot.
 
-\begin{enumerate}
 \item \emph{The principles of learning are generalizable across species.\footnote{See, e.g. Watson 1913 ``The behaviorist, in his efforts to get a unitary scheme of animal response, recognizes no dividing line between man and brute.''}} Behaviorists argue that given that animals are incapable of introspection---or, if they are, they cannot communicate it---psychological theories that make use of introspection are incapable of explaining animal psychology. Behaviorism, however, is not. Non-human animals are organisms living in environments that behave in certain regular ways. All of that is accessible to behavioristic science. And as it is an uncontroversial observation that at least some human behavior is the same as animal behavior (caring for the young, for example), it follows that behaviorism can explain regularities that introspective psychology cannot.
 
 \end{enumerate}
@@ -2942,7 +2952,7 @@ Gebhard, Paul H. and Johnson, Alan B. (1979\slash 1998). The Kinsey Data: Margin
 
 Independent Journalist for Variety, Gold is attending the APA meeting to cover the protests by gay activists.
 
-\emph{Credibility Points}: gets 10 points to distribute each conference
+\emph{Credibility Points}: starts each conference with 10 points to distribute.
 
 \subsubsection{Frank Kameny and\slash or Barbara Gittings (Activists)*}
 \label{frankkamenyandorbarbaragittingsactivists}
@@ -2955,6 +2965,7 @@ Frank Kameny and Barbara Gittings are the co-directors of the Mattachine Society
 Former Director of Harvard's Department of Social Relations, currently director of the Graduate Program in Social Psychology at CUNY. Milgram is most famous for his `small world' experiments, which asked randomly selected individuals in the midwest to attempt to deliver a message to a randomly selected individual in Boston through their existing social contacts. It was this study that produced the commonly-held belief that all people are separated by `six degrees of separation.'
 
 \emph{Notable Work}
+
 Milgram, Stanley. (1967). ``The Small World Problem'' Psychology Today, 2 p. 60 – 67
 
 \subsubsection{Jean Piaget, PhD Director of the International Center for Genetic Epistemology in Geneva, Switzerland (Developmental psychologist)*}
@@ -3127,34 +3138,31 @@ In the context of psychiatry, of course, the distinction made between therapeuti
 \subsubsection{The APA Ethical Standards for Psychologists}
 \label{theapaethicalstandardsforpsychologists}
 
-The APA Standards were first published in 1953. They were revised in 1959, 1963 and 1968. The 1968 standards, which should guide the research committee in determining which research programs should be allowed to move forward, are attached in the Appendix.
+The APA Standards were first published in 1953. They were revised in 1959, 1963 and 1968. The 1968 standards, which should guide the research committee in determining which research programs should be allowed to move forward, are attached in \fullref{app: APAEthics}.
 
 Most of the APA standards outline the responsibilities of psychologists who practice counseling and patient care. While those are incredibly important, we're most concerned here with Principle 16: Research Precautions. In 1959, section 16 was titled `Harmful Aftereffect.' It read:
 
 \noindent\fbox{%
  \parbox{\textwidth}{%
 
-Principle 16. Harmful Aftereffects. Only when a problem is significant and can be investigated in no other way is the psychologist justified in giving misinformation to research subjects or exposing research subjects to physical or emotional stress.
+\textbf{Principle 16. Harmful Aftereffects}. Only when a problem is significant and can be investigated in no other way is the psychologist justified in giving misinformation to research subjects or exposing research subjects to physical or emotional stress.
 
 a. When the possibility of serious aftereffects exists, research is conducted only when the subjects or the responsible agents are fully informed of this possibility and volunteer nevertheless.
 
 b. The psychologist seriously considers the possibility harmful aftereffects and removes them as soon as permitted by the design of the experiment.
 
-1.  c. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.
-}}\captionof{InfoBox}{APA Ethical Standards: 1959\label{sample:APAEthics1959}}
- 
-
-Table 3: APA Ethical Standards: 1959
+    c. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.
+}}\captionof{InfoBox}{APA Ethical Standards: 1959\label{sample:APAEthics1959}} 
 
 Four years later, in 1963, the committee responsible for the Ethical guidelines moved the `preamble' into a numbered point 
 
-(a),changed the title to `Research Precautions' and added a new preamble. It also changed the phrase `is significant' to `is of scientific significance'; ' can be investigated in no other way' became ' it is not practicable to investigate it in any other way`; ' giving misinformation to research subjects' was dropped; and the phrase `whether children or adults' added to the new point (a). 
+a. changed the title to `Research Precautions' and added a new preamble. It also changed the phrase `is significant' to `is of scientific significance'; ' can be investigated in no other way' became ' it is not practicable to investigate it in any other way`; ' giving misinformation to research subjects' was dropped; and the phrase `whether children or adults' added to the new point (a). 
 
-(b) added the qualification of `reasonable' to `possibility'; changed `harmful' to `injurious' and `volunteer' became `agree to participate'. 
+b. added the qualification of `reasonable' to `possibility'; changed `harmful' to `injurious' and `volunteer' became `agree to participate'. 
 
-(c) changed `removes' to `avoids or removes'; and 
+c. changed `removes' to `avoids or removes'; and 
 
-(d) were unchanged: (changes italicized)
+d. were unchanged: (changes italicized)
 
 \noindent\fbox{%
  \parbox{\textwidth}{%
@@ -3188,8 +3196,6 @@ e. Investigations of human subjects using experimental drugs (for example, hallu
 }}\captionof{InfoBox}{APA Ethical standards 1968\label{sample: APAEthics1968}}
  
 
-Table 5: APA Ethical Standards 1968
-
 \subsubsection{Further reading:}
 \label{furtherreading:}
 
@@ -3199,21 +3205,21 @@ World Medical Organization. Declaration of Helsinki. British Medical Journal (7 
 
 The APA Standards are available from the American Psychologist:
 
-1953 is available as a book, and is held by some libraries
+\begin{itemize}
+\item 1953 is available as a book, and is held by some libraries
+
+\end{itemize}
 
 Subsequent standards were published in the American Psychologist:
 
-1958 American Psychologist (13) p. 268--271
+\begin{itemize}
+\item 1958 American Psychologist (13) p. 268--271
 
-\begin{adjustwidth}{2.5em}{2.5em}
-\begin{verbatim}
+\item 1963 American Psychologist (18) p. 56--60
 
-1963 American Psychologist (18) p. 56-60
+\item 1968 American Psychologist (23) p. 357--361
 
-1968 American Psychologist (23) p. 357-361
-
-\end{verbatim}
-\end{adjustwidth}
+\end{itemize}
 
 For a historical overview, see:
 
@@ -4102,13 +4108,15 @@ At the same time, we should remember that Medicare and Medicaid were created in 
 \end{verbatim}
 \end{adjustwidth}
 
-\begin{figure}[h]
- \centering
+\begin{wrapfigure}{r}{0.5\textwidth}
+ \begin{center}
 
- \includegraphics{../images/md28530.jpg}
+
+ \includegraphics[scale=0.25]{../images/md28530.jpg}
+\end{center}
  \caption{Advertisement for Blue Cross, 1960. From http://www.decodog.com/inven/MD/md28530.jpg }
 \label{fig: BlueCross}
-\end{figure}
+\end{wrapfigure}
 
 
 \section{Learning Objectives}
