@@ -33,9 +33,9 @@
 	<key>SCRCompileColorPrintedHyperlinksKey</key>
 	<true/>
 	<key>SCRCompileConvertEllipsesToTriplePeriodsKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileConvertEmDashesToHyphensKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileConvertItalicsToUnderlineKey</key>
 	<false/>
 	<key>SCRCompileConvertLinkedRTFDImagesToEmbeddedImagesKey</key>
@@ -45,7 +45,7 @@
 	<key>SCRCompileConvertMultiMarkdownToRichTextKey</key>
 	<false/>
 	<key>SCRCompileConvertSpacesKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileConvertSpacingToPlainTextKey</key>
 	<false/>
 	<key>SCRCompileConvertTablesToImagesKey</key>
@@ -57,7 +57,7 @@
 	<key>SCRCompileCustomSeparatorsRespectIndentsKey</key>
 	<false/>
 	<key>SCRCompileDeleteStruckThroughTextKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileDifferentAlternatePageHeaderAndFooterKey</key>
 	<false/>
 	<key>SCRCompileDifferentFirstPageHeaderAndFooterKey</key>
@@ -236,7 +236,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			AEkAdABhAGwAaQBjAIQBZg6EAWMAowGjAKMAhoY=
 			</data>
 			<key>SCRMultiMarkdownPlacesTitlePrefixInsideHashesKey</key>
-			<true/>
+			<false/>
 			<key>SCRMultiMarkdownPlacesTitleSuffixInsideHashesKey</key>
 			<true/>
 			<key>SCRNextSectionRectoVersoKey</key>
@@ -256,7 +256,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<key>SCRPagePaddingKey</key>
 			<integer>0</integer>
 			<key>SCRPlaceTitleAsRunInHeadKey</key>
-			<false/>
+			<true/>
 			<key>SCRSectionRectoVersoKey</key>
 			<integer>0</integer>
 			<key>SCRSectionUsesRectoVersoControlKey</key>
@@ -303,7 +303,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			AWMAnwGfAJ8AhoY=
 			</data>
 			<key>SCRTitleCaseKey</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>SCRTitlePrefixAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
@@ -363,7 +363,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			AEkAdABhAGwAaQBjAIQBZg6EAWMAowGjAKMAhoY=
 			</data>
 			<key>SCRMultiMarkdownPlacesTitlePrefixInsideHashesKey</key>
-			<true/>
+			<false/>
 			<key>SCRMultiMarkdownPlacesTitleSuffixInsideHashesKey</key>
 			<true/>
 			<key>SCRNextSectionRectoVersoKey</key>
@@ -383,7 +383,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<key>SCRPagePaddingKey</key>
 			<integer>0</integer>
 			<key>SCRPlaceTitleAsRunInHeadKey</key>
-			<false/>
+			<true/>
 			<key>SCRSectionRectoVersoKey</key>
 			<integer>0</integer>
 			<key>SCRSectionUsesRectoVersoControlKey</key>
@@ -430,7 +430,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			AWMAnwGfAJ8AhoY=
 			</data>
 			<key>SCRTitleCaseKey</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>SCRTitlePrefixAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
@@ -575,7 +575,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileMultiMarkdownLaTeXBeginDocumentStringKey</key>
 	<string></string>
 	<key>SCRCompileMultiMarkdownLaTeXDocumentClassKey</key>
-	<integer>3</integer>
+	<integer>1</integer>
 	<key>SCRCompileMultiMarkdownLaTeXFooterStringKey</key>
 	<string></string>
 	<key>SCRCompileMultiMarkdownLaTeXHeaderStringKey</key>
@@ -616,11 +616,11 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileNoPagePaddingForFirstDocumentKey</key>
 	<integer>0</integer>
 	<key>SCRCompileNotesBeforeTextKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileOmitTitlePrefixFromFrontMatterDocumentsKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileOmitTitleSuffixFromFrontMatterDocumentsKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileOnlyUseTitlePrefixInUpdatedLinksKey</key>
 	<false/>
 	<key>SCRCompileOverrideAffectsFontOnlyKey</key>
@@ -722,7 +722,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileRemoveTextColorKey</key>
 	<false/>
 	<key>SCRCompileRemoveTrailingWhitespaceKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileResampleImagesKey</key>
 	<false/>
 	<key>SCRCompileRestrictWidthOfStitchedTablesKey</key>
@@ -766,7 +766,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileStitchTablesTogetherKey</key>
 	<false/>
 	<key>SCRCompileStraightenTypographersQuotesKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileTableImagesMaxWidthKey</key>
 	<integer>600</integer>
 	<key>SCRCompileTextAndFolderCustomSeparatorStringKey</key>
@@ -787,7 +787,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<key>SCRIncludeTextKey</key>
 			<true/>
 			<key>SCRIncludeTitlesKey</key>
-			<true/>
+			<false/>
 			<key>SCRMainTextUppercaseFirstWordsUseSmallCapsKey</key>
 			<false/>
 			<key>SCRMainTextWordsToUppercaseInNewSectionsKey</key>
@@ -808,10 +808,6 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<true/>
 			<key>SCRMultiMarkdownPlacesTitleSuffixInsideHashesKey</key>
 			<true/>
-			<key>SCRNextSectionRectoVersoKey</key>
-			<integer>0</integer>
-			<key>SCRNextSectionUsesRectoVersoControlKey</key>
-			<false/>
 			<key>SCRNotesAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
@@ -1047,5 +1043,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<true/>
 	<key>SCRCompileVariableReplacementsKey</key>
 	<array/>
+	<key>SCRPlaceTitleAsRunInHeadKey</key>
+	<true/>
 </dict>
 </plist>

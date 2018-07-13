@@ -34,7 +34,7 @@
 <br/>
  <br/>
 \def\mysubtitle{The struggle for legitimacy of psychology and psychiatry in the 1970's}<br/>
-\addbibresource{APA.bib}<br/>
+\addbibresource{../APA.bib}<br/>
 \DeclareBibliographyAlias{webpage}{online} <br/>
 <br/>
 <br/>
@@ -46,14 +46,14 @@
   UprightFont=* Book,             % or Light<br/>
   ItalicFont=* Book Oblique,      % or Light Oblique<br/>
   BoldFont=* Black,               % or Medium<br/>
-  BoldItali...</p>
+  BoldIt...</p>
 </li>
 <li>
 <p class="binderItem"><strong>Tufte-Title</strong><br/><!-- <br/>
 \def\mysubtitle{A Guide for the Intentional Student}<br/>
  <br/>
 \input{mmd-tufte-header.tex}<br/>
-\addbibresource{../WBE.bib}<br/>
+\addbibresource{../APA.bib}<br/>
 \DeclareBibliographyAlias{webpage}{online} <br/>
 <br/>
 \definecolor{ferrisred}{RGB}{186,18,43}<br/>
@@ -61,7 +61,7 @@
 <br/>
 % For nicely typeset tabular material<br/>
 \usepackage{booktabs}<br/>
-<br/>
+\usepackage{appendix}<br/>
 \makeindex<br/>
 <br/>
 <br/>
@@ -72,11 +72,33 @@
 \usepackage{varioref}<br/>
 \usepackage{marginfix}<br/>
 \usepackage{morefloats}<br/>
-\extrafloats{100}<br/>
+\extrafloats{1000}<br/>
+<br/>
+<br/>
+...</p>
+</li>
+<li>
+<p class="binderItem"><strong>Latex-common</strong><br/><!--<br/>
+%\newcommand{\fullref}[1]{\hyperref[{#1}]{\autoref*{#1} \nameref*{#1}}}<br/>
+\newcommand*{\tahead}[1]{{\bfseries #1}} % Table header<br/>
+\newcommand*{\thead}[1]{{\bfseries #1}} % Table header<br/>
+\newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}<br/>
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}<br/>
 <br/>
 <br/>
 <br/>
-\setkeys{Gin}{width=\...</p>
+%\ldots<br/>
+\newcolumntype{d}[1]{D{.}{\cdot}{#1} } % Define table column<br/>
+<br/>
+\pagestyle{plain}<br/>
+<br/>
+<br/>
+\setcounter{tocdepth}{1}<br/>
+<br/>
+% Set numbering system to sub subsection<br/>
+<br/>
+% Generates the index<br/>
+\usepackage{ma...</p>
 </li>
 <li>
 <p class="binderItem"><strong>Game Book</strong></p>
@@ -92,14 +114,11 @@
 <br/>
 <br/>
 <br/>
-<br/>
+# Game Book<br/>
 <br/>
 <!--<br/>
 \title{Defining the Mind:\protect\\<br/>
 \large{The struggle for legitimacy in psychology and psychiatry during the 1970s.}}<br/>
-<br/>
-\author[1]{Peter Bradley\thanks{peterbradley@ferris.edu}}<br/>
-\affil[1]{Honors Program, Ferris State University}<br/>
 <br/>
 \maketitle<br/>
 \newpage<br/>
@@ -131,11 +150,11 @@
 <hr/>
 <ul>
 <li>
-<p class="binderItem"><strong>Brief overview of the game</strong><br/>### The Game<br/>
+<p class="binderItem"><strong>Brief overview of the game</strong><br/>## The Game<br/>
 <br/>
 This game highlights the intellectual conflicts that changed American psychiatry and psychology in the early part of the 1970s.<br/>
 <br/>
- It might seem a little odd, in reacting game, to be exploring relatively recent events. While there will be no executions, ostracisms or civil wars in this game, the intellectual stakes are no less high. What you know of Psychiatry and Psychology today—the social significance of the APA's *Diagnostic and Statistical Manual *(DSM), the use of psychopharma...</p>
+ It might seem a little odd, in reacting game, to be exploring relatively recent events. While there will be no executions, ostracisms or civil wars in this game, the intellectual stakes are no less high. What you know of Psychiatry and Psychology today—the social significance of the APA's *Diagnostic and Statistical Manual *(DSM), the use of psychopharmac...</p>
 </li>
 <li>
 <p class="binderItem"><strong>Prologue</strong><br/>### Prologue<br/>
@@ -333,11 +352,10 @@ The APA is overseen by a Board of Directors, which is responsible for maintainin
 <hr/>
 <ul>
 <li>
-<p class="binderItem"><strong>Main Factions</strong><br/>### Main Factions<br/>
-<br/>
+<p class="binderItem"><strong>Main Factions</strong><br/><br/>
 Players represent three factions with different perspectives on not only the nature of scientific inquiry into the human mind, but the object of those studies themselves.  A number of independents, representing a variety of academic disciplines, complement these three factions.<br/>
 <br/>
-It should be noted that unlike some other reacting games, individuals in these factions are not bound to think or vote the same way on the central issues in the game. The factions represent high-level ...</p>
+It should be noted that unlike some other reacting games, individuals in these factions are not bound to think or vote the same way on the central issues in the game. The factions represent high-level agreement on the n...</p>
 </li>
 <hr/>
 <ul>
@@ -416,9 +434,9 @@ Ethical codes of research have generally followed the discovery or publication o
 Works cited should go here (this page is optional). See the Works Cited Format document for information on formatting citations.<br/>
 <br/>
 <!--<br/>
-\backmatter<br/>
-\printindex<br/>
-\printbibliography<br/>
+%\backmatter<br/>
+%\printindex<br/>
+%\printbibliography<br/>
 <br/>
 --></p>
 </li>
@@ -533,7 +551,7 @@ Works cited should go here (this page is optional). See the Works Cited Format d
 <hr/>
 <ul>
 <li>
-<p class="binderItem"><strong>Front matter</strong></p>
+<p class="binderItem"><strong>Front matter</strong><br/># Instructor’s Manual</p>
 </li>
 <li>
 <p class="binderItem"><strong>Introduction</strong></p>
@@ -1117,6 +1135,9 @@ Sheehy, N., Chapman, A. J., & Conroy, W. A. (1997). Biographical...</p>
 </li>
 <hr/>
 <ul>
+<li>
+<p class="binderItem"><strong>Front Matter</strong><br/># Role Sheets</p>
+</li>
 <li>
 <p class="binderItem"><strong>GAlbee</strong><br/>## George W. Albee, PhD<br/>
 ### Your Biography<br/>

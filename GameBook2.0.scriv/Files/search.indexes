@@ -9,8 +9,7 @@
         </Document>
         <Document ID="34">
             <Title>Main Factions</Title>
-            <Text>### Main Factions
-
+            <Text>
 Players represent three factions with different perspectives on not only the nature of scientific inquiry into the human mind, but the object of those studies themselves.  A number of independents, representing a variety of academic disciplines, complement these three factions.
 
 It should be noted that unlike some other reacting games, individuals in these factions are not bound to think or vote the same way on the central issues in the game. The factions represent high-level agreement on the nature of the science of the mind, there is almost complete disagreement on all other issues. In fact, when it comes to actual game play, you might find that your votes are more aligned with members of other factions than your own.</Text>
@@ -121,7 +120,7 @@ The duty and responsibility for ascertaining the quality of the consent rests up
 
 10.	During the course of the experiment the scientist in charge must be prepared to terminate the experiment at any stage, if he has probable cause to believe, in the exercise of the good faith, superior skill and careful judgment required of him that a continuation of the experiment is likely to result in injury, disability or death to the experimental subject.
 }} 
- \captionof{InfoBox}{The Nuremberg Code\label{sample:nuremberg}}--&gt;
+ %\captionof{InfoBox}{The Nuremberg Code\label{sample:nuremberg}}--&gt;
 
 ##### The Declaration of Helsinki
 
@@ -183,7 +182,7 @@ III. Non-Therapeutic Biomedical Research Involving Human Subjects (Non-Clinical 
 
 4.	In research on man, the interest of science and society should never take precedence over considerations related to the well-being of the subject.
 }}
- \captionof{InfoBox}{The Declaration of Helsinki\label{sample:helsinki}} --&gt; 
+ %\captionof{InfoBox}{The Declaration of Helsinki\label{sample:helsinki}} --&gt; 
 
 
 
@@ -205,7 +204,8 @@ a. When the possibility of serious aftereffects exists, research is conducted on
 b. The psychologist seriously considers the possibility harmful aftereffects and removes them as soon as permitted by the design of the experiment.
 
 	c. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.
-}}\captionof{InfoBox}{APA Ethical Standards: 1959\label{sample:APAEthics1959}} --&gt; 
+}}
+%\captionof{InfoBox}{APA Ethical Standards: 1959\label{sample:APAEthics1959}} --&gt; 
 
 Four years later, in 1963, the committee responsible for the Ethical guidelines moved the 'preamble' into a numbered point 
 
@@ -228,7 +228,8 @@ b. When the possibility of injurious aftereffects exists, research is conducted 
 c. The psychologist seriously considers the possibility harmful aftereffects and avoids or removes them as soon as permitted by the design of the experiment.
 
 2.	d. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.
-}} \captionof{InfoBox}{APA Ethical standards 1963\label{sample: APAEthics1963}}--&gt; 
+}} 
+%\captionof{InfoBox}{APA Ethical standards 1963\label{sample: APAEthics1963}}--&gt; 
 
  These changed little between 1963 and 1968, except for the addition of  the qualifying phrase 'as part of the investigation' to (a) and adding provision (e) governing the use of psychoactive drugs:
 
@@ -247,7 +248,8 @@ c. The psychologist seriously considers the possibility harmful aftereffects and
 3.	d. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.
 
 e. Investigations of human subjects using experimental drugs (for example, hallucinogenic, psychotomimetic, psychedelic, or similar substances) should be conducted only in such settings as clinics, hospitals, or research facilities maintaining appropriate safeguards for the subjects.
-}}\captionof{InfoBox}{APA Ethical standards 1968\label{sample: APAEthics1968}}
+}}
+%\captionof{InfoBox}{APA Ethical standards 1968\label{sample: APAEthics1968}}
  --&gt; 
 
 
@@ -1164,14 +1166,14 @@ Kinsey and his assistants had interviewed 5,300 white males from all walks of Am
 The Kinsey report found that homosexual activity as a common part of male sexual development.  Self-identifying as a homosexual, or engaging exclusively in homosexual activity, was found to be more rare. But at 10%, it was almost twice as high as any previous scientific estimate. Almost as importantly, Kinsey identified the source of psychic disturbance not to be the homosexual activity itself, but the social structures that penalize such behavior.
 
 ##### Early 'Homophile' movements
-&lt;!--\begin{wrapfigure}{r}{0.5\textwidth}
+&lt;!--\begin{marginfigure}
  \begin{center}
 
      \includegraphics{../images/1965-gay-Picket-thumb-225x186-17508.png}
 \end{center}
  \caption{‘Homophile’ activists picketing in 1965. From http://bilerico.lgbtqnation.com/}
 \label{fig: 1965Picket}
-\end{wrapfigure}
+\end{marginfigure}
 --&gt;
 
 Two years after the publication of the Kinsey report, a group of 'homophile' activists founded the Mattachine society, which is now generally recognized as the first national gay-rights organization.
@@ -1182,7 +1184,7 @@ Two years after the publication of the Kinsey report, a group of 'homophile' act
 
 At the same time, a secret social club for Lesbians called The Daughters of Bilitis was founded in San Francisco  by Del Martin and Phyllis Lyon. To stay in touch with its members they created a magazine called 'The Ladder', which came under the editorship of Barbara Gittings in 1963. The magazine flourished under Gittings' direction, growing from a simple hand-stapled newsletter to a true 40-page magazine. Gittings became a leader, along with Frank Kameny, of the Mattachine society.
 
-&lt;!--\begin{wrapfigure}{r}{0.5\textwidth}
+&lt;!--\begin{marginfigure}
  \begin{center}
 
      \includegraphics{../PrimarySourceMaterials/MattachineSocietyPamphlet1964-A.jpg}
@@ -1190,7 +1192,7 @@ At the same time, a secret social club for Lesbians called The Daughters of Bili
 \end{center}
  \caption{‘Penalties for Sex Offenses’, a Pamphlet distributed by the Mattachine Society in 1964 to educate its members.  From http://web-static.nypl.org/exhibitions/1969/ref/1696842.html}
 \label{fig: MattachinePamphlet}
-\end{wrapfigure}
+\end{marginfigure}
 --&gt;
 
 ##### Connecting these threads: Evelyn Hooker
@@ -1209,14 +1211,14 @@ Hooker presented her findings at the 1956 APA in Chicago. Her paper was publishe
 By the 1960s, tensions were growing in the gay community. Another group of younger gay activists were growing irritated with both the slow progress of the Mattachine society and its restrictions on behavior. In 1968, a group of young 'street-activists' disrupted a meeting of the American Medical Association in New York by shouting down Charles Socarides, a Psychiatrist known for his psychoanalytic treatment of homosexuals.
 
 But everything changed forever on Saturday, June 28, 1969 at 1:20 AM, when the police raided the Stonewall Inn in Greenwich Village. These raids were common---the police would arrest everyone, roughing people up, and generally intimidating the population.  But this time, the gay and lesbian patrons of the Stonewall resisted. Events escalated. The riots that followed lasted until Wednesday night, July 3rd. 
-&lt;!--\begin{wrapfigure}{r}{0.5\textwidth}
+&lt;!--\begin{marginfigure}
  \begin{center}
 
      \includegraphics[scale=0.5]{../images/KamenyPicketInstructions.jpg}
 \end{center}
  \caption{Rules for Picketing. From the Kameny papers website: http://www.kamenypapers.org/memorabilia.htm, collected 7/14/2016}
 \label{fig: MattachineRules}
-\end{wrapfigure}
+\end{marginfigure}
 --&gt;
 
 On July 4th, the gay community’s attention turned to Independence Hall in Philadelphia and the Mattachine society’s annual march. As usual, Frank Kameny and Barbara Gittings, long time leaders of that gay and lesbian advocacy group, required the women to wear skirts and men suits. But the tide had turned. The young protestors from Stonewall would not conform. Kameny’s approach of assimilation  to “straight” behavior had been surpassed by the direct action begun at Stonewall. Militant groups such as the Gay Liberation Front and the Gay Activist Alliance sprouted up overnight (both started in New York). Plans were made to confront those who continued to classify homosexuality as a mental disorder, and directly challenge those who continued to treat homosexuals using barbaric methods.
@@ -1573,14 +1575,14 @@ Readers of these sections will no doubt recognize this taxonomy as owing an inte
 
 Charcot began his career at the Salpêtrière tending to the 'incurables'—the patients whose conditions had been classified as 'idiocy' or 'dementia.' Charcot saw himself primarily as a nosologist: a classifier or taxonomizer of disease, rather than a healer. His appointment was, in many ways, ideal. This was a patient population for which there was no hope of cure, and morever, had not been studied in a careful way.  
 
-&lt;!--\begin{wrapfigure}{r}{0.5\textwidth}
+&lt;!--\begin{marginfigure}
  \begin{center}
 
      \includegraphics[scale=0.25]{../images/hysterie-troisiemephase.jpg}
 \end{center}
  \caption{Photo of patient of M. Charcot in the Salpêtrière. From Wellcome images, https://wellcomecollection.org/works/fh922zk8 }
 \label{fig: charcotpatient}
-\end{wrapfigure}
+\end{marginfigure}
 --&gt;
 
 Charcot is, today, often classified as a neurologist. That is a bit of historicism, as there was no such field when he began work.  In fact, the 'neuron doctrine', or the idea that the nervous system is composed of individual cells called 'neurons,' is not formally advanced until 1891. And it isn't until 1911 that Ramon y Cajal uses the Golgi stain to highlight neurons in the hippocampus, confirming the neuron doctrine.
@@ -2402,7 +2404,7 @@ If the gamemaster wishes to make a point about the influence of psychopharmacolo
 At the same time,  we should remember that Medicare and Medicaid were created in 1965, and the health insurance industry was undergoing a simultaneous revolution:  
 
 	* BlueCross 1960: 
-&lt;!--\begin{wrapfigure}{r}{0.5\textwidth}
+&lt;!--\begin{marginfigure}
  \begin{center}
 
 
@@ -2410,7 +2412,7 @@ At the same time,  we should remember that Medicare and Medicaid were created in
 \end{center}
  \caption{Advertisement for Blue Cross, 1960. From http://www.decodog.com/inven/MD/md28530.jpg }
 \label{fig: BlueCross}
-\end{wrapfigure}
+\end{marginfigure}
 --&gt;
  	</Text>
         </Document>
@@ -9884,6 +9886,39 @@ changing behavior. Reading, Mass.: Addison-Wesley, 1969.
         <Document ID="95">
             <Title>BanduraA</Title>
         </Document>
+        <Document ID="319">
+            <Title>Latex-common</Title>
+            <Text>&lt;!--
+%\newcommand{\fullref}[1]{\hyperref[{#1}]{\autoref*{#1} \nameref*{#1}}}
+\newcommand*{\tahead}[1]{{\bfseries #1}} % Table header
+\newcommand*{\thead}[1]{{\bfseries #1}} % Table header
+\newcolumntype{P}[1]{&gt;{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{&gt;{\raggedleft\arraybackslash}p{#1}}
+
+
+
+%\ldots
+\newcolumntype{d}[1]{D{.}{\cdot}{#1} } % Define table column
+
+\pagestyle{plain}
+
+
+\setcounter{tocdepth}{1}
+
+% Set numbering system to sub subsection
+
+% Generates the index
+\usepackage{makeidx}
+\makeindex
+
+\begin{document}
+\maketitle
+
+% Front matter
+\frontmatter\pagenumbering{roman}\pagestyle{empty}
+
+--&gt;</Text>
+        </Document>
         <Document ID="96">
             <Title>BieberIrving</Title>
         </Document>
@@ -10238,6 +10273,7 @@ Crowne, D.P. &amp; Marlowe, D. (1960). “A new scale of social desirability ind
         </Document>
         <Document ID="194">
             <Title>Front matter</Title>
+            <Text># Instructor’s Manual</Text>
         </Document>
         <Document ID="164">
             <Title>Spitzer</Title>
@@ -11506,7 +11542,7 @@ Classical psychoanalysis can be summarized by five basic hypotheses:
 
 1.	First, psychoanalysts hold that the mind is composed of entities in conflict, also known as the *hypothesis of intrapsychic conflict* or **dynamic hypothesis**. In classic Freudianism, the hypothesis followed “the discovery of the unconscious” by Breuer and Freud in 1895 (see &lt;!--\ref{hysteriaandhypnosis:freudbreueronannao}--&gt;). Traumatic event or fantasies can leave a subject with memories that are unacceptable to the conscious awareness. The conscious awareness defends itself by suppressing the traumatic event in the unconscious by means of repression (see, e.g. *Introductory Lectures on Psychoanalysis*, p. 82, 94 also p. 438). This hypothesis is sometimes called the **psychodynamic hypothesis**.
 
-2.	Second, psychoanalysis posits that there is a finite amount of psychic energy available to any given individual. This forms the **Economic hypothesis** of classical psychoanalysis (See Freud, I*ntroductory Lectures*, p. 26 and 436-7 for the thesis that psychic energy is sexual; p. 340, 442-3 and 466for an explicit statement. It also appears in *On the Interpretation Dreams*, Ch7). The activities of the mind are “costly,” and hence the mind will optimize its function for the most efficient option.
+2.	Second, psychoanalysis posits that there is a finite amount of psychic energy available to any given individual. This forms the **Economic hypothesis** of classical psychoanalysis (See Freud, *Introductory Lectures*, p. 26 and 436-7 for the thesis that psychic energy is sexual; p. 340, 442-3 and 466for an explicit statement. It also appears in *On the Interpretation Dreams*, Ch7). The activities of the mind are “costly,” and hence the mind will optimize its function for the most efficient option.
 
 3.	The **topographical hypothesis** is Freud's most well known:  the mind composed of three basic kinds of thoughts: conscious thoughts, pre-conscious thoughts and unconscious thoughts. The term 'thoughts' here is used broadly, to include wishes, desires, fears, emotions, etc. Conscious thoughts are those of which we are aware. Pre-conscious thoughts, are not currently conscious, but are readily available to consciousness. The memory of your last birthday, for example, is probably pre-conscious, not unconscious. Unconscious thoughts, which far outnumber the other two categories, are unavailable to consciousness. All these thoughts, however, originate in experience: there is nothing in the unconscious store that is not linked in some way to that individual's past experiences. (see, e.g. *Introductory lectures*, p. 25)
 
@@ -16019,7 +16055,7 @@ The historian of ideas may notice that this view is Kantian in nature: human lan
 
  
 \def\mysubtitle{The struggle for legitimacy of psychology and psychiatry in the 1970's}
-\addbibresource{APA.bib}
+\addbibresource{../APA.bib}
 \DeclareBibliographyAlias{webpage}{online} 
 
 
@@ -18672,7 +18708,7 @@ References
 \def\mysubtitle{A Guide for the Intentional Student}
  
 \input{mmd-tufte-header.tex}
-\addbibresource{../WBE.bib}
+\addbibresource{../APA.bib}
 \DeclareBibliographyAlias{webpage}{online} 
 
 \definecolor{ferrisred}{RGB}{186,18,43}
@@ -18680,7 +18716,7 @@ References
 
 % For nicely typeset tabular material
 \usepackage{booktabs}
-
+\usepackage{appendix}
 \makeindex
 
 
@@ -18691,7 +18727,7 @@ References
 \usepackage{varioref}
 \usepackage{marginfix}
 \usepackage{morefloats}
-\extrafloats{100}
+\extrafloats{1000}
 
 
 
@@ -23325,8 +23361,8 @@ Vice-president – elected annually&amp;Serves a 1-year term as Vice-president, 
 Former President&amp;Serves a 1-year term \emph{after} their service as the chair of the Board of Directors. \\ \hline
 Executive secretary (preceptor), without vote.&amp; \\ \hline
 
-Committee member elected at large&amp;Serving 3-year term.\footnote{Only for classes larger than 16} \\ \hline
-Committee member elected at large&amp;Serving 3-year term.\footnote{Only for classes larger than 16} \\ \hline
+Committee member elected at large&amp;Serving 3-year term. \\ \hline
+Committee member elected at large&amp;Serving 3-year term. \\ \hline
 \caption{Board of Directors Membership}
 \label{table: boardMembership}
 \end{longtable}--&gt;
@@ -23456,7 +23492,7 @@ A sample schedule is available on page &lt;!--\pageref{sample:bod}--&gt;.
 \end{enumerate}
 }%
 }
- \captionof{InfoBox}{Sample schedule for Board of Directors meeting\label{sample:bod}}
+ %\captionof{InfoBox}{Sample schedule for Board of Directors meeting\label{sample:bod}}
 
 
  --&gt;
@@ -23897,7 +23933,7 @@ Nominations and elections for:
 
 &lt;!-- }%
 }
- \captionof{InfoBox}{Schedule for first conference\label{sample:firstconference}}
+% \captionof{InfoBox}{Schedule for first conference\label{sample:firstconference}}
 
 
  --&gt;
@@ -25536,6 +25572,10 @@ Tail shake: Feeding - Grooming =
 Display: Aggression: Submission =
 </Text>
         </Document>
+        <Document ID="320">
+            <Title>Front Matter</Title>
+            <Text># Role Sheets</Text>
+        </Document>
         <Document ID="159">
             <Title>Research Committee Proposals</Title>
             <Text>These are provided to the instructor in case the students fail to come through on research design.  They can either be handed to the relevant student to inspire creativity, or “submitted” to the research committee by a mysterious non-player character.
@@ -26086,9 +26126,9 @@ Grinker, R. &amp; Spiegel, J. P. (1945) Men Under Stress American Psychological 
 Works cited should go here (this page is optional). See the Works Cited Format document for information on formatting citations.
 
 &lt;!--
-\backmatter
-\printindex
-\printbibliography
+%\backmatter
+%\printindex
+%\printbibliography
 
 --&gt;</Text>
         </Document>
@@ -26208,7 +26248,7 @@ Major 'eras' are separated for ease of reference.
 1896&amp;William James’ \emph{The Principles of Psychology} published. \fullref{americanpsychology:williamjamesandthefunctionofconsciousness}  \\ 
 
 1905&amp;Mary Whiton Calkins elected first woman President of the American Psychological Association \\
-1909&amp;G. Stanley Hall invites Freud and Jung to give a series of lectures at Clark University.  In the audience are William James, Franz Boas (anthropology), E.B. Tichner (psychology) and Emma Goldman (the anarchist) \footnote{Students who are experienced with Reacting may recognize Emma Goldman as a character in the Greenwich Village 1913 game}. After the lectures, Freud and Jung accept an invitation from James Jackson Putnam, a prominent neurologist in New York, to vacation at his home in the Adirondacks.  During this vacation, Freud and Jung have a disagreement, which causes rift between them that never closed. \fullref{theclarklectures} \\
+1909&amp;G. Stanley Hall invites Freud and Jung to give a series of lectures at Clark University.  In the audience are William James, Franz Boas (anthropology), E.B. Tichner (psychology) and Emma Goldman (the anarchist). After the lectures, Freud and Jung accept an invitation from James Jackson Putnam, a prominent neurologist in New York, to vacation at his home in the Adirondacks.  During this vacation, Freud and Jung have a disagreement, which causes rift between them that never closed. \fullref{theclarklectures} \\
 1911&amp;Ramon y Cajal demonstrates neurons in the hippocampus, confirming the 'neuron doctrine' \\
 1911&amp;Putnam founds the American Psychiatric Association. \\
 1912&amp;Alan Turing born \\
@@ -26277,7 +26317,7 @@ Dec 24th, 2013&amp;Turing granted Royal Pardon by Queen Elizabeth II. \\ \hline
         </Document>
         <Document ID="17">
             <Title>Brief overview of the game</Title>
-            <Text>### The Game
+            <Text>## The Game
 
 This game highlights the intellectual conflicts that changed American psychiatry and psychology in the early part of the 1970s.
 
@@ -26289,7 +26329,7 @@ During the course of this game, your class will be the ‘APA.’ Your class wil
 Players will join ‘committees’ with different responsibilities, such as scheduling each conference and determining who will present papers on what subjects. The schedule for the first annual conference is already set: you can review it on p. &lt;!--\pageref{conferenceschedulefor1971}--&gt; . Pay careful attention to the schedule of submission and review detailed by the conference committee.  If your role sheet requires that you present your research at the conference, you must get your proposal to the conference committee on time. There is a detailed description of the form required for proposals provided under ‘&lt;!--\ref{callsforpapersandsymposia}--&gt;.’ on p. &lt;!--\pageref{callsforpapersandsymposia}--&gt;.
 
 
-#### Playing a Psychologist or Psychiatrist in the 1970s.
+### Playing a Psychologist or Psychiatrist in the 1970s.
 
 In 1974, the vast majority of psychiatrists would have been trained in the psychoanalytic tradition of Freud and Jung. In psychology, the vast majority would have been trained as behaviorists.
 
@@ -26464,7 +26504,7 @@ At each year's conference, the following events occur:
 \end{enumerate}
 }%
 }
- \captionof{InfoBox}{Sample schedule of events for APA conference\label{sample:conference}}
+ %\captionof{InfoBox}{Sample schedule of events for APA conference\label{sample:conference}}
 
 
  --&gt;
@@ -26490,14 +26530,11 @@ http://reacting.barnard.edu/sites/default/files/rttp_gb_boilerplate.pdf</Text>
 
 
 
-
+# Game Book
 
 &lt;!--
 \title{Defining the Mind:\protect\\
 \large{The struggle for legitimacy in psychology and psychiatry during the 1970s.}}
-
-\author[1]{Peter Bradley\thanks{peterbradley@ferris.edu}}
-\affil[1]{Honors Program, Ferris State University}
 
 \maketitle
 \newpage
@@ -26546,8 +26583,8 @@ Szasz&amp;There is no 'thing' called 'mental illness,' only  sets of behaviors t
  
 \caption{Factional Definitions of Mental Illness}
 \label{table: definitions}
-\end{longtable}
---&gt;
+\end{longtable}--&gt;
+
 Factional affiliation and objectives vary from individual to individual.
 
 ##### Credibility Points and Voting
@@ -26975,7 +27012,7 @@ APA members, commercial film producers or distributors who wish to present new f
 APA members are encouraged to exhibit apparatus, teaching aids, and other materials of scientific and applied interest. Commercial agencies are invited to request arrangements for exhibits. All commercial exhibitors will be charged for space. Those wishing to arrange for exhibits must write to the chairman of the Program Committee.
 &lt;!-- }%
 }
- \captionof{InfoBox}{Sample call for proposals for APA conference\label{sample:cfp}} --&gt;
+ %\captionof{InfoBox}{Sample call for proposals for APA conference\label{sample:cfp}} --&gt;
 
 
 &lt;!--
@@ -27078,7 +27115,7 @@ Research findings should be submitted to the conference committee for the annual
 &lt;!--
 }%
 }
- \captionof{InfoBox}{Sample call for research grants\label{sample:cfg}} --&gt;
+ %\captionof{InfoBox}{Sample call for research grants\label{sample:cfg}} --&gt;
 </Text>
             <Comments>This entire section is adapted from the “Call for Papers and Symposia” from the 1957 American Psychologist.
 The game master may elect to allow submissions via email.

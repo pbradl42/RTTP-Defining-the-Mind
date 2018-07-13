@@ -1,7 +1,7 @@
 {\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
-{\fonttbl\f0\fnil\fcharset0 Cochin;\f1\fnil\fcharset0 Consolas;\f2\fswiss\fcharset0 ArialMT;
+{\fonttbl\f0\fnil\fcharset0 Cochin;\f1\fswiss\fcharset0 Helvetica;\f2\fswiss\fcharset0 ArialMT;
 \f3\fnil\fcharset0 Monaco;\f4\fmodern\fcharset0 Courier-Bold;\f5\fmodern\fcharset0 Courier;
-\f6\froman\fcharset0 Times-Roman;\f7\fswiss\fcharset0 Helvetica;}
+\f6\froman\fcharset0 Times-Roman;}
 {\colortbl;\red255\green255\blue255;\red118\green57\blue12;\red235\green236\blue237;\red180\green0\blue20;
 \red36\green38\blue41;\red38\green38\blue38;\red255\green255\blue255;\red43\green39\blue19;\red115\green115\blue115;
 \red129\green39\blue43;\red15\green112\blue1;\red246\green247\blue249;\red0\green0\blue0;\red26\green26\blue26;
@@ -16,7 +16,7 @@
 \\def\\mysubtitle\{A Guide for the Intentional Student\}\
  \
 \\input\{mmd-tufte-header.tex\}\
-\\addbibresource\{../WBE.bib\}\
+\\addbibresource\{../APA.bib\}\
 \pard\pardeftab720\partightenfactor0
 
 \f1\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
@@ -38,7 +38,7 @@
 \pard\pardeftab720\sl352
 
 \f3\fs32 \cf6 \cb7 \expnd0\expndtw0\kerning0
-\
+\\usepackage\{appendix\}\
 \\makeindex\
 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural
@@ -54,7 +54,7 @@
 \pard\pardeftab720\sl390
 
 \f1\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\\extrafloats\cf4 \{\cf5 \cb3 100\cf4 \cb3 \}\cf8 \
+\\extrafloats\cf4 \{\cf5 1000\cf4 \}\cf8 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural
 
 \f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
@@ -199,12 +199,12 @@
 \pard\pardeftab720\sl390
 
 \f1\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\\titleformat\cf4 \{\cf2 \\chapter\cf4 \}\cf9 \cb3 %\cf5 \
-  \cf4 \cb3 \{\cf2 \\huge\\rmfamily\\itshape\\color\cf4 \{\cf5 \cb3 ferrisred\cf4 \cb3 \}\}\cf9 \cb3 % format applied to label+text\cf5 \
-  \cf4 \cb3 \{\cf2 \\llap\cf4 \{\cf2 \\colorbox\cf4 \{\cf5 \cb3 ferrisred\cf4 \cb3 \}\{\cf2 \\parbox\cf4 \{\cf10 \cb3 1.5cm\cf4 \cb3 \}\{\cf2 \\hfill\\itshape\\huge\\color\cf4 \{\cf5 \cb3 white\cf4 \cb3 \}\cf2 \\thechapter\cf4 \}\}\}\}\cf9 \cb3 % label\cf5 \
-  \cf4 \cb3 \{\cf10 \cb3 5pt\cf4 \cb3 \}\cf9 \cb3 % horizontal separation between label and title body\cf5 \
-  \cf4 \cb3 \{\}\cf9 \cb3 % before the title body\cf5 \
-  \cf4 \cb3 []\cf9 \cb3 % after the title body\cf8 \cb3 \
+\\titleformat\cf4 \{\cf2 \\chapter\cf4 \}\cf9 %\cf5 \
+  \cf4 \{\cf2 \\huge\\rmfamily\\itshape\\color\cf4 \{\cf5 ferrisred\cf4 \}\}\cf9 % format applied to label+text\cf5 \
+  \cf4 \{\cf2 \\llap\cf4 \{\cf2 \\colorbox\cf4 \{\cf5 ferrisred\cf4 \}\{\cf2 \\parbox\cf4 \{\cf10 1.5cm\cf4 \}\{\cf2 \\hfill\\itshape\\huge\\color\cf4 \{\cf5 white\cf4 \}\cf2 \\thechapter\cf4 \}\}\}\}\cf9 % label\cf5 \
+  \cf4 \{\cf10 5pt\cf4 \}\cf9 % horizontal separation between label and title body\cf5 \
+  \cf4 \{\}\cf9 % before the title body\cf5 \
+  \cf4 []\cf9 % after the title body\cf8 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural
 
 \f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
@@ -214,30 +214,30 @@
 \f1\fs26 \cf8 \cb3 \expnd0\expndtw0\kerning0
 \
 \pard\pardeftab720\sl390
-\cf9 \cb3 % section format\cf5 \
+\cf9 % section format\cf5 \
 \pard\pardeftab720\sl390
-\cf2 \cb3 \\titleformat\cf4 \{\cf2 \\section\cf4 \}\cf9 \cb3 %\cf5 \
-  \cf4 \cb3 \{\cf2 \\normalfont\\Large\\itshape\\color\cf4 \{\cf5 \cb3 ferrisred\cf4 \cb3 \}\}\cf9 \cb3 % format applied to label+text\cf5 \
-  \cf4 \cb3 \{\cf2 \\llap\cf4 \{\cf2 \\colorbox\cf4 \{\cf5 \cb3 ferrisred\cf4 \cb3 \}\{\cf2 \\parbox\cf4 \{\cf10 \cb3 1.5cm\cf4 \cb3 \}\{\cf2 \\hfill\\color\cf4 \{\cf5 \cb3 white\cf4 \cb3 \}\cf2 \\thesection\cf4 \}\}\}\}\cf9 \cb3 % label\cf5 \
-  \cf4 \cb3 \{\cf10 \cb3 1em\cf4 \cb3 \}\cf9 \cb3 % horizontal separation between label and title body\cf5 \
-  \cf4 \cb3 \{\}\cf9 \cb3 % before the title body\cf5 \
-  \cf4 \cb3 [
+\cf2 \\titleformat\cf4 \{\cf2 \\section\cf4 \}\cf9 %\cf5 \
+  \cf4 \{\cf2 \\normalfont\\Large\\itshape\\color\cf4 \{\cf5 ferrisred\cf4 \}\}\cf9 % format applied to label+text\cf5 \
+  \cf4 \{\cf2 \\llap\cf4 \{\cf2 \\colorbox\cf4 \{\cf5 ferrisred\cf4 \}\{\cf2 \\parbox\cf4 \{\cf10 1.5cm\cf4 \}\{\cf2 \\hfill\\color\cf4 \{\cf5 white\cf4 \}\cf2 \\thesection\cf4 \}\}\}\}\cf9 % label\cf5 \
+  \cf4 \{\cf10 1em\cf4 \}\cf9 % horizontal separation between label and title body\cf5 \
+  \cf4 \{\}\cf9 % before the title body\cf5 \
+  \cf4 [
 \f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \\color\{black\}
 \f1\fs26 \cf4 \cb3 \expnd0\expndtw0\kerning0
-]\cf9 \cb3 % after the title body\cf5 \
+]\cf9 % after the title body\cf5 \
 \
 \pard\pardeftab720\sl390
 \cf9 % subsection format\cf5 \
 \pard\pardeftab720\sl390
-\cf2 \cb3 \\titleformat\cf4 \{\cf2 \\subsection\cf4 \}\cf9 \cb3 %\cf5 \
-  \cf4 \cb3 \{\cf2 \\normalfont\\large\\itshape\\color\cf4 \{\cf5 \cb3 ferrisred\cf4 \cb3 \}\}\cf9 \cb3 % format applied to label+text\cf5 \
-  \cf4 \cb3 \{\cf2 \\llap\cf4 \{\cf2 \\colorbox\cf4 \{\cf5 \cb3 white\cf4 \cb3 \}\{\cf2 \\parbox\cf4 \{\cf10 \cb3 1.5cm\cf4 \cb3 \}\{\cf2 \\hfill\\color\cf4 \{\cf5 \cb3 ferrisred\cf4 \cb3 \}\cf2 \\thesubsection\cf4 \}\}\}\}\cf9 \cb3 % label\cf5 \
-  \cf4 \cb3 \{\cf10 \cb3 1em\cf4 \cb3 \}\cf9 \cb3 % horizontal separation between label and title body\cf5 \
-  \cf4 \cb3 \{\}\cf9 \cb3 % before the title body\cf5 \
-  \cf4 \cb3 [
+\cf2 \\titleformat\cf4 \{\cf2 \\subsection\cf4 \}\cf9 %\cf5 \
+  \cf4 \{\cf2 \\normalfont\\large\\itshape\\color\cf4 \{\cf5 ferrisred\cf4 \}\}\cf9 % format applied to label+text\cf5 \
+  \cf4 \{\cf2 \\llap\cf4 \{\cf2 \\colorbox\cf4 \{\cf5 white\cf4 \}\{\cf2 \\parbox\cf4 \{\cf10 1.5cm\cf4 \}\{\cf2 \\hfill\\color\cf4 \{\cf5 ferrisred\cf4 \}\cf2 \\thesubsection\cf4 \}\}\}\}\cf9 % label\cf5 \
+  \cf4 \{\cf10 1em\cf4 \}\cf9 % horizontal separation between label and title body\cf5 \
+  \cf4 \{\}\cf9 % before the title body\cf5 \
+  \cf4 [
 \f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \\color\{black\}
 \f1\fs26 \cf4 \cb3 \expnd0\expndtw0\kerning0
-]\cf9 \cb3 % after the title body\cf8 \cb3 \
+]\cf9 % after the title body\cf8 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural
 
 \f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
@@ -287,7 +287,7 @@ shaded=\{rulecolor=ferrisred, rulewidth=0.5pt, bgcolor=\{rgb\}\{1,1,1\}\},
 \pard\pardeftab720\sl390
 
 \f1\fs26 \cf5 \cb3 \expnd0\expndtw0\kerning0
-numberwithin\cf4 \cb3 =\cf5 \cb3 chapter
+numberwithin\cf4 =\cf5 chapter
 \f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
 \cf0 ]\{mypurpose\}\
@@ -298,7 +298,7 @@ numberwithin\cf4 \cb3 =\cf5 \cb3 chapter
 \pard\pardeftab720\sl390
 
 \f1\fs26 \cf5 \cb3 \expnd0\expndtw0\kerning0
-numberwithin\cf4 \cb3 =\cf5 \cb3 chapter
+numberwithin\cf4 =\cf5 chapter
 \f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
 \cf0 ]\{mythesis\}\
@@ -354,7 +354,7 @@ shaded=\{rulecolor=black, rulewidth=0.5pt, bgcolor=\{rgb\}\{1,1,1\}\}
 \\numberwithin\{thesis\}\{chapter\}\
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
 
-\f7\fs22 \cf0 \expnd0\expndtw0\kerning0
+\f1\fs22 \cf0 \expnd0\expndtw0\kerning0
 \
 \\NewEnviron\{entities\}[1][]\{\\protected@edef\\@currentlabelname\{#1\}% addition here\
 \\noindent \\marginnote\{\
@@ -363,7 +363,7 @@ shaded=\{rulecolor=black, rulewidth=0.5pt, bgcolor=\{rgb\}\{1,1,1\}\}
 \f0\fs28 \cf0 \kerning1\expnd0\expndtw0  \\begin\{myentities\}[#1]\\BODY\\end\{myentities\}\
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
 
-\f7\fs22 \cf0 \expnd0\expndtw0\kerning0
+\f1\fs22 \cf0 \expnd0\expndtw0\kerning0
 \}\}\
 \
 \\NewEnviron\{objects\}[1][]\{\\protected@edef\\@currentlabelname\{#1\}% addition here\
@@ -373,7 +373,7 @@ shaded=\{rulecolor=black, rulewidth=0.5pt, bgcolor=\{rgb\}\{1,1,1\}\}
 \f0\fs28 \cf0 \kerning1\expnd0\expndtw0  \\begin\{myobjects\}[#1]\\BODY\\end\{myobjects\}\
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
 
-\f7\fs22 \cf0 \expnd0\expndtw0\kerning0
+\f1\fs22 \cf0 \expnd0\expndtw0\kerning0
 \}\}\
 \
 \\makeatother\
