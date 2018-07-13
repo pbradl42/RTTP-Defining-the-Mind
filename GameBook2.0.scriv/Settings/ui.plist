@@ -15,8 +15,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {180, 1281}}</string>
-		<string>{{181, 0}, {1629, 1281}}</string>
+		<string>{{0, 0}, {180, 1280}}</string>
+		<string>{{181, 0}, {1629, 1280}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -66,8 +66,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1031, 738}}</string>
-		<string>{{1032, 0}, {227, 738}}</string>
+		<string>{{0, 0}, {1401, 1253}}</string>
+		<string>{{1402, 0}, {227, 1253}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -912,7 +912,7 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {623, 1202}}</string>
+	<string>{{0, 0}, {623, 1201}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{67, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -925,7 +925,7 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>374 114 1810 1303 0 0 2560 1417 </string>
+	<string>373 115 1810 1302 0 0 2560 1417 </string>
 	<key>selectedCollectionTabIndex</key>
 	<integer>0</integer>
 	<key>supportingDocumentEditor.binderDocuments</key>
@@ -1001,7 +1001,7 @@
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {777, 1202}}</string>
+	<string>{{0, 0}, {777, 1201}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{486, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
