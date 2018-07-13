@@ -28,6 +28,7 @@
 \usepackage{marginfix}
 \usepackage{morefloats}
 \usepackage{pdfpages}
+\usepackage{minitoc}
 \extrafloats{1000}
 \setlength{\headheight}{27pt}
 
@@ -323,8 +324,6 @@ shaded={rulecolor=black, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}}
 
 \pagebreak 
 
-Game Book
-
 \part{Game Book}
 \label{gamebook}
 
@@ -338,6 +337,8 @@ Game Book
 
 
 
+
+\frontmatter
 \tableofcontents
 \newpage
 \listoftables
@@ -346,19 +347,12 @@ Game Book
 \newpage
 
 
-
-
-
-
 \mainmatter
-
 
 \pagebreak 
 
-Introduction
-
-\chapter{The Game}
-\label{thegame}
+\chapter{Introducing The Game}
+\label{introducingthegame}
 
 This game highlights the intellectual conflicts that changed American psychiatry and psychology in the early part of the 1970s.
 
@@ -485,7 +479,8 @@ For the most part, the historical events with which a character interacts occurr
 
 \pagebreak 
 
-Historical Background
+\chapter{Historical Background}
+\label{historicalbackground}
 
 \section{Timeline of events relevant to game play}
 \label{timelineofeventsrelevanttogameplay}
@@ -1855,7 +1850,8 @@ Unknown. (1933). A Standard Classified Nomenclature of Disease. The Canadian Med
 
 \pagebreak 
 
-The Game
+\chapter{Game Play}
+\label{gameplay}
 
 \section{Major Issues in the Game}
 \label{majorissuesinthegame}
@@ -2636,7 +2632,8 @@ The following shows elections that must be held each year, and the character vac
 
 \pagebreak 
 
-Roles and Factions
+\chapter{Roles and Factions}
+\label{rolesandfactions}
 
 Players represent three factions with different perspectives on not only the nature of scientific inquiry into the human mind, but the object of those studies themselves. A number of independents, representing a variety of academic disciplines, complement these three factions.
 
@@ -3410,15 +3407,15 @@ Fisher, C. B. (2009). Decoding the ethics code : a practical guide for psycholog
 
 \pagebreak 
 
-Core Texts
+\chapter{Core Texts}
+\label{coretexts}
 
 Freud, Sigmund \emph{Introductory lectures on psychoanalysis}, WW Norton \& Company
 
 \pagebreak 
 
-Selected Bibliography
-
-Works Cited
+\chapter{Works Cited}
+\label{workscited}
 
 Works cited should go here (this page is optional). See the Works Cited Format document for information on formatting citations.
 
@@ -3431,11 +3428,10 @@ Works cited should go here (this page is optional). See the Works Cited Format d
 
 \pagebreak 
 
-Acknolwedgments
-
 \pagebreak 
 
-Supplemental Documents
+\chapter{Appendicies}
+\label{appendicies}
 
 \begin{appendices}
 \let\svaddcontentsline\addcontentsline
@@ -3445,67 +3441,70 @@ Supplemental Documents
 
 
 
-\chapter{Pinel, Philippe. ``A Treatise on Insanity'', 1806}
+\section{Pinel, Philippe. ``A Treatise on Insanity'', 1806}
 \label{pinelphilippe.atreatiseoninsanity1806}
 
 \label{app: Pinel}
 \includepdf[pages={1-}]{../Appendices/1806-Pinel-A_treatise_on_insanity-Excerpt.pdf}
 
-\section{Excerpt 1}
+\section{Psychopathia sexualis}
+\label{psychopathiasexualis}
+
+\subsection{Excerpt 1}
 \label{excerpt1}
 
 \label{app: KraftEbbing1}
 \includepdf[pages={1-}]{../Appendices/Excerpt1-1894-Psychopathia_sexualis.pdf}
 
-\section{Excerpt 1}
-\label{excerpt1}
+\subsection{Excerpt 2}
+\label{excerpt2}
 
 \label{app: KraftEbbing2}
 \includepdf[pages={1-}]{../Appendices/Excerpt2-1894-Psychopathia_sexualis.pdf}
 
-\section{Excerpt 3}
+\subsection{Excerpt 3}
 \label{excerpt3}
 
 \label{app: KraftEbbing3}
 \includepdf[pages={1-}]{../Appendices/Excerpt3-1894-Psychopathia_sexualis.pdf}
 
-\chapter{Freud, Sigmund ``The psychogenesis of a case of homosexuality in a woman'' (1920)}
+\section{Freud, Sigmund ``The psychogenesis of a case of homosexuality in a woman'' (1920)}
 \label{freudsigmundthepsychogenesisofacaseofhomosexualityinawoman1920}
 
 \label{app: Freud}
 \includepdf[pages={1-}]{../Appendices/1920-Freud-HomosexualityInAWoman.pdf}
 
-\chapter{Skinner, B. F. ``A Critique of Psychoanalytic Concepts and Theories'' 1954}
+\section{Skinner, B. F. ``A Critique of Psychoanalytic Concepts and Theories'' 1954}
 \label{skinnerb.f.acritiqueofpsychoanalyticconceptsandtheories1954}
 
 \label{app: Skinner}
 \includepdf[pages={1-}]{../Appendices/1954-Skinner.pdf}
 
-\chapter{Chomsky, N. ``Review of \emph{Verbal Behaviour} by B.F. Skinner'' 1959}
+\section{Chomsky, N. ``Review of \emph{Verbal Behaviour} by B.F. Skinner'' 1959}
 \label{chomskyn.reviewofverbalbehaviourbyb.f.skinner1959}
 
 \label{app: Chomsky}
 \includepdf[pages={1-}]{../Appendices/1959-Chomsky-Review.pdf}
 
-\chapter{APA ``Ethical Standards of Psychologists,'' 1968}
+\section{APA ``Ethical Standards of Psychologists,'' 1968}
 \label{apaethicalstandardsofpsychologists1968}
 
 \label{app: APAEthics}
 \includepdf[pages={1-}]{../Appendices/APAEthics1968.pdf}
 
-\chapter{APA \emph{Diagnostic and Statistical Manual} Mental Disorders, 1952}
+\section{APA \emph{Diagnostic and Statistical Manual} Mental Disorders, 1952}
 \label{apadiagnosticandstatisticalmanualmentaldisorders1952}
 
 \label{app: DSMI}
 \includepdf[pages={1-}]{../PrimarySourceMaterials/dsm-i.pdf}
 
-\chapter{APA \emph{Diagnostic and Statistical Manual II}, 1968}
+\section{APA \emph{Diagnostic and Statistical Manual II}, 1968}
 \label{apadiagnosticandstatisticalmanualii1968}
 
 \label{app: DSMII}
 \includepdf[pages={1-}]{../Appendices/DSMII.pdf}
 
-\chapter{Socarides, S. ``Homosexuality and Medicine'', 1968}
+\section{Socarides, S. ``Homosexuality and Medicine'', 1968}
 \label{socaridess.homosexualityandmedicine1968}
 
 \label{app: DSMII}
@@ -3515,14 +3514,29 @@ Supplemental Documents
 
 \pagebreak 
 
-Instructor's Manual
 
-\part{Instructor's Manual}
-\label{instructorsmanual}
+\frontmatter 
+
+\part{Instructor's Manual:}
+\label{instructorsmanual:}
+
+
+\maketitle
+\newpage
+\parttoc
+\newpage
+\listoftables
+\newpage
+\listoffigures
+\newpage
+
+
+\mainmatter
 
 \pagebreak 
 
-Introduction
+\chapter{Introduction}
+\label{introduction}
 
 The narrative of the game begins, but does not end with, the demedicalization of homosexuality. This game is not intended to be a political game wherein the players are centrally interested in the collection and use of power. Rather, this game is meant to be about evidence, and the interpretation of evidence. Bieber claims, for example, to have about 30\% success rate in his `treatment' of homosexuality. Is this an adequate? Especially as the pain it causes--as experience first-hand by Ron Gold.
 
@@ -3655,9 +3669,10 @@ Some of these issues that will make an appearance in the game are:
 
 \pagebreak 
 
-Model schedules
+\chapter{Model Schedules}
+\label{modelschedules}
 
-\subsection{Standard Schedule}
+\section{Standard Schedule}
 \label{standardschedule}
 
 Replicated here from \ref{table: outlineGameSessions} on page \pageref{table: outlineGameSessions}.
@@ -3717,18 +3732,19 @@ Research Report\\
 \label{table: outlineGameSessions}
 \end{longtable}
 
-\subsection{Expanded Schedule}
+\section{Expanded Schedule}
 \label{expandedschedule}
 
-\subsection{Compressed Schedule}
+\section{Compressed Schedule}
 \label{compressedschedule}
 
-\subsection{Long Class meetings}
+\section{Long Class meetings}
 \label{longclassmeetings}
 
 \pagebreak 
 
-Roles
+\chapter{Roles and Factions}
+\label{rolesandfactions}
 
 \section{List of roles and factions}
 \label{listofrolesandfactions}
@@ -3928,7 +3944,8 @@ Proposes and defends the prison study\\ \hline
 
 \pagebreak 
 
-Game setup
+\chapter{Game Setup}
+\label{gamesetup}
 
 While there is a great deal to prepare for this game, my experience has taught me that the largest challenge the students will face is understanding that psychology and psychiatry were not always as they are now presented. 
 
@@ -4050,7 +4067,8 @@ I've left the issue of membership in the APA, and the right to vote on many of t
 
 \pagebreak 
 
-Managing the game
+\chapter{Game Management}
+\label{gamemanagement}
 
 Each week represents 1 annual conference. At each conference, there are a number of things that need to happen, although the order in which they happen is up to you. These are:
 
@@ -4370,7 +4388,7 @@ Nominations and elections for:
 
 \pagebreak 
 
-Research Committee Proposals These are provided to the instructor in case the students fail to come through on research design. They can either be handed to the relevant student to inspire creativity, or ``submitted'' to the research committee by a mysterious non-player character.
+These are provided to the instructor in case the students fail to come through on research design. They can either be handed to the relevant student to inspire creativity, or ``submitted'' to the research committee by a mysterious non-player character.
 
 \newpage
 
@@ -5056,9 +5074,7 @@ Chicago\\
 
 \pagebreak 
 
-Debriefing
-
-\section{Exiting the game}
+\chapter{Exiting the game}
 \label{exitingthegame}
 
 \subsection{Actual presidents (Psychological association):}
@@ -5240,8 +5256,6 @@ Zucker, K. and J. Drescher, Eds. (2006). Ex-Gay Research: Analyzing the Spitzer 
 
 \pagebreak 
 
-Annotated Bibliography
-
 \chapter{Further Reading}
 \label{furtherreading}
 
@@ -5379,7 +5393,17 @@ Wilson, K. K. (20XX) The Disparate Classification of Gender and Sexual Orientati
 
 \pagebreak 
 
-Role Sheets
+
+\frontmatter
+\tableofcontents
+\newpage
+\listoftables
+\newpage
+\listoffigures
+\newpage
+
+
+\mainmatter
 
 \part{Role Sheets}
 \label{rolesheets}

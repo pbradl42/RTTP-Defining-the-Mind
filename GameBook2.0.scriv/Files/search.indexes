@@ -16,7 +16,7 @@ It should be noted that unlike some other reacting games, individuals in these f
         </Document>
         <Document ID="142">
             <Title>Standard schedule</Title>
-            <Text>#### Standard Schedule
+            <Text>### Standard Schedule
 Replicated here from &lt;!--\ref{table: outlineGameSessions}--&gt; on page &lt;!--\pageref{table: outlineGameSessions}--&gt;.
 
 
@@ -273,7 +273,7 @@ Fisher, C. B. (2009). Decoding the ethics code : a practical guide for psycholog
         </Document>
         <Document ID="173">
             <Title>Exiting the game</Title>
-            <Text>### Exiting the game</Text>
+            <Text>## Exiting the game</Text>
         </Document>
         <Document ID="41">
             <Title>1806-Pinel-A_treatise_on_insanity-Excerpt</Title>
@@ -282,7 +282,7 @@ Fisher, C. B. (2009). Decoding the ethics code : a practical guide for psycholog
         </Document>
         <Document ID="143">
             <Title>Expanded schedule</Title>
-            <Text>#### Expanded Schedule</Text>
+            <Text>### Expanded Schedule</Text>
         </Document>
         <Document ID="36">
             <Title>historyOfAPA</Title>
@@ -1261,7 +1261,7 @@ The use of the word 'gay' as a replacement for 'homosexual' dates from precisely
         </Document>
         <Document ID="144">
             <Title>Compressed schedule</Title>
-            <Text>#### Compressed Schedule</Text>
+            <Text>### Compressed Schedule</Text>
         </Document>
         <Document ID="38">
             <Title>historyOfLinguistics</Title>
@@ -2101,7 +2101,7 @@ See Chapter 1 of Menninger and Nemiah (2000) for an interesting discussion of th
         </Document>
         <Document ID="145">
             <Title>Long class meetings</Title>
-            <Text>#### Long Class meetings</Text>
+            <Text>### Long Class meetings</Text>
         </Document>
         <Document ID="45">
             <Title>1959-Chomsky-Review</Title>
@@ -3200,6 +3200,7 @@ Zucker, K. and J. Drescher, Eds. (2006). Ex-Gay Research: Analyzing the Spitzer 
         </Document>
         <Document ID="146">
             <Title>Roles</Title>
+            <Text>## Roles and Factions</Text>
         </Document>
         <Document ID="272">
             <Title>Albee-1969-AConferenceOnRecruitment</Title>
@@ -3507,7 +3508,7 @@ X-ray
         </Document>
         <Document ID="50">
             <Title>Freud-Homosexuality</Title>
-            <Text>## Freud, Sigmund “The psychogenesis of a case of homosexuality in a woman” (1920)
+            <Text>### Freud, Sigmund “The psychogenesis of a case of homosexuality in a woman” (1920)
 
 &lt;!--\label{app: Freud}
 \includepdf[pages={1-}]{../Appendices/1920-Freud-HomosexualityInAWoman.pdf}--&gt;</Text>
@@ -3579,14 +3580,16 @@ D. Fordney-Settlage, MD* \\ \hline
         </Document>
         <Document ID="49">
             <Title>Pinel</Title>
-            <Text>## Pinel, Philippe.  “A Treatise on Insanity”, 1806
+            <Text>### Pinel, Philippe.  “A Treatise on Insanity”, 1806
 
 &lt;!--\label{app: Pinel}
 \includepdf[pages={1-}]{../Appendices/1806-Pinel-A_treatise_on_insanity-Excerpt.pdf}--&gt;</Text>
         </Document>
         <Document ID="60">
             <Title>Excerpt 1</Title>
-            <Text>### Excerpt 1
+            <Text>### Psychopathia sexualis
+
+#### Excerpt 1
 
 &lt;!--\label{app: KraftEbbing1}
 \includepdf[pages={1-}]{../Appendices/Excerpt1-1894-Psychopathia_sexualis.pdf}--&gt;</Text>
@@ -3824,7 +3827,7 @@ References
         </Document>
         <Document ID="55">
             <Title>Skinner 1954</Title>
-            <Text>## Skinner, B. F. “A Critique of Psychoanalytic Concepts and Theories” 1954
+            <Text>### Skinner, B. F. “A Critique of Psychoanalytic Concepts and Theories” 1954
 
 &lt;!--\label{app: Skinner}
 \includepdf[pages={1-}]{../Appendices/1954-Skinner.pdf}--&gt;</Text>
@@ -4160,7 +4163,7 @@ pathology, 1967 (processed).
         </Document>
         <Document ID="61">
             <Title>Excerpt 2</Title>
-            <Text>### Excerpt 1
+            <Text>#### Excerpt 2
 
 &lt;!--\label{app: KraftEbbing2}
 \includepdf[pages={1-}]{../Appendices/Excerpt2-1894-Psychopathia_sexualis.pdf}--&gt;</Text>
@@ -4262,7 +4265,7 @@ To add additional characters to the game:
         </Document>
         <Document ID="56">
             <Title>Chomsky 1959</Title>
-            <Text>## Chomsky, N. “Review of *Verbal Behaviour* by B.F. Skinner” 1959
+            <Text>### Chomsky, N. “Review of *Verbal Behaviour* by B.F. Skinner” 1959
 
 &lt;!--\label{app: Chomsky}
 \includepdf[pages={1-}]{../Appendices/1959-Chomsky-Review.pdf}--&gt;</Text>
@@ -4305,7 +4308,7 @@ Spitzer proposes to calculate Cohen's Kappa for existing measures of reliability
         </Document>
         <Document ID="62">
             <Title>Excerpt 3</Title>
-            <Text>### Excerpt 3
+            <Text>#### Excerpt 3
 
 &lt;!--\label{app: KraftEbbing3}
 \includepdf[pages={1-}]{../Appendices/Excerpt3-1894-Psychopathia_sexualis.pdf}--&gt;</Text>
@@ -4718,7 +4721,7 @@ Wilson, K. K. (20XX) The Disparate Classification of Gender and Sexual Orientati
         </Document>
         <Document ID="57">
             <Title>APA Ethics 1968</Title>
-            <Text>## APA “Ethical Standards of Psychologists,” 1968
+            <Text>### APA “Ethical Standards of Psychologists,” 1968
 
 &lt;!--\label{app: APAEthics}
 \includepdf[pages={1-}]{../Appendices/APAEthics1968.pdf}--&gt;</Text>
@@ -4790,7 +4793,7 @@ Research Report\\
         </Document>
         <Document ID="58">
             <Title>DSMII</Title>
-            <Text>## APA *Diagnostic and Statistical Manual II*, 1968
+            <Text>### APA *Diagnostic and Statistical Manual II*, 1968
 
 &lt;!--\label{app: DSMII}
 \includepdf[pages={1-}]{../Appendices/DSMII.pdf}--&gt;</Text>
@@ -4941,7 +4944,7 @@ Proposes and defends the prison study\\ \hline
         </Document>
         <Document ID="59">
             <Title>Socarides 1970</Title>
-            <Text>## Socarides, S. “Homosexuality and Medicine”, 1968
+            <Text>### Socarides, S. “Homosexuality and Medicine”, 1968
 
 &lt;!--\label{app: DSMII}
 \includepdf[pages={1-}]{../Appendices/Socarides-1970-JAMA.pdf}--&gt;</Text>
@@ -10269,7 +10272,23 @@ Crowne, D.P. &amp; Marlowe, D. (1960). “A new scale of social desirability ind
         </Document>
         <Document ID="194">
             <Title>Front matter</Title>
-            <Text># Instructor’s Manual</Text>
+            <Text>&lt;!--
+\frontmatter --&gt;
+# Instructor’s Manual: 
+&lt;!--
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+\listoftables
+\newpage
+\listoffigures
+\newpage
+
+
+\mainmatter--&gt;
+
+</Text>
         </Document>
         <Document ID="164">
             <Title>Spitzer</Title>
@@ -10868,6 +10887,7 @@ For more on the early development of the Daughters of Bilitis and its magazine, 
         </Document>
         <Document ID="136">
             <Title>Introduction</Title>
+            <Text>## Introduction</Text>
         </Document>
         <Document ID="262">
             <Title>EHooker-bio</Title>
@@ -16928,10 +16948,11 @@ X-ray
         </Document>
         <Document ID="8">
             <Title>Roles and Factions</Title>
+            <Text>## Roles and Factions</Text>
         </Document>
         <Document ID="238">
             <Title>DSMI</Title>
-            <Text>## APA *Diagnostic and Statistical Manual* Mental Disorders, 1952
+            <Text>### APA *Diagnostic and Statistical Manual* Mental Disorders, 1952
 
 &lt;!--\label{app: DSMI}
 \includepdf[pages={1-}]{../PrimarySourceMaterials/dsm-i.pdf}--&gt;</Text>
@@ -17047,6 +17068,7 @@ See also Ch 12, ph. 304-306</Comments>
         </Document>
         <Document ID="9">
             <Title>Core Texts</Title>
+            <Text>## Core Texts</Text>
         </Document>
         <Document ID="299">
             <Title>WindyCityTimes-current</Title>
@@ -19355,6 +19377,7 @@ Matr lnstr
         </Document>
         <Document ID="150">
             <Title>Game setup</Title>
+            <Text>## Game Setup</Text>
         </Document>
         <Document ID="120">
             <Title>zimbardo_wintermeyer</Title>
@@ -25559,7 +25582,20 @@ Display: Aggression: Submission =
         </Document>
         <Document ID="320">
             <Title>Front Matter</Title>
-            <Text># Role Sheets</Text>
+            <Text>&lt;!--
+\frontmatter
+\tableofcontents
+\newpage
+\listoftables
+\newpage
+\listoffigures
+\newpage
+
+
+\mainmatter--&gt;
+
+
+# Role Sheets</Text>
         </Document>
         <Document ID="159">
             <Title>Research Committee Proposals</Title>
@@ -26106,8 +26142,7 @@ Grinker, R. &amp; Spiegel, J. P. (1945) Men Under Stress American Psychological 
         </Document>
         <Document ID="227">
             <Title>Works Cited</Title>
-            <Text>Works Cited
-
+            <Text>
 Works cited should go here (this page is optional). See the Works Cited Format document for information on formatting citations.
 
 &lt;!--
@@ -26158,9 +26193,11 @@ See. e/g/ Skinner (1953) pg. 27-30</Comments>
         </Document>
         <Document ID="10">
             <Title>Supplemental Documents</Title>
+            <Text>## Appendicies</Text>
         </Document>
         <Document ID="11">
             <Title>Selected Bibliography</Title>
+            <Text>## Works Cited</Text>
         </Document>
         <Document ID="12">
             <Title>Acknolwedgments</Title>
@@ -26189,7 +26226,9 @@ If you are interested in studying these events in closer detail, all our charact
         </Document>
         <Document ID="21">
             <Title>Timeline</Title>
-            <Text>### Timeline of events relevant to game play
+            <Text>## Historical Background
+
+### Timeline of events relevant to game play
 
 The study of the mind can be traced back to the very foundations of Western civilization in Ancient Greece.  For the purposes of this game, we’re going to confine ourselves to the era of ‘scientific’ study of the mind, both in a medical and research context.  All historical events up until 1974 that are described in this game book are listed here in a round time line, for ease of reference.
 
@@ -26282,7 +26321,9 @@ Dec 24th, 2013&amp;Turing granted Royal Pardon by Queen Elizabeth II. \\ \hline
         </Document>
         <Document ID="16">
             <Title>Table of contents</Title>
-            <Text>&lt;!--\tableofcontents
+            <Text>&lt;!--
+\frontmatter
+\tableofcontents
 \newpage
 \listoftables
 \newpage
@@ -26290,11 +26331,7 @@ Dec 24th, 2013&amp;Turing granted Royal Pardon by Queen Elizabeth II. \\ \hline
 \newpage
 
 
---&gt;
-&lt;!--
-
-\mainmatter
---&gt;</Text>
+\mainmatter--&gt;</Text>
         </Document>
         <Document ID="22">
             <Title>Narrative</Title>
@@ -26302,7 +26339,7 @@ Dec 24th, 2013&amp;Turing granted Royal Pardon by Queen Elizabeth II. \\ \hline
         </Document>
         <Document ID="17">
             <Title>Brief overview of the game</Title>
-            <Text>## The Game
+            <Text>## Introducing The Game
 
 This game highlights the intellectual conflicts that changed American psychiatry and psychology in the early part of the 1970s.
 
@@ -26365,7 +26402,9 @@ Available at http://www.psych.org/Departments/EDU/Library/APAOfficialDocumentsan
         </Document>
         <Document ID="23">
             <Title>Major issues for debate</Title>
-            <Text>### Major Issues in the Game
+            <Text>## Game Play
+
+### Major Issues in the Game
 
 All psychological theories hold that human action can be predicted based on previous actions of that human.  The way to make those predictions---and the underlying mechanisms posited that explain those actions---separates psychological theories from each other.
 
@@ -26502,6 +26541,7 @@ http://reacting.barnard.edu/sites/default/files/rttp_gb_boilerplate.pdf</Text>
         </Document>
         <Document ID="170">
             <Title>Managing the game</Title>
+            <Text>## Game Management</Text>
         </Document>
         <Document ID="30">
             <Title>TitlePage</Title>
@@ -26862,6 +26902,7 @@ Ethics committee – (add Zimbardo as a character. IF proposal is OK'd, the game
         </Document>
         <Document ID="141">
             <Title>Model schedules</Title>
+            <Text>## Model Schedules</Text>
         </Document>
         <Document ID="27">
             <Title>Basic outline of the game</Title>
