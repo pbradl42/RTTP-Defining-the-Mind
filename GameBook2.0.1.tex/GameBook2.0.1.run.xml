@@ -80,7 +80,7 @@
       <file>GameBook2.0.1.bcf</file>
     </requires>
     <requires type="editable">
-      <file>APA.bib</file>
+      <file>../APA.bib</file>
     </requires>
   </external>
 </requests>

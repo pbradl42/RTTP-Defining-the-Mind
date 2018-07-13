@@ -95,8 +95,7 @@ Ethical codes of research have generally followed the discovery or publication o
 The Nuremberg code lays out ten simple principles for design experiments on humans. They are:
 
 
-&lt;!--\noindent\fbox{%
-    \parbox{\textwidth}{%
+&lt;!--\begin{fullwidth} 
 
 1.	The voluntary consent of the human subject is absolutely essential. This means that the person involved should have legal capacity to give consent; should be so situated as to be able to exercise free power of choice, without the intervention of any element of force, fraud, deceit, duress, overreaching, or other ulterior form of constraint or coercion; and should have sufficient knowledge and comprehension of the elements of the subject matter involved as to enable him to make an understanding and enlightened decision. This latter element requires that before the acceptance of an affirmative decision by the experimental subject there should be made known to him the nature, duration, and purpose of the experiment; the method and means by which it is to be conducted; all inconveniences and hazards reasonably to be expected; and the effects upon his health or person which may possibly come from his participation in the experiment.
 
@@ -119,7 +118,7 @@ The duty and responsibility for ascertaining the quality of the consent rests up
 9.	During the course of the experiment the human subject should be at liberty to bring the experiment to an end if he has reached the physical or mental state where continuation of the experiment seems to him to be impossible.
 
 10.	During the course of the experiment the scientist in charge must be prepared to terminate the experiment at any stage, if he has probable cause to believe, in the exercise of the good faith, superior skill and careful judgment required of him that a continuation of the experiment is likely to result in injury, disability or death to the experimental subject.
-}} 
+\end{fullwidth}
  %\captionof{InfoBox}{The Nuremberg Code\label{sample:nuremberg}}--&gt;
 
 ##### The Declaration of Helsinki
@@ -128,8 +127,8 @@ In 1964, the medical community through the World Medical Association adopted the
 
 Psychiatrists, as practicing medical doctors, are bound by the Declaration of Helsinki. While it is far more complete than the Nuremberg code, the same basic ideas appear:
 
-&lt;!--\noindent\fbox{%
-    \parbox{\textwidth}{%
+&lt;!--\begin{fullwidth}[The Declaration of Helsinki]
+\label{sample:helsinki}%
 
 
 I. Basic Principles
@@ -150,7 +149,7 @@ I. Basic Principles
 
    8. In publication of the results of his or her research, the physician is obliged to preserve the accuracy of the results. Reports of experimentation not in accordance with the principles laid down in this Declaration should not be accepted for publication.
 
-   9. In any research on human beings, each potential subject mustbe adequately informed of the aims, methods, anticipated benefits and potential hazards of the study and the discomfort it may entail. He or she should be informed that he or she is at liberty to abstain from participation in the study and that he or she is free to withdraw visor her consent to participation at any time. The physician should then obtain the subject's freely given informed consent, preferably inheriting.
+   9. In any research on human beings, each potential subject must be adequately informed of the aims, methods, anticipated benefits and potential hazards of the study and the discomfort it may entail. He or she should be informed that he or she is at liberty to abstain from participation in the study and that he or she is free to withdraw visor her consent to participation at any time. The physician should then obtain the subject's freely given informed consent, preferably inheriting.
 
   10. When obtaining informed consent for the research project the physician should be particularly cautious if the subject is in dependent relationship to him or her or may consent under duress. In that case the informed consent should be obtained by a physician who isn't engaged in the investigation and who is completely independent of this official relationship.
 
@@ -170,7 +169,7 @@ II. Medical Research Combined with Professional Care (Clinical Research)
 
    5. If the physician considers it essential not to obtain informed consent, the specific reasons for this proposal should be stated in the experimental protocol for transmission to the independent committee (1, 2).
 
-   6. The physician can combine medical research with professional care, the objective being the acquisition of new medical knowledge,only to the extent that medical research is justified by its potential diagnostic or therapeutic value for the patient.
+   6. The physician can combine medical research with professional care, the objective being the acquisition of new medical knowledge, only to the extent that medical research is justified by its potential diagnostic or therapeutic value for the patient.
 
 III. Non-Therapeutic Biomedical Research Involving Human Subjects (Non-Clinical Biomedical Research)
 
@@ -181,8 +180,8 @@ III. Non-Therapeutic Biomedical Research Involving Human Subjects (Non-Clinical 
    3. The investigator or the investigating team should discontinue the research if in his/her or their judgment it may, if continued, be harmful to the individual.
 
 4.	In research on man, the interest of science and society should never take precedence over considerations related to the well-being of the subject.
-}}
- %\captionof{InfoBox}{The Declaration of Helsinki\label{sample:helsinki}} --&gt; 
+
+ \end{fullwidth}--&gt; 
 
 
 
@@ -194,8 +193,8 @@ The APA Standards were first published in 1953. They were revised in 1959, 1963 
 
 Most of the APA standards outline the responsibilities of psychologists who practice counseling and patient care.  While those are incredibly important, we're most concerned here with Principle 16: Research Precautions.  In 1959, section 16 was titled 'Harmful Aftereffect.' It read:
 
-&lt;!--\noindent\fbox{%
-    \parbox{\textwidth}{%
+&lt;!--\begin{fullwidth}[APA Ethical Standards: 1959] %
+\label{sample:APAEthics1959}
 
 \textbf{Principle 16. Harmful Aftereffects}. Only when a problem is significant and can be investigated in no other way is the psychologist justified in giving misinformation to research subjects or exposing research subjects to physical or emotional stress.
 
@@ -203,9 +202,8 @@ a. When the possibility of serious aftereffects exists, research is conducted on
 
 b. The psychologist seriously considers the possibility harmful aftereffects and removes them as soon as permitted by the design of the experiment.
 
-	c. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.
-}}
-%\captionof{InfoBox}{APA Ethical Standards: 1959\label{sample:APAEthics1959}} --&gt; 
+    c. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.
+\end{fullwidth}--&gt;
 
 Four years later, in 1963, the committee responsible for the Ethical guidelines moved the 'preamble' into a numbered point 
 
@@ -217,8 +215,8 @@ c. changed 'removes' to 'avoids or removes'; and
 
 d. were unchanged: (changes italicized)
 
-&lt;!--\noindent\fbox{%
-    \parbox{\textwidth}{%
+&lt;!--\begin{fullwidth}[APA Ethical standards 1963]
+\label{sample: APAEthics1963}
 Principle 16. Research Precautions. The psychologist assumes obligations for the welfare of his research subjects, both animal and human.
 
 a. Only when a problem is of scientific significance and it is not practicable to investigate it in any other way is the psychologist justified in exposing research subjects research subjects, whether children or adults, to physical or emotional stress.
@@ -227,15 +225,14 @@ b. When the possibility of injurious aftereffects exists, research is conducted 
 
 c. The psychologist seriously considers the possibility harmful aftereffects and avoids or removes them as soon as permitted by the design of the experiment.
 
-2.	d. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.
-}} 
-%\captionof{InfoBox}{APA Ethical standards 1963\label{sample: APAEthics1963}}--&gt; 
+2.  d. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.
+\end{fullwidth}--&gt;
 
  These changed little between 1963 and 1968, except for the addition of  the qualifying phrase 'as part of the investigation' to (a) and adding provision (e) governing the use of psychoactive drugs:
 
 
-&lt;!--\noindent\fbox{%
-    \parbox{\textwidth}{%
+&lt;!--\begin{fullwidth}[APA Ethical standards 1968]
+\label{sample: APAEthics1968}
 
 Principle 16. Research Precautions. The psychologist assumes obligations for the welfare of his research subjects, both animal and human.
 
@@ -245,12 +242,10 @@ b. When the possibility of injurious aftereffects exists, research is conducted 
 
 c. The psychologist seriously considers the possibility harmful aftereffects and avoids, or removes them as soon as permitted by the design of the experiment.
 
-3.	d. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.
+3.  d. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.
 
 e. Investigations of human subjects using experimental drugs (for example, hallucinogenic, psychotomimetic, psychedelic, or similar substances) should be conducted only in such settings as clinics, hospitals, or research facilities maintaining appropriate safeguards for the subjects.
-}}
-%\captionof{InfoBox}{APA Ethical standards 1968\label{sample: APAEthics1968}}
- --&gt; 
+\end{fullwidth}--&gt; 
 
 
 ##### Further reading:
@@ -1153,7 +1148,7 @@ While teaching at UCLA, Hooker became friends with one of her graduate students,
 
  &gt; “This bright young man, somewhere in his early thirties, had obviously been thinking about this for a long time. And by ‘people like us’ he meant, ‘We’re homosexual, but we don’t need psychiatrists. We don’t need psychologists. We’re not insane. We’re not any of those things they say we are.” (Eric Marcus, Windy City Times, October 31, 2007 • vol 23 no 07)
 
-During the 1940's, Evelyn Hooker became a trusted 'outsider' of the gay community in L.A., but didn't want to conduct research on people she saw as her friends.
+During the 1940s, Evelyn Hooker became a trusted 'outsider' of the gay community in L.A., but didn't want to conduct research on people she saw as her friends.
 
 ##### The Kinsey Report
 
@@ -1237,7 +1232,7 @@ There is a superb website in the UK that is collecting stories of patients, doct
 “We need to remember that the discussions that went on at Maudsley in the early 50s were constantly searching for ways in which we could understand the relationship between events, so again referring to the ideas put forward by Pavlov, Skinner and Wolpe, if a situation produces anxiety and at the same time there is another even occurring then buy the process of conditioning it's quite likely that the reaction of  anxiety will become associated with the unconditioned stimulus. By thinking along those lines it seemed to me that if the process of sexual arousal and gratification is linked with something, it may well become the preferred method of seeking gratification. It seemed to me that if a person wanted to stop being involved in and interested in make figures—so long as he had bisexual potential or interests—we might be able to utilize the other half of the spectrum of potential arousal signals. And, if we did that often enough, he then might be gratified by femininity.”
 Form 'A Psychological Career', anonymous testimonial from http://www.treatmenthomosexuality.co.uk/.
 For the full statement, see http://www.number10.gov.uk/Page20571
-You'll recall that Freud and the psychoanalytic tradition that followed him believed homosexuality was a regression fixation caused by an underlying, probably narcsisitic, neurosis. See Introductory Lectures p. 376-384 and 529-531)
+You'll recall that Freud and the psychoanalytic tradition that followed him believed homosexuality was a regression fixation caused by an underlying, probably narcissistic, neurosis. See *Introductory Lectures* p. 376-384 and 529-531)
 The often repeated statistic that 10% of any given population is gay or lesbian originates with Kinsey’s study.
 The 'Society for Human Rights' was founded in 1924, but never gained national prominence.
 Hooker, Evelyn. "The Adjustment of the Male Overt Homosexual." Journal of Projective Techniques 21(1957): 18-31.
@@ -2877,7 +2872,7 @@ Also, watch (if you can) “Changing our minds, the story of Evelyn Hooker”: h
 
 ### Game Objectives
 
-You were trained as a behaviorist, by Karl Muenzinger and Robert Yerkes, who was a good friend of John Watson. Many of Watson's arguments draw from comparative psychology as a discipline. Muensinger's view, however, was more like Tolman's than Yerkes (see the “History of Definitions of 'Psychology'” in the gamebook). You are committed—as is your field—to the thesis that one can learn about the psychology of humans by studying the minds of animals. If the cognitivists are successful at getting the line between “man and brutes” reestablished, it may relegate your field to a psychological footnote.  Defend behaviorism, in particular the thesis that there is no hard and fast line between humans and animals, from the attacks of the cognitivitsts.
+You were trained as a behaviorist, by Karl Muenzinger and Robert Yerkes, who was a good friend of John Watson. Many of Watson's arguments draw from comparative psychology as a discipline. Muensinger's view, however, was more like Tolman's than Yerkes (see the &lt;!--\fullref{historyofpsychology}--&gt; in the gamebook). You are committed—as is your field—to the thesis that one can learn about the psychology of humans by studying the minds of animals. If the cognitivists are successful at getting the line between “man and brutes” reestablished, it may relegate your field to a psychological footnote.  Defend behaviorism, in particular the thesis that there is no hard and fast line between humans and animals, from the attacks of the cognitivitsts.
 
 
 
@@ -2923,7 +2918,7 @@ Hooker, E. (1969). Parental relations and male homosexuality in patient and non-
 
 Milar, K. S. (2011) “The Myth Buster: Evelyn Hooker's Groundbreaking Research Exploded the notion that homosexuality was a mental illness, ultimately removing it from the DSM” Time Capsule, 42(2): p. 24
 </Text>
-            <Comments>See Muenzinger, K. (1942). Psychology: the science of behavior Harper, New York. Muenzinger is the only President of the APA to hold BOTH an MD and a PhD.  He often argued that both degrees were the best for a psychologist.</Comments>
+            <Comments>See Muenzinger, K. (1942). *Psychology: the science of behavior* Harper, New York. Muenzinger is the only President of the APA to hold BOTH an MD and a PhD.  He often argued that *both* degrees were the best for a psychologist.</Comments>
         </Document>
         <Document ID="46">
             <Title>APAEthics1968</Title>
@@ -9908,10 +9903,11 @@ changing behavior. Reading, Mass.: Addison-Wesley, 1969.
 % Set numbering system to sub subsection
 
 % Generates the index
-\usepackage{makeidx}
+
 \makeindex
 
 \begin{document}
+
 \maketitle
 
 % Front matter
@@ -10076,7 +10072,7 @@ Pavlov, I. P. (1927). Conditioned Reflexes: An Investigation of the Physiologica
 
 Academic associations like the APA not only provide their members with a forum through which they can socialize, share ideas and test or their most recent work; they also represent their discipline to the public. An association's president is often called upon to act as a spokesperson during times of controversy. The associations often define---sometimes very carefully---the qualifications someone must have to become a member.
 
-During 1970's, the APA is being called upon to represent their membership in both of these ways.  It is important, therefore, to ensure that actions of the APA---whether it be the election of a new president or the publication of a statement---represent the will of the membership.  The association exists for the membership, not the other way around.
+During 1970s, the APA is being called upon to represent their membership in both of these ways.  It is important, therefore, to ensure that actions of the APA---whether it be the election of a new president or the publication of a statement---represent the will of the membership.  The association exists for the membership, not the other way around.
 
 ##### Reputation &amp; Replication
 
@@ -10689,7 +10685,7 @@ At Barnard, you were deeply influenced by Harry Hollingworth, chair of the Psych
 
 The year that you earned your doctorate, the stock market crashed, which caused the early part of your career to be defined by harsh economic times. Thanks to New Deal grants from the National Youth Administration and the Works Progress Administration (WPA), you were able to hire a few research assistants. You moved to Queens College in 1939, but felt that the administration did not fully support your fledgling psychology department. You moved again, this time to Fordham, in 1947, where you remain today.
 
-You are often called the “test guru.'' Your 1954 text, ''Psychological Testing,'' is still required reading in undergraduate and graduate psychology courses and is considered a virtual bible for the field. The book, an encyclopedic review of how tests are constructed, validated and interpreted, received wide acclaim for its lucidity and depth of analysis. You took a special interest in the question of whether tests could be created that were free of cultural bias.  In the 1960's and 70's, while some in the field championed so-called ''culture fair'' tests, your argued that the claim that tests could be entirely unbiased was a fallacy. You ultimately argued that, “Tests can serve a predictive function only insofar as they indicate to what extent the individual has acquired the prerequisite skills and knowledge for a designated criterion performance. What persons can accomplish in the future depends not only on their present intellectual status, as assessed by the test, but on their subsequent experience (Anastasi, 1981).”
+You are often called the “test guru.'' Your 1954 text, ''Psychological Testing,'' is still required reading in undergraduate and graduate psychology courses and is considered a virtual bible for the field. The book, an encyclopedic review of how tests are constructed, validated and interpreted, received wide acclaim for its lucidity and depth of analysis. You took a special interest in the question of whether tests could be created that were free of cultural bias.  In the 1960s and 70s, while some in the field championed so-called ''culture fair'' tests, your argued that the claim that tests could be entirely unbiased was a fallacy. You ultimately argued that, “Tests can serve a predictive function only insofar as they indicate to what extent the individual has acquired the prerequisite skills and knowledge for a designated criterion performance. What persons can accomplish in the future depends not only on their present intellectual status, as assessed by the test, but on their subsequent experience (Anastasi, 1981).”
 
 According to you, intelligence tests can do three things:
 
@@ -12019,7 +12015,25 @@ If you become president, it is almost certain that there will be a number of pro
 
 &gt;On occasion psychiatrists are asked for an opinion about an individual who is in the light of public attention or who has disclosed information about himself/herself through public media. In such circumstances, a psychiatrist may share with the public his or her expertise about psychiatric issues in general. However, it is unethical for a psychiatrist to offer a professional opinion unless he or she has conducted an examination and has been granted proper authorization for such a statement.
 
-You can split these two paragraphs into two proposals, if you believe it will be easier to pass them. The second is a direct result of the Goldwater affair (see the gamebook 'Playing a psychologist or psychiatrist in the 1970s’), and anticipates the problems associated with the APA’s stand on abortion in 1970’s.  You can mine the history of both of these issues for arguments in favor of your proposal. You should also look at Principle 5 of the APA Ethical Standards of Psychologists for support.
+You can split these two paragraphs into two proposals, if you believe it will be easier to pass them. The second is a direct result of the Goldwater affair (see the gamebook &lt;!--\fullref{playingapsychologistorpsychiatristinthe1970s}--&gt;, and anticipates the problems associated with the APA’s stand on abortion in 1970s:
+
+In 1969, the American Psychological Association issued a public proclamation, citing lack of evidence to the contrary that:
+
+&gt; **WHEREAS** in many state legislature, bills have recently been introduced for the purpose of repealing or drastically modifying the existing criminal codes with respect to the termination of unwanted pregnancies; and whereas, termination of unwanted pregnancies is clearly a mental health and child welfare issue, and a legitimate concern of APA; be it resolved, that termination of pregnancy be considered a civil right of the pregnant woman, to be handled as other medical and surgical procedures in consultation with her physician, and to be considered legal if performed by a licensed physician in a licensed medical facility.⁠ (Available at http://www.apa.org/about/governance/council/policy/abortion.aspx)
+
+
+The American Psychiatric Association followed in 1977 with:
+
+&gt;The emotional consequences of unwanted pregnancy on parents and their offspring may lead to long-standing life distress and disability, and the children of unwanted pregnancies are at high risk for abuse, neglect, mental illness, and deprivation of the quality of life. Pregnancy that results from undue coercion, rape, or incest creates even greater potential distress or disability in the child and the parents. The adolescent most vulnerable to early pregnancy is the product of adverse sociocultural conditions involving poverty, discrimination, and family disorganization, and statistics indicate that the resulting pregnancy is laden with medical complications which threaten the well-being of mother and fetus. The delivery that ensues from teenage pregnancy is prone to prematurity and major threats to the health of mother and child, and the resulting newborns have a higher percentage of birth defects, developmental difficulties, and a poorer life and health expectancy than the average for our society. Such children are often not released for adoption and thus get caught in the web of foster care and welfare systems, possibly entering lifetimes of dependency and costly social interventions. The tendency of this pattern to pass from generation to generation is very marked and thus serves to perpetuate a cycle of social and educational failure, mental and physical illness, and serious delinquency.
+
+&gt;Because of these considerations, and in the interest of public welfare, the American Psychiatric Association
+
+&gt;1)	opposes all constitutional amendments, legislation, and regulations curtailing family planning and abortion services to any segment of the population; 2) reaffirms its position that abortion is a medical procedure in which physicians should respect the patient's right to freedom of choice - psychiatrists may be called on as consultants to the patient or physician in those cases in which the patient or physician requests such consultation to expand mutual appreciation of motivation and consequences; and 3) affirms that the freedom to act to interrupt pregnancy must be considered a mental health imperative with major social and mental health implications.⁠ (Available at http://www.psych.org/Departments/EDU/Library/APAOfficialDocumentsandRelated/PositionStatements/197703.aspx)
+
+You'll recall that the US Supreme court decided that abortion was covered by the constitutional dictate to a 'right to privacy,' thereby blocking all laws that had kept abortion illegal.
+
+
+You can mine the history of both of these issues for arguments in favor of your proposal. You should also look at Principle 5 of the APA Ethical Standards of Psychologists for support.
 
 You should organize your efforts on these manners with the other women in the organization. As you'll notice from the brief history in the gamebook, the APA had women members since its second year of existence, and Mary Whiton Calkins was a president in its 12th year (1905).  There has not, however, been a women in a leadership position since that time.  You are a serious candidate to be the first woman president in over 50 years.
 
@@ -12049,19 +12063,7 @@ See (for summary of biography): http://www.webster.edu/~woolflm/tyler.html
 In 1964, a magazine called Fact asked 12,000 psychiatrists if they would be willing to diagnose conservative presidential candidate Barry Goldwater. Of the more than 2000 that responded 1,189 responded that he appeared to have a 'personality disorder'--that slippery category between psychosis and neurosis.  The headline proclaimed (under the magazine's title 'fact:') that “1,198 Psychiatrists Say Goldwater Is Psychologically Unfit To Be President! You may recall that the 1964 election witnessed Johnson's famous 'Daisy' ad, which suggested that the election of Barry Goldwater would lead to nuclear annihilation.⁠1  
 
 
-1 For a brief history see Pinsker, H. (2007). “Goldwater Rule' History”, Psychiatric News, 42 (15), p. 33 (http://pn.psychiatryonline.org/content/42/15/33.1.full)
-In 1969, the American Psychological Association issued a public proclamation, citing lack of evidence to the contrary that:
-WHEREAS in many state legislature, bills have recently been introduced for the purpose of repealing or drastically modifying the existing criminal codes with respect to the termination of unwanted pregnancies; and whereas, termination of unwanted pregnancies is clearly a mental health and child welfare issue, and a legitimate concern of APA; be it resolved, that termination of pregnancy be considered a civil right of the pregnant woman, to be handled as other medical and surgical procedures in consultation with her physician, and to be considered legal if performed by a licensed physician in a licensed medical facility.⁠1
-
-The American Psychiatric Association followed in 1977 with:
-The emotional consequences of unwanted pregnancy on parents and their offspring may lead to long-standing life distress and disability, and the children of unwanted pregnancies are at high risk for abuse, neglect, mental illness, and deprivation of the quality of life. Pregnancy that results from undue coercion, rape, or incest creates even greater potential distress or disability in the child and the parents. The adolescent most vulnerable to early pregnancy is the product of adverse sociocultural conditions involving poverty, discrimination, and family disorganization, and statistics indicate that the resulting pregnancy is laden with medical complications which threaten the well-being of mother and fetus. The delivery that ensues from teenage pregnancy is prone to prematurity and major threats to the health of mother and child, and the resulting newborns have a higher percentage of birth defects, developmental difficulties, and a poorer life and health expectancy than the average for our society. Such children are often not released for adoption and thus get caught in the web of foster care and welfare systems, possibly entering lifetimes of dependency and costly social interventions. The tendency of this pattern to pass from generation to generation is very marked and thus serves to perpetuate a cycle of social and educational failure, mental and physical illness, and serious delinquency.
-Because of these considerations, and in the interest of public welfare, the American Psychiatric Association
-1)	opposes all constitutional amendments, legislation, and regulations curtailing family planning and abortion services to any segment of the population; 2) reaffirms its position that abortion is a medical procedure in which physicians should respect the patient's right to freedom of choice - psychiatrists may be called on as consultants to the patient or physician in those cases in which the patient or physician requests such consultation to expand mutual appreciation of motivation and consequences; and 3) affirms that the freedom to act to interrupt pregnancy must be considered a mental health imperative with major social and mental health implications.⁠2
-You'll recall that the US Supreme court decided that abortion was covered by the constitutional dictate to a 'right to privacy,' thereby blocking all laws that had kept abortion illegal.
-
-
-1 Available at http://www.apa.org/about/governance/council/policy/abortion.aspx
-2 Available at http://www.psych.org/Departments/EDU/Library/APAOfficialDocumentsandRelated/PositionStatements/197703.aspx</Comments>
+1 For a brief history see Pinsker, H. (2007). “Goldwater Rule' History”, Psychiatric News, 42 (15), p. 33 (http://pn.psychiatryonline.org/content/42/15/33.1.full)</Comments>
         </Document>
         <Document ID="169">
             <Title>Items you will neee</Title>
@@ -16053,7 +16055,8 @@ The historian of ideas may notice that this view is Kantian in nature: human lan
 \def\mytitle{Defining the Mind}
 \def\myauthor{Peter Bradley}
 
- 
+ \input{mmd-memoir-header.tex}
+
 \def\mysubtitle{The struggle for legitimacy of psychology and psychiatry in the 1970's}
 \addbibresource{../APA.bib}
 \DeclareBibliographyAlias{webpage}{online} 
@@ -16098,18 +16101,15 @@ The historian of ideas may notice that this view is Kantian in nature: human lan
   \renewcommand*{\partnamenum}{\space}%
   \renewcommand*{\printpartnum}{\partnumfont \thepart}%
 
-\newcommand*{\tahead}[1]{{\bfseries #1}} % Table header
-\newcommand*{\thead}[1]{{\bfseries #1}} % Table header
-\newcolumntype{P}[1]{&gt;{\raggedright\arraybackslash}p{#1}}
-\newcolumntype{R}[1]{&gt;{\raggedleft\arraybackslash}p{#1}}
 
 \newcommand*{\fullref}[1]{See \nameref{#1} on page~\pageref{#1}} % One single link
+
+\newcommand{\fullwidth}[1]{\noindent\fbox{\parbox{\textwidth}{#1}}}
 
 \widowpenalty10000
 \clubpenalty10000
 
 %\ldots
-\newcolumntype{d}[1]{D{.}{\cdot}{#1} } % Define table column
 
 \pagestyle{plain}
 
@@ -16128,22 +16128,7 @@ The historian of ideas may notice that this view is Kantian in nature: human lan
 
 \makeatother
 
-%% Done
-
-% Generates the index
-\usepackage{makeidx}
-\makeindex
-
-\begin{document}
-\maketitle
-
-% Front matter
-\frontmatter\pagenumbering{roman}\pagestyle{empty}
-
-
-
-
---&gt;
+%% Done--&gt;
 </Text>
         </Document>
         <Document ID="297">
@@ -16718,7 +16703,7 @@ The other characters in this game are were actually around in the early 1970s, t
 
 &gt;I have two degrees in counseling: a Master of Arts in Theology, with a Pastoral Counseling emphasis, from Pacific Lutheran Theological Seminary, which is the degree under which I received my Marriage and Family Therapist license in 1986, and a second Master of Arts in Clinical Counseling from California State University, Hayward (now Cal State East Bay). My background encompasses a number of different models and approaches.  I am most known for being a Jungian-oriented therapist but also important to my professional identity has been formal training in pastoral counseling and spiritual direction, long-term object-relations psychodynamic treatment, cognitive-behavioral approaches to depression, health and sexuality concerns, and many years of being an "out" gay male therapist and activist in the Bay Area GLBT community. I am a best-selling author, public speaker, teacher, supervisor and professional consultant.
 
-We've included you in the game to voice a gay-positive Jungian perspective. Jung, himself,  was not very gay-friendly. And those who follow his theory strictly continued that tradition throughout the 1970’s.  Thus, in order to find a gay-positive Jungian, we have to break the historical accuracy of the game. As a matter of actual history, you didn't publish this perspective on Jungian psychology until the late 1980's, but that's not important here.
+We've included you in the game to voice a gay-positive Jungian perspective. Jung, himself,  was not very gay-friendly. And those who follow his theory strictly continued that tradition throughout the 1970s.  Thus, in order to find a gay-positive Jungian, we have to break the historical accuracy of the game. As a matter of actual history, you didn't publish this perspective on Jungian psychology until the late 1980s, but that is not important here.
 
 ### Game Objectives
 
@@ -18705,7 +18690,10 @@ References
         <Document ID="239">
             <Title>Tufte-Title</Title>
             <Text>&lt;!-- 
-\def\mysubtitle{A Guide for the Intentional Student}
+\def\mytitle{Defining the Mind}
+\def\myauthor{Peter Bradley}
+
+\def\mysubtitle{The Struggle for Legitimacy in Psychiatry and Psychology in the 1970s}
  
 \input{mmd-tufte-header.tex}
 \addbibresource{../APA.bib}
@@ -18727,8 +18715,9 @@ References
 \usepackage{varioref}
 \usepackage{marginfix}
 \usepackage{morefloats}
+\usepackage{pdfpages}
 \extrafloats{1000}
-
+\setlength{\headheight}{27pt}
 
 
 \setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
@@ -23471,8 +23460,7 @@ Program committee in 1971:
 A sample schedule is available on page &lt;!--\pageref{sample:bod}--&gt;.
 
 &lt;!--
-\noindent\fbox{%
-\parbox{\textwidth}{%
+
 
 \begin{enumerate}
 
@@ -23490,8 +23478,7 @@ A sample schedule is available on page &lt;!--\pageref{sample:bod}--&gt;.
 	\item  Elections for vice-president and expiring member at large. \newline
 \end{enumerate}
 \end{enumerate}
-}%
-}
+
  %\captionof{InfoBox}{Sample schedule for Board of Directors meeting\label{sample:bod}}
 
 
@@ -23886,8 +23873,7 @@ ACTTVITTES HANDBOO&amp; VOL. 2
         <Document ID="156">
             <Title>ConferenceSchedule-1971</Title>
             <Text>&lt;!--
-\noindent\fbox{%
-\parbox{\textwidth}{% --&gt;
+\begin{fullwidth}--&gt;
 #### Conference Schedule for 1971
 
 Presidential Address: Dr. G. Miller “The Future of Psychology”
@@ -23931,8 +23917,7 @@ Nominations and elections for:
 * Vice President 1972.
 * Replacement for Milgram, member at large on the Board of Directors.*
 
-&lt;!-- }%
-}
+&lt;!-- \end{fullwidth}
 % \captionof{InfoBox}{Schedule for first conference\label{sample:firstconference}}
 
 
@@ -26281,7 +26266,7 @@ September 10-12 1956&amp;MIT hosts the second Symposium on Information Theory. I
 \multicolumn{2}{ | P{13.8cm} | }{\tahead{First street activism in the gay and lesbian community}} \\ \hline
 1963&amp;Barbara Gittings becomes editor of the newsletter of the Daughters of Bilitis. \\
 1968&amp;Members of the Mattachine society disrupt public lecture by Charles Socarides \\
-1969&amp;Oliver Sacks administers L-DOPA to patients comatose since the 1920's, and is amazed to find them awaken.  His memoir 'Awakenings' is published in 1972, and widely read and discussed in the medical community.  \\ \hline
+1969&amp;Oliver Sacks administers L-DOPA to patients comatose since the 1920s, and is amazed to find them awaken.  His memoir 'Awakenings' is published in 1972, and widely read and discussed in the medical community.  \\ \hline
 June 28, 1969-July 3rd, 1969&amp;\fullref{stonewall:thestreetactivists} \\
 1970&amp;Gay rights protesters picket, and overwhelm, the annual meeting of the APA in San Fransisco. \\ \hline
 \multicolumn{2}{ | P{13.8cm} | }{\tahead{Game Begins}} \\ \hline
@@ -26481,8 +26466,7 @@ The Board of Directors is composed of the President, the Vice president, the for
 At each year's conference, the following events occur:
 
 &lt;!--
-\noindent\fbox{%
-\parbox{\textwidth}{%
+
 
 \begin{enumerate}
 
@@ -26502,8 +26486,7 @@ At each year's conference, the following events occur:
 \item  Election for member-at-large on the executive committee (if necessary) \newline
 \item  Executive committee meet in closed session, if necessary. \newline
 \end{enumerate}
-}%
-}
+
  %\captionof{InfoBox}{Sample schedule of events for APA conference\label{sample:conference}}
 
 
@@ -26889,8 +26872,7 @@ Ethics committee – (add Zimbardo as a character. IF proposal is OK'd, the game
         <Document ID="33">
             <Title>Calls for Papers and Symposia</Title>
             <Text>&lt;!--
-\noindent\fbox{%
-\parbox{\textwidth}{% --&gt;
+\begin{fullwidth}% --&gt;
 
 #### Call for Papers and Symposia
 ##### Introduction
@@ -27010,14 +26992,12 @@ APA members, commercial film producers or distributors who wish to present new f
 ##### Exhibits
 
 APA members are encouraged to exhibit apparatus, teaching aids, and other materials of scientific and applied interest. Commercial agencies are invited to request arrangements for exhibits. All commercial exhibitors will be charged for space. Those wishing to arrange for exhibits must write to the chairman of the Program Committee.
-&lt;!-- }%
-}
+&lt;!--\end{fullwidth}
  %\captionof{InfoBox}{Sample call for proposals for APA conference\label{sample:cfp}} --&gt;
 
 
 &lt;!--
-\noindent\fbox{%
-\parbox{\textwidth}{% --&gt;
+\begin{fullwidth} --&gt;
 #### Call for Research Grants
 
 ##### Introduction
@@ -27113,8 +27093,7 @@ Three copies of the proposal should be sent to the chairman of the Research comm
 
 Research findings should be submitted to the conference committee for the annual national conference following the awarding of the grant. The primary investigator should follow the guidelines found under 'Research Reports' (see &lt;!--\ref{researchreports}--&gt; on page &lt;!--\pageref{researchreports}--&gt;) in drafting his research report. Winning a grant in no way guarantees inclusion in the following year's conference program.
 &lt;!--
-}%
-}
+\end{fullwidth}
  %\captionof{InfoBox}{Sample call for research grants\label{sample:cfg}} --&gt;
 </Text>
             <Comments>This entire section is adapted from the “Call for Papers and Symposia” from the 1957 American Psychologist.

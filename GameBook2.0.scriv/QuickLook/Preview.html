@@ -32,7 +32,8 @@
 \def\mytitle{Defining the Mind}<br/>
 \def\myauthor{Peter Bradley}<br/>
 <br/>
- <br/>
+ \input{mmd-memoir-header.tex}<br/>
+<br/>
 \def\mysubtitle{The struggle for legitimacy of psychology and psychiatry in the 1970's}<br/>
 \addbibresource{../APA.bib}<br/>
 \DeclareBibliographyAlias{webpage}{online} <br/>
@@ -45,12 +46,14 @@
 \setmainfont{Avenir}[<br/>
   UprightFont=* Book,             % or Light<br/>
   ItalicFont=* Book Oblique,      % or Light Oblique<br/>
-  BoldFont=* Black,               % or Medium<br/>
-  BoldIt...</p>
+  BoldFont=* Black,     ...</p>
 </li>
 <li>
 <p class="binderItem"><strong>Tufte-Title</strong><br/><!-- <br/>
-\def\mysubtitle{A Guide for the Intentional Student}<br/>
+\def\mytitle{Defining the Mind}<br/>
+\def\myauthor{Peter Bradley}<br/>
+<br/>
+\def\mysubtitle{The Struggle for Legitimacy in Psychiatry and Psychology in the 1970s}<br/>
  <br/>
 \input{mmd-tufte-header.tex}<br/>
 \addbibresource{../APA.bib}<br/>
@@ -68,14 +71,7 @@
 %%<br/>
 % For graphics / images<br/>
 \usepackage{graphicx}<br/>
-\usepackage{environ}<br/>
-\usepackage{varioref}<br/>
-\usepackage{marginfix}<br/>
-\usepackage{morefloats}<br/>
-\extrafloats{1000}<br/>
-<br/>
-<br/>
-...</p>
+\usepackage{env...</p>
 </li>
 <li>
 <p class="binderItem"><strong>Latex-common</strong><br/><!--<br/>
@@ -98,7 +94,10 @@
 % Set numbering system to sub subsection<br/>
 <br/>
 % Generates the index<br/>
-\usepackage{ma...</p>
+<br/>
+\makeindex<br/>
+<br/>
+\...</p>
 </li>
 <li>
 <p class="binderItem"><strong>Game Book</strong></p>
@@ -259,7 +258,7 @@ Each week (two or three sessions, depending on your schedule) of game play reena
 <br/>
 Academic associations like the APA not only provide their members with a forum through which they can socialize, share ideas and test or their most recent work; they also represent their discipline to the public. An association's president is often called upon to act as a spokesperson during times of controversy. The associations often define---sometimes very carefully---the qualifications someone must have to become a member.<br/>
 <br/>
-During 1970's, the APA is being called upon t...</p>
+During 1970s, the APA is being called upon to...</p>
 </li>
 <li>
 <p class="binderItem"><strong>Objectives and victory conditons</strong><br/>#### Victory Objectives<br/>
@@ -295,13 +294,12 @@ APA policy on the use of the title "psychologist" is contained in the General Gu
 </li>
 <li>
 <p class="binderItem"><strong>Calls for Papers and Symposia</strong><br/><!--<br/>
-\noindent\fbox{%<br/>
-\parbox{\textwidth}{% --><br/>
+\begin{fullwidth}% --><br/>
 <br/>
 #### Call for Papers and Symposia<br/>
 ##### Introduction<br/>
 <br/>
- I. The Program committee herein announces a Call of Papers and Symposia for the annual convention of the APA. Please read the relevant rules carefully if you plan to take part in the program. Note especially the deadlines, the form for abstracts of contributed papers, the forms for symposium proposals, and the proper persons to receive your correspondence. The pertinent references have been co...</p>
+ I. The Program committee herein announces a Call of Papers and Symposia for the annual convention of the APA. Please read the relevant rules carefully if you plan to take part in the program. Note especially the deadlines, the form for abstracts of contributed papers, the forms for symposium proposals, and the proper persons to receive your correspondence. The pertinent references have been collected into the box...</p>
 </li>
 <li>
 <p class="binderItem"><strong>Role of the Gamemaster</strong><br/>#### Role of the gamemaster<br/>
@@ -856,8 +854,7 @@ Various students should be tasked with presenting proposals for research to the 
 </li>
 <li>
 <p class="binderItem"><strong>ConferenceSchedule-1971</strong><br/><!--<br/>
-\noindent\fbox{%<br/>
-\parbox{\textwidth}{% --><br/>
+\begin{fullwidth}--><br/>
 #### Conference Schedule for 1971<br/>
 <br/>
 Presidential Address: Dr. G. Miller “The Future of Psychology”<br/>
@@ -867,7 +864,7 @@ Distribution of proposals to be considered this year:<br/>
 * J. Marmor: proposal to remove 'homosexuality' from the DSM-II (302.0)<br/>
 * C. Socarides & I. Beiber: proposal to create taskforce on sexual deviation<br/>
 * J. Spiegel and/or R. Green: proposal to create task force of historical study and literature review of homosexuality in psychology and psychiatry.<br/>
-...</p>
+Symposium “Psychiatry:...</p>
 </li>
 <li>
 <p class="binderItem"><strong>Research Committee Proposals</strong><br/>These are provided to the instructor in case the students fail to come through on research design.  They can either be handed to the relevant student to inspire creativity, or “submitted” to the research committee by a mysterious non-player character.</p>

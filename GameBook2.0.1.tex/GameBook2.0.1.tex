@@ -1,16 +1,14 @@
-\input{mmd-memoir-header}
 \def\mytitle{Defining the Mind: The struggle for legitimacy in Psychiatry and Psychology in the 1970's}
 \def\myauthor{Peter Bradley}
-\def\latexmode{memoir}
-\input{mmd-memoir-begin-doc}
 
 
 \def\mytitle{Defining the Mind}
 \def\myauthor{Peter Bradley}
 
- 
+ \input{mmd-memoir-header.tex}
+
 \def\mysubtitle{The struggle for legitimacy of psychology and psychiatry in the 1970's}
-\addbibresource{APA.bib}
+\addbibresource{../APA.bib}
 \DeclareBibliographyAlias{webpage}{online} 
 
 
@@ -19,19 +17,19 @@
 \definecolor{ferrsgold}{RGB}{252,201,23}
 
 \setmainfont{Avenir}[
- UprightFont=* Book, % or Light
- ItalicFont=* Book Oblique, % or Light Oblique
- BoldFont=* Black, % or Medium
- BoldItalicFont=* Black Oblique, % or Medium Oblique
+  UprightFont=* Book,             % or Light
+  ItalicFont=* Book Oblique,      % or Light Oblique
+  BoldFont=* Black,               % or Medium
+  BoldItalicFont=* Black Oblique, % or Medium Oblique
 ]
 
-\makechapterstyle{ferrisstyle}{% Holder for working on Chapter headings
- \chapterstyle{article}
- \renewcommand*{\chapnumfont}{\normalfont\huge\bfseries \leavevmode\color{ferrisred}}
- \renewcommand*{\chaptitlefont}{\normalfont\huge\bfseries \leavevmode\color{ferrisred}}
- \settowidth{\chapindent}{\chapnumfont 111}
- \renewcommand*{\printchaptername}{}
- \renewcommand*{\chapternamenum}{}
+\makechapterstyle{ferrisstyle}{%  Holder for working on Chapter headings
+  \chapterstyle{article}
+  \renewcommand*{\chapnumfont}{\normalfont\huge\bfseries \leavevmode\color{ferrisred}}
+  \renewcommand*{\chaptitlefont}{\normalfont\huge\bfseries \leavevmode\color{ferrisred}}
+  \settowidth{\chapindent}{\chapnumfont 111}
+  \renewcommand*{\printchaptername}{}
+  \renewcommand*{\chapternamenum}{}
 }
 
 
@@ -41,30 +39,27 @@
 
 \chapterstyle{ferrisstyle}
 % Defining parts
-% \renewcommand*{\beforepartskip}{\null\vfil}%
-% \renewcommand*{\afterpartskip}{\vfil\newpage}%
- \renewcommand*{\beforepartskip}{\null}%
- \renewcommand*{\afterpartskip}{\vfil}%
- \renewcommand*{\midpartskip}{\par\vskip 20pt}%
- \renewcommand*{\partnamefont}{\normalfont\huge\bfseries \leavevmode\color{ferrisred}}%
- \renewcommand*{\partnumfont}{\normalfont\huge\bfseries \leavevmode\color{ferrisred}}%
- \renewcommand*{\parttitlefont}{\normalfont\huge\bfseries \leavevmode\color{ferrisred}}%
- \renewcommand*{\printpartname}{\partnamefont \partname}%
- \renewcommand*{\partnamenum}{\space}%
- \renewcommand*{\printpartnum}{\partnumfont \thepart}%
+%  \renewcommand*{\beforepartskip}{\null\vfil}%
+%  \renewcommand*{\afterpartskip}{\vfil\newpage}%
+  \renewcommand*{\beforepartskip}{\null}%
+  \renewcommand*{\afterpartskip}{\vfil}%
+  \renewcommand*{\midpartskip}{\par\vskip 20pt}%
+  \renewcommand*{\partnamefont}{\normalfont\huge\bfseries \leavevmode\color{ferrisred}}%
+  \renewcommand*{\partnumfont}{\normalfont\huge\bfseries \leavevmode\color{ferrisred}}%
+  \renewcommand*{\parttitlefont}{\normalfont\huge\bfseries \leavevmode\color{ferrisred}}%
+  \renewcommand*{\printpartname}{\partnamefont \partname}%
+  \renewcommand*{\partnamenum}{\space}%
+  \renewcommand*{\printpartnum}{\partnumfont \thepart}%
 
-\newcommand*{\tahead}[1]{{\bfseries #1}} % Table header
-\newcommand*{\thead}[1]{{\bfseries #1}} % Table header
-\newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}
-\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
 
 \newcommand*{\fullref}[1]{See \nameref{#1} on page~\pageref{#1}} % One single link
+
+\newcommand{\fullwidth}[1]{\noindent\fbox{\parbox{\textwidth}{#1}}}
 
 \widowpenalty10000
 \clubpenalty10000
 
 %\ldots
-\newcolumntype{d}[1]{D{.}{\cdot}{#1} } % Define table column
 
 \pagestyle{plain}
 
@@ -85,11 +80,31 @@
 
 %% Done
 
+
+%\newcommand{\fullref}[1]{\hyperref[{#1}]{\autoref*{#1} \nameref*{#1}}}
+\newcommand*{\tahead}[1]{{\bfseries #1}} % Table header
+\newcommand*{\thead}[1]{{\bfseries #1}} % Table header
+\newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+
+
+
+%\ldots
+\newcolumntype{d}[1]{D{.}{\cdot}{#1} } % Define table column
+
+\pagestyle{plain}
+
+
+\setcounter{tocdepth}{1}
+
+% Set numbering system to sub subsection
+
 % Generates the index
-\usepackage{makeidx}
+
 \makeindex
 
 \begin{document}
+
 \maketitle
 
 % Front matter
@@ -97,20 +112,16 @@
 
 
 
-
-
-
 \pagebreak 
 
-\part{GAME BOOK}
+Game Book
+
+\part{Game Book}
 \label{gamebook}
 
 
 \title{Defining the Mind:\protect\\
 \large{The struggle for legitimacy in psychology and psychiatry during the 1970s.}}
-
-\author[1]{Peter Bradley\thanks{peterbradley@ferris.edu}}
-\affil[1]{Honors Program, Ferris State University}
 
 \maketitle
 \newpage
@@ -135,10 +146,9 @@
 
 \pagebreak 
 
-\chapter{INTRODUCTION}
-\label{introduction}
+Introduction
 
-\section{The Game}
+\chapter{The Game}
 \label{thegame}
 
 This game highlights the intellectual conflicts that changed American psychiatry and psychology in the early part of the 1970s.
@@ -149,7 +159,7 @@ During the course of this game, your class will be the `APA.' Your class will be
 
 Players will join `committees' with different responsibilities, such as scheduling each conference and determining who will present papers on what subjects. The schedule for the first annual conference is already set: you can review it on p. \pageref{conferenceschedulefor1971} . Pay careful attention to the schedule of submission and review detailed by the conference committee. If your role sheet requires that you present your research at the conference, you must get your proposal to the conference committee on time. There is a detailed description of the form required for proposals provided under `\ref{callsforpapersandsymposia}.' on p. \pageref{callsforpapersandsymposia}.
 
-\subsection{Playing a Psychologist or Psychiatrist in the 1970s.}
+\section{Playing a Psychologist or Psychiatrist in the 1970s.}
 \label{playingapsychologistorpsychiatristinthe1970s.}
 
 In 1974, the vast majority of psychiatrists would have been trained in the psychoanalytic tradition of Freud and Jung. In psychology, the vast majority would have been trained as behaviorists.
@@ -251,7 +261,7 @@ Starting a decade ago, Thomas Szasz, Professor of Psychiatry at State University
 
 At the same time, George Miller, who is serving as the President of the APA this year, is something of a revolutionary himself. Miller has been arguing for the existence of something called `Cognitive Psychology', which directly challenges the 50-year tradition of limiting psychological research to the observation, prediction and control of human behavior. For half a century, psychologists have been convinced that they cannot scientifically investigate unobservable entities like `beliefs', `desires', `personalities' and `minds', but rather must study only the behavior of an organism in its environment. Now even that is being challenged!
 
-Are psychology and psychiatry scientific? Is there such a thing as a `mental illness'? Can (or should) science be used to make the world a better place?
+Are psychology and psychiatry scientific? Is there such a thing as a `mental illness'? Can (or should) science be used to make the world a better place? 
 
 \section{Counterfactuals}
 \label{counterfactuals}
@@ -266,8 +276,7 @@ For the most part, the historical events with which a character interacts occurr
 
 \pagebreak 
 
-\chapter{HISTORICAL BACKGROUND}
-\label{historicalbackground}
+Historical Background
 
 \section{Timeline of events relevant to game play}
 \label{timelineofeventsrelevanttogameplay}
@@ -281,7 +290,7 @@ Major `eras' are separated for ease of reference.
 
  \begin{longtable}[!t]{ | P{2cm} | P{11.8cm} | }
 \hline
-\textbf{Year} & \textbf{Event} \\ \hline
+\textbf{Year} & \textbf{Event}  \\ \hline
 1792 & Philippe Pinel appointed physician at the Bicêtre hospital in Paris \fullref{foundationinempiricism:phillipepinel} \\
 1794 & Pinel appointed chief physician of the Hospice de la Salpêtrière \\ 
 1801&Pinel publishes \emph{A Treatise on Insanity}, with his 4-fold classification of mental illness (translated in English in 1806) \fullref{pinelphilippe.atreatiseoninsanity1806} \\
@@ -298,7 +307,7 @@ Major `eras' are separated for ease of reference.
 1881&George Beard publishes \emph{American Nervousness}, introducing the idea of a 'nervous breakdown' \fullref{americannervousness---georgebeard} \\
 1881&Breuer attempts hypnosis on Anna O. \\
 1882&Charcot founds the first clinic on "Incurable" mental illness (what we now call "neurological conditions") at the Salpêtrière in Paris. \fullref{earlyneurology---charcot} \\
-1883&Christine Ladd-Franklin completes and publishes her dissertation titled "On the Algebra of Logic" under C.S. Peirce. Johns Hopkins refuses to grant her the doctorate because of her gender. \\
+1883&Christine Ladd-Franklin completes and publishes her dissertation titled "On the Algebra of Logic" under C.S. Peirce. Johns Hopkins refuses to grant her the doctorate because of her gender.  \\
 1885&Hermann Ebbinghaus' memory experiments call into question the reliability of introspection-based research in psychology, and establishes the paradigm for experimental psychology.\fullref{experimentalism:ebbinghausandtheunreliabilityofintrospection} \\
 1885-1887&Charlotte Perkins-Gilman treated for Post-Partum Depression by George Beard's student Silas Wier-Mitchell. \\
 
@@ -312,17 +321,17 @@ Major `eras' are separated for ease of reference.
 1894&Christine Ladd-Franklin, along with Margaret Washburn, are the first Women to be elected to the American Psychological Association. \\
 1895&Freud and Bruer publish their report of Anna O titled "The Psychic Mechanism of Hysterical Phenomena" \fullref{hysteriaandhypnosis:freudbreueronannao.} \\ \hline
 \multicolumn{2}{ | p{13.8cm} | }{\tahead{Birth of Psychology as a discipline}} \\ \hline
-1896&William James' \emph{The Principles of Psychology} published. \fullref{americanpsychology:williamjamesandthefunctionofconsciousness} \\ 
+1896&William James' \emph{The Principles of Psychology} published. \fullref{americanpsychology:williamjamesandthefunctionofconsciousness}  \\ 
 
 1905&Mary Whiton Calkins elected first woman President of the American Psychological Association \\
-1909&G. Stanley Hall invites Freud and Jung to give a series of lectures at Clark University. In the audience are William James, Franz Boas (anthropology), E.B. Tichner (psychology) and Emma Goldman (the anarchist) \footnote{Students who are experienced with Reacting may recognize Emma Goldman as a character in the Greenwich Village 1913 game}. After the lectures, Freud and Jung accept an invitation from James Jackson Putnam, a prominent neurologist in New York, to vacation at his home in the Adirondacks. During this vacation, Freud and Jung have a disagreement, which causes rift between them that never closed. \fullref{theclarklectures} \\
+1909&G. Stanley Hall invites Freud and Jung to give a series of lectures at Clark University.  In the audience are William James, Franz Boas (anthropology), E.B. Tichner (psychology) and Emma Goldman (the anarchist). After the lectures, Freud and Jung accept an invitation from James Jackson Putnam, a prominent neurologist in New York, to vacation at his home in the Adirondacks.  During this vacation, Freud and Jung have a disagreement, which causes rift between them that never closed. \fullref{theclarklectures} \\
 1911&Ramon y Cajal demonstrates neurons in the hippocampus, confirming the 'neuron doctrine' \\
 1911&Putnam founds the American Psychiatric Association. \\
 1912&Alan Turing born \\
 1913&Ebbinhaus' work translated into English \\
-1913&John B. Watson publishes "Psychology as the Behaviorist Views it", launching Behaviorism. \fullref{psychologysfirstrevolution:behaviorism} \\
-1917&At the inaugural meeting of the American Psychiatric Association, the DSM-I is adopted. There are 21 mental disorders classified. \\
-1933&\emph{A Standard Classified Nomenclature of Disease} published by the NY Academic of Medicine, along with the Public Health Serve, the Army and Navy Medical Department and the American Hospital Association. \\
+1913&John B. Watson publishes "Psychology as the Behaviorist Views it", launching Behaviorism. \fullref{psychologysfirstrevolution:behaviorism}  \\
+1917&At the inaugural meeting of the American Psychiatric Association, the DSM-I is adopted.  There are 21 mental disorders classified.  \\
+1933&\emph{A Standard Classified Nomenclature of Disease} published by the NY Academic of Medicine, along with the Public Health Serve, the Army and Navy Medical Department and the American Hospital Association.  \\
 1936&Turing posits the idea of a machine that can compute any mathematical function \\
 1939&B.F Skinner publishes \emph{The Behavior of Organisms: An Experimental Analysis}, introducing the concept of 'reinforcement' and 'operant conditioning' \fullref{operantconditioningradicalbehaviorism:skinner} \\
 
@@ -330,16 +339,16 @@ Major `eras' are separated for ease of reference.
  &Individuals discharged from the US Military for homosexuality begin organic communities in the major ports of the West Coast: San Diego, Long Beach (L.A.) and San Fransisco. \\
 1943&bulletin "Medical 203", which defined mental illness for the US military was written by Brigadier General William C. Menninger \\ \hline
 \multicolumn{2}{ | p{13.8cm} | }{\tahead{Scientific study of sexuality, and birth of computing}} \\ \hline
-1948&Kinsey publishes \emph{Sexual Behavior in the Human Male} \fullref{thekinseyreport} \\
+1948&Kinsey publishes \emph{Sexual Behavior in the Human Male}  \fullref{thekinseyreport} \\
 1949&\emph{The International Statistical Classification of Diseases.} Was published. It had 27 major categories of mental illness and 60 sub-categories \fullref{app: DSMI} \\
 1950&Alan Turing publishes "Computing Machinery and Intelligence", articulating the thesis that the mind can be modeled on a machine, as well as a test for the intelligence of such a machine. \\
-1950&The Mattachine Society, in Philadelphia, and the Daughters of Bilitis, in San Francisco, are founded. \fullref{earlyhomophilemovements} \\
+1950&The Mattachine Society, in Philadelphia,  and the Daughters of Bilitis, in San Francisco, are founded. \fullref{earlyhomophilemovements} \\
 1952&Alan Turing arrested as a homosexual. Is sentenced to chemical castration through hormone therapy. \\
 1952&The American Psychiatric Association published the DSM-II, which has 28 major categories of mental illness, and 44 sub categories. \fullref{app: DSMII} \\
 June 7th, 1954&Alan Turing commits suicide. \fullref{briefhistoryofthestudyofhomosexualityinamerica} \\
 1954&Evelyn Hooker begins her research on the Mental health of male homosexuals in Los Angeles. \fullref{connectingthesethreads:evelynhooker} \\
-September 10-12 1956&MIT hosts the second Symposium on Information Theory. In attendance are John von Neumann (the father of computer science), Norbert Weiner (founder of cybernetics), Claude Shannon (creator of Information theory), Warren McCulloch and Walter Pitts (Creators of a mathematical model of a neuron), Margaret Mead (Anthropology), Herbert Simon and Alan Newell (Computer Science), Noam Chomsky (linguistics) and George Miller (psychology). The cognitive revolution has begun. \fullref{thesecondrevolution:cognitivescience} \\
-1955&The Wallace Lab began marketing \emph{Miltown}, the first anti-psychotic medicine. \\
+September 10-12 1956&MIT hosts the second Symposium on Information Theory. In attendance are John von Neumann (the father of computer science), Norbert Weiner (founder of cybernetics), Claude Shannon (creator of Information theory), Warren McCulloch and Walter Pitts (Creators of a mathematical model of a neuron), Margaret Mead (Anthropology), Herbert Simon and Alan Newell (Computer Science), Noam Chomsky (linguistics) and George Miller (psychology). The cognitive revolution has begun. \fullref{thesecondrevolution:cognitivescience}  \\
+1955&The Wallace Lab began marketing \emph{Miltown}, the first anti-psychotic medicine.  \\
 1957&Skinner publishes \emph{Verbal Behavior}, Chomsky publishes stunning critique. \fullref{chomskyn.reviewofverbalbehaviourbyb.f.skinner1959}\\
 1959&\emph{Trofranil}, the first antidepressant, appears on the market. \\
 1960&\emph{Librium}, the first anti-anxiety, appears on the market. \\
@@ -348,7 +357,7 @@ September 10-12 1956&MIT hosts the second Symposium on Information Theory. In at
 \multicolumn{2}{ | P{13.8cm} | }{\tahead{First street activism in the gay and lesbian community}} \\ \hline
 1963&Barbara Gittings becomes editor of the newsletter of the Daughters of Bilitis. \\
 1968&Members of the Mattachine society disrupt public lecture by Charles Socarides \\
-1969&Oliver Sacks administers L-DOPA to patients comatose since the 1920's, and is amazed to find them awaken. His memoir 'Awakenings' is published in 1972, and widely read and discussed in the medical community. \\ \hline
+1969&Oliver Sacks administers L-DOPA to patients comatose since the 1920s, and is amazed to find them awaken.  His memoir 'Awakenings' is published in 1972, and widely read and discussed in the medical community.  \\ \hline
 June 28, 1969-July 3rd, 1969&\fullref{stonewall:thestreetactivists} \\
 1970&Gay rights protesters picket, and overwhelm, the annual meeting of the APA in San Fransisco. \\ \hline
 \multicolumn{2}{ | P{13.8cm} | }{\tahead{Game Begins}} \\ \hline
@@ -361,10 +370,7 @@ Dec 24th, 2013&Turing granted Royal Pardon by Queen Elizabeth II. \\ \hline
 \end{longtable}
 
 
-\section{Narrative}
-\label{narrative}
-
-This events that lead up to the clash over the validity of scientific studies of the human mind span countries and continents. Ideas flow quickly---even in the 18th and 19th centuries, so understanding how the peculiar American definitions of mental health and illness came about require a bit of explanation.
+This events that lead up to the clash over the validity of scientific studies of the human mind span countries and continents. Ideas flow quickly---even in the 18th and 19th centuries, so understanding how the peculiar American definitions of mental health and illness came about require a bit of explanation. 
 
 \subsection{Brief history of the concept of `Psychology'}
 \label{briefhistoryoftheconceptofpsychology}
@@ -395,7 +401,7 @@ Nature (the art whereby God hath made and governs the world) is by the \emph{art
 
 Just as his famous social-political philosophy posited universal laws of human conduct, Hobbes believed that the human mind followed to universal laws which were deducible through reason. Always a Baconian, Hobbes begins by separating those who have minds (humans) from those who do not (non-human animals), and then query the difference between those two.
 
-According to Hobbes, humans surpass animals insofar as they are ``apt to inquire the consequences of it[ Need to have the referent. Look up], and what effects he could do with it.'' In addition, humans can ``can by words reduce the consequences he finds to general rules, called theorems, or aphorisms; that is, he can reason, or reckon, not only in number, but in all other things whereof one may be added unto or subtracted from another.'' (Ch V, S6). 
+According to Hobbes, humans surpass animals insofar as they are ``apt to inquire the consequences of it, and what effects he could do with it.'' In addition, humans can ``can by words reduce the consequences he finds to general rules, called theorems, or aphorisms; that is, he can reason, or reckon, not only in number, but in all other things whereof one may be added unto or subtracted from another.'' (Ch V, S6). 
 
 Thus we have the beginning of psychology: human minds work by the process of deducing consequences and abstracting from particular experiences to general rules through basic logical functions. 
 
@@ -498,7 +504,7 @@ Unconscious inferences that produce stable representations (I.e. experience of a
 
 On the morning of 22nd of October, 1850, a young physiologist named Gustav Theodor Fechner lay in bed, puzzled by the relationship between the intensity of a psychological experience (i.e. hearing a sound, measured by introspection) and the intensity of the physical stimulus (i.e. the amplitude of the air vibrations). On that morning, it occurred to him that the relative increase in the physical stimulus might correspond to the relative increase in the psychological experience. It took him a decade to prepare the idea for publication, which he presented as `Weber's law':
 
-\[ dp = k(dS/S) \]
+\[ dp  = k(dS/S) \]
 
 where dp is the change in the psychological experience, k is a constant to be determined experimentally, dS is the change in the stimulus and S is the stimulus. He added to this the idea that the physical stimulus must break a certain threshold to be perceivable at all to derive what is now known as `Fechner's law':
 
@@ -613,7 +619,7 @@ According to Watson, a child initiates verbal behavior by talking aloud to and a
 
 During the middle of the 20th century, behaviorism in American divided roughly into two camps: Tolman and Hull. Edward Chace Tolman (1886 – 1959) initiated the `war' in 1922 by criticizing Watson. Tolman argued that Watson's belief that all human behavior could be explained in terms of ``muscle contraction and grand secretion, as such, would not be behaviorism at all but a mere physiology.''\footnote{In the interests of conciseness, I am skipping over the fascinating and under-rated history of Gestalt psychology. I do this with a heavy heart, as it is one of my favorite topics in the history of psychology. Characters who wish to engage with the tradition of behaviorism, however, should pay careful attention to Wolfgang Köhler's presidential address, included in the appendix, for the Gestalt concerns about this period in American Psychology.} (1922, p. 45)
 
-For Tolman[ Use the SA \slash  SR language here], a behavioristic science must answer three major problems: ``(1), given the stimulating agency, determining the behavior-cues (2), given the behavior-cues, determining the behavior-object and (3), given the behavior-object, determining the behavior-act.'' (p. 51). (1) is the problem of psychophysics, which is adequately solved by Fechner. (2) is accessible, with rewording, by classical conditioning. (3) is the ``important problem of motive.'' A proper science of behavior must answer all three of these problems. Doing so, Tolman contends, would allow the behaviorist to understand and better elucidate introspection.
+For Tolman, a behavioristic science must answer three major problems: ``(1), given the stimulating agency, determining the behavior-cues (2), given the behavior-cues, determining the behavior-object and (3), given the behavior-object, determining the behavior-act.'' (p. 51). (1) is the problem of psychophysics, which is adequately solved by Fechner. (2) is accessible, with rewording, by classical conditioning. (3) is the ``important problem of motive.'' A proper science of behavior must answer all three of these problems. Doing so, Tolman contends, would allow the behaviorist to understand and better elucidate introspection.
 
 Opposing Tolman, Clark Hull (1884 – 1952) contended that in order for a postulate or theorem to be ``truly scientific,'' it must ``take the form of specific statements of the outcome of concrete experimentations or observations.''\footnote{This is only one of Hull's four criteria. The other are: (1) The definitions and postulates of a scientific system should be stated in a clear and unambiguous manner, they should be consistent with one another, and they should be of such a nature that they permit rigorous deductions. (2) The labor of deducing the potential implications of the postulates of a system should be performed with meticulous care and exhibited, preferably step by step and in full detail. It is these deductions which constitute the substance of a system. (4) The theorems so deduced which concern phenomena not already known must be submitted to carefully controlled experiments. The outcome of these critical experiments, as well as all previous ones, must agree with the corresponding theorems making up the system.} Simple classification of behavior are not, themselves, scientific. But neither is talk of such things as motives. Scientific explanations must make use of clear, unambiguous terms that refer to observable behavior. Everything else is simply not considered to be `science.' Hull contends that psychology should produce mathematical equations that would specify precisely all the relationships between variables that account for an organisms behavior. The specific behavior of a given organism would be an instance of these universal mathematical generalizations.
 
@@ -739,13 +745,9 @@ Hull, C.K. (1940). Mathematico-deductive theory of rote learning: A study in sci
 
 James, W. (1904). ``The Chicago School.'' Psychological Bulletin 1: 1--5
 
-\begin{adjustwidth}{2.5em}{2.5em}
 \begin{verbatim}
-
 Jastrow, J. (1932). The house that Freud built, Greenberg.
-
 \end{verbatim}
-\end{adjustwidth}
 
 MacDougall, W. (1928) ``Fundamentals of Psychology – Behaviorism Examined'' In J.B. Watson \& W. MacDougall (1928). The Battle of Behaviorism, pp. 41--85 (available at Psych Classics)
 
@@ -805,14 +807,14 @@ That all started to change when a young social psychologist named Evelyn Hooker 
 
 During WWII, young men and women who were accused of homosexuality in Pacific theater of operations tended to be discharged from the military in California ports, including San Diego, Long Beach and San Francisco. Many, if not most, of these young people could not return to their hometowns because of their dishonorable discharge from the military. As a result, a organic community of homosexuals began taking shape in many of these cities.
 
-While teaching at UCLA, Hooker became friends with one of her graduate students, Sam Fromm. Sam was gay. In 1943, he challenged her to study `people like him' to determine if they were mentally ill (specifically `neurotic') independently of the biases against homosexuality inherent in the psychiatric tradition.\footnote{You'll recall that Freud and the psychoanalytic tradition that followed him believed homosexuality was a regression fixation caused by an underlying, probably narcsisitic, neurosis. See Introductory Lectures p. 376--384 and 529--531)} In a 1998 interview, Hooker explained the significance of this phrase:
+While teaching at UCLA, Hooker became friends with one of her graduate students, Sam Fromm. Sam was gay. In 1943, he challenged her to study `people like him' to determine if they were mentally ill (specifically `neurotic') independently of the biases against homosexuality inherent in the psychiatric tradition.\footnote{You'll recall that Freud and the psychoanalytic tradition that followed him believed homosexuality was a regression fixation caused by an underlying, probably narcissistic, neurosis. See \emph{Introductory Lectures} p. 376--384 and 529--531)} In a 1998 interview, Hooker explained the significance of this phrase:
 
 \begin{quote}
 
 ``This bright young man, somewhere in his early thirties, had obviously been thinking about this for a long time. And by `people like us' he meant, 'We're homosexual, but we don't need psychiatrists. We don't need psychologists. We're not insane. We're not any of those things they say we are.'' (Eric Marcus, WindyCityTimes-current.pdf, October 31, 2007 • vol 23 no 07)
 \end{quote}
 
-During the 1940's, Evelyn Hooker became a trusted `outsider' of the gay community in L.A., but didn't want to conduct research on people she saw as her friends.
+During the 1940s, Evelyn Hooker became a trusted `outsider' of the gay community in L.A., but didn't want to conduct research on people she saw as her friends.
 
 \subsubsection{The Kinsey Report}
 \label{thekinseyreport}
@@ -831,14 +833,14 @@ The Kinsey report found that homosexual activity as a common part of male sexual
 \subsubsection{Early `Homophile' movements}
 \label{earlyhomophilemovements}
 
-\begin{wrapfigure}{r}{0.5\textwidth}
+\begin{marginfigure}
  \begin{center}
 
- \includegraphics{../images/1965-gay-Picket-thumb-225x186-17508.png}
+     \includegraphics{../images/1965-gay-Picket-thumb-225x186-17508.png}
 \end{center}
  \caption{'Homophile' activists picketing in 1965. From http://bilerico.lgbtqnation.com/}
 \label{fig: 1965Picket}
-\end{wrapfigure}
+\end{marginfigure}
 
 
 Two years after the publication of the Kinsey report, a group of `homophile' activists founded the Mattachine society, which is now generally recognized as the first national gay-rights organization.\footnote{The `Society for Human Rights' was founded in 1924, but never gained national prominence.}
@@ -847,15 +849,15 @@ The Mattachine society, named for a European tradition of theater masks, sought 
 
 At the same time, a secret social club for Lesbians called The Daughters of Bilitis was founded in San Francisco by Del Martin and Phyllis Lyon. To stay in touch with its members they created a magazine called `The Ladder', which came under the editorship of Barbara Gittings in 1963. The magazine flourished under Gittings' direction, growing from a simple hand-stapled newsletter to a true 40-page magazine. Gittings became a leader, along with Frank Kameny, of the Mattachine society.
 
-\begin{wrapfigure}{r}{0.5\textwidth}
+\begin{marginfigure}
  \begin{center}
 
- \includegraphics{../PrimarySourceMaterials/MattachineSocietyPamphlet1964-A.jpg}
+     \includegraphics{../PrimarySourceMaterials/MattachineSocietyPamphlet1964-A.jpg}
 \includegraphics{../PrimarySourceMaterials/MattachineSocietyPamphlet1964-B.jpg}
 \end{center}
- \caption{'Penalties for Sex Offenses', a Pamphlet distributed by the Mattachine Society in 1964 to educate its members. From http://web-static.nypl.org/exhibitions/1969/ref/1696842.html}
+ \caption{'Penalties for Sex Offenses', a Pamphlet distributed by the Mattachine Society in 1964 to educate its members.  From http://web-static.nypl.org/exhibitions/1969/ref/1696842.html}
 \label{fig: MattachinePamphlet}
-\end{wrapfigure}
+\end{marginfigure}
 
 
 \subsubsection{Connecting these threads: Evelyn Hooker}
@@ -875,14 +877,14 @@ Hooker presented her findings at the 1956 APA in Chicago. Her paper was publishe
 By the 1960s, tensions were growing in the gay community. Another group of younger gay\footnote{The use of the word `gay' as a replacement for `homosexual' dates from precisely this time with precisely these people. The Mattachine society and the older organizations used `homosexual' and `homophile' to refer to themselves. Ironically, the use of `Gay' to mean `homosexual' is no attributed to Frank Kameny himself, who started a ``Gay is good'' campaign in 1968, to parallel the ``Black is beautiful'' campaign.} activists were growing irritated with both the slow progress of the Mattachine society and its restrictions on behavior. In 1968, a group of young `street-activists' disrupted a meeting of the American Medical Association in New York by shouting down Charles Socarides, a Psychiatrist known for his psychoanalytic treatment of homosexuals.
 
 But everything changed forever on Saturday, June 28, 1969 at 1:20 AM, when the police raided the Stonewall Inn in Greenwich Village. These raids were common---the police would arrest everyone, roughing people up, and generally intimidating the population. But this time, the gay and lesbian patrons of the Stonewall resisted. Events escalated. The riots that followed lasted until Wednesday night, July 3rd. 
-\begin{wrapfigure}{r}{0.5\textwidth}
+\begin{marginfigure}
  \begin{center}
 
- \includegraphics[scale=0.5]{../images/KamenyPicketInstructions.jpg}
+     \includegraphics[scale=0.5]{../images/KamenyPicketInstructions.jpg}
 \end{center}
  \caption{Rules for Picketing. From the Kameny papers website: http://www.kamenypapers.org/memorabilia.htm, collected 7/14/2016}
 \label{fig: MattachineRules}
-\end{wrapfigure}
+\end{marginfigure}
 
 
 On July 4th, the gay community's attention turned to Independence Hall in Philadelphia and the Mattachine society's annual march. As usual, Frank Kameny and Barbara Gittings, long time leaders of that gay and lesbian advocacy group, required the women to wear skirts and men suits. But the tide had turned. The young protestors from Stonewall would not conform. Kameny's approach of assimilation to ``straight'' behavior had been surpassed by the direct action begun at Stonewall. Militant groups such as the Gay Liberation Front and the Gay Activist Alliance sprouted up overnight (both started in New York). Plans were made to confront those who continued to classify homosexuality as a mental disorder, and directly challenge those who continued to treat homosexuals using barbaric methods.
@@ -929,7 +931,7 @@ While behaviors associated with mental illness---hallucinations, catatonic state
 
 Pinel was an intellectual disciple of Étienne Bonnot de Condillac, who in turn, was a disciple of John Locke.\footnote{See, e.g. Treatise on Insanity, p. 46} Locke is most well known as the intellectual progenitor of the American Constitution, but his views on the nature of mind and the empirical basis of knowledge held sway over much of the Western intellectual world in the first half of the 19th century. Locke's influence on Condillac and hence Pinel was two-fold: first, he held that all our ideas originate in sensation and reflection. Second, and as importantly, Locke followed Francis Bacon in teaching that all knowledge must be based on careful, systematic observation.
 
-For the empiricists, it follows that insanity, which is a severe form of our ideas `leading us astray', is explained by a incorrect connection and association of ideas. The mechanism is simple: some of our ideas have a natural affinity or connection with one another. Others are held together by mere custom or habit. Cases of insanity are cases where habitual associations become so disorganized they begin to effect the `natural' associations. This misassociation can become so extreme that it can ``set us awry in our actions, as well moral as natural, passions, reasonings, and notions themselves'' (Locke, Bk 2, Ch 33, p9. p 317[ Double check reference]). To this day, we use metaphors like `lost his senses' to describe someone with mental illness; and we describe poorly chosen actions as `not very sensible.'
+For the empiricists, it follows that insanity, which is a severe form of our ideas `leading us astray', is explained by a incorrect connection and association of ideas. The mechanism is simple: some of our ideas have a natural affinity or connection with one another. Others are held together by mere custom or habit. Cases of insanity are cases where habitual associations become so disorganized they begin to effect the `natural' associations. This misassociation can become so extreme that it can ``set us awry in our actions, as well moral as natural, passions, reasonings, and notions themselves'' (Locke, Bk 2, Ch 33, p9. p 317). To this day, we use metaphors like `lost his senses' to describe someone with mental illness; and we describe poorly chosen actions as `not very sensible.'
 
 This is simply the theoretical basis for understanding insanity in the broadest possible terms. To truly understand how mental disorder is defined and classified, we must consider how the mentally ill have been treated.
 
@@ -994,7 +996,7 @@ I now proceed to describe the general progress of periodical insanity. Among its
 
 Pinel's greatest student, Esquirol built on this hypothesis of `undue indulgence of the angry passions' and redefined the notion of transient insanity as `mental alienation.' It was Esquirol who grew the empirical understanding of the mind into a full-fledged psychiatric system. But like Pinel, the set of conditions he sought to explain were those with symptoms that were not obviously explained by physical, bodily conditions.
 
-To Pinel's four-fold classification[ Where's the list?], Esquirol added monomania, or obsession with a single idea, as distinct kind of mental illness. `Melancholy,' he renamed `lypemania.' because the former implied the medieval theory of `humors' and `black bile.' 
+To Pinel's four-fold classification, Esquirol added monomania, or obsession with a single idea, as distinct kind of mental illness. `Melancholy,' he renamed `lypemania.' because the former implied the medieval theory of `humors' and `black bile.' 
 
 Monomania, lypemania and mania were distinguished by the nature of the passions that are out of order: ``The passions of the insane are impetuous, especially in mania and monomania. They are of a depressing character in lypemania. In dementia and imbecility, those only exist, which spring from the first wants of man,--love, anger, jealousy.'' (p 26). 
 
@@ -1090,17 +1092,17 @@ While Beard and Wier Mitchell are today often ridiculed as snake-oil salesmen pl
 It would be a mistake, however, to accept the simplistic narrative that the doctors of this era were manipulating and abusing their female patients without their consent. Historians of Psychology Laura C. Ball and Jennifer L. Bazar have recently demonstrated that in some cases, some women aggressive sought out procedures, such as clitorectomies, in this period. In one remarkable case, a patient even `tormented the doctors to operate again.'\footnote{Ball and Bazar (2010)}
 
 One way to chart the rise of psychiatric diagnosis is to consider how people with mental illness are counted. Starting in 1830, the US census included categories for the disabled, including `blind' and `deaf.' From 1840--1870, the census included the category `idiocy\slash insanity.' Starting in 1880, however, the federal government began using categories of mental illness. In 1880, those categories were:
- \begin{longtable}[!t]{ | p{1cm} | p{1cm} |p{4.8cm} | }
+ \begin{longtable}[!t]{ |  p{1cm} |  p{1cm} |p{4.8cm} | }
 \hline
 21&\multicolumn{2}{ | p{5.8cm} | }{\tahead{Mental Disease, Insanity}} \\ \hline
- &00&Melancholy \\ \hline
- & 01&Mania \\ \hline
- &02&Hysteria \\ \hline
- &03&Nerves \\ \hline
- &04&Dementia \\ \hline
- &05&Insane (not elsewhere classified) \\ \hline
+      &00&Melancholy \\ \hline
+     & 01&Mania \\ \hline
+      &02&Hysteria \\ \hline
+      &03&Nerves \\ \hline
+      &04&Dementia \\ \hline
+      &05&Insane (not elsewhere classified) \\ \hline
 22&\multicolumn{2}{ | p{5.8cm} | }{\tahead{Mental Retardation, Idiocy}} \\ \hline
- &00&Idiotic \\ \hline
+      &00&Idiotic \\ \hline
 
 \caption{Mental Illness Classification used in the US Census of 1880}
 \label{table: 1880classifications}
@@ -1113,14 +1115,14 @@ Readers of these sections will no doubt recognize this taxonomy as owing an inte
 
 Charcot began his career at the Salpêtrière tending to the `incurables'---the patients whose conditions had been classified as `idiocy' or `dementia.' Charcot saw himself primarily as a nosologist: a classifier or taxonomizer of disease, rather than a healer. His appointment was, in many ways, ideal. This was a patient population for which there was no hope of cure, and morever, had not been studied in a careful way. 
 
-\begin{wrapfigure}{r}{0.5\textwidth}
+\begin{marginfigure}
  \begin{center}
 
- \includegraphics[scale=0.25]{../images/hysterie-troisiemephase.jpg}
+     \includegraphics[scale=0.25]{../images/hysterie-troisiemephase.jpg}
 \end{center}
  \caption{Photo of patient of M. Charcot in the Salpêtrière. From Wellcome images, https://wellcomecollection.org/works/fh922zk8 }
 \label{fig: charcotpatient}
-\end{wrapfigure}
+\end{marginfigure}
 
 
 Charcot is, today, often classified as a neurologist. That is a bit of historicism, as there was no such field when he began work. In fact, the `neuron doctrine', or the idea that the nervous system is composed of individual cells called `neurons,' is not formally advanced until 1891. And it isn't until 1911 that Ramon y Cajal uses the Golgi stain to highlight neurons in the hippocampus, confirming the neuron doctrine.
@@ -1221,7 +1223,7 @@ This conflation of psychiatric conditions and normal life left Freud in the prec
 
 \begin{quote}
 
-Symptoms---and of course we are dealing now with psychical (or psychogenic) symptoms and psychical illness---are acts detrimental, or at least useless, to the subject's life as a whole, often complained by him as unwelcome and bringing unpleasure or suffering to him. [ Label somehow and include in a table.](\emph{Introductory Lectures}, p. 445)
+Symptoms---and of course we are dealing now with psychical (or psychogenic) symptoms and psychical illness---are acts detrimental, or at least useless, to the subject's life as a whole, often complained by him as unwelcome and bringing unpleasure or suffering to him. (\emph{Introductory Lectures}, p. 445)
 \end{quote}
 
 \textbf{Neurosis v. Psychosis.} One of the hallmarks of Freud's theory is his thesis that the there is no hard and fast distinction to be made between the mentally ill and the mentally healthy. His \emph{Introductory Lectures} are structured to introduce the reader to psychopathology in everyday life before extending the analysis of common activities to psychotics and neurotic patients. As such, there are no hard and fast definitions of psychosis and neurosis\footnote{The distinction between neurosis and psychosis has always been controversial. Consider Pavlov's comment in his 1927 lectures: ``Contemporary medicine distinguishes ''nervous`` and ''psychic`` disturbances-neuroses and psychoses, but this distinction is, of course, only arbitrary. No real line of demarcation can be drawn between these two groups: it is impossible to imagine a deviation of higher activities from normal without a functional or structural disturbance of the cortex.'' (Pavlov, 1927, Lecture 23)}.
@@ -1277,14 +1279,14 @@ In 1917 during its annual meeting in New York, the American Medico-Psychological
 \multicolumn{2}{ | p {14.8cm} | }{7. Psychoses with brain tumor} \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{8. Psychoses with other brain or nervous diseases} \\ \hline
  & The following are the more frequent affections and should be specified in the diagnosis\newline
- Cerebral embolism\newline
- Paralysis agitans\newline
- Meningitis, tubercular or other forms\newline
- (to be specified)\newline
- Multiple sclerosis\newline
- Tabes\newline
- Acute chorea\newline
- Other conditions (to be specified) \\ \hline
+     Cerebral embolism\newline
+     Paralysis agitans\newline
+     Meningitis, tubercular or other forms\newline
+        (to be specified)\newline
+     Multiple sclerosis\newline
+     Tabes\newline
+     Acute chorea\newline
+     Other conditions (to be specified) \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{9. Alcoholic psychoses} \\ \hline
  &(a) Pathological intoxication\newline
 (b) Delirium tremens\newline
@@ -1301,7 +1303,7 @@ In 1917 during its annual meeting in New York, the American Medico-Psychological
 (b) Metals, as lead, arsenic, etc. (to be specified)\newline
 (c) Gases (to be specified)\newline
 (d) Other exogenous toxins (to be specified) \\ \hline
-\multicolumn{2}{ | p {14.8cm} | }{11. Psychoses with pellagra} \\ \hline
+\multicolumn{2}{ | p {14.8cm} | }{11. Psychoses with pellagra}  \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{12. Psychoses with other somatic diseases} \\ \hline
  &(a) Delirium with infectious diseases\newline
 (b) Post-infectious psychosis\newline
@@ -1332,7 +1334,7 @@ In 1917 during its annual meeting in New York, the American Medico-Psychological
 (b) Psychasthenic type \newline
 (c) Neurasthenic type \newline
 (d) Anxiety neuroses \\ \hline
-\multicolumn{2}{ | p {14.8cm} | }{19. Psychoses with constitutional psychopathic inferiority} \\ \hline
+\multicolumn{2}{ | p {14.8cm} | }{19. Psychoses with constitutional psychopathic inferiority}  \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{20. Psychoses with mental deficiency} \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{21. Undiagnosed psychoses} \\ \hline
 \multicolumn{2}{ | p {14.8cm} | }{22. Not insane} \\ \hline
@@ -1349,7 +1351,7 @@ In 1917 during its annual meeting in New York, the American Medico-Psychological
 
 In 1928, the New York Academy of Medicine invited the Public Health Service, the Army and Navy Medical Departments and the American Hospital Association to collaborate on a standard nomenclature of disease. That standard was first published in 1933 as \emph{A Standard Classified Nomenclature of Disease}, generally referred to as \emph{The Standard}, and was widely used until at least the 1960s. In its original form, it used the following ten categories, as displayed in table \ref{table: 1933Classification}:
 
- \begin{longtable}[!t]{ | p{13.8cm} | }
+ \begin{longtable}[!t]{ | p{13.8cm}  | }
 \hline
 0 Diseases due to prenatal influences\\
 1 Diseases due to lower plant and animal parasites\\
@@ -1379,18 +1381,18 @@ The International Statistical Classification of Diseases (ICD) included a taxono
 
 \textbf{(300-309)}&\textbf{Psychoses} \\ \hline
 300&Schizophrenic disorders (dementia praecox) \\
-300.0& Simple type\\
-300.1& Hebephrenic type\\
-300.2& Catatonic type\\
-300.3& Paranoid type\\
-300.4& Acute schizophrenic reaction\\
-300.5& Latent schizophrenia\\
-300.6& Schizo-affective psychosis\\
-300.7& Other and unspecified\\
+300.0&     Simple type\\
+300.1&     Hebephrenic type\\
+300.2&     Catatonic type\\
+300.3&     Paranoid type\\
+300.4&     Acute schizophrenic reaction\\
+300.5&     Latent schizophrenia\\
+300.6&     Schizo-affective psychosis\\
+300.7&     Other and unspecified\\
 301&Manic-depressive reaction\\
-301.0& Manic and circular\\
-301.1& Depressive\\
-301.2& Other\\
+301.0&     Manic and circular\\
+301.1&     Depressive\\
+301.2&     Other\\
 302&Involutional melancholia\\
 303&Paranoia and paranoid states\\
 304&Senile psychosis\\
@@ -1398,9 +1400,9 @@ The International Statistical Classification of Diseases (ICD) included a taxono
 306&Psychosis with cerebral arteriosclerosis\\
 307&Alcoholic psychosis\\
 308&Psychosis of other demonstrable aetiology\\
-308.0& Resulting from brain tumour\\
-308.1& Resulting from epilepsy and other convulsive disorders\\
-308.2& Other\\
+308.0&     Resulting from brain tumour\\
+308.1&     Resulting from epilepsy and other convulsive disorders\\
+308.2&     Other\\
 309&Other and unspecified psychoses\\ \hline
 \textbf{(310-318)}&\textbf{Psychoneurotic disorders} \\ \hline
 310&Anxiety reaction without mention of somatic symptoms\\
@@ -1409,64 +1411,64 @@ The International Statistical Classification of Diseases (ICD) included a taxono
 313&Obsessive-compulsive reaction\\
 314&Neurotic-depressive reaction\\
 315&Psychoneurosis with somatic symptoms (somatisation reaction) affecting circulatory system\\
-315.0& Neurocirculatory asthenia\\
-315.1& Other heart manifestations specified as of psychogenic origin\\
-315.2& Other circulatory manifestations of psychogenic origin\\
+315.0&     Neurocirculatory asthenia\\
+315.1&     Other heart manifestations specified as of psychogenic origin\\
+315.2&     Other circulatory manifestations of psychogenic origin\\
 316&Psychoneurosis with somatic symptoms (somatisation reaction) affecting digestive system\\
-316.0& Mucous colitis specified as of psychogenic origin\\
-316.1& Irritability of colon specified as of psychogenic origin\\
-316.2& Gastric neuroses\\
-316.3& Other digestive manifestations specified as of psychogenic origin\\
+316.0&     Mucous colitis specified as of psychogenic origin\\
+316.1&     Irritability of colon specified as of psychogenic origin\\
+316.2&     Gastric neuroses\\
+316.3&     Other digestive manifestations specified as of psychogenic origin\\
 317&Psychoneurosis with somatic symptoms (somatisation reaction) affecting other systems\\
-317.0& Psychogenic reactions affecting respiratory system\\
-317.1& Psychogenic reactions affecting genito-urinary system\\
-317.2& Pruritus of psychogenic origin\\
-317.3& Other cutaneous neuroses\\
-317.4& Psychogenic reactions affecting musculoskeletal system\\
-317.5& Psychogenic reactions affecting other systems\\
+317.0&     Psychogenic reactions affecting respiratory system\\
+317.1&     Psychogenic reactions affecting genito-urinary system\\
+317.2&     Pruritus of psychogenic origin\\
+317.3&     Other cutaneous neuroses\\
+317.4&     Psychogenic reactions affecting musculoskeletal system\\
+317.5&     Psychogenic reactions affecting other systems\\
 318&Psychoneurotic disorders, other, mixed and unspecified types\\
-318.0& Hypochondriacal reaction\\
-318.1& Depersonalisation\\
-318.2& Occupational neurosis\\
-318.3& Asthenic reaction\\
-318.4& Mixed\\
-318.5& Of other and unspecified types\\ \hline
+318.0&     Hypochondriacal reaction\\
+318.1&     Depersonalisation\\
+318.2&     Occupational neurosis\\
+318.3&     Asthenic reaction\\
+318.4&     Mixed\\
+318.5&     Of other and unspecified types\\ \hline
 \textbf{(320-326)}&\textbf{Disorders of character, behaviour, and intelligence}\\ \hline
 320&Pathological personality\\
-320.0& Schizoid personality\\
-320.1& Paranoid personality\\
-320.2& Cyclothymic personality\\
-320.3& Inadequate personality\\
-320.4& Antisocial personality\\
-320.5& Asocial personality\\
-320.6& Sexual deviation\\
-320.7& Other and unspecified\\
+320.0&     Schizoid personality\\
+320.1&     Paranoid personality\\
+320.2&     Cyclothymic personality\\
+320.3&     Inadequate personality\\
+320.4&     Antisocial personality\\
+320.5&     Asocial personality\\
+320.6&     Sexual deviation\\
+320.7&     Other and unspecified\\
 321&Immature personality\\
-321.0& Emotional instability\\
-321.1& Passive dependency\\
-321.2& Aggressiveness\\
-321.3& Enuresis characterising immature personality\\
-321.4& Other symptomatic habits except speech impediments\\
-321.5& Other and unspecified\\
+321.0&     Emotional instability\\
+321.1&     Passive dependency\\
+321.2&     Aggressiveness\\
+321.3&     Enuresis characterising immature personality\\
+321.4&     Other symptomatic habits except speech impediments\\
+321.5&     Other and unspecified\\
 322&Alcoholism\\
-322.0& Acute\\
-322.1& Chronic\\
-322.2& Unspecified\\
+322.0&     Acute\\
+322.1&     Chronic\\
+322.2&     Unspecified\\
 323&Other drug addiction\\
 324&Primary childhood behaviour disorders\\
 325&Mental deficiency\\
-325.0& Idiocy\\
-325.1& Imbecility\\
-325.2& Moron\\
-325.3& Borderline intelligence\\
-325.4& Mongolism\\
-325.5& Other and unspecified types\\
+325.0&     Idiocy\\
+325.1&     Imbecility\\
+325.2&     Moron\\
+325.3&     Borderline intelligence\\
+325.4&     Mongolism\\
+325.5&     Other and unspecified types\\
 326&Other and unspecified character, behaviour and intelligence disorders\\
-326.0& Specific learning defects\\
-326.1& Stammering and stuttering of non-organic origin\\
-326.2& Other speech impediments of non-organic origin\\
-326.3& Acute situational maladjustment\\
-326.4& Other and unspecified\\ \hline
+326.0&     Specific learning defects\\
+326.1&     Stammering and stuttering of non-organic origin\\
+326.2&     Other speech impediments of non-organic origin\\
+326.3&     Acute situational maladjustment\\
+326.4&     Other and unspecified\\ \hline
 \caption{\emph{ICD-6 classification of mental diseases}, 1949}
 \label{table: 1949Classification}
 \end{longtable}
@@ -1481,23 +1483,23 @@ The first DSM distinguished between ``Disorders caused by or associated with imp
 000-796&Involuntary psychotic reaction&(302) \\ \hline
 --x&\multicolumn{2}{ | p{12.8cm} | }{Disorders of psychogenic origin or without clearly defined tangible cause or structural change} \\ \hline
 000-x10&Affective reactions&(301.2) \\
- 000-x11& Manic depressive reaction, manic type&(301.0) \\
- 000-x12& Manic depressive reaction, depressive type&(301.1) \\
- 000-x13& Manic depressive reaction, other&(301.2) \\
- 000-x14& Psychotic depressive reaction&(309.0)* \\
+     000-x11&     Manic depressive reaction, manic type&(301.0) \\
+     000-x12&     Manic depressive reaction, depressive type&(301.1) \\
+     000-x13&     Manic depressive reaction, other&(301.2) \\
+     000-x14&     Psychotic depressive reaction&(309.0)* \\
 000-x20&Schizophrenic reactions&(300.7)* \\
- 000-x21& Schizophrenic reaction, simple type&(300.0) \\
- 000-x22& Schizophrenic reaction, hebephrenic type&(300.1) \\
- 000-x23& Schizophrenic reaction, catatonic type&(300.2) \\
- 000-x24& Schizophrenic reaction, paranoid type&(300.3) \\
- 000-x25& Schizophrenic reaction, acute undifferentiated type&(300.4) \\
- 000-x26& Schizophrenic reaction, chronic undifferentiated type&(300.7) \\
- 000-x27& Schizophrenic reaction, schizo-affective type&(300.6) \\
- 000-x28& Schizophrenic reaction, childhood type&(300.8) \\
- 000-x29& Schizophrenic reaction, residual type&(300.5) \\
+     000-x21&     Schizophrenic reaction, simple type&(300.0) \\
+     000-x22&     Schizophrenic reaction, hebephrenic type&(300.1) \\
+     000-x23&     Schizophrenic reaction, catatonic type&(300.2) \\
+     000-x24&     Schizophrenic reaction, paranoid type&(300.3) \\
+     000-x25&     Schizophrenic reaction, acute undifferentiated type&(300.4) \\
+     000-x26&     Schizophrenic reaction, chronic undifferentiated type&(300.7) \\
+     000-x27&     Schizophrenic reaction, schizo-affective type&(300.6) \\
+     000-x28&     Schizophrenic reaction, childhood type&(300.8) \\
+     000-x29&     Schizophrenic reaction, residual type&(300.5) \\
 000-x30&Paranoid reactions&(303) \\
- 000-x31& Paranoia&(303) \\
- 000-x32& Paranoid state&(303) \\
+     000-x31&     Paranoia&(303) \\
+     000-x32&     Paranoid state&(303) \\
 000-xy0&Psychotic reaction without clearly defined structural change, other than above&(309.1)* \\ \hline
 \multicolumn{3}{ | p{13.8cm} | }{\textbf{Psychophysiologic autonomic and visceral disorders}} \\ \hline
 --55&\multicolumn{2}{ | p{12.8cm} | }{Disorders due to disturbance of innervation or of psychic control} \\ \hline
@@ -1514,49 +1516,49 @@ The first DSM distinguished between ``Disorders caused by or associated with imp
 \multicolumn{3}{ | p{13.8cm} | }{\textbf{Psychoneurotic Disorders}} \\ \hline
 --x&\multicolumn{2}{ | p{12.8cm} | }{Disorders of psychogenic origin or without clearly defined tangible cause of structural change} \\ \hline
 000-x00&Psychoneurotic reactions&(318.5)* \\
- 000-x01& Anxiety reaction&(310) \\
- 000-x02& Dissociative reaction&(311) \\
- 000-x03& Conversion reaction&(311) \\
- 000-x04& Phobic reaction&(312) \\
- 000-x05& Obsessive compulsive reaction&(313) \\
- 000-x06& Depressive reaction&(314) \\
- 000-x0y& Psychoneurotic reaction, other&(318.5*) \\ \hline
+     000-x01&     Anxiety reaction&(310) \\
+     000-x02&     Dissociative reaction&(311) \\
+     000-x03&     Conversion reaction&(311) \\
+     000-x04&     Phobic reaction&(312) \\
+     000-x05&     Obsessive compulsive reaction&(313) \\
+     000-x06&     Depressive reaction&(314) \\
+     000-x0y&     Psychoneurotic reaction, other&(318.5*) \\ \hline
 \multicolumn{3}{ | p{13.8cm} | }{\textbf{Personality Disorders}} \\ \hline
 --x&\multicolumn{2}{ | p{12.8cm} | }{Disorders of psychogenic origin or without clearly defined tangible cause of structural change} \\ \hline
 000-x40&Personality pattern disturbance&(320.7) \\
- 000-x41& Inadequate personality&(320.3) \\
- 000-x42& Schizoid personality&(320.0) \\
- 000-x43& Cyclothymic personality&(320.2) \\
- 000-x44& Paranoid personality&(320.1) \\
+     000-x41&     Inadequate personality&(320.3) \\
+     000-x42&     Schizoid personality&(320.0) \\
+     000-x43&     Cyclothymic personality&(320.2) \\
+     000-x44&     Paranoid personality&(320.1) \\
 000-x50&Personality trait disturbance&(321.5) \\
- 000-x51& Emotionally unstable personality&(321.0) \\
- 000-x52& Passive-aggressive personality&(321.1) \\
- 000-x53& Compulsive personality&(321.5) \\
- 000-x54& Personality trait disturbance, other&(321.5)* \\
+     000-x51&     Emotionally unstable personality&(321.0) \\
+     000-x52&     Passive-aggressive personality&(321.1) \\
+     000-x53&     Compulsive personality&(321.5) \\
+     000-x54&     Personality trait disturbance, other&(321.5)* \\
 000-x60&Sociopathic personality disturbance&(320.7)* \\
- 000-x61& Antisocial reaction&(320.4) \\
- 000-x62& Dyssocial reaction&(320.5) \\
- 000-x63& Sexual deviation. Specify supplementary term&(320.6) \\
- 000-x64& Addiction& \\
- 000-x641& Alcoholism&(322.1) \\
- 000-x642& Drug addiction&(323) \\
+     000-x61&     Antisocial reaction&(320.4) \\
+     000-x62&     Dyssocial reaction&(320.5) \\
+     000-x63&     Sexual deviation. Specify supplementary term&(320.6) \\
+     000-x64&     Addiction& \\
+         000-x641&          Alcoholism&(322.1) \\
+         000-x642&          Drug addiction&(323) \\
 000-x70&Special symptom reactions&(321.4)* \\
- 000-x71& Learning disturbance&(326.0)* \\
- 000-x72& Speech disturbance&(326.2)* \\
- 000-x73& Enuresis&(321.3) \\
- 000-x74& Somnambulism&(321.4) \\
- 000-x7y& Other&(321.4)* \\ \hline
+     000-x71&     Learning disturbance&(326.0)* \\
+     000-x72&     Speech disturbance&(326.2)* \\
+     000-x73&     Enuresis&(321.3) \\
+     000-x74&     Somnambulism&(321.4) \\
+     000-x7y&     Other&(321.4)* \\ \hline
 \multicolumn{3}{ | p{13.8cm} | }{\textbf{Transient Situational Personality Disorders}} \\ \hline
 000-x80&Transient situational personality disturbance&(326.4)* \\
- 000-x81& Gross stress reaction&(326.3)* \\
- 000-x82& Adult situational reaction&(326.6)* \\
- 000-x83& Adjustment reaction of infancy&(324.0)* \\
- 000-x84& Adjustment reaction of childhood&(324.1)* \\
- 000-x841& Habit disturbance&(324.1)* \\
- 000-x842& Conduct disturbance&(324.1)* \\
- 000-x843& Neurotic disturbance&(324.1)* \\
- 000-x85& Adjustment reaction of adolescence&(324.2)* \\
- 000-x86& Adjustment reaction of late life&(326.5)* \\ \hline
+     000-x81&     Gross stress reaction&(326.3)* \\
+     000-x82&     Adult situational reaction&(326.6)* \\
+     000-x83&     Adjustment reaction of infancy&(324.0)* \\
+     000-x84&     Adjustment reaction of childhood&(324.1)* \\
+         000-x841&          Habit disturbance&(324.1)* \\
+         000-x842&          Conduct disturbance&(324.1)* \\
+         000-x843&          Neurotic disturbance&(324.1)* \\
+     000-x85&     Adjustment reaction of adolescence&(324.2)* \\
+     000-x86&     Adjustment reaction of late life&(326.5)* \\ \hline
 \caption{\emph{DSM-I Classification of mental disorders} Corresponding diagnosis from the ICD-6 are noted in the right most column, 1952}
 \label{table: 1952Classification}
 \end{longtable}
@@ -1644,8 +1646,7 @@ Unknown. (1933). A Standard Classified Nomenclature of Disease. The Canadian Med
 
 \pagebreak 
 
-\chapter{THE GAME}
-\label{thegame}
+The Game
 
 \section{Major Issues in the Game}
 \label{majorissuesinthegame}
@@ -1667,7 +1668,7 @@ The \textbf{main issue of debate} in this game is whether or not psychoanalysis 
 
 The issue of the demedicalization of homosexuality is merely the tip of the iceberg---it forced psychiatry to address the viability of psychoanalysis and the need for psychological observation of individuals \emph{not} in already in treatment.
 
- \begin{longtable}[!t]{ | P{7cm} | P{2cm} | P{2cm} | }
+ \begin{longtable}[!t]{ | P{7cm} | P{2cm} |  P{2cm} | }
 \hline
 
 \tahead{Issue}&\tahead{Partisans}&\tahead{Session} \\ \hline \hline
@@ -1683,9 +1684,6 @@ What is the proper role of an intellectual---specifically a social scientist---i
 \label{table: majorissues}
 \end{longtable}
 
-\section{Rules and Procedures}
-\label{rulesandprocedures}
-
 \subsection{Basic game play}
 \label{basicgameplay}
 
@@ -1698,30 +1696,28 @@ The Board of Directors is composed of the President, the Vice president, the for
 At each year's conference, the following events occur:
 
 
-\noindent\fbox{%
-\parbox{\textwidth}{%
+
 
 \begin{enumerate}
 
 \item Presidential Address \newline
-\item Board of Directors circulates proposals to be considered by the membership. \newline
+\item  Board of Directors circulates proposals to be considered by the membership. \newline
 \item Symposia on topics proposed by membership, as scheduled by the program committee \newline
-\item Open sessions for presenting current research (papers or plenary addresses), as scheduled by the program committee. \newline
-\item Board of Directors meets in open session. \newline
+\item  Open sessions for presenting current research (papers or plenary addresses), as scheduled by the program committee. \newline
+\item  Board of Directors meets in open session. \newline
 \begin{enumerate}
-    \item All committees and task forces report \newline
-    \item Old Business (tabled from previous meeting) \newline
-    \item New Business \newline
+    \item  All committees and task forces report \newline
+    \item  Old Business (tabled from previous meeting) \newline
+    \item  New Business \newline
 \end{enumerate}
-\item Discussion of any proposals circulated in step (2) \newline
-\item Create and administer ballots for proposals. \newline
-\item Election for vice president, who assumes that position at the close of that conference \newline
-\item Election for member-at-large on the executive committee (if necessary) \newline
-\item Executive committee meet in closed session, if necessary. \newline
+\item  Discussion of any proposals circulated in step (2) \newline
+\item  Create and administer ballots for proposals. \newline
+\item  Election for vice president, who assumes that position at the close of that conference \newline
+\item  Election for member-at-large on the executive committee (if necessary) \newline
+\item  Executive committee meet in closed session, if necessary. \newline
 \end{enumerate}
-}%
-}
- \captionof{InfoBox}{Sample schedule of events for APA conference\label{sample:conference}}
+
+ %\captionof{InfoBox}{Sample schedule of events for APA conference\label{sample:conference}}
 
 
  
@@ -1733,7 +1729,7 @@ Game play may take many forms in the classroom. You may be questioning the Presi
 
 Academic associations like the APA not only provide their members with a forum through which they can socialize, share ideas and test or their most recent work; they also represent their discipline to the public. An association's president is often called upon to act as a spokesperson during times of controversy. The associations often define---sometimes very carefully---the qualifications someone must have to become a member.
 
-During 1970's, the APA is being called upon to represent their membership in both of these ways. It is important, therefore, to ensure that actions of the APA---whether it be the election of a new president or the publication of a statement---represent the will of the membership. The association exists for the membership, not the other way around.
+During 1970s, the APA is being called upon to represent their membership in both of these ways. It is important, therefore, to ensure that actions of the APA---whether it be the election of a new president or the publication of a statement---represent the will of the membership. The association exists for the membership, not the other way around.
 
 \subsubsection{Reputation \& Replication}
 \label{reputationreplication}
@@ -1753,7 +1749,7 @@ Conferences, such as the APA, rely on a system of peer review to ensure that the
 \subsubsection{Credibility Points}
 \label{credibilitypoints}
 
-At the beginning of each conference (i.e. Week), each member of the APA is given one `credibility point.' At the end of that conference, they must give it to the speaker who presented the best paper. No player may keep these points for himself or herself. Credibility points, once awarded, \emph{can} be stockpiled by faction or bartered with other players. In the final vote (see `Victory Objectives' below), the credibility points can be turned into votes---although the specifics are left to the game master to decide[ Need to flesh out.]. 
+At the beginning of each conference (i.e. Week), each member of the APA is given one `credibility point.' At the end of that conference, they must give it to the speaker who presented the best paper. No player may keep these points for himself or herself. Credibility points, once awarded, \emph{can} be stockpiled by faction or bartered with other players. In the final vote (see `Victory Objectives' below), the credibility points can be turned into votes---although the specifics are left to the game master to decide. 
 
 \subsubsection{The Responsibilities of the President}
 \label{theresponsibilitiesofthepresident}
@@ -1772,12 +1768,12 @@ The game normally `ends' with a decisive vote on the definition of `Mental Illne
 \hline
 
 \textbf{Advocates}&\textbf{Definition}\\ \hline
-APA Task Force&A Medical disorder is a relatively distinct condition resulting from an organismic dysfunction which in its fully developed or extreme form is directly and intrinsically associated with distress, disability, or certain other types of disadvantage. The disadvantage may be of a physical, perceptual, sexual, or interpersonal nature. Implicitly there is a call for action on the part of the person who has the condition, the medical or its allied professions, and society.
+APA Task Force&A Medical disorder is a relatively distinct condition resulting from an organismic dysfunction which in its fully developed or extreme form is directly and intrinsically associated with distress, disability, or certain other types of disadvantage.  The disadvantage may be of a physical, perceptual, sexual, or interpersonal nature. Implicitly there is a call for action on the part of the person who has the condition, the medical or its allied professions, and society.
 
 A mental disorder is a medical disorder whose manifestations are primarily signs or symptoms of a psychological (behavioral) nature, or if physical, can be understood only using psychological concepts.\\ \hline
 Behaviorists& A person can be called 'mentally ill' when he or she exhibits emotional or behavioral functioning which is so impaired as to interfere substantially with his or her capacity to function in society. \\ \hline
 Psychoanalytic&A person is mentally ill when he or she suffers from internal conflicts that may be subconscious or unconscious, manifesting behavior that is unwanted or disturbing to the individual or the society. \\ \hline
-Szasz&There is no 'thing' called 'mental illness,' only sets of behaviors that may be destructive to an individual and his or her society. \\ \hline
+Szasz&There is no 'thing' called 'mental illness,' only  sets of behaviors that may be destructive to an individual and his or her society. \\ \hline
  
 \caption{Factional Definitions of Mental Illness}
 \label{table: definitions}
@@ -1785,8 +1781,7 @@ Szasz&There is no 'thing' called 'mental illness,' only sets of behaviors that m
 
 Factional affiliation and objectives vary from individual to individual.
 
-\subsubsection{Credibility Points and Voting[ Flesh out
-]}
+\subsubsection{Credibility Points and Voting}
 \label{credibilitypointsandvoting}
 
 At the end of each `conference', each member of the APA must give at least one `credibility point' to the speaker he or she believes presented the best paper. But they can give more. Non-members are not required to give their credibility points away, but can choose to do so. 
@@ -1874,8 +1869,7 @@ Psychology is the study of the mind and behavior. The discipline embraces all as
 A psychiatrist is a physician who specializes in the diagnosis, treatment, and prevention of mental illnesses and substance use disorders. It takes many years of education and training to become a psychiatrist: He or she must graduate from college and then medical school, and go on to complete four years of residency training in the field of psychiatry. (Many psychiatrists undergo additional training so that they can further specialize in such areas as child and adolescent psychiatry, geriatric psychiatry, forensic psychiatry, psychopharmacology, and\slash or psychoanalysis.) This extensive medical training enables the psychiatrist to understand the body's functions and the complex relationship between emotional illness and other medical illnesses. The psychiatrist is thus the mental health professional and physician best qualified to distinguish between physical and psychological causes of both mental and physical distress.
 
 
-\noindent\fbox{%
-\parbox{\textwidth}{% 
+\begin{fullwidth}% 
 
 \subsection{Call for Papers and Symposia}
 \label{callforpapersandsymposia}
@@ -2019,13 +2013,11 @@ APA members, commercial film producers or distributors who wish to present new f
 \label{exhibits}
 
 APA members are encouraged to exhibit apparatus, teaching aids, and other materials of scientific and applied interest. Commercial agencies are invited to request arrangements for exhibits. All commercial exhibitors will be charged for space. Those wishing to arrange for exhibits must write to the chairman of the Program Committee.
- }%
-}
- \captionof{InfoBox}{Sample call for proposals for APA conference\label{sample:cfp}} 
+\end{fullwidth}
+ %\captionof{InfoBox}{Sample call for proposals for APA conference\label{sample:cfp}} 
 
 
-\noindent\fbox{%
-\parbox{\textwidth}{% 
+\begin{fullwidth} 
 
 \subsection{Call for Research Grants}
 \label{callforresearchgrants}
@@ -2136,9 +2128,8 @@ Three copies of the proposal should be sent to the chairman of the Research comm
 
 Research findings should be submitted to the conference committee for the annual national conference following the awarding of the grant. The primary investigator should follow the guidelines found under `Research Reports' (see \ref{researchreports} on page \pageref{researchreports}) in drafting his research report. Winning a grant in no way guarantees inclusion in the following year's conference program.
 
-}%
-}
- \captionof{InfoBox}{Sample call for research grants\label{sample:cfg}} 
+\end{fullwidth}
+ %\captionof{InfoBox}{Sample call for research grants\label{sample:cfg}} 
 
 \subsection{Role of the gamemaster}
 \label{roleofthegamemaster}
@@ -2156,13 +2147,10 @@ The gamemaster's central responsibility will be to ensure that the conferences r
 
 \end{itemize}
 
-\section{Basic outline of the game}
-\label{basicoutlineofthegame}
-
 \subsection{Outline of Game Sessions}
 \label{outlineofgamesessions}
 
- \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{1cm} | p{10cm} | }
+ \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{1cm} |  p{10cm} | }
 \hline
 
 \textbf{Year}&\textbf{Location}&\textbf{Class}&\textbf{Activities} \\ \hline
@@ -2244,7 +2232,7 @@ In addition to the Board of Directors, there are currently three standing commit
 
 The membership of the Board of Directors is:
 
- \begin{longtable}[!t]{ | p{3cm} | p{10cm} | }
+ \begin{longtable}[!t]{ | p{3cm} |  p{10cm} | }
 \hline
 \textbf{Position}&\textbf{Term} \\ \hline
 President&Chair of the Board of Directors, serving a 1-year term \\ \hline
@@ -2252,15 +2240,15 @@ Vice-president – elected annually&Serves a 1-year term as Vice-president, auto
 Former President&Serves a 1-year term \emph{after} their service as the chair of the Board of Directors. \\ \hline
 Executive secretary (preceptor), without vote.& \\ \hline
 
-Committee member elected at large&Serving 3-year term.\footnote{Only for classes larger than 16} \\ \hline
-Committee member elected at large&Serving 3-year term.\footnote{Only for classes larger than 16} \\ \hline
+Committee member elected at large&Serving 3-year term. \\ \hline
+Committee member elected at large&Serving 3-year term. \\ \hline
 \caption{Board of Directors Membership}
 \label{table: boardMembership}
 \end{longtable}
 
 The membership of the Board of Directors for the course of gameplay is contained in table \ref{table: boardMembership}.
 
- \begin{longtable}[!t]{ | p{1cm} | p{2.5cm} | p{2.5cm} | p{2.5cm} | p{2.5cm} | p{2.5cm} | }
+ \begin{longtable}[!t]{ | p{1cm} | p{2.5cm} | p{2.5cm} | p{2.5cm} | p{2.5cm} |  p{2.5cm} | }
 \hline
 \textbf{Year}&\textbf{Former President}&\textbf{President}&\textbf{President-Elect}&\textbf{Member at large 1}&\textbf{Member at large 2} \\ \hline
 1971&Harlow&Miller&Bandura&Milgram&Albee\\ \hline
@@ -2394,28 +2382,26 @@ Program committee in 1971:
 A sample schedule is available on page \pageref{sample:bod}.
 
 
-\noindent\fbox{%
-\parbox{\textwidth}{%
+
 
 \begin{enumerate}
 
 \item Reports of the committees and task forces \newline
 \begin{enumerate}
-\item Research \newline
-\item Nomenclature \newline
-\item Conference program \newline
+\item  Research \newline
+\item  Nomenclature \newline
+\item  Conference program \newline
 \end{enumerate}
 \item Old Business (any items that were tabled at previous meetings) \newline
-\item New Business. \newline
+\item  New Business. \newline
 \begin{enumerate}
-    \item Discussion of any proposals already circulated \newline
-    \item Administer votes on any proposals already circulated) \newline
-    \item Elections for vice-president and expiring member at large. \newline
+    \item  Discussion of any proposals already circulated \newline
+    \item  Administer votes on any proposals already circulated) \newline
+    \item  Elections for vice-president and expiring member at large. \newline
 \end{enumerate}
 \end{enumerate}
-}%
-}
- \captionof{InfoBox}{Sample schedule for Board of Directors meeting\label{sample:bod}}
+
+ %\captionof{InfoBox}{Sample schedule for Board of Directors meeting\label{sample:bod}}
 
 
  
@@ -2426,7 +2412,7 @@ A sample schedule is available on page \pageref{sample:bod}.
 \label{elections}
 
 The following shows elections that must be held each year, and the character vacating that position in parentheses. Characters serve through to the end of the conference in the year indicated. The VP immediately becomes the president: so while Bandura vacates the position of VP at the end of the conference in 1971, he becomes President at that moment. The election in 1971 is for the VP of 1972, who will be President in 1973.
- \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{2cm} | p{2cm} | p{2cm} | p{2cm} | }
+ \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{2cm} | p{2cm} | p{2cm} |  p{2cm} | }
 \hline
 \textbf{Year}&\textbf{VP}&\textbf{Board at large}&\textbf{Research (replacing)}&\textbf{Nomenclature (replacing)}&\textbf{Program (replacing} \\ \hline
 
@@ -2441,14 +2427,7 @@ The following shows elections that must be held each year, and the character vac
 
 \pagebreak 
 
-\chapter{ROLES AND FACTIONS}
-\label{rolesandfactions}
-
-\section{Main Factions}
-\label{mainfactions}
-
-\section{Main Factions}
-\label{mainfactions}
+Roles and Factions
 
 Players represent three factions with different perspectives on not only the nature of scientific inquiry into the human mind, but the object of those studies themselves. A number of independents, representing a variety of academic disciplines, complement these three factions.
 
@@ -2467,7 +2446,7 @@ Classical psychoanalysis can be summarized by five basic hypotheses:
 \begin{enumerate}
 \item First, psychoanalysts hold that the mind is composed of entities in conflict, also known as the \emph{hypothesis of intrapsychic conflict} or \textbf{dynamic hypothesis}. In classic Freudianism, the hypothesis followed ``the discovery of the unconscious'' by Breuer and Freud in 1895 (see \ref{hysteriaandhypnosis:freudbreueronannao}). Traumatic event or fantasies can leave a subject with memories that are unacceptable to the conscious awareness. The conscious awareness defends itself by suppressing the traumatic event in the unconscious by means of repression (see, e.g. \emph{Introductory Lectures on Psychoanalysis}, p. 82, 94 also p. 438). This hypothesis is sometimes called the \textbf{psychodynamic hypothesis}.
 
-\item Second, psychoanalysis posits that there is a finite amount of psychic energy available to any given individual. This forms the \textbf{Economic hypothesis} of classical psychoanalysis (See Freud, I\emph{ntroductory Lectures}, p. 26 and 436--7 for the thesis that psychic energy is sexual; p. 340, 442--3 and 466for an explicit statement. It also appears in \emph{On the Interpretation Dreams}, Ch7). The activities of the mind are ``costly,'' and hence the mind will optimize its function for the most efficient option.
+\item Second, psychoanalysis posits that there is a finite amount of psychic energy available to any given individual. This forms the \textbf{Economic hypothesis} of classical psychoanalysis (See Freud, \emph{Introductory Lectures}, p. 26 and 436--7 for the thesis that psychic energy is sexual; p. 340, 442--3 and 466for an explicit statement. It also appears in \emph{On the Interpretation Dreams}, Ch7). The activities of the mind are ``costly,'' and hence the mind will optimize its function for the most efficient option.
 
 \item The \textbf{topographical hypothesis} is Freud's most well known: the mind composed of three basic kinds of thoughts: conscious thoughts, pre-conscious thoughts and unconscious thoughts. The term `thoughts' here is used broadly, to include wishes, desires, fears, emotions, etc. Conscious thoughts are those of which we are aware. Pre-conscious thoughts, are not currently conscious, but are readily available to consciousness. The memory of your last birthday, for example, is probably pre-conscious, not unconscious. Unconscious thoughts, which far outnumber the other two categories, are unavailable to consciousness. All these thoughts, however, originate in experience: there is nothing in the unconscious store that is not linked in some way to that individual's past experiences. (see, e.g. \emph{Introductory lectures}, p. 25)
 
@@ -3027,9 +3006,6 @@ Tyler, L.E. (1969). The Work of the Counselor, Prentice Hall
 
 Philip Zimbardo has a great deal of promise as a researcher, but has yet to gain national prominence.
 
-\section{Things you should know}
-\label{thingsyoushouldknow}
-
 \subsection{Basic scientific research}
 \label{basicscientificresearch}
 
@@ -3043,8 +3019,7 @@ Ethical codes of research have generally followed the discovery or publication o
 
 The Nuremberg code lays out ten simple principles for design experiments on humans. They are:
 
-\noindent\fbox{%
- \parbox{\textwidth}{%
+\begin{fullwidth} 
 
 1.  The voluntary consent of the human subject is absolutely essential. This means that the person involved should have legal capacity to give consent; should be so situated as to be able to exercise free power of choice, without the intervention of any element of force, fraud, deceit, duress, overreaching, or other ulterior form of constraint or coercion; and should have sufficient knowledge and comprehension of the elements of the subject matter involved as to enable him to make an understanding and enlightened decision. This latter element requires that before the acceptance of an affirmative decision by the experimental subject there should be made known to him the nature, duration, and purpose of the experiment; the method and means by which it is to be conducted; all inconveniences and hazards reasonably to be expected; and the effects upon his health or person which may possibly come from his participation in the experiment.
 
@@ -3067,8 +3042,8 @@ The duty and responsibility for ascertaining the quality of the consent rests up
 9.  During the course of the experiment the human subject should be at liberty to bring the experiment to an end if he has reached the physical or mental state where continuation of the experiment seems to him to be impossible.
 
 10. During the course of the experiment the scientist in charge must be prepared to terminate the experiment at any stage, if he has probable cause to believe, in the exercise of the good faith, superior skill and careful judgment required of him that a continuation of the experiment is likely to result in injury, disability or death to the experimental subject.
-}} 
- \captionof{InfoBox}{The Nuremberg Code\label{sample:nuremberg}}
+\end{fullwidth}
+ %\captionof{InfoBox}{The Nuremberg Code\label{sample:nuremberg}}
 
 \subsubsection{The Declaration of Helsinki}
 \label{thedeclarationofhelsinki}
@@ -3077,61 +3052,61 @@ In 1964, the medical community through the World Medical Association adopted the
 
 Psychiatrists, as practicing medical doctors, are bound by the Declaration of Helsinki. While it is far more complete than the Nuremberg code, the same basic ideas appear:
 
-\noindent\fbox{%
- \parbox{\textwidth}{%
+\begin{fullwidth}[The Declaration of Helsinki]
+\label{sample:helsinki}%
 
 
 I. Basic Principles
 
- 1. Biomedical research involving human subjects must conform to generally accepted scientific principles and should be based on adequately performed laboratory and animal experimentation and on a thorough knowledge of the scientific literature.
+   1. Biomedical research involving human subjects must conform to generally accepted scientific principles and should be based on adequately performed laboratory and animal experimentation and on a thorough knowledge of the scientific literature.
 
- 2. The design and performance of each experimental procedure involving human subjects should be clearly formulated in an experimental protocol which should be transmitted to a specially appointed independent committee for consideration, comment and guidance.
+   2. The design and performance of each experimental procedure involving human subjects should be clearly formulated in an experimental protocol which should be transmitted to a specially appointed independent committee for consideration, comment and guidance.
 
- 3. Biomedical research involving human subjects should be conducted only by scientifically qualified persons and under the supervision of a clinically competent medical person. The responsibility for the human subject must always rest with a medically qualified person and never rest on the subject of the research, even though the subject has given his or her consent.
+   3. Biomedical research involving human subjects should be conducted only by scientifically qualified persons and under the supervision of a clinically competent medical person. The responsibility for the human subject must always rest with a medically qualified person and never rest on the subject of the research, even though the subject has given his or her consent.
 
- 4. Biomedical research involving human subjects cannot legitimately be carried out unless the importance of the objective is in proportion to the inherent risk to the subject.
+   4. Biomedical research involving human subjects cannot legitimately be carried out unless the importance of the objective is in proportion to the inherent risk to the subject.
 
- 5. Every biomedical research project involving human subjects should be preceded by careful assessment of predictable risks in comparison with foreseeable benefits to the subject or to others. Concern for the interests of the subject must always prevail over the interests of science and society.
+   5. Every biomedical research project involving human subjects should be preceded by careful assessment of predictable risks in comparison with foreseeable benefits to the subject or to others. Concern for the interests of the subject must always prevail over the interests of science and society.
 
- 6. The right of the research subject to safeguard his or her integrity must always be respected. Every precaution should be taken to respect the privacy of the subject and to minimize the impact of the study on the subject's physical and mental integrity and on the personality of the subject.
+   6. The right of the research subject to safeguard his or her integrity must always be respected. Every precaution should be taken to respect the privacy of the subject and to minimize the impact of the study on the subject's physical and mental integrity and on the personality of the subject.
 
- 7. Physicians should abstain from engaging in research projects involving human subjects unless they are satisfied that the hazards involved are believed to be predictable. Physicians should cease any investigation if the hazards are found to outweigh the potential benefits.
+   7. Physicians should abstain from engaging in research projects involving human subjects unless they are satisfied that the hazards involved are believed to be predictable. Physicians should cease any investigation if the hazards are found to outweigh the potential benefits.
 
- 8. In publication of the results of his or her research, the physician is obliged to preserve the accuracy of the results. Reports of experimentation not in accordance with the principles laid down in this Declaration should not be accepted for publication.
+   8. In publication of the results of his or her research, the physician is obliged to preserve the accuracy of the results. Reports of experimentation not in accordance with the principles laid down in this Declaration should not be accepted for publication.
 
- 9. In any research on human beings, each potential subject mustbe adequately informed of the aims, methods, anticipated benefits and potential hazards of the study and the discomfort it may entail. He or she should be informed that he or she is at liberty to abstain from participation in the study and that he or she is free to withdraw visor her consent to participation at any time. The physician should then obtain the subject's freely given informed consent, preferably inheriting.
+   9. In any research on human beings, each potential subject must be adequately informed of the aims, methods, anticipated benefits and potential hazards of the study and the discomfort it may entail. He or she should be informed that he or she is at liberty to abstain from participation in the study and that he or she is free to withdraw visor her consent to participation at any time. The physician should then obtain the subject's freely given informed consent, preferably inheriting.
 
- 10. When obtaining informed consent for the research project the physician should be particularly cautious if the subject is in dependent relationship to him or her or may consent under duress. In that case the informed consent should be obtained by a physician who isn't engaged in the investigation and who is completely independent of this official relationship.
+  10. When obtaining informed consent for the research project the physician should be particularly cautious if the subject is in dependent relationship to him or her or may consent under duress. In that case the informed consent should be obtained by a physician who isn't engaged in the investigation and who is completely independent of this official relationship.
 
- 11. In case of legal incompetence, informed consent should be obtained from the legal guardian in accordance with national legislation. Where physical or mental incapacity makes it impossible to obtain informed consent, or when the subject is a minor, permission from the responsible relative replaces that of the subject in accordance with national legislation. Whenever the minor child is in fact able to give a consent, the minor's consent must be obtained in addition to the consent of the minor's legal guardian.
+  11. In case of legal incompetence, informed consent should be obtained from the legal guardian in accordance with national legislation. Where physical or mental incapacity makes it impossible to obtain informed consent, or when the subject is a minor, permission from the responsible relative replaces that of the subject in accordance with national legislation. Whenever the minor child is in fact able to give a consent, the minor's consent must be obtained in addition to the consent of the minor's legal guardian.
 
- 12. The research protocol should always contain a statement of the ethical considerations involved and should indicate that the principles enunciated in the present declaration are complied with.
+  12. The research protocol should always contain a statement of the ethical considerations involved and should indicate that the principles enunciated in the present declaration are complied with.
 
 II. Medical Research Combined with Professional Care (Clinical Research)
 
- 1. In the treatment of the sick person, the physician must be free to use a new diagnostic and therapeutic measure, if in his or her judgement it offers hope of saving life, re-establishing health or alleviating suffering.
+   1. In the treatment of the sick person, the physician must be free to use a new diagnostic and therapeutic measure, if in his or her judgement it offers hope of saving life, re-establishing health or alleviating suffering.
 
- 2. The potential benefits, hazards and discomfort of a new method should be weighed against the advantages of the best current diagnostic and therapeutic methods.
+   2. The potential benefits, hazards and discomfort of a new method should be weighed against the advantages of the best current diagnostic and therapeutic methods.
 
- 3. In any medical study, every patient- including those of a control group, if any- should be assured of the best proven diagnostic and therapeutic method.
+   3. In any medical study, every patient- including those of a control group, if any- should be assured of the best proven diagnostic and therapeutic method.
 
- 4. The refusal of the patient to participate in a study must never interfere with the physician-patient relationship.
+   4. The refusal of the patient to participate in a study must never interfere with the physician-patient relationship.
 
- 5. If the physician considers it essential not to obtain informed consent, the specific reasons for this proposal should be stated in the experimental protocol for transmission to the independent committee (1, 2).
+   5. If the physician considers it essential not to obtain informed consent, the specific reasons for this proposal should be stated in the experimental protocol for transmission to the independent committee (1, 2).
 
- 6. The physician can combine medical research with professional care, the objective being the acquisition of new medical knowledge,only to the extent that medical research is justified by its potential diagnostic or therapeutic value for the patient.
+   6. The physician can combine medical research with professional care, the objective being the acquisition of new medical knowledge, only to the extent that medical research is justified by its potential diagnostic or therapeutic value for the patient.
 
 III. Non-Therapeutic Biomedical Research Involving Human Subjects (Non-Clinical Biomedical Research)
 
- 1. In the purely scientific application of medical research carried out on a human being, it is the duty of the physician to remain the protector of the life and health of that person on whom biomedical research is being carried out.
+   1. In the purely scientific application of medical research carried out on a human being, it is the duty of the physician to remain the protector of the life and health of that person on whom biomedical research is being carried out.
 
- 2. The subjects should be volunteers- either healthy persons or patients for whom the experimental design is not related to the patient's illness.
+   2. The subjects should be volunteers- either healthy persons or patients for whom the experimental design is not related to the patient's illness.
 
- 3. The investigator or the investigating team should discontinue the research if in his/her or their judgment it may, if continued, be harmful to the individual.
+   3. The investigator or the investigating team should discontinue the research if in his/her or their judgment it may, if continued, be harmful to the individual.
 
 4.  In research on man, the interest of science and society should never take precedence over considerations related to the well-being of the subject.
-}}
- \captionof{InfoBox}{The Declaration of Helsinki\label{sample:helsinki}} 
+
+ \end{fullwidth}
 
 In the context of psychiatry, of course, the distinction made between therapeutic research and non-therapeutic research is crucially important. If a psychiatric patient were to be deemed incapable of making an informed decision, and there is an experiment therapy that the psychiatrist believes may help, there are few ethical checks and balances to constrain the psychiatrist from performing unwarranted experiments.
 
@@ -3142,8 +3117,8 @@ The APA Standards were first published in 1953. They were revised in 1959, 1963 
 
 Most of the APA standards outline the responsibilities of psychologists who practice counseling and patient care. While those are incredibly important, we're most concerned here with Principle 16: Research Precautions. In 1959, section 16 was titled `Harmful Aftereffect.' It read:
 
-\noindent\fbox{%
- \parbox{\textwidth}{%
+\begin{fullwidth}[APA Ethical Standards: 1959] %
+\label{sample:APAEthics1959}
 
 \textbf{Principle 16. Harmful Aftereffects}. Only when a problem is significant and can be investigated in no other way is the psychologist justified in giving misinformation to research subjects or exposing research subjects to physical or emotional stress.
 
@@ -3152,7 +3127,7 @@ a. When the possibility of serious aftereffects exists, research is conducted on
 b. The psychologist seriously considers the possibility harmful aftereffects and removes them as soon as permitted by the design of the experiment.
 
     c. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.
-}}\captionof{InfoBox}{APA Ethical Standards: 1959\label{sample:APAEthics1959}} 
+\end{fullwidth}
 
 Four years later, in 1963, the committee responsible for the Ethical guidelines moved the `preamble' into a numbered point 
 
@@ -3164,8 +3139,8 @@ c. changed `removes' to `avoids or removes'; and
 
 d. were unchanged: (changes italicized)
 
-\noindent\fbox{%
- \parbox{\textwidth}{%
+\begin{fullwidth}[APA Ethical standards 1963]
+\label{sample: APAEthics1963}
 Principle 16. Research Precautions. The psychologist assumes obligations for the welfare of his research subjects, both animal and human.
 
 a. Only when a problem is of scientific significance and it is not practicable to investigate it in any other way is the psychologist justified in exposing research subjects research subjects, whether children or adults, to physical or emotional stress.
@@ -3175,12 +3150,12 @@ b. When the possibility of injurious aftereffects exists, research is conducted 
 c. The psychologist seriously considers the possibility harmful aftereffects and avoids or removes them as soon as permitted by the design of the experiment.
 
 2.  d. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.
-}} \captionof{InfoBox}{APA Ethical standards 1963\label{sample: APAEthics1963}}
+\end{fullwidth}
 
 These changed little between 1963 and 1968, except for the addition of the qualifying phrase `as part of the investigation' to (a) and adding provision (e) governing the use of psychoactive drugs:
 
-\noindent\fbox{%
- \parbox{\textwidth}{%
+\begin{fullwidth}[APA Ethical standards 1968]
+\label{sample: APAEthics1968}
 
 Principle 16. Research Precautions. The psychologist assumes obligations for the welfare of his research subjects, both animal and human.
 
@@ -3193,8 +3168,7 @@ c. The psychologist seriously considers the possibility harmful aftereffects and
 3.  d. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.
 
 e. Investigations of human subjects using experimental drugs (for example, hallucinogenic, psychotomimetic, psychedelic, or similar substances) should be conducted only in such settings as clinics, hospitals, or research facilities maintaining appropriate safeguards for the subjects.
-}}\captionof{InfoBox}{APA Ethical standards 1968\label{sample: APAEthics1968}}
- 
+\end{fullwidth}
 
 \subsubsection{Further reading:}
 \label{furtherreading:}
@@ -3227,42 +3201,38 @@ Fisher, C. B. (2009). Decoding the ethics code : a practical guide for psycholog
 
 \pagebreak 
 
-\chapter{CORE TEXTS}
-\label{coretexts}
+Core Texts
 
 Freud, Sigmund \emph{Introductory lectures on psychoanalysis}, WW Norton \& Company
 
 \pagebreak 
 
-\chapter{SELECTED BIBLIOGRAPHY}
-\label{selectedbibliography}
+Selected Bibliography
 
 Works Cited
 
 Works cited should go here (this page is optional). See the Works Cited Format document for information on formatting citations.
 
 
-\backmatter
-\printindex
-\printbibliography
+%\backmatter
+%\printindex
+%\printbibliography
 
 
 
 \pagebreak 
 
-\chapter{ACKNOLWEDGMENTS}
-\label{acknolwedgments}
+Acknolwedgments
 
 \pagebreak 
 
-\chapter{SUPPLEMENTAL DOCUMENTS}
-\label{supplementaldocuments}
+Supplemental Documents
 
 \begin{appendices}
 \let\svaddcontentsline\addcontentsline
 \renewcommand\addcontentsline[3]{%
- \ifthenelse{\equal{#1}{lof}}{}%
- {\ifthenelse{\equal{#1}{lot}}{}{\svaddcontentsline{#1}{#2}{#3}}}}
+  \ifthenelse{\equal{#1}{lof}}{}%
+  {\ifthenelse{\equal{#1}{lot}}{}{\svaddcontentsline{#1}{#2}{#3}}}}
 
 
 
@@ -3271,9 +3241,6 @@ Works cited should go here (this page is optional). See the Works Cited Format d
 
 \label{app: Pinel}
 \includepdf[pages={1-}]{../Appendices/1806-Pinel-A_treatise_on_insanity-Excerpt.pdf}
-
-\section{Kraft-Ebing, Ricard von. ``Psychopathie Sexualis'', 1894}
-\label{kraft-ebingricardvon.psychopathiesexualis1894}
 
 \section{Excerpt 1}
 \label{excerpt1}
@@ -3339,16 +3306,14 @@ Works cited should go here (this page is optional). See the Works Cited Format d
 
 \pagebreak 
 
-\part{INSTRUCTOR'S MANUAL}
+Instructor's Manual
+
+\part{Instructor's Manual}
 \label{instructorsmanual}
 
 \pagebreak 
 
-\chapter{INTRODUCTION}
-\label{introduction}
-
-\section{Game synopsis}
-\label{gamesynopsis}
+Introduction
 
 The narrative of the game begins, but does not end with, the demedicalization of homosexuality. This game is not intended to be a political game wherein the players are centrally interested in the collection and use of power. Rather, this game is meant to be about evidence, and the interpretation of evidence. Bieber claims, for example, to have about 30\% success rate in his `treatment' of homosexuality. Is this an adequate? Especially as the pain it causes--as experience first-hand by Ron Gold.
 
@@ -3423,26 +3388,18 @@ No students are given direct instruction on whether the fission requires withdra
 
 In many ways, this is not a game about Psychology or Psychiatry, it is a game about the Philosophy of Science. This shouldn't really be surprising, as the history of the Psychology and Psychiatry is intimately linked to the history of the Philosophy of Science. Arguments made by Wundt, Freud, Watson, Hull Skinner and Miller all rely heavily on claims regarding what is or is not a legitimate scientific claim.\footnote{See, e.g. Wundt (1902, pg 5--6) Freud \_\_\_\_, Watson (Mathematical paper), Skinner \_\_\_\_\_, Hull, (1935), Miller (citing Suppes)} This issues has not disappeared from undergraduate Psychological classroom either. The APA's current guidelines for the Undergraduate Major in Psychology, published 2010, lists 10 learning outcomes for a major. The first is:
 
-\begin{adjustwidth}{2.5em}{2.5em}
 \begin{verbatim}
-
 > Goal 1: Knowledge Base of Psychology
-
 \end{verbatim}
-\end{adjustwidth}
 
 \begin{quote}
 
 Demonstrate familiarity with the major concepts, theoretical perspectives, empirical findings, and historical trends in psychology
 \end{quote}
 
-\begin{adjustwidth}{2.5em}{2.5em}
 \begin{verbatim}
-
 > Suggested Learning Outcomes
-
 \end{verbatim}
-\end{adjustwidth}
 
 1.1. Characterize the nature of psychology as a discipline
 
@@ -3489,15 +3446,14 @@ Some of these issues that will make an appearance in the game are:
 
 \pagebreak 
 
-\chapter{MODEL SCHEDULES}
-\label{modelschedules}
+Model schedules
 
 \subsection{Standard Schedule}
 \label{standardschedule}
 
 Replicated here from \ref{table: outlineGameSessions} on page \pageref{table: outlineGameSessions}.
 
- \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{1cm} | p{10cm} | }
+ \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{1cm} |  p{10cm} | }
 \hline
 
 \textbf{Year}&\textbf{Location}&\textbf{Class}&\textbf{Activities} \\ \hline
@@ -3563,8 +3519,7 @@ Research Report\\
 
 \pagebreak 
 
-\chapter{ROLES}
-\label{roles}
+Roles
 
 \section{List of roles and factions}
 \label{listofrolesandfactions}
@@ -3608,7 +3563,7 @@ P. Zimbardo, PhD*\newline \\ \hline
 
  \begin{longtable}[!t]{ | P{3cm} | P{3cm} | P{3.5cm} | }
 \hline
-GayPA (secret) & Young Turks (secret) & Sexual Research (informal) \\ \hline
+GayPA (secret) & Young Turks (secret) & Sexual Research (informal)  \\ \hline
 J. Fryer, MD\newline
 E. Hooker, PhD\newline
 R. Gold*
@@ -3657,11 +3612,11 @@ Cognitivist&
 Critic of behaviorism, founder of cognitivism, social activist. Symposium '74, debate with Piaget '75.\\
 6&
 Leona Tyler&
-Independent - psychologist: counseling&
+Independent -  psychologist: counseling&
 (run for) Vice President in 1972, install the 'Leona Tyler Principle' as president '73\\
 7&
 Anne Anastasi&
-Independent - psychologist: psychometrics&
+Independent -  psychologist: psychometrics&
 Run for VP in 1973, form the committee on women in Psych, and the committee on the Psych of Women. Neuralize the gender-biased language of the official APA calls for papers, '71\\
 8&
 John P. Spiegel&
@@ -3673,7 +3628,7 @@ Behaviorist&
 Early studies of homosexuality (1953), the intellectual 'grandmother' of the current movement. Calming influence on the Gay-PA, and scientifically reliable source for their arguments.\\
 10&
 George Albee&
-Independent - clinical psychologist&
+Independent  - clinical psychologist&
 Medical model symposium '72, propose clinical psych health care system \\
 11&
 Ken Clark&
@@ -3764,17 +3719,13 @@ Proposes and defends the prison study\\ \hline
 
 \pagebreak 
 
-\chapter{GAME SETUP}
-\label{gamesetup}
+Game setup
 
 While there is a great deal to prepare for this game, my experience has taught me that the largest challenge the students will face is understanding that psychology and psychiatry were not always as they are now presented. 
 
 Most students come to the game believing that (a) psychology is a science and (b) psychiatry is a medical practice. Both of those claims were not settled in the public mind in 1970. In fact, most of the tension in this game revolves around the efforts to make psychiatry conform to `the medical model' and psychology conform to the model of the natural sciences, thereby legitimizing them as worthwhile endeavors.
 
-Psychology, on the other hand, had been suffering a crisis of legitimacy since its inception, which is why so many of their arguments are really metatheoretical arguments on the nature of science.\footnote{As noted in the introduction to the Instructor's manual.} The behaviorists believe that introducing new methodologies, like the cognitivists propose, would further weaken their claims to be a scientific discipline.
-
-\section{Rules and Procedures}
-\label{rulesandprocedures}
+Psychology, on the other hand, had been suffering a crisis of legitimacy since its inception, which is why so many of their arguments are really metatheoretical arguments on the nature of science.\footnote{As noted in the introduction to the Instructor's manual.} The behaviorists believe that introducing new methodologies, like the cognitivists propose, would further weaken their claims to be a scientific discipline. 
 
 Generally speaking, our students come to psychology and psychiatry through textbooks. And as a result, they are primed to believe, unreflectively, that contemporary narrative of these disciplines is settled fact. Furthermore, these students know nothing of the rise and regularization of health insurance companies and billing procedures following the inception of Medicare and Medicaid in 1965. For them, managed care, billable hours and check-box diagnoses have always been a part of their medical experience. It was not in 1970. 
 
@@ -3791,7 +3742,7 @@ While I believe that the removal of homosexuality was the correct decision, both
 
 The final vote---and consequently `victory' in the game---is regarding the definition of `mental illness.' See \ref{table: definitions} on page \pageref{table: definitions}
 
- \begin{longtable}[!t]{ | P{3cm} | P{5cm} | }
+ \begin{longtable}[!t]{ | P{3cm} | P{5cm} |  }
 \hline
 \tahead{Proposal}&
 \tahead{Those 'normally' affiliated}\\
@@ -3877,13 +3828,10 @@ G the concept of mental disorder (like many other concepts in medicine and scien
 
 I've left the issue of membership in the APA, and the right to vote on many of the main issues, intentionally vague. This is to allow for some flexibility for the instructor. The issue of who can practice mental health treatment is a game issue, realized in competing proposals in 1973. As a corollary then, the issue of membership in the APA may be brought forward. This can also play out as one of the causes of the APA's `fission' that may occur starting in 1975.
 
-\textbf{Kameny}, \textbf{Gittings} and \textbf{Gold} are not members of the APA at the beginning of the game. If the gamemaster wants everyone to vote, he or she should make clear from the beginning that they are considered to be members of the APA with full rights to vote.
+\textbf{Kameny}, \textbf{Gittings} and \textbf{Gold} are not members of the APA at the beginning of the game. If the gamemaster wants everyone to vote, he or she should make clear from the beginning that they are considered to be members of the APA with full rights to vote. 
 
 \subsection{DSMIII}
 \label{dsmiii}
-
-\section{Sample rubrics for grading}
-\label{samplerubricsforgrading}
 
 \subsection{Writing}
 \label{writing}
@@ -3893,11 +3841,7 @@ I've left the issue of membership in the APA, and the right to vote on many of t
 
 \pagebreak 
 
-\chapter{MANAGING THE GAME}
-\label{managingthegame}
-
-\section{Narrative}
-\label{narrative}
+Managing the game
 
 Each week represents 1 annual conference. At each conference, there are a number of things that need to happen, although the order in which they happen is up to you. These are:
 
@@ -4023,13 +3967,9 @@ Unless otherwise noted, these should be brought to the research committee for di
 
 1974: Haney, C. Banks, C. \& Zimbardo, P. (1973). ``Interpersonal Dynamics in a Simulated Prison'' International Journal of Criminology and Penology 1, p. 69--97 
 
-\begin{adjustwidth}{2.5em}{2.5em}
 \begin{verbatim}
-
 Spitzer, R. and Fleiss, J. (1974). "A Re-analysis of the Reliability of Psychiatric Diagnosis" Brit. J. Psychiat. 125, 341-7
-
 \end{verbatim}
-\end{adjustwidth}
 
 \newpage
 
@@ -4100,30 +4040,23 @@ If the gamemaster wishes to make a point about the influence of psychopharmacolo
 
 At the same time, we should remember that Medicare and Medicaid were created in 1965, and the health insurance industry was undergoing a simultaneous revolution: 
 
-\begin{adjustwidth}{2.5em}{2.5em}
 \begin{verbatim}
-
 * BlueCross 1960: 
-
 \end{verbatim}
-\end{adjustwidth}
 
-\begin{wrapfigure}{r}{0.5\textwidth}
+\begin{marginfigure}
  \begin{center}
 
 
- \includegraphics[scale=0.25]{../images/md28530.jpg}
+     \includegraphics[scale=0.25]{../images/md28530.jpg}
 \end{center}
  \caption{Advertisement for Blue Cross, 1960. From http://www.decodog.com/inven/MD/md28530.jpg }
 \label{fig: BlueCross}
-\end{wrapfigure}
+\end{marginfigure}
 
 
 \section{Learning Objectives}
 \label{learningobjectives}
-
-\section{Items you will neee}
-\label{itemsyouwillneee}
 
 \section{Items you might need}
 \label{itemsyoumightneed}
@@ -4135,7 +4068,7 @@ Various students should be tasked with presenting proposals for research to the 
 
 I've pulled a number of experiments from the APA's \emph{Activities Handbook for the Teaching of Psychology} v. 1--4 that correspond to many of the topics the class will be discussing. They are listed here, and attached as PDFs at the end of this document, if you do not have access to the \emph{Handbooks}. The characters listed here are \emph{suggestions}. The instructor should distribute these as he or she sees fit.
 
- \begin{longtable}[!t]{ | P{7cm} | P{2.5cm} | P{3cm} |}
+ \begin{longtable}[!t]{ | P{7cm} | P{2.5cm} |   P{3cm} |}
 \hline
 \tahead{Title, author}&\tahead{Location in APA Handbooks}&\tahead{Suggested character, conference}\\ \hline
 Accuracy of Observation, Paul J. Woods&v. 1,\#2&Tyler or Anastasi 1971\\
@@ -4157,8 +4090,7 @@ The Role of Prior Information in Dream Analysis, Douglas A. Bernstein&v.. 4,\#80
 \end{longtable}
 
 
-\noindent\fbox{%
-\parbox{\textwidth}{% 
+\begin{fullwidth}
 
 \subsection{Conference Schedule for 1971}
 \label{conferenceschedulefor1971}
@@ -4221,19 +4153,15 @@ Nominations and elections for:
 
 \end{itemize}
 
- }%
-}
- \captionof{InfoBox}{Schedule for first conference\label{sample:firstconference}}
+ \end{fullwidth}
+% \captionof{InfoBox}{Schedule for first conference\label{sample:firstconference}}
 
 
  
 
 \pagebreak 
 
-\subsection{RESEARCH COMMITTEE PROPOSALS}
-\label{researchcommitteeproposals}
-
-These are provided to the instructor in case the students fail to come through on research design. They can either be handed to the relevant student to inspire creativity, or ``submitted'' to the research committee by a mysterious non-player character.
+Research Committee Proposals These are provided to the instructor in case the students fail to come through on research design. They can either be handed to the relevant student to inspire creativity, or ``submitted'' to the research committee by a mysterious non-player character.
 
 \newpage
 
@@ -4274,7 +4202,7 @@ This research has the potential to experimentally confirm or deny the commonly h
 \subsubsection{References}
 \label{references}
 
-Pavlov, I. P. (1927). Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex.
+Pavlov, I. P. (1927). Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex. 
 
 \newpage
 
@@ -4301,7 +4229,7 @@ The materials are available on the APA website: http:\slash \slash opl.apa.org\s
 \subsubsection{Significance and Contribution}
 \label{significanceandcontribution}
 
-This research has the potential to discover observable data that is consistent with the introspective reports of individuals.
+This research has the potential to discover observable data that is consistent with the introspective reports of individuals. 
 
 \newpage
 
@@ -4486,13 +4414,10 @@ The authors believe that this demonstration will reveal new dimensions in the so
 \subsubsection{Works Cited}
 \label{workscited}
 
-\subsection{Written assignments}
-\label{writtenassignments}
-
 \section{Overview of events and assignments in the game}
 \label{overviewofeventsandassignmentsinthegame}
 
- \begin{longtable}[!t]{ | p{2cm} | p{2cm} | p{2cm} |p{2cm} | p{6cm} | }
+ \begin{longtable}[!t]{ | p{2cm} | p{2cm} | p{2cm} |p{2cm} | p{6cm} |  }
 Year\newline
 Class&
 Presidential address&
@@ -4501,13 +4426,13 @@ Proposals&
 Research Tasks\\
 \multicolumn{5}{ | p{14cm} | }{1971 Washington DC} \\ \hline
 A&
-G. Miller "Psychology as a means of promoting human welfare"&
+G. Miller  "Psychology as a means of promoting human welfare"&
  
 
 
 
 
-Symposium "Psychiatry: Friend or Foe to Homosexuals: A Dialogue," (J. Fryer, E. Hooker, F. Kameny / B. Gittings)&
+Symposium "Psychiatry: Friend or Foe to Homosexuals: A Dialogue," (J. Fryer, E. Hooker, F. Kameny /  B. Gittings)&
 
 Proposal from J. Marmor / R. Gold to remove homosexuality from next DSM – send to nomenclature (opposed: Bieber / Socarides)&
 Presentation of 'Mental Rotation' task - gamemaster\\
@@ -4552,7 +4477,7 @@ Proposal from Hopcke to limit medical care of mentally distressed individuals in
 Counter proposal from Albee to limit the role of psychiatrists to the admission of drugs &
 Research Report of Rosehan report by TO BE ASSIGNED\\
 \multicolumn{5}{ | p{14cm} | }{1973 Honolulu* \newline
- *(on Gay Pride day in 1973, someone firebombed the 'UpStairs Lounge', a gay club in New Orleans, killing 32 people, 3 of whom were never identified. The Game Master may wish to distribute the news prior to the APA conference, if he or she wishes to drive home the threat faced by LGBT people in 1973. See http://www.patheos.com/blogs/friendlyatheist/2013/06/24/remembering-the-upstairs-lounge-the-u-s-a-s-largest-lgbt-massacre-happened-40-years-ago-today/ for a blog-length history, or "Let the Faggots Burn: The UpStairs Lounge Fire" by Johnny Towsend for a book-length history).} \\ \hline
+ *(on Gay Pride day in 1973, someone firebombed the 'UpStairs Lounge', a gay club in New Orleans, killing 32 people, 3 of whom were never identified.  The Game Master may wish to distribute the news prior to the APA conference, if he or she wishes to drive home the threat faced by LGBT people in 1973.  See http://www.patheos.com/blogs/friendlyatheist/2013/06/24/remembering-the-upstairs-lounge-the-u-s-a-s-largest-lgbt-massacre-happened-40-years-ago-today/  for a blog-length history, or "Let the Faggots Burn: The UpStairs Lounge Fire" by Johnny Towsend for a book-length history).} \\ \hline
 A&
 Tyler – on individual differences & their importance for counseling.
 &
@@ -4627,7 +4552,7 @@ Research Report of TO BE ASSIGNED report by TO BE ASSIGNED\\
 Table 4: Overview of game events, by year
  Milgrim\footnote{Milgram is the only psychologists of this era for whom I can find documentation of opposition to the affirmative action plan, although it was certainly more widespread. That documentation is, suffice it to say, sparse. It is mentioned once in Blass, T. (2009). The Man Who Shocked The World: The Life and Legacy of Stanley Milgram Public Affairs, p. 201.} note
  \#\#\#\# Overview of assignments, by character
- \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{6cm} | p{3cm} | p{3cm} | }
+ \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{6cm} |  p{3cm} |  p{3cm} | }
 \hline
 Name&
 Committee Work&
@@ -4777,7 +4702,7 @@ Reliability of psychiatric diagnosis '73\\
 T. Szasz&
 &
 "The myth of mental illness" - paper '71\newline
-"Medical Model" - symposium '72&
+"Medical Model" -  symposium '72&
 Oppose committee on psychology of women '73 (on grounds of reification of the term 'women')&
 \\
 P. Zimbardo*&
@@ -4797,7 +4722,7 @@ Research items in italics are NOT included in the character sheet, and can be mo
 \subsubsection{Overview of elections, by year}
 \label{overviewofelectionsbyyear}
 
- \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{1cm} | p{2cm} | p{2cm} | p{2cm} |}
+ \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{1cm} |  p{2cm} | p{2cm} | p{2cm} |}
 \hline
 Year&
 VP&
@@ -4841,15 +4766,11 @@ B&
 \label{table: elections}
 \end{longtable}
 
-\begin{adjustwidth}{2.5em}{2.5em}
 \begin{verbatim}
-
 #### Committees, Publications and Exhibits
-
 \end{verbatim}
-\end{adjustwidth}
 
- \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{1cm} | p{10cm} | p{2cm} | }
+ \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{1cm} |  p{10cm} | p{2cm} | }
 \hline
 year&
 Board of Directors&
@@ -4926,14 +4847,10 @@ Chicago\\
 
 \pagebreak 
 
-\chapter{DEBRIEFING}
-\label{debriefing}
+Debriefing
 
 \section{Exiting the game}
 \label{exitingthegame}
-
-\section{What really happened}
-\label{whatreallyhappened}
 
 \subsection{Actual presidents (Psychological association):}
 \label{actualpresidentspsychologicalassociation:}
@@ -5114,8 +5031,7 @@ Zucker, K. and J. Drescher, Eds. (2006). Ex-Gay Research: Analyzing the Spitzer 
 
 \pagebreak 
 
-\chapter{ANNOTATED BIBLIOGRAPHY}
-\label{annotatedbibliography}
+Annotated Bibliography
 
 \chapter{Further Reading}
 \label{furtherreading}
@@ -5254,7 +5170,9 @@ Wilson, K. K. (20XX) The Disparate Classification of Gender and Sexual Orientati
 
 \pagebreak 
 
-\part{ROLE SHEETS}
+Role Sheets
+
+\part{Role Sheets}
 \label{rolesheets}
 
 \chapter{George W. Albee, PhD}
@@ -5340,17 +5258,13 @@ At Barnard, you were deeply influenced by Harry Hollingworth, chair of the Psych
 
 The year that you earned your doctorate, the stock market crashed, which caused the early part of your career to be defined by harsh economic times. Thanks to New Deal grants from the National Youth Administration and the Works Progress Administration (WPA), you were able to hire a few research assistants. You moved to Queens College in 1939, but felt that the administration did not fully support your fledgling psychology department. You moved again, this time to Fordham, in 1947, where you remain today.
 
-You are often called the "test guru.`' Your 1954 text, ``Psychological Testing,'' is still required reading in undergraduate and graduate psychology courses and is considered a virtual bible for the field. The book, an encyclopedic review of how tests are constructed, validated and interpreted, received wide acclaim for its lucidity and depth of analysis. You took a special interest in the question of whether tests could be created that were free of cultural bias. In the 1960's and 70's, while some in the field championed so-called ``culture fair'' tests, your argued that the claim that tests could be entirely unbiased was a fallacy. You ultimately argued that, ``Tests can serve a predictive function only insofar as they indicate to what extent the individual has acquired the prerequisite skills and knowledge for a designated criterion performance. What persons can accomplish in the future depends not only on their present intellectual status, as assessed by the test, but on their subsequent experience (Anastasi, 1981).''
+You are often called the "test guru.`' Your 1954 text, ``Psychological Testing,'' is still required reading in undergraduate and graduate psychology courses and is considered a virtual bible for the field. The book, an encyclopedic review of how tests are constructed, validated and interpreted, received wide acclaim for its lucidity and depth of analysis. You took a special interest in the question of whether tests could be created that were free of cultural bias. In the 1960s and 70s, while some in the field championed so-called ``culture fair'' tests, your argued that the claim that tests could be entirely unbiased was a fallacy. You ultimately argued that, ``Tests can serve a predictive function only insofar as they indicate to what extent the individual has acquired the prerequisite skills and knowledge for a designated criterion performance. What persons can accomplish in the future depends not only on their present intellectual status, as assessed by the test, but on their subsequent experience (Anastasi, 1981).''
 
 According to you, intelligence tests can do three things:
 
-\begin{adjustwidth}{2.5em}{2.5em}
 \begin{verbatim}
-
 >"They permit a direct assessment of prerequisite intellectual skills demanded by many important tasks in our culture.
-
 \end{verbatim}
-\end{adjustwidth}
 
 \begin{quote}
 
@@ -5582,15 +5496,11 @@ Fission: Join R. Green in founding the International Academy of Sex Research
 \section{Must Read}
 \label{mustread}
 
-\begin{adjustwidth}{2.5em}{2.5em}
 \begin{verbatim}
-
 DS Fordney Settlage, Baroff S, Cooper D 1973. Sexual experience of younger teenage girls seeking contraceptive assistance for the first time. Family Planning Perspectives, Vol. 5, No. 4 Autumn, 1973, p 223-226 (available on Jstor)
 
 Fordney-Settlage DS 1975. Heterosexual dysfunction: Evaluation of treatment procedures. Archives of Sexual Behavior, Volume 4, Number 4 / July, 1975 (DOI: 10.1007/BF01541722)
-
 \end{verbatim}
-\end{adjustwidth}
 
 \subsection{Secondary Sources}
 \label{secondarysources}
@@ -5789,7 +5699,7 @@ You were born on July 31, 1932 in Vienna, Austria. Your father, a career diploma
 During your freshman year at Northwestern in 1949, you sought out therapy because you believed you might be a lesbian. The psychotherapist offered to cure you. Rather than submit to treatment, you went to the libraries to find information on homosexuality. The few resources you discovered were filed under `perverted' or `abnormal.' Moreover, the material on offer dealt almost exclusively with gay men.
 As a result of the time you spent in the library researching homosexuality, you failed out of Northwestern. When you returned `back east,' you moved to Philadelphia.
 But you continued your research. In Philadelphia, you discovered a book titled The Homosexual in America (1951), written under the pseudonym `Donald Webster Cory .' You contacted the publisher and eventually contacted the author Edward Sagarin, who introduced you to the fledgling homophile movement, including the Mattachine Society.
-When you went out to California to meet with the publishers of ONE, you met Phyllis Lyon and Del Martin, leaders of the lesbian organization Daughters of Bilitis. They asked you to found a chapter in New York, even though it meant a commute from Philly. You accepted.
+When you went out to California to meet with the publishers of ONE, you met Phyllis Lyon and Del Martin, leaders of the lesbian organization Daughters of Bilitis. They asked you to found a chapter in New York, even though it meant a commute from Philly. You accepted.\\
 At a DOB meeting in 1961, you met another activist named Kay Lahusen. The two of you fell in love and soon became partners for life.
 You succeeded Lyon and Martin as editor of DOB's magazine, The Ladder. During your three-year editorship, The Ladder began to publish articles critiquing medical authorities as well as the notion that homosexuals were sick.
 In the early 1960's, your position in the DOB lead you to meet and collaborate with Frank Kameny. Kameny's Washington DC chapter of the Mattachine Society was becoming more and more aggressive in its public advocacy, and you were encouraged. In 1965, you joined Kameny in a picket of the White House. And the two of you organized annual demonstrations on July 4 at Independence Hall in Philly.
@@ -5996,17 +5906,29 @@ On occasion psychiatrists are asked for an opinion about an individual who is in
 
 You can split these two paragraphs into two proposals, if you believe it will be easier to pass them. The second is a direct result of the Goldwater affair\footnote{In 1964, a magazine called Fact asked 12,000 psychiatrists if they would be willing to diagnose conservative presidential candidate Barry Goldwater. Of the more than 2000 that responded 1,189 responded that he appeared to have a `personality disorder'--that slippery category between psychosis and neurosis. The headline proclaimed (under the magazine's title `fact:') that "1,198 Psychiatrists Say Goldwater Is Psychologically Unfit To Be President! You may recall that the 1964 election witnessed Johnson's famous `Daisy' ad, which suggested that the election of Barry Goldwater would lead to nuclear annihilation.⁠1 
 
-1 For a brief history see Pinsker, H. (2007). ``Goldwater Rule' History'', Psychiatric News, 42 (15), p. 33 (http:\slash \slash pn.psychiatryonline.org\slash content\slash 42\slash 15\slash 33.1.full)} (see the gamebook `Playing a psychologist or psychiatrist in the 1970s'), and anticipates the problems associated with the APA's stand on abortion in 1970's.\footnote{In 1969, the American Psychological Association issued a public proclamation, citing lack of evidence to the contrary that:
-WHEREAS in many state legislature, bills have recently been introduced for the purpose of repealing or drastically modifying the existing criminal codes with respect to the termination of unwanted pregnancies; and whereas, termination of unwanted pregnancies is clearly a mental health and child welfare issue, and a legitimate concern of APA; be it resolved, that termination of pregnancy be considered a civil right of the pregnant woman, to be handled as other medical and surgical procedures in consultation with her physician, and to be considered legal if performed by a licensed physician in a licensed medical facility.⁠1
+1 For a brief history see Pinsker, H. (2007). ``Goldwater Rule' History'', Psychiatric News, 42 (15), p. 33 (http:\slash \slash pn.psychiatryonline.org\slash content\slash 42\slash 15\slash 33.1.full)} (see the gamebook \fullref{playingapsychologistorpsychiatristinthe1970s}, and anticipates the problems associated with the APA's stand on abortion in 1970s:
+
+In 1969, the American Psychological Association issued a public proclamation, citing lack of evidence to the contrary that:
+
+\begin{quote}
+
+\textbf{WHEREAS} in many state legislature, bills have recently been introduced for the purpose of repealing or drastically modifying the existing criminal codes with respect to the termination of unwanted pregnancies; and whereas, termination of unwanted pregnancies is clearly a mental health and child welfare issue, and a legitimate concern of APA; be it resolved, that termination of pregnancy be considered a civil right of the pregnant woman, to be handled as other medical and surgical procedures in consultation with her physician, and to be considered legal if performed by a licensed physician in a licensed medical facility.⁠ (Available at http:\slash \slash www.apa.org\slash about\slash governance\slash council\slash policy\slash abortion.aspx)
+\end{quote}
 
 The American Psychiatric Association followed in 1977 with:
+
+\begin{quote}
+
 The emotional consequences of unwanted pregnancy on parents and their offspring may lead to long-standing life distress and disability, and the children of unwanted pregnancies are at high risk for abuse, neglect, mental illness, and deprivation of the quality of life. Pregnancy that results from undue coercion, rape, or incest creates even greater potential distress or disability in the child and the parents. The adolescent most vulnerable to early pregnancy is the product of adverse sociocultural conditions involving poverty, discrimination, and family disorganization, and statistics indicate that the resulting pregnancy is laden with medical complications which threaten the well-being of mother and fetus. The delivery that ensues from teenage pregnancy is prone to prematurity and major threats to the health of mother and child, and the resulting newborns have a higher percentage of birth defects, developmental difficulties, and a poorer life and health expectancy than the average for our society. Such children are often not released for adoption and thus get caught in the web of foster care and welfare systems, possibly entering lifetimes of dependency and costly social interventions. The tendency of this pattern to pass from generation to generation is very marked and thus serves to perpetuate a cycle of social and educational failure, mental and physical illness, and serious delinquency.
+
 Because of these considerations, and in the interest of public welfare, the American Psychiatric Association
-1) opposes all constitutional amendments, legislation, and regulations curtailing family planning and abortion services to any segment of the population; 2) reaffirms its position that abortion is a medical procedure in which physicians should respect the patient's right to freedom of choice - psychiatrists may be called on as consultants to the patient or physician in those cases in which the patient or physician requests such consultation to expand mutual appreciation of motivation and consequences; and 3) affirms that the freedom to act to interrupt pregnancy must be considered a mental health imperative with major social and mental health implications.⁠2
+
+1) opposes all constitutional amendments, legislation, and regulations curtailing family planning and abortion services to any segment of the population; 2) reaffirms its position that abortion is a medical procedure in which physicians should respect the patient's right to freedom of choice - psychiatrists may be called on as consultants to the patient or physician in those cases in which the patient or physician requests such consultation to expand mutual appreciation of motivation and consequences; and 3) affirms that the freedom to act to interrupt pregnancy must be considered a mental health imperative with major social and mental health implications.⁠ (Available at http:\slash \slash www.psych.org\slash Departments\slash EDU\slash Library\slash APAOfficialDocumentsandRelated\slash PositionStatements\slash 197703.aspx)
+\end{quote}
+
 You'll recall that the US Supreme court decided that abortion was covered by the constitutional dictate to a `right to privacy,' thereby blocking all laws that had kept abortion illegal.
 
-1 Available at http:\slash \slash www.apa.org\slash about\slash governance\slash council\slash policy\slash abortion.aspx
-2 Available at http:\slash \slash www.psych.org\slash Departments\slash EDU\slash Library\slash APAOfficialDocumentsandRelated\slash PositionStatements\slash 197703.aspx} You can mine the history of both of these issues for arguments in favor of your proposal. You should also look at Principle 5 of the APA Ethical Standards of Psychologists for support.
+You can mine the history of both of these issues for arguments in favor of your proposal. You should also look at Principle 5 of the APA Ethical Standards of Psychologists for support.
 
 You should organize your efforts on these manners with the other women in the organization. As you'll notice from the brief history in the gamebook, the APA had women members since its second year of existence, and Mary Whiton Calkins was a president in its 12th year (1905). There has not, however, been a women in a leadership position since that time. You are a serious candidate to be the first woman president in over 50 years.
 
@@ -6268,13 +6190,9 @@ At the same time, you want to promote your theory of psychiatry as analysis of s
 
 When, and if, the game reaches a point of attempting to define mental illness, you need to propose, and work to pass, an official statement from the APA that states:
 
-\begin{adjustwidth}{2.5em}{2.5em}
 \begin{verbatim}
-
-> There is no 'thing' called 'mental illness,' only sets of behaviors that may be destructive to an individual and his or her society.
-
+> There is no 'thing' called 'mental illness,' only  sets of behaviors that may be destructive to an individual and his or her society.
 \end{verbatim}
-\end{adjustwidth}
 
 \subsection{Game Strategy}
 \label{gamestrategy}
@@ -6331,7 +6249,7 @@ The other characters in this game are were actually around in the early 1970s, t
 I have two degrees in counseling: a Master of Arts in Theology, with a Pastoral Counseling emphasis, from Pacific Lutheran Theological Seminary, which is the degree under which I received my Marriage and Family Therapist license in 1986, and a second Master of Arts in Clinical Counseling from California State University, Hayward (now Cal State East Bay). My background encompasses a number of different models and approaches. I am most known for being a Jungian-oriented therapist but also important to my professional identity has been formal training in pastoral counseling and spiritual direction, long-term object-relations psychodynamic treatment, cognitive-behavioral approaches to depression, health and sexuality concerns, and many years of being an ``out'' gay male therapist and activist in the Bay Area GLBT community. I am a best-selling author, public speaker, teacher, supervisor and professional consultant.
 \end{quote}
 
-We've included you in the game to voice a gay-positive Jungian perspective. Jung, himself, was not very gay-friendly. And those who follow his theory strictly continued that tradition throughout the 1970's. Thus, in order to find a gay-positive Jungian, we have to break the historical accuracy of the game. As a matter of actual history, you didn't publish this perspective on Jungian psychology until the late 1980's, but that's not important here.
+We've included you in the game to voice a gay-positive Jungian perspective. Jung, himself, was not very gay-friendly. And those who follow his theory strictly continued that tradition throughout the 1970s. Thus, in order to find a gay-positive Jungian, we have to break the historical accuracy of the game. As a matter of actual history, you didn't publish this perspective on Jungian psychology until the late 1980s, but that is not important here.
 
 \section{Game Objectives}
 \label{gameobjectives}
@@ -6657,7 +6575,7 @@ Also, watch (if you can) ``Changing our minds, the story of Evelyn Hooker'': htt
 \section{Game Objectives}
 \label{gameobjectives}
 
-You were trained as a behaviorist, by Karl Muenzinger\footnote{See Muenzinger, K. (1942). Psychology: the science of behavior Harper, New York. Muenzinger is the only President of the APA to hold BOTH an MD and a PhD. He often argued that both degrees were the best for a psychologist.} and Robert Yerkes, who was a good friend of John Watson. Many of Watson's arguments draw from comparative psychology as a discipline. Muensinger's view, however, was more like Tolman's than Yerkes (see the ``History of Definitions of `Psychology''' in the gamebook). You are committed---as is your field---to the thesis that one can learn about the psychology of humans by studying the minds of animals. If the cognitivists are successful at getting the line between ``man and brutes'' reestablished, it may relegate your field to a psychological footnote. Defend behaviorism, in particular the thesis that there is no hard and fast line between humans and animals, from the attacks of the cognitivitsts.
+You were trained as a behaviorist, by Karl Muenzinger\footnote{See Muenzinger, K. (1942). \emph{Psychology: the science of behavior} Harper, New York. Muenzinger is the only President of the APA to hold BOTH an MD and a PhD. He often argued that \emph{both} degrees were the best for a psychologist.} and Robert Yerkes, who was a good friend of John Watson. Many of Watson's arguments draw from comparative psychology as a discipline. Muensinger's view, however, was more like Tolman's than Yerkes (see the \fullref{historyofpsychology} in the gamebook). You are committed---as is your field---to the thesis that one can learn about the psychology of humans by studying the minds of animals. If the cognitivists are successful at getting the line between ``man and brutes'' reestablished, it may relegate your field to a psychological footnote. Defend behaviorism, in particular the thesis that there is no hard and fast line between humans and animals, from the attacks of the cognitivitsts.
 
 You published a pivotal study on homosexuality in 1956 and 1957 that along with Kinsey's report, is usually credited with starting the movement to remove homosexuality from the DSM. Look up the study and read it carefully. You'll be expected to speak about its findings during the 1971 conference. You should also understand your opponent's position on this matter.
 
@@ -6706,7 +6624,4 @@ Hooker, E. (1969). Parental relations and male homosexuality in patient and non-
 ``E. Hooker, Ph. D.'', available at http:\slash \slash psychology.ucdavis.edu\slash rainbow\slash html\slash hooker2.html. The site contains links to a number of obituaries and remembrances.
 
 Milar, K. S. (2011) ``The Myth Buster: Evelyn Hooker's Groundbreaking Research Exploded the notion that homosexuality was a mental illness, ultimately removing it from the DSM'' Time Capsule, 42(2): p. 24
-
-\input{mmd-memoir-footer}
-
 \end{document}

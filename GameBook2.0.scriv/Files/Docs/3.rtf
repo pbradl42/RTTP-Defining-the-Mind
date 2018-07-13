@@ -1,12 +1,12 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
 {\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\fnil\fcharset0 Menlo-Regular;\f2\fswiss\fcharset0 Helvetica;
-\f3\fmodern\fcharset0 Courier;}
+}
 {\colortbl;\red255\green255\blue255;\red118\green57\blue12;\red235\green236\blue237;\red180\green0\blue20;
-\red36\green38\blue41;\red115\green115\blue115;\red43\green39\blue19;\red118\green57\blue12;\red235\green236\blue237;
-\red180\green0\blue20;\red36\green38\blue41;\red0\green0\blue0;\red246\green247\blue249;}
+\red36\green38\blue41;\red115\green115\blue115;\red43\green39\blue19;\red180\green0\blue20;\red235\green236\blue237;
+}
 {\*\expandedcolortbl;;\cssrgb\c54118\c29020\c4314;\cssrgb\c93725\c94118\c94510;\cssrgb\c76471\c9412\c9412;
-\cssrgb\c18824\c20000\c21176;\cssrgb\c52549\c52549\c52549;\cssrgb\c22353\c20000\c9412;\csgenericrgb\c46275\c22353\c4706;\csgenericrgb\c92157\c92549\c92941;
-\csgenericrgb\c70588\c0\c7843;\csgenericrgb\c14118\c14902\c16078;\cssrgb\c0\c0\c0;\cssrgb\c97255\c97647\c98039;}
+\cssrgb\c18824\c20000\c21176;\cssrgb\c52549\c52549\c52549;\cssrgb\c22353\c20000\c9412;\csgenericrgb\c70588\c0\c7843;\csgenericrgb\c92157\c92549\c92941;
+}
 \deftab720
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\pardeftab720\fi360\sl288\slmult1
 
@@ -14,7 +14,8 @@
 \\def\\mytitle\{Defining the Mind\}\
 \\def\\myauthor\{Peter Bradley\}\
 \
- \
+ \\input\{mmd-memoir-header.tex\}\
+\
 \\def\\mysubtitle\{The struggle for legitimacy of psychology and psychiatry in the 1970's\}
 \fs24 \
 
@@ -67,29 +68,26 @@
   \\renewcommand*\{\\printpartname\}\{\\partnamefont \\partname\}%\
   \\renewcommand*\{\\partnamenum\}\{\\space\}%\
   \\renewcommand*\{\\printpartnum\}\{\\partnumfont \\thepart\}%\
-\
-\\newcommand*\{\\tahead\}[1]\{\{\\bfseries #1\}\} % Table header\
-\\newcommand*\{\\thead\}[1]\{\{\\bfseries #1\}\} % Table header\
-\\newcolumntype\{P\}[1]\{>\{\\raggedright\\arraybackslash\}p\{#1\}\}\
 \pard\pardeftab720\partightenfactor0
 
 \f2\fs26 \cf8 \cb9 \expnd0\expndtw0\kerning0
-\\newcolumntype\cf10 \{\cf11 R\cf10 \}[\cf11 1\cf10 ]\{\cf11 >\cf10 \{\cf8 \\raggedleft\\arraybackslash\cf10 \}\cf11 p\cf10 \{\cf11 #1\cf10 \}\}\
+\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\pardeftab720\fi360\sl288\slmult1
 
 \f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
 \pard\pardeftab720\sl390
 
 \f2\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\\newcommand\cf5 *\cf4 \{\cf2 \\fullref\cf4 \}[\cf5 1\cf4 ]\{\cf2 See \\nameref\{#1\} on page~\\pageref\{#1\}\cf4 \}\cf5  \cf6 % One single link\cf7 \
+\\newcommand\cf5 *\cf4 \{\cf2 \\fullref\cf4 \}[\cf5 1\cf4 ]\{\cf2 See \\nameref\{#1\} on page~\\pageref\{#1\}\cf4 \}\cf5  \cf6 \cb3 % One single link\cf7 \cb3 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\pardeftab720\fi360\sl288\slmult1
 
 \f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\\newcommand\{\\fullwidth\}[1]\{\\noindent\\fbox\{\\parbox\{\\textwidth\}\{#1\}\}\}\
+\
 \\widowpenalty10000\
 \\clubpenalty10000\
 \
 %\\ldots\
-\\newcolumntype\{d\}[1]\{D\{.\}\{\\cdot\}\{#1\} \} % Define table column\
 \
 \\pagestyle\{plain\}\
 \
@@ -118,28 +116,6 @@
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\pardeftab720\fi360\sl288\slmult1
 \cf0 \\makeatother\
 \
-%% Done\
-\
-% Generates the index\
-\\usepackage\{makeidx\}\
-\\makeindex\
-\
-\\begin\{document\}\
-\\maketitle\
-\
-% Front matter\
-\\frontmatter\\pagenumbering\{roman\}\\pagestyle\{empty\}\
-\
-\
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
-
-\f3 \cf12 \cb13 \expnd0\expndtw0\kerning0
-\
-\pard\pardeftab720\sl266
-
-\f0\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\pardeftab720\fi360\sl288\slmult1
-
-\fs28 \cf0 -->
+%% Done-->
 \fs24 \
 }

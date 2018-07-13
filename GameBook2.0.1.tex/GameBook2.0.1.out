@@ -1,382 +1,105 @@
-\BOOKMARK [-1][-]{section*.2}{GAME BOOK}{}% 1
+\BOOKMARK [-1][-]{section*.2}{Game Book}{}% 1
 \BOOKMARK [0][-]{section*.3}{Contents}{section*.2}% 2
 \BOOKMARK [0][-]{section*.4}{List of Tables}{section*.2}% 3
 \BOOKMARK [0][-]{section*.5}{List of Figures}{section*.2}% 4
-\BOOKMARK [0][-]{chapter.1}{INTRODUCTION}{section*.2}% 5
-\BOOKMARK [1][-]{section.1.1}{The Game}{chapter.1}% 6
-\BOOKMARK [2][-]{subsection.1.1.1}{Playing a Psychologist or Psychiatrist in the 1970s.}{section.1.1}% 7
-\BOOKMARK [3][-]{subsubsection.1.1.1.1}{Context: the role of Psychology and Psychiatry in American Political Life}{subsection.1.1.1}% 8
-\BOOKMARK [1][-]{section.1.2}{Prologue}{chapter.1}% 9
-\BOOKMARK [1][-]{section.1.3}{Counterfactuals}{chapter.1}% 10
-\BOOKMARK [0][-]{chapter.2}{HISTORICAL BACKGROUND}{section*.2}% 11
-\BOOKMARK [1][-]{section.2.1}{Timeline of events relevant to game play}{chapter.2}% 12
-\BOOKMARK [2][-]{subsection.2.1.1}{Timeline}{section.2.1}% 13
-\BOOKMARK [1][-]{section.2.2}{Narrative}{chapter.2}% 14
-\BOOKMARK [2][-]{subsection.2.2.1}{Brief history of the concept of `Psychology'}{section.2.2}% 15
-\BOOKMARK [3][-]{subsubsection.2.2.1.1}{Pre-history of Psychology: Empiricism about the Mind}{subsection.2.2.1}% 16
-\BOOKMARK [3][-]{subsubsection.2.2.1.2}{Birth of Psychology: German Physiological Psychology in the 1880s\2051890s.}{subsection.2.2.1}% 17
-\BOOKMARK [3][-]{subsubsection.2.2.1.3}{Major areas of research during the infancy of psychology}{subsection.2.2.1}% 18
-\BOOKMARK [3][-]{subsubsection.2.2.1.4}{American Psychology: William James and the function of consciousness}{subsection.2.2.1}% 19
-\BOOKMARK [3][-]{subsubsection.2.2.1.5}{Experimentalism: Ebbinghaus and the unreliability of introspection}{subsection.2.2.1}% 20
-\BOOKMARK [3][-]{subsubsection.2.2.1.6}{Psychology's First Revolution: Behaviorism}{subsection.2.2.1}% 21
-\BOOKMARK [3][-]{subsubsection.2.2.1.7}{Concurrent developments: Logic and Computing}{subsection.2.2.1}% 22
-\BOOKMARK [3][-]{subsubsection.2.2.1.8}{The Second Revolution: Cognitive Science}{subsection.2.2.1}% 23
-\BOOKMARK [3][-]{subsubsection.2.2.1.9}{Further Resources}{subsection.2.2.1}% 24
-\BOOKMARK [2][-]{subsection.2.2.2}{Brief History of the Study of Homosexuality in America}{section.2.2}% 25
-\BOOKMARK [3][-]{subsubsection.2.2.2.1}{The Kinsey Report}{subsection.2.2.2}% 26
-\BOOKMARK [3][-]{subsubsection.2.2.2.2}{Early `Homophile' movements}{subsection.2.2.2}% 27
-\BOOKMARK [3][-]{subsubsection.2.2.2.3}{Connecting these threads: Evelyn Hooker}{subsection.2.2.2}% 28
-\BOOKMARK [3][-]{subsubsection.2.2.2.4}{Stonewall: The street activists}{subsection.2.2.2}% 29
-\BOOKMARK [3][-]{subsubsection.2.2.2.5}{Further Resources}{subsection.2.2.2}% 30
-\BOOKMARK [2][-]{subsection.2.2.3}{Brief History of Linguistics}{section.2.2}% 31
-\BOOKMARK [2][-]{subsection.2.2.4}{History of classifications of mental illness}{section.2.2}% 32
-\BOOKMARK [3][-]{subsubsection.2.2.4.1}{Foundations}{subsection.2.2.4}% 33
-\BOOKMARK [3][-]{subsubsection.2.2.4.2}{Early Neurology}{subsection.2.2.4}% 34
-\BOOKMARK [3][-]{subsubsection.2.2.4.3}{Rise of Psychoanalysis}{subsection.2.2.4}% 35
-\BOOKMARK [3][-]{subsubsection.2.2.4.4}{Classification of Mental Illness, 1918\2051952}{subsection.2.2.4}% 36
-\BOOKMARK [3][-]{subsubsection.2.2.4.5}{The Rise of Psychopharmacology}{subsection.2.2.4}% 37
-\BOOKMARK [2][-]{subsection.2.2.5}{Setting the stage for 1971}{section.2.2}% 38
-\BOOKMARK [2][-]{subsection.2.2.6}{References:}{section.2.2}% 39
-\BOOKMARK [0][-]{chapter.3}{THE GAME}{section*.2}% 40
-\BOOKMARK [1][-]{section.3.1}{Major Issues in the Game}{chapter.3}% 41
-\BOOKMARK [2][-]{subsection.3.1.1}{The Central issues}{section.3.1}% 42
-\BOOKMARK [1][-]{section.3.2}{Rules and Procedures}{chapter.3}% 43
-\BOOKMARK [2][-]{subsection.3.2.1}{Basic game play}{section.3.2}% 44
-\BOOKMARK [2][-]{subsection.3.2.2}{Basic Principles}{section.3.2}% 45
-\BOOKMARK [3][-]{subsubsection.3.2.2.1}{Reputation \046 Replication}{subsection.3.2.2}% 46
-\BOOKMARK [3][-]{subsubsection.3.2.2.2}{Credibility Points}{subsection.3.2.2}% 47
-\BOOKMARK [3][-]{subsubsection.3.2.2.3}{The Responsibilities of the President}{subsection.3.2.2}% 48
-\BOOKMARK [2][-]{subsection.3.2.3}{Victory Objectives}{section.3.2}% 49
-\BOOKMARK [3][-]{subsubsection.3.2.3.1}{Credibility Points and Voting[ Flesh out ]}{subsection.3.2.3}% 50
-\BOOKMARK [2][-]{subsection.3.2.4}{Special Rules}{section.3.2}% 51
-\BOOKMARK [3][-]{subsubsection.3.2.4.1}{Writing Tasks}{subsection.3.2.4}% 52
-\BOOKMARK [3][-]{subsubsection.3.2.4.2}{Proposals}{subsection.3.2.4}% 53
-\BOOKMARK [3][-]{subsubsection.3.2.4.3}{Papers and Symposia}{subsection.3.2.4}% 54
-\BOOKMARK [3][-]{subsubsection.3.2.4.4}{Research Grants}{subsection.3.2.4}% 55
-\BOOKMARK [3][-]{subsubsection.3.2.4.5}{Reading aloud}{subsection.3.2.4}% 56
-\BOOKMARK [2][-]{subsection.3.2.5}{Definitions used by the APA}{section.3.2}% 57
-\BOOKMARK [3][-]{subsubsection.3.2.5.1}{Definition of ``psychologist''}{subsection.3.2.5}% 58
-\BOOKMARK [3][-]{subsubsection.3.2.5.2}{Definition of ``psychology''}{subsection.3.2.5}% 59
-\BOOKMARK [3][-]{subsubsection.3.2.5.3}{Definition of ``psychiatrist''}{subsection.3.2.5}% 60
-\BOOKMARK [2][-]{subsection.3.2.6}{Call for Papers and Symposia}{section.3.2}% 61
-\BOOKMARK [3][-]{subsubsection.3.2.6.1}{Introduction}{subsection.3.2.6}% 62
-\BOOKMARK [3][-]{subsubsection.3.2.6.2}{Kinds of Programs and Sessions}{subsection.3.2.6}% 63
-\BOOKMARK [3][-]{subsubsection.3.2.6.3}{Who may participate}{subsection.3.2.6}% 64
-\BOOKMARK [3][-]{subsubsection.3.2.6.4}{Limits of Individual Participation}{subsection.3.2.6}% 65
-\BOOKMARK [3][-]{subsubsection.3.2.6.5}{Individual Reports}{subsection.3.2.6}% 66
-\BOOKMARK [3][-]{subsubsection.3.2.6.6}{Symposia}{subsection.3.2.6}% 67
-\BOOKMARK [3][-]{subsubsection.3.2.6.7}{Special Programs}{subsection.3.2.6}% 68
-\BOOKMARK [3][-]{subsubsection.3.2.6.8}{Miscellaneous Meetings and Special Sessions}{subsection.3.2.6}% 69
-\BOOKMARK [3][-]{subsubsection.3.2.6.9}{Audio-Visual Presentations}{subsection.3.2.6}% 70
-\BOOKMARK [3][-]{subsubsection.3.2.6.10}{Exhibits}{subsection.3.2.6}% 71
-\BOOKMARK [2][-]{subsection.3.2.7}{Call for Research Grants}{section.3.2}% 72
-\BOOKMARK [3][-]{subsubsection.3.2.7.1}{Introduction}{subsection.3.2.7}% 73
-\BOOKMARK [3][-]{subsubsection.3.2.7.2}{Research Supported}{subsection.3.2.7}% 74
-\BOOKMARK [3][-]{subsubsection.3.2.7.3}{Who May Submit Proposals}{subsection.3.2.7}% 75
-\BOOKMARK [3][-]{subsubsection.3.2.7.4}{Limitations of Participation}{subsection.3.2.7}% 76
-\BOOKMARK [3][-]{subsubsection.3.2.7.5}{Form of the Proposal}{subsection.3.2.7}% 77
-\BOOKMARK [3][-]{subsubsection.3.2.7.6}{Reports}{subsection.3.2.7}% 78
-\BOOKMARK [2][-]{subsection.3.2.8}{Role of the gamemaster}{section.3.2}% 79
-\BOOKMARK [1][-]{section.3.3}{Basic outline of the game}{chapter.3}% 80
-\BOOKMARK [2][-]{subsection.3.3.1}{Outline of Game Sessions}{section.3.3}% 81
-\BOOKMARK [2][-]{subsection.3.3.2}{Committee structure}{section.3.3}% 82
-\BOOKMARK [3][-]{subsubsection.3.3.2.1}{Board of Directors:}{subsection.3.3.2}% 83
-\BOOKMARK [3][-]{subsubsection.3.3.2.2}{Research Committee}{subsection.3.3.2}% 84
-\BOOKMARK [3][-]{subsubsection.3.3.2.3}{Nomenclature Committee}{subsection.3.3.2}% 85
-\BOOKMARK [3][-]{subsubsection.3.3.2.4}{Program Committee}{subsection.3.3.2}% 86
-\BOOKMARK [2][-]{subsection.3.3.3}{Elections}{section.3.3}% 87
-\BOOKMARK [0][-]{chapter.4}{ROLES AND FACTIONS}{section*.2}% 88
-\BOOKMARK [1][-]{section.4.1}{Main Factions}{chapter.4}% 89
-\BOOKMARK [1][-]{section.4.2}{Main Factions}{chapter.4}% 90
-\BOOKMARK [2][-]{subsection.4.2.1}{Psychoanalysts}{section.4.2}% 91
-\BOOKMARK [3][-]{subsubsection.4.2.1.1}{Classical}{subsection.4.2.1}% 92
-\BOOKMARK [3][-]{subsubsection.4.2.1.2}{For Further reading:}{subsection.4.2.1}% 93
-\BOOKMARK [2][-]{subsection.4.2.2}{Behaviorists}{section.4.2}% 94
-\BOOKMARK [3][-]{subsubsection.4.2.2.1}{Learning}{subsection.4.2.2}% 95
-\BOOKMARK [3][-]{subsubsection.4.2.2.2}{Further Reading:}{subsection.4.2.2}% 96
-\BOOKMARK [2][-]{subsection.4.2.3}{Cognitivists}{section.4.2}% 97
-\BOOKMARK [3][-]{subsubsection.4.2.3.1}{Further Reading}{subsection.4.2.3}% 98
-\BOOKMARK [1][-]{section.4.3}{Brief Sketch of the Game Characters}{chapter.4}% 99
-\BOOKMARK [2][-]{subsection.4.3.1}{Psychoanalysts}{section.4.3}% 100
-\BOOKMARK [3][-]{subsubsection.4.3.1.1}{Richard Green, MD Professor of Psychology, UCLA*}{subsection.4.3.1}% 101
-\BOOKMARK [3][-]{subsubsection.4.3.1.2}{Robert Hopcke Psychotherapist, San Francisco, CA \(Jungian\)*}{subsection.4.3.1}% 102
-\BOOKMARK [3][-]{subsubsection.4.3.1.3}{Harold Lief, MD Professor of Psychiatry at the University of Pennsylvania \(Jungian\)*}{subsection.4.3.1}% 103
-\BOOKMARK [3][-]{subsubsection.4.3.1.4}{Judd Marmor, MD Psychiatrist, Hollywood, CA \(Freudian\)}{subsection.4.3.1}% 104
-\BOOKMARK [3][-]{subsubsection.4.3.1.5}{Charles W. Socarides, MD Professor of Psychiatry, Columbia University and/or Irving Bieber, MD Professor of Psychiatry, NYU Medical College \(Freudian\)}{subsection.4.3.1}% 105
-\BOOKMARK [3][-]{subsubsection.4.3.1.6}{John P. Spiegel, MD Director, Lemberg Center for the Study of Violence, Brandeis University}{subsection.4.3.1}% 106
-\BOOKMARK [2][-]{subsection.4.3.2}{Behaviorists}{section.4.3}% 107
-\BOOKMARK [3][-]{subsubsection.4.3.2.1}{Albert Bandura, PhD Professor of Psychology, Stanford}{subsection.4.3.2}% 108
-\BOOKMARK [3][-]{subsubsection.4.3.2.2}{Harry Harlow, PhD Professor of Psychology, University of Wisconsin}{subsection.4.3.2}% 109
-\BOOKMARK [3][-]{subsubsection.4.3.2.3}{Evelyn Hooker, PhD Emeritus Professor of Psychology, UCLA}{subsection.4.3.2}% 110
-\BOOKMARK [2][-]{subsection.4.3.3}{Cognitivists}{section.4.3}% 111
-\BOOKMARK [3][-]{subsubsection.4.3.3.1}{Noam Chomsky, PhD Professor of Linguistics, MIT}{subsection.4.3.3}% 112
-\BOOKMARK [3][-]{subsubsection.4.3.3.2}{George Miller, PhD Professor of Psychology, Harvard}{subsection.4.3.3}% 113
-\BOOKMARK [3][-]{subsubsection.4.3.3.3}{David Marr, ABD Graduate Student, MIT*}{subsection.4.3.3}% 114
-\BOOKMARK [2][-]{subsection.4.3.4}{Independents}{section.4.3}% 115
-\BOOKMARK [3][-]{subsubsection.4.3.4.1}{George W. Albee, PhD Professor of Psychology, University of Vermont \(Psychologist\)}{subsection.4.3.4}% 116
-\BOOKMARK [3][-]{subsubsection.4.3.4.2}{Anne Anastasi, PhD Professor of Psychology, Fordham University \(Psychologist\)}{subsection.4.3.4}% 117
-\BOOKMARK [3][-]{subsubsection.4.3.4.3}{Kenneth Clark, PhD Professor of Psychology, CCNY \(psychologist\)}{subsection.4.3.4}% 118
-\BOOKMARK [3][-]{subsubsection.4.3.4.4}{D Fordney-Settlage, MD Assistant Professor, Obstetrics and Gynecology Division of Reproductive Biology at the Los Angeles County-USC Medical Center., \(gynecologist\)*}{subsection.4.3.4}% 119
-\BOOKMARK [3][-]{subsubsection.4.3.4.5}{John Fryer, MD Professor of Psychiatry, Temple University \(psychiatrist\)}{subsection.4.3.4}% 120
-\BOOKMARK [3][-]{subsubsection.4.3.4.6}{Paul Gebhard, PhD Director of the Kinsey Institute, Professor of Anthropology, Indiana University \(Anthropologist\)}{subsection.4.3.4}% 121
-\BOOKMARK [3][-]{subsubsection.4.3.4.7}{Ron Gold Journalist for Variety \(Journalist\)*}{subsection.4.3.4}% 122
-\BOOKMARK [3][-]{subsubsection.4.3.4.8}{Frank Kameny and/or Barbara Gittings \(Activists\)*}{subsection.4.3.4}% 123
-\BOOKMARK [3][-]{subsubsection.4.3.4.9}{Stanley Milgram, PhD Director, Graduate Program in Social Psychology, CUNY \(Social psychologist\)*}{subsection.4.3.4}% 124
-\BOOKMARK [3][-]{subsubsection.4.3.4.10}{Jean Piaget, PhD Director of the International Center for Genetic Epistemology in Geneva, Switzerland \(Developmental psychologist\)*}{subsection.4.3.4}% 125
-\BOOKMARK [3][-]{subsubsection.4.3.4.11}{Robert Spitzer, MD Researcher at Columbia Center for Psychoanalytic Training and Research \(Psychiatrist\)}{subsection.4.3.4}% 126
-\BOOKMARK [3][-]{subsubsection.4.3.4.12}{Thomas Szasz, MD Professor of Psychiatry, State Hospital of New York at Syracuse \(Psychiatrist\)}{subsection.4.3.4}% 127
-\BOOKMARK [3][-]{subsubsection.4.3.4.13}{Leona Tyler, PhD Emeritus Dean and Professor of Psychology, University of Oregon, \(Psychologist\)}{subsection.4.3.4}% 128
-\BOOKMARK [3][-]{subsubsection.4.3.4.14}{Philip Zimbardo, PhD Professor of Social Psychology at Stanford \(Social psychologist\)*}{subsection.4.3.4}% 129
-\BOOKMARK [1][-]{section.4.4}{Things you should know}{chapter.4}% 130
-\BOOKMARK [2][-]{subsection.4.4.1}{Basic scientific research}{section.4.4}% 131
-\BOOKMARK [2][-]{subsection.4.4.2}{Ethics of human research}{section.4.4}% 132
-\BOOKMARK [3][-]{subsubsection.4.4.2.1}{The Nuremberg Code}{subsection.4.4.2}% 133
-\BOOKMARK [3][-]{subsubsection.4.4.2.2}{The Declaration of Helsinki}{subsection.4.4.2}% 134
-\BOOKMARK [3][-]{subsubsection.4.4.2.3}{The APA Ethical Standards for Psychologists}{subsection.4.4.2}% 135
-\BOOKMARK [3][-]{subsubsection.4.4.2.4}{Further reading:}{subsection.4.4.2}% 136
-\BOOKMARK [0][-]{chapter.5}{CORE TEXTS}{section*.2}% 137
-\BOOKMARK [0][-]{chapter.6}{SELECTED BIBLIOGRAPHY}{section*.2}% 138
-\BOOKMARK [0][-]{chapter*.50}{ACKNOLWEDGMENTS}{section*.2}% 139
-\BOOKMARK [0][-]{chapter*.51}{SUPPLEMENTAL DOCUMENTS}{section*.2}% 140
-\BOOKMARK [0][-]{chapter*.52}{Pinel, Philippe. ``A Treatise on Insanity'', 1806}{section*.2}% 141
-\BOOKMARK [1][-]{section*.53}{Kraft-Ebing, Ricard von. ``Psychopathie Sexualis'', 1894}{chapter*.52}% 142
-\BOOKMARK [1][-]{section*.54}{Excerpt 1}{chapter*.52}% 143
-\BOOKMARK [1][-]{section*.55}{Excerpt 1}{chapter*.52}% 144
-\BOOKMARK [1][-]{section*.56}{Excerpt 3}{chapter*.52}% 145
-\BOOKMARK [0][-]{chapter*.57}{Freud, Sigmund ``The psychogenesis of a case of homosexuality in a woman'' \(1920\)}{section*.2}% 146
-\BOOKMARK [0][-]{chapter*.58}{Skinner, B. F. ``A Critique of Psychoanalytic Concepts and Theories'' 1954}{section*.2}% 147
-\BOOKMARK [0][-]{chapter*.59}{Chomsky, N. ``Review of Verbal Behaviour by B.F. Skinner'' 1959}{section*.2}% 148
-\BOOKMARK [0][-]{chapter*.60}{APA ``Ethical Standards of Psychologists,'' 1968}{section*.2}% 149
-\BOOKMARK [0][-]{chapter*.61}{APA Diagnostic and Statistical Manual Mental Disorders, 1952}{section*.2}% 150
-\BOOKMARK [0][-]{chapter*.62}{APA Diagnostic and Statistical Manual II, 1968}{section*.2}% 151
-\BOOKMARK [0][-]{chapter*.63}{Socarides, S. ``Homosexuality and Medicine'', 1968}{section*.2}% 152
-\BOOKMARK [-1][-]{section*.65}{INSTRUCTOR'S MANUAL}{}% 153
-\BOOKMARK [0][-]{chapter*.66}{INTRODUCTION}{section*.65}% 154
-\BOOKMARK [1][-]{section*.67}{Game synopsis}{chapter*.66}% 155
-\BOOKMARK [2][-]{section*.68}{Major Events}{section*.67}% 156
-\BOOKMARK [2][-]{section*.69}{Learning Objectives}{section*.67}% 157
-\BOOKMARK [1][-]{section*.70}{Textbooks: A}{chapter*.66}% 158
-\BOOKMARK [2][-]{section*.71}{Key Concepts at Stake}{section*.70}% 159
-\BOOKMARK [0][-]{chapter*.72}{MODEL SCHEDULES}{section*.65}% 160
-\BOOKMARK [1][-]{section*.73}{Standard Schedule}{chapter*.72}% 161
-\BOOKMARK [2][-]{section*.74}{Expanded Schedule}{section*.73}% 162
-\BOOKMARK [2][-]{section*.75}{Compressed Schedule}{section*.73}% 163
-\BOOKMARK [2][-]{section*.76}{Long Class meetings}{section*.73}% 164
-\BOOKMARK [0][-]{chapter*.77}{ROLES}{section*.65}% 165
-\BOOKMARK [1][-]{section*.78}{List of roles and factions}{chapter*.77}% 166
-\BOOKMARK [2][-]{section*.79}{Factions}{section*.78}% 167
-\BOOKMARK [2][-]{section*.80}{Players}{section*.78}% 168
-\BOOKMARK [3][-]{section*.81}{Cast of 16}{section*.80}% 169
-\BOOKMARK [3][-]{section*.82}{Cast of 20}{section*.80}% 170
-\BOOKMARK [3][-]{section*.83}{Cast of 27}{section*.80}% 171
-\BOOKMARK [0][-]{chapter*.84}{GAME SETUP}{section*.65}% 172
-\BOOKMARK [1][-]{section*.85}{Rules and Procedures}{chapter*.84}% 173
-\BOOKMARK [2][-]{section*.86}{Victory Objectives}{section*.85}% 174
-\BOOKMARK [3][-]{section*.87}{Possible Mod: DSMIV compromise}{section*.86}% 175
-\BOOKMARK [2][-]{section*.88}{Possible Mod: Voting}{section*.85}% 176
-\BOOKMARK [2][-]{section*.89}{DSMIII}{section*.85}% 177
-\BOOKMARK [1][-]{section*.90}{Sample rubrics for grading}{chapter*.84}% 178
-\BOOKMARK [2][-]{section*.91}{Writing}{section*.90}% 179
-\BOOKMARK [2][-]{section*.92}{Speaking}{section*.90}% 180
-\BOOKMARK [0][-]{chapter*.93}{MANAGING THE GAME}{section*.65}% 181
-\BOOKMARK [1][-]{section*.94}{Narrative}{chapter*.93}% 182
-\BOOKMARK [2][-]{section*.95}{1971}{section*.94}% 183
-\BOOKMARK [2][-]{section*.96}{1972}{section*.94}% 184
-\BOOKMARK [2][-]{section*.97}{1973}{section*.94}% 185
-\BOOKMARK [2][-]{section*.98}{1974}{section*.94}% 186
-\BOOKMARK [2][-]{section*.99}{1975}{section*.94}% 187
-\BOOKMARK [2][-]{section*.100}{Other topics that may come up according to game play}{section*.94}% 188
-\BOOKMARK [3][-]{section*.101}{Leona Tyler Principle \(L Tyler, when president\):}{section*.100}% 189
-\BOOKMARK [3][-]{section*.102}{Hospital Privileges for Psychologists}{section*.100}% 190
-\BOOKMARK [3][-]{section*.103}{Affirmative Action}{section*.100}% 191
-\BOOKMARK [3][-]{section*.104}{Optional}{section*.100}% 192
-\BOOKMARK [1][-]{section*.106}{Learning Objectives}{chapter*.93}% 193
-\BOOKMARK [1][-]{section*.107}{Items you will neee}{chapter*.93}% 194
-\BOOKMARK [1][-]{section*.108}{Items you might need}{chapter*.93}% 195
-\BOOKMARK [2][-]{section*.109}{Labs /possible research proposals}{section*.108}% 196
-\BOOKMARK [2][-]{section*.110}{Conference Schedule for 1971}{section*.108}% 197
-\BOOKMARK [2][-]{section*.111}{RESEARCH COMMITTEE PROPOSALS}{section*.108}% 198
-\BOOKMARK [2][-]{section*.112}{Emotional responses in a human child.}{section*.108}% 199
-\BOOKMARK [3][-]{section*.113}{Background:}{section*.112}% 200
-\BOOKMARK [3][-]{section*.114}{Rationale:}{section*.112}% 201
-\BOOKMARK [3][-]{section*.115}{Experimental Design:}{section*.112}% 202
-\BOOKMARK [3][-]{section*.116}{Significance and Contribution}{section*.112}% 203
-\BOOKMARK [3][-]{section*.117}{References}{section*.112}% 204
-\BOOKMARK [2][-]{section*.118}{Mental rotation of three-dimensional objects}{section*.108}% 205
-\BOOKMARK [3][-]{section*.119}{Background:}{section*.118}% 206
-\BOOKMARK [3][-]{section*.120}{Rationale:}{section*.118}% 207
-\BOOKMARK [3][-]{section*.121}{Experimental Design:}{section*.118}% 208
-\BOOKMARK [3][-]{section*.122}{Significance and Contribution}{section*.118}% 209
-\BOOKMARK [2][-]{section*.123}{On Being Sane in Insane Places}{section*.108}% 210
-\BOOKMARK [3][-]{section*.124}{Background}{section*.123}% 211
-\BOOKMARK [3][-]{section*.125}{Rationale}{section*.123}% 212
-\BOOKMARK [3][-]{section*.126}{Experimental Design}{section*.123}% 213
-\BOOKMARK [3][-]{section*.127}{Significance and Contributions}{section*.123}% 214
-\BOOKMARK [3][-]{section*.128}{Works Cited}{section*.123}% 215
-\BOOKMARK [2][-]{section*.129}{Adjustment of Homosexual and Heterosexual Women}{section*.108}% 216
-\BOOKMARK [3][-]{section*.130}{Rationale}{section*.129}% 217
-\BOOKMARK [3][-]{section*.131}{Experimental Design}{section*.129}% 218
-\BOOKMARK [3][-]{section*.132}{Significance and Contribution}{section*.129}% 219
-\BOOKMARK [3][-]{section*.133}{Works Cited.}{section*.129}% 220
-\BOOKMARK [2][-]{section*.134}{A Re-analysis of the Reliability of Psychiatric Diagnosis}{section*.108}% 221
-\BOOKMARK [3][-]{section*.135}{Introduction}{section*.134}% 222
-\BOOKMARK [3][-]{section*.136}{Background}{section*.134}% 223
-\BOOKMARK [3][-]{section*.137}{Rationale}{section*.134}% 224
-\BOOKMARK [3][-]{section*.138}{Experimental Design}{section*.134}% 225
-\BOOKMARK [3][-]{section*.139}{Significance and Contributions}{section*.134}% 226
-\BOOKMARK [3][-]{section*.140}{Works Cited}{section*.134}% 227
-\BOOKMARK [2][-]{section*.141}{Interpersonal Dynamics in a Simulated Prison}{section*.108}% 228
-\BOOKMARK [3][-]{section*.142}{Background}{section*.141}% 229
-\BOOKMARK [3][-]{section*.143}{Rationale}{section*.141}% 230
-\BOOKMARK [3][-]{section*.144}{Experimental Design}{section*.141}% 231
-\BOOKMARK [3][-]{section*.145}{Significance and Contributions}{section*.141}% 232
-\BOOKMARK [3][-]{section*.146}{Works Cited}{section*.141}% 233
-\BOOKMARK [2][-]{section*.147}{Small World}{section*.108}% 234
-\BOOKMARK [3][-]{section*.148}{Background}{section*.147}% 235
-\BOOKMARK [3][-]{section*.149}{Rationale}{section*.147}% 236
-\BOOKMARK [3][-]{section*.150}{Experimental Design}{section*.147}% 237
-\BOOKMARK [3][-]{section*.151}{Significance and Contributions}{section*.147}% 238
-\BOOKMARK [3][-]{section*.152}{Works Cited}{section*.147}% 239
-\BOOKMARK [2][-]{section*.153}{Written assignments}{section*.108}% 240
-\BOOKMARK [1][-]{section*.154}{Overview of events and assignments in the game}{chapter*.93}% 241
-\BOOKMARK [2][-]{section*.155}{Overview of elections, by year}{section*.154}% 242
-\BOOKMARK [1][-]{section*.156}{Managing Discussion}{chapter*.93}% 243
-\BOOKMARK [1][-]{section*.157}{Interventions}{chapter*.93}% 244
-\BOOKMARK [2][-]{section*.158}{Poor Presidential tone}{section*.157}% 245
-\BOOKMARK [2][-]{section*.159}{Not grasping importance of DSMIII}{section*.157}% 246
-\BOOKMARK [2][-]{section*.160}{Failed Research cycle}{section*.157}% 247
-\BOOKMARK [0][-]{chapter*.161}{DEBRIEFING}{section*.65}% 248
-\BOOKMARK [1][-]{section*.162}{Exiting the game}{chapter*.161}% 249
-\BOOKMARK [1][-]{section*.163}{What really happened}{chapter*.161}% 250
-\BOOKMARK [2][-]{section*.164}{Actual presidents \(Psychological association\):}{section*.163}% 251
-\BOOKMARK [2][-]{section*.165}{Actual history}{section*.163}% 252
-\BOOKMARK [3][-]{section*.166}{Little Albert}{section*.165}% 253
-\BOOKMARK [3][-]{section*.167}{Socarides \046 Bieber}{section*.165}% 254
-\BOOKMARK [3][-]{section*.168}{Leona Tyler Principle /Goldwater Rule}{section*.165}% 255
-\BOOKMARK [3][-]{section*.169}{Marr}{section*.165}% 256
-\BOOKMARK [3][-]{section*.170}{Declassification}{section*.165}% 257
-\BOOKMARK [3][-]{section*.171}{Spitzer Task force}{section*.165}% 258
-\BOOKMARK [3][-]{section*.172}{Averson Therapy}{section*.165}% 259
-\BOOKMARK [3][-]{section*.173}{Reparative therapy}{section*.165}% 260
-\BOOKMARK [3][-]{section*.174}{Evelyn Hooker}{section*.165}% 261
-\BOOKMARK [1][-]{section*.175}{After this era}{chapter*.161}% 262
-\BOOKMARK [2][-]{section*.176}{The DSM-V Controversy}{section*.175}% 263
-\BOOKMARK [3][-]{section*.177}{Spitzer 2003 Controversy}{section*.176}% 264
-\BOOKMARK [0][-]{chapter*.178}{ANNOTATED BIBLIOGRAPHY}{section*.65}% 265
-\BOOKMARK [0][-]{chapter*.179}{Further Reading}{section*.65}% 266
-\BOOKMARK [1][-]{section*.180}{DSM-III}{chapter*.179}% 267
-\BOOKMARK [1][-]{section*.181}{Obituaries and Tributes}{chapter*.179}% 268
-\BOOKMARK [2][-]{section*.182}{Anne Anastasi}{section*.181}% 269
-\BOOKMARK [2][-]{section*.183}{George Albee}{section*.181}% 270
-\BOOKMARK [2][-]{section*.184}{Irving Bieber}{section*.181}% 271
-\BOOKMARK [2][-]{section*.185}{Kenneth Clark}{section*.181}% 272
-\BOOKMARK [2][-]{section*.186}{John Fryer}{section*.181}% 273
-\BOOKMARK [2][-]{section*.187}{Barbara Gittings}{section*.181}% 274
-\BOOKMARK [2][-]{section*.188}{Harry Harlow}{section*.181}% 275
-\BOOKMARK [2][-]{section*.189}{Harold Lief}{section*.181}% 276
-\BOOKMARK [2][-]{section*.190}{Charles Socarides}{section*.181}% 277
-\BOOKMARK [2][-]{section*.191}{John P. Spiegel}{section*.181}% 278
-\BOOKMARK [1][-]{section*.192}{Citations not explicitly mentioned previously}{chapter*.179}% 279
-\BOOKMARK [-1][-]{section*.194}{ROLE SHEETS}{}% 280
-\BOOKMARK [0][-]{chapter*.195}{George W. Albee, PhD}{section*.194}% 281
-\BOOKMARK [1][-]{section*.196}{Your Biography}{chapter*.195}% 282
-\BOOKMARK [1][-]{section*.197}{Game Objectives}{chapter*.195}% 283
-\BOOKMARK [2][-]{section*.198}{Specific Assignment}{section*.197}% 284
-\BOOKMARK [1][-]{section*.199}{Game Note:}{chapter*.195}% 285
-\BOOKMARK [1][-]{section*.200}{Must Read:}{chapter*.195}% 286
-\BOOKMARK [2][-]{section*.201}{Other Relevant Work:}{section*.200}% 287
-\BOOKMARK [0][-]{chapter*.202}{Anne Anastasi, PhD}{section*.194}% 288
-\BOOKMARK [1][-]{section*.203}{Your Biography}{chapter*.202}% 289
-\BOOKMARK [1][-]{section*.204}{Game Objectives}{chapter*.202}% 290
-\BOOKMARK [2][-]{section*.205}{Specific Assignments}{section*.204}% 291
-\BOOKMARK [1][-]{section*.206}{Must Read}{chapter*.202}% 292
-\BOOKMARK [2][-]{section*.207}{Secondary Sources}{section*.206}% 293
-\BOOKMARK [0][-]{chapter*.208}{Kenneth Clark, PhD}{section*.194}% 294
-\BOOKMARK [1][-]{section*.209}{Your Biography}{chapter*.208}% 295
-\BOOKMARK [1][-]{section*.210}{Game Objectives}{chapter*.208}% 296
-\BOOKMARK [2][-]{section*.211}{Specific Assignments}{section*.210}% 297
-\BOOKMARK [1][-]{section*.212}{Must Read}{chapter*.208}% 298
-\BOOKMARK [2][-]{section*.213}{Further Reading}{section*.212}% 299
-\BOOKMARK [0][-]{chapter*.214}{D. Fordney Settlage, MD}{section*.194}% 300
-\BOOKMARK [1][-]{section*.215}{Your Biography}{chapter*.214}% 301
-\BOOKMARK [1][-]{section*.216}{Game Objectives}{chapter*.214}% 302
-\BOOKMARK [2][-]{section*.217}{Specific Assignments}{section*.216}% 303
-\BOOKMARK [1][-]{section*.218}{Must Read}{chapter*.214}% 304
-\BOOKMARK [2][-]{section*.219}{Secondary Sources}{section*.218}% 305
-\BOOKMARK [0][-]{chapter*.220}{John Fryer, MD}{section*.194}% 306
-\BOOKMARK [1][-]{section*.221}{Biography}{chapter*.220}% 307
-\BOOKMARK [1][-]{section*.222}{Game Objectives}{chapter*.220}% 308
-\BOOKMARK [1][-]{section*.223}{Must Read}{chapter*.220}% 309
-\BOOKMARK [2][-]{section*.224}{Secondary Sources}{section*.223}% 310
-\BOOKMARK [0][-]{chapter*.225}{Frank Kameny and/or Barbara Gittings, Activists}{section*.194}% 311
-\BOOKMARK [1][-]{section*.226}{Frank Kameny Biography}{chapter*.225}% 312
-\BOOKMARK [1][-]{section*.227}{Game Objectives}{chapter*.225}% 313
-\BOOKMARK [2][-]{section*.228}{Specific Assignments}{section*.227}% 314
-\BOOKMARK [1][-]{section*.229}{Must Read}{chapter*.225}% 315
-\BOOKMARK [2][-]{section*.230}{Secondary Sources}{section*.229}% 316
-\BOOKMARK [0][-]{chapter*.231}{Frank Kameny and/or Barbara Gittings, Activists}{section*.194}% 317
-\BOOKMARK [1][-]{section*.232}{Barbara Gittings Biography}{chapter*.231}% 318
-\BOOKMARK [1][-]{section*.233}{Barbara Gittings Biography}{chapter*.231}% 319
-\BOOKMARK [2][-]{section*.234}{Specific Assignments}{section*.233}% 320
-\BOOKMARK [1][-]{section*.235}{Must Read}{chapter*.231}% 321
-\BOOKMARK [2][-]{section*.236}{Secondary Sources}{section*.235}% 322
-\BOOKMARK [0][-]{chapter*.237}{Stanley Milgram, PhD}{section*.194}% 323
-\BOOKMARK [1][-]{section*.238}{Your Biography}{chapter*.237}% 324
-\BOOKMARK [1][-]{section*.239}{Game Objectives}{chapter*.237}% 325
-\BOOKMARK [2][-]{section*.240}{Specific Assignments}{section*.239}% 326
-\BOOKMARK [1][-]{section*.241}{Must Read}{chapter*.237}% 327
-\BOOKMARK [2][-]{section*.242}{Secondary Sources}{section*.241}% 328
-\BOOKMARK [0][-]{chapter*.243}{Jean Piaget, PhD}{section*.194}% 329
-\BOOKMARK [1][-]{section*.244}{Your Biography}{chapter*.243}% 330
-\BOOKMARK [1][-]{section*.245}{Game Objectives}{chapter*.243}% 331
-\BOOKMARK [1][-]{section*.246}{Must Read}{chapter*.243}% 332
-\BOOKMARK [2][-]{section*.247}{Secondary Source}{section*.246}% 333
-\BOOKMARK [0][-]{chapter*.248}{Leona Tyler, PhD}{section*.194}% 334
-\BOOKMARK [1][-]{section*.249}{Your Biography}{chapter*.248}% 335
-\BOOKMARK [1][-]{section*.250}{Game Objectives}{chapter*.248}% 336
-\BOOKMARK [2][-]{section*.251}{Specific Assignments}{section*.250}% 337
-\BOOKMARK [1][-]{section*.252}{Must Read}{chapter*.248}% 338
-\BOOKMARK [2][-]{section*.253}{Secondary Sources}{section*.252}% 339
-\BOOKMARK [0][-]{chapter*.254}{Robert Spitzer, MD}{section*.194}% 340
-\BOOKMARK [1][-]{section*.255}{Your Biography}{chapter*.254}% 341
-\BOOKMARK [1][-]{section*.256}{Game Objectives}{chapter*.254}% 342
-\BOOKMARK [2][-]{section*.257}{Declassification: 1971\2051973}{section*.256}% 343
-\BOOKMARK [2][-]{section*.258}{Task Force: 1973\2051975}{section*.256}% 344
-\BOOKMARK [3][-]{section*.259}{Proposed Study}{section*.258}% 345
-\BOOKMARK [3][-]{section*.260}{Defining `Mental Illness'}{section*.258}% 346
-\BOOKMARK [3][-]{section*.261}{Summary}{section*.258}% 347
-\BOOKMARK [2][-]{section*.262}{Specific Assignments:}{section*.256}% 348
-\BOOKMARK [1][-]{section*.263}{Must Read}{chapter*.254}% 349
-\BOOKMARK [2][-]{section*.264}{Secondary Sources}{section*.263}% 350
-\BOOKMARK [0][-]{chapter*.265}{Thomas S. Szasz, MD}{section*.194}% 351
-\BOOKMARK [1][-]{section*.266}{Your Biography}{chapter*.265}% 352
-\BOOKMARK [1][-]{section*.267}{Victory Objectives}{chapter*.265}% 353
-\BOOKMARK [2][-]{section*.268}{Game Strategy}{section*.267}% 354
-\BOOKMARK [1][-]{section*.269}{Specific Assignments}{chapter*.265}% 355
-\BOOKMARK [1][-]{section*.270}{Must Read}{chapter*.265}% 356
-\BOOKMARK [2][-]{section*.271}{Secondary Sources}{section*.270}% 357
-\BOOKMARK [0][-]{chapter*.272}{Robert Hopcke, MD}{section*.194}% 358
-\BOOKMARK [1][-]{section*.273}{Your Biography}{chapter*.272}% 359
-\BOOKMARK [1][-]{section*.274}{Game Objectives}{chapter*.272}% 360
-\BOOKMARK [1][-]{section*.275}{Must Read}{chapter*.272}% 361
-\BOOKMARK [2][-]{section*.276}{Secondary Sources}{section*.275}% 362
-\BOOKMARK [0][-]{chapter*.277}{Charles Socarides, MD}{section*.194}% 363
-\BOOKMARK [1][-]{section*.278}{Your Biography}{chapter*.277}% 364
-\BOOKMARK [2][-]{section*.279}{Charles Socarides' Biography}{section*.278}% 365
-\BOOKMARK [2][-]{section*.280}{Irving Bieber's Biography}{section*.278}% 366
-\BOOKMARK [1][-]{section*.281}{Your View}{chapter*.277}% 367
-\BOOKMARK [1][-]{section*.282}{Game Objectives}{chapter*.277}% 368
-\BOOKMARK [2][-]{section*.283}{Specific Assignments}{section*.282}% 369
-\BOOKMARK [1][-]{section*.284}{Must Read}{chapter*.277}% 370
-\BOOKMARK [0][-]{chapter*.285}{Judd Marmor, MD}{section*.194}% 371
-\BOOKMARK [1][-]{section*.286}{Your Biography}{chapter*.285}% 372
-\BOOKMARK [1][-]{section*.287}{Game Objectives}{chapter*.285}% 373
-\BOOKMARK [1][-]{section*.288}{Specific assignments}{chapter*.285}% 374
-\BOOKMARK [1][-]{section*.289}{Must Read}{chapter*.285}% 375
-\BOOKMARK [2][-]{section*.290}{Secondary Sources}{section*.289}% 376
-\BOOKMARK [0][-]{chapter*.291}{Evelyn Hooker, PhD}{section*.194}% 377
-\BOOKMARK [1][-]{section*.292}{Your Biography}{chapter*.291}% 378
-\BOOKMARK [1][-]{section*.293}{Game Objectives}{chapter*.291}% 379
-\BOOKMARK [2][-]{section*.294}{Specific Assignments}{section*.293}% 380
-\BOOKMARK [1][-]{section*.295}{Must Read}{chapter*.291}% 381
-\BOOKMARK [2][-]{section*.296}{Secondary Sources}{section*.295}% 382
+\BOOKMARK [0][-]{chapter.1}{The Game}{section*.2}% 5
+\BOOKMARK [1][-]{section.1.1}{Playing a Psychologist or Psychiatrist in the 1970s.}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.2}{Prologue}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.3}{Counterfactuals}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.4}{Timeline of events relevant to game play}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.5}{Major Issues in the Game}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.6}{Brief Sketch of the Game Characters}{chapter.1}% 11
+\BOOKMARK [0][-]{chapter.A}{Pinel, Philippe. ``A Treatise on Insanity'', 1806}{section*.2}% 12
+\BOOKMARK [1][-]{section.A.1}{Excerpt 1}{chapter.A}% 13
+\BOOKMARK [1][-]{section.A.2}{Excerpt 1}{chapter.A}% 14
+\BOOKMARK [1][-]{section.A.3}{Excerpt 3}{chapter.A}% 15
+\BOOKMARK [0][-]{chapter.B}{Freud, Sigmund ``The psychogenesis of a case of homosexuality in a woman'' \(1920\)}{section*.2}% 16
+\BOOKMARK [0][-]{chapter.C}{Skinner, B. F. ``A Critique of Psychoanalytic Concepts and Theories'' 1954}{section*.2}% 17
+\BOOKMARK [0][-]{chapter.D}{Chomsky, N. ``Review of Verbal Behaviour by B.F. Skinner'' 1959}{section*.2}% 18
+\BOOKMARK [0][-]{chapter.E}{APA ``Ethical Standards of Psychologists,'' 1968}{section*.2}% 19
+\BOOKMARK [0][-]{chapter.F}{APA Diagnostic and Statistical Manual Mental Disorders, 1952}{section*.2}% 20
+\BOOKMARK [0][-]{chapter.G}{APA Diagnostic and Statistical Manual II, 1968}{section*.2}% 21
+\BOOKMARK [0][-]{chapter.H}{Socarides, S. ``Homosexuality and Medicine'', 1968}{section*.2}% 22
+\BOOKMARK [-1][-]{part.1}{Instructor's Manual}{}% 23
+\BOOKMARK [0][-]{section.1.1}{Textbooks: A}{part.1}% 24
+\BOOKMARK [1][-]{section.1.2}{List of roles and factions}{section.1.1}% 25
+\BOOKMARK [1][-]{section.1.3}{Learning Objectives}{section.1.1}% 26
+\BOOKMARK [1][-]{section.1.4}{Items you might need}{section.1.1}% 27
+\BOOKMARK [1][-]{section.1.5}{Overview of events and assignments in the game}{section.1.1}% 28
+\BOOKMARK [1][-]{section.1.6}{Managing Discussion}{section.1.1}% 29
+\BOOKMARK [1][-]{section.1.7}{Interventions}{section.1.1}% 30
+\BOOKMARK [1][-]{section.1.8}{Exiting the game}{section.1.1}% 31
+\BOOKMARK [1][-]{section.1.9}{After this era}{section.1.1}% 32
+\BOOKMARK [0][-]{chapter.2}{Further Reading}{part.1}% 33
+\BOOKMARK [1][-]{section.2.1}{DSM-III}{chapter.2}% 34
+\BOOKMARK [1][-]{section.2.2}{Obituaries and Tributes}{chapter.2}% 35
+\BOOKMARK [1][-]{section.2.3}{Citations not explicitly mentioned previously}{chapter.2}% 36
+\BOOKMARK [-1][-]{part.2}{Role Sheets}{}% 37
+\BOOKMARK [0][-]{chapter.3}{George W. Albee, PhD}{part.2}% 38
+\BOOKMARK [1][-]{section.3.1}{Your Biography}{chapter.3}% 39
+\BOOKMARK [1][-]{section.3.2}{Game Objectives}{chapter.3}% 40
+\BOOKMARK [1][-]{section.3.3}{Game Note:}{chapter.3}% 41
+\BOOKMARK [1][-]{section.3.4}{Must Read:}{chapter.3}% 42
+\BOOKMARK [0][-]{chapter.4}{Anne Anastasi, PhD}{part.2}% 43
+\BOOKMARK [1][-]{section.4.1}{Your Biography}{chapter.4}% 44
+\BOOKMARK [1][-]{section.4.2}{Game Objectives}{chapter.4}% 45
+\BOOKMARK [1][-]{section.4.3}{Must Read}{chapter.4}% 46
+\BOOKMARK [0][-]{chapter.5}{Kenneth Clark, PhD}{part.2}% 47
+\BOOKMARK [1][-]{section.5.1}{Your Biography}{chapter.5}% 48
+\BOOKMARK [1][-]{section.5.2}{Game Objectives}{chapter.5}% 49
+\BOOKMARK [1][-]{section.5.3}{Must Read}{chapter.5}% 50
+\BOOKMARK [0][-]{chapter.6}{D. Fordney Settlage, MD}{part.2}% 51
+\BOOKMARK [1][-]{section.6.1}{Your Biography}{chapter.6}% 52
+\BOOKMARK [1][-]{section.6.2}{Game Objectives}{chapter.6}% 53
+\BOOKMARK [1][-]{section.6.3}{Must Read}{chapter.6}% 54
+\BOOKMARK [0][-]{chapter.7}{John Fryer, MD}{part.2}% 55
+\BOOKMARK [1][-]{section.7.1}{Biography}{chapter.7}% 56
+\BOOKMARK [1][-]{section.7.2}{Game Objectives}{chapter.7}% 57
+\BOOKMARK [1][-]{section.7.3}{Must Read}{chapter.7}% 58
+\BOOKMARK [0][-]{chapter.8}{Frank Kameny and/or Barbara Gittings, Activists}{part.2}% 59
+\BOOKMARK [1][-]{section.8.1}{Frank Kameny Biography}{chapter.8}% 60
+\BOOKMARK [1][-]{section.8.2}{Game Objectives}{chapter.8}% 61
+\BOOKMARK [1][-]{section.8.3}{Must Read}{chapter.8}% 62
+\BOOKMARK [0][-]{chapter.9}{Frank Kameny and/or Barbara Gittings, Activists}{part.2}% 63
+\BOOKMARK [1][-]{section.9.1}{Barbara Gittings Biography}{chapter.9}% 64
+\BOOKMARK [1][-]{section.9.2}{Barbara Gittings Biography}{chapter.9}% 65
+\BOOKMARK [1][-]{section.9.3}{Must Read}{chapter.9}% 66
+\BOOKMARK [0][-]{chapter.10}{Stanley Milgram, PhD}{part.2}% 67
+\BOOKMARK [1][-]{section.10.1}{Your Biography}{chapter.10}% 68
+\BOOKMARK [1][-]{section.10.2}{Game Objectives}{chapter.10}% 69
+\BOOKMARK [1][-]{section.10.3}{Must Read}{chapter.10}% 70
+\BOOKMARK [0][-]{chapter.11}{Jean Piaget, PhD}{part.2}% 71
+\BOOKMARK [1][-]{section.11.1}{Your Biography}{chapter.11}% 72
+\BOOKMARK [1][-]{section.11.2}{Game Objectives}{chapter.11}% 73
+\BOOKMARK [1][-]{section.11.3}{Must Read}{chapter.11}% 74
+\BOOKMARK [0][-]{chapter.12}{Leona Tyler, PhD}{part.2}% 75
+\BOOKMARK [1][-]{section.12.1}{Your Biography}{chapter.12}% 76
+\BOOKMARK [1][-]{section.12.2}{Game Objectives}{chapter.12}% 77
+\BOOKMARK [1][-]{section.12.3}{Must Read}{chapter.12}% 78
+\BOOKMARK [0][-]{chapter.13}{Robert Spitzer, MD}{part.2}% 79
+\BOOKMARK [1][-]{section.13.1}{Your Biography}{chapter.13}% 80
+\BOOKMARK [1][-]{section.13.2}{Game Objectives}{chapter.13}% 81
+\BOOKMARK [1][-]{section.13.3}{Must Read}{chapter.13}% 82
+\BOOKMARK [0][-]{chapter.14}{Thomas S. Szasz, MD}{part.2}% 83
+\BOOKMARK [1][-]{section.14.1}{Your Biography}{chapter.14}% 84
+\BOOKMARK [1][-]{section.14.2}{Victory Objectives}{chapter.14}% 85
+\BOOKMARK [1][-]{section.14.3}{Specific Assignments}{chapter.14}% 86
+\BOOKMARK [1][-]{section.14.4}{Must Read}{chapter.14}% 87
+\BOOKMARK [0][-]{chapter.15}{Robert Hopcke, MD}{part.2}% 88
+\BOOKMARK [1][-]{section.15.1}{Your Biography}{chapter.15}% 89
+\BOOKMARK [1][-]{section.15.2}{Game Objectives}{chapter.15}% 90
+\BOOKMARK [1][-]{section.15.3}{Must Read}{chapter.15}% 91
+\BOOKMARK [0][-]{chapter.16}{Charles Socarides, MD}{part.2}% 92
+\BOOKMARK [1][-]{section.16.1}{Your Biography}{chapter.16}% 93
+\BOOKMARK [1][-]{section.16.2}{Your View}{chapter.16}% 94
+\BOOKMARK [1][-]{section.16.3}{Game Objectives}{chapter.16}% 95
+\BOOKMARK [1][-]{section.16.4}{Must Read}{chapter.16}% 96
+\BOOKMARK [0][-]{chapter.17}{Judd Marmor, MD}{part.2}% 97
+\BOOKMARK [1][-]{section.17.1}{Your Biography}{chapter.17}% 98
+\BOOKMARK [1][-]{section.17.2}{Game Objectives}{chapter.17}% 99
+\BOOKMARK [1][-]{section.17.3}{Specific assignments}{chapter.17}% 100
+\BOOKMARK [1][-]{section.17.4}{Must Read}{chapter.17}% 101
+\BOOKMARK [0][-]{chapter.18}{Evelyn Hooker, PhD}{part.2}% 102
+\BOOKMARK [1][-]{section.18.1}{Your Biography}{chapter.18}% 103
+\BOOKMARK [1][-]{section.18.2}{Game Objectives}{chapter.18}% 104
+\BOOKMARK [1][-]{section.18.3}{Must Read}{chapter.18}% 105

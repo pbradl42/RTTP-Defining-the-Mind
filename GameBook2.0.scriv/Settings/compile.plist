@@ -33,9 +33,9 @@
 	<key>SCRCompileColorPrintedHyperlinksKey</key>
 	<true/>
 	<key>SCRCompileConvertEllipsesToTriplePeriodsKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileConvertEmDashesToHyphensKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileConvertItalicsToUnderlineKey</key>
 	<false/>
 	<key>SCRCompileConvertLinkedRTFDImagesToEmbeddedImagesKey</key>
@@ -712,7 +712,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileRemoveAllHyperlinksKey</key>
 	<false/>
 	<key>SCRCompileRemoveCommentsKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileRemoveFootnotesKey</key>
 	<false/>
 	<key>SCRCompileRemoveHighlightingKey</key>
@@ -766,7 +766,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileStitchTablesTogetherKey</key>
 	<false/>
 	<key>SCRCompileStraightenTypographersQuotesKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileTableImagesMaxWidthKey</key>
 	<integer>600</integer>
 	<key>SCRCompileTextAndFolderCustomSeparatorStringKey</key>
