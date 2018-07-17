@@ -9,7 +9,8 @@
         </Document>
         <Document ID="34">
             <Title>Main Factions</Title>
-            <Text>
+            <Text>### Main Factions
+
 Players represent three factions with different perspectives on not only the nature of scientific inquiry into the human mind, but the object of those studies themselves.  A number of independents, representing a variety of academic disciplines, complement these three factions.
 
 It should be noted that unlike some other reacting games, individuals in these factions are not bound to think or vote the same way on the central issues in the game. The factions represent high-level agreement on the nature of the science of the mind, there is almost complete disagreement on all other issues. In fact, when it comes to actual game play, you might find that your votes are more aligned with members of other factions than your own.</Text>
@@ -83,6 +84,7 @@ Sections of ‘Basic Scientific Reasoning’ are adapted from work that I did ma
         </Document>
         <Document ID="40">
             <Title>Things you should know</Title>
+            <Text>### Things you should know</Text>
         </Document>
         <Document ID="112">
             <Title>PiagetJean</Title>
@@ -9443,8 +9445,29 @@ Cook, J. “John P. Spiegel, 80, Expert on Violence And Combat Stress” New Yor
         <Document ID="83">
             <Title>Ernst_willhelm_von_bruecke.jpeg</Title>
         </Document>
+        <Document ID="340">
+            <Title>APA Ethics 1968</Title>
+            <Text>### APA “Ethical Standards of Psychologists" 1968
+
+&lt;!--\label{app: APAEthics}
+\includepdf[pages={1-}]{../Appendices/APAEthics1968.pdf}--&gt;</Text>
+        </Document>
         <Document ID="78">
             <Title>TimeCover</Title>
+        </Document>
+        <Document ID="341">
+            <Title>DSMI</Title>
+            <Text>### APA *Diagnostic and Statistical Manual* Mental Disorders, 1952
+
+&lt;!--\label{app: DSMI}
+\includepdf[pages={1-}]{../PrimarySourceMaterials/dsm-i.pdf}--&gt;</Text>
+        </Document>
+        <Document ID="342">
+            <Title>DSMII</Title>
+            <Text>### APA *Diagnostic and Statistical Manual II*, 1968
+
+&lt;!--\label{app: DSMII}
+\includepdf[pages={1-}]{../Appendices/DSMII.pdf}--&gt;</Text>
         </Document>
         <Document ID="84">
             <Title>Hermann_von_Helmholtz</Title>
@@ -9637,8 +9660,20 @@ Vol. 11.New York: John Wiley and Sons. Rapoport, A. and W. J. Horvath
         <Document ID="90">
             <Title>Wundt</Title>
         </Document>
+        <Document ID="343">
+            <Title>Socarides 1970</Title>
+            <Text>### Socarides, S. “Homosexuality and Medicine”, 1968
+
+&lt;!--\label{app: DSMII}
+\includepdf[pages={1-}]{../Appendices/Socarides-1970-JAMA.pdf}--&gt;</Text>
+        </Document>
         <Document ID="85">
             <Title>Ivan_Pavlov_(Nobel)</Title>
+        </Document>
+        <Document ID="344">
+            <Title>End appendicies</Title>
+            <Text>&lt;!--\end{appendices}
+\end{refsection}--&gt;</Text>
         </Document>
         <Document ID="91">
             <Title>Untitled</Title>
@@ -10254,7 +10289,8 @@ R. Benedict, J. Gen. Psychol., 10 (1934), 59.
         </Document>
         <Document ID="132">
             <Title>End appendicies</Title>
-            <Text>&lt;!--\end{appendices}--&gt;</Text>
+            <Text>&lt;!--\end{appendices}
+\end{refsection}--&gt;</Text>
         </Document>
         <Document ID="102">
             <Title>GittingsKameny-FryeronRightToCut</Title>
@@ -10321,7 +10357,7 @@ Crowne, D.P. &amp; Marlowe, D. (1960). “A new scale of social desirability ind
             <Text>&lt;!--
 \frontmatter --&gt;
 # Instructor’s Manual: 
-&lt;!--
+&lt;!-- \begin{refsection}
 \maketitle
 \newpage
 \tableofcontents
@@ -11597,11 +11633,11 @@ The game culminates in the vote defining ‘mental illness.’  There should be 
         </Document>
         <Document ID="233">
             <Title>Psychoanalysts</Title>
-            <Text>### Psychoanalysts
+            <Text>#### Psychoanalysts
 
 Psychoanalysts are split in the classical (Freudian), Jungian and unspecified.  The game contains a number of independent psychiatrists who, while they are familiar with psychoanalysis, are not professed members of the faction.
 
-#### Classical
+##### Classical
 
 Classical psychoanalysis can be summarized by five basic hypotheses:
 
@@ -11659,7 +11695,7 @@ As the id is the source of psychic energy, unacceptable drives using one of the 
 
 As an example, classical psychoanalysis holds that obsessive-compulsive reaction can be traced to unresolved conflicts in the anal stage of development, where frustration at potty-training is turned into rage towards one's mother. That rage, in turn, is found to be unacceptable by the ego and repressed through one of the standard mechanisms creating obsessions with objects or scenarios that are symbolically linked to the original frustration. The particular object of obsession is essentially random, as the subject latches onto some mundane object present at the time of the frustration. The choice of obsessional object, however, can provide clues as to the true cause of the frustration, as it is invariably linked, through one of the mechanisms of representation, to the true object. The compulsive aspect of this conditions is an 'acceptable' outlet for the unacceptable rage towards one's mother.  Psychoanalysts go on to hold that obsessive-compulsive is often unconsciously aware of his or her rage and may take extreme steps to avoid losing control when provoked.  
 
-##### Psychoanalytic Treatment
+###### Psychoanalytic Treatment
 
 Psychoanalysis—the process of psychoanalytic treatment—aims at resolving unresolved conflicts that cause neurosis. The psychoanalyst seeks to align the psychic forces within the individual so that they are no longer in conflict. A psychoanalyst must keep all five psychoanalytic hypotheses—the topographical, dynamic, economy, genetic and structural—in mind during treatment, but in practice, tends to focus on one or two at a time.  
 
@@ -11694,7 +11730,7 @@ When embarking on a new treatment, then, the psychoanalyst has three basic aims:
 3. The insight so obtained must be communicable to the patient. As one listens one must ascertain what uncovered material will be constructively utilizable by the patient. (quoting from the \emph{American Handbook of Psychiatry}, p. 779)
 
 
-##### Jung
+###### Jung
 
 Jungian psychoanalysis is distinguished from classical psychoanalysis by two major shifts in the basic theory.
 
@@ -11718,9 +11754,9 @@ The task of a psychoanalyst, then, is not only to discover the original traumati
 
 The difference between practice among the psychoanalytic approaches is emphasis, not technique. As J.B. Wheelwright noted in 1963, “Freud focused on sexuality, Adler focused on power, and Jung focused on growth, which he called individuation.” (quoted in *American Handbook of Psychiatry*, p. 817)
 
-#### For Further reading:
+##### For Further reading:
 
-##### Primary Sources:
+###### Primary Sources:
 
 Freud. S. (1917 / 1989) Introductory Lectures on Psychoanalysis, Strachey, J (trans) Liveright
 
@@ -11730,7 +11766,7 @@ Jung, C. G. and A. Storr (1983). The essential Jung. Princeton, N.J., Princeton 
 
 Jung, C. G., H. E. Read, et al. (1953). The collected works of C. G. Jung. New York, Pantheon Books, v. 4
 
-##### Secondary Sources:
+###### Secondary Sources:
 
 Arieti, S. (1974). American handbook of psychiatry. New York,, Basic Books.</Text>
             <Comments>'Neurotic' behavior results from continuing conflict between the libinal desires and the ego's repression techniques. 'Psychotic' behaviors result when the libinal desires assert their reality on the ego. See the discussion of 'neurosis' and 'psychosis' in the History of the Classification of Mental Illness section below.
@@ -11931,7 +11967,7 @@ You are neutral on the issue of the definition of mental illness, but be ready t
         </Document>
         <Document ID="234">
             <Title>Behaviorists</Title>
-            <Text>### Behaviorists
+            <Text>#### Behaviorists
 
 Behaviorism holds that psychology is properly limited to the observation, prediction and control of behavior. It  typified by four hypotheses:
 
@@ -11945,7 +11981,7 @@ This thesis unites behaviorism with classical psychoanalysis in opposition to Ju
 
 3.	*The principles of learning are generalizable across species.* Behaviorists argue that given that animals are incapable of introspection—or, if they are, they cannot communicate it—psychological theories that make use of introspection are incapable of explaining animal psychology.  Behaviorism, however, is not. Non-human animals are organisms living in environments that behave in certain regular ways. All of that is accessible to behavioristic science. And as it is an uncontroversial observation that at least some human behavior is the same as animal behavior (caring for the young, for example), it follows that behaviorism can explain regularities that introspective psychology cannot.
 
-#### Learning
+##### Learning
 
 A behavioristic explanation of a given behavior takes the form of specifying the mechanism of learning that caused this behavior.  A behavioristic treatment seeks to 'extinguish' that behavior through providing an antithetical mechanism.
 
@@ -11961,7 +11997,7 @@ The mechanisms learning are:
 
 * **Operant conditioning** differs from classical conditioning insofar as the conditioning intervention occurs after the response, rather than concurrent with the unconditioned stimulus. Operant condition introduces the possibility of promised reinforcement, which would occur when the promise of future reinforcement causes behavior.
 
-##### Behaviorism as a treatment in psychiatry
+###### Behaviorism as a treatment in psychiatry
 
 Behavioral treatments in psychiatry, like behaviorism in psychology, follows from a deceptively simple insight: that psychiatric treatment aims at the cessation of maladaptive behavior.  Like psychoanalysis, behavioral therapies restrict themselves to neurosis, not psychosis.
 
@@ -11972,9 +12008,9 @@ There are two major kinds of inhibition therapies found in the literature:
 
 Other inhibition therapies, such as 'retroactive inhibition' are usually forms of reciprocal inhibition.
 
-#### Further Reading:
+##### Further Reading:
 
-##### Primary Sources:
+###### Primary Sources:
 
 Skinner, B. F. (1953). Science and human behavior. New York,, Macmillan.
 
@@ -11982,7 +12018,7 @@ Watson, John B. (1913) “Psychology as the Behaviorist Views it.” Psychologic
 
 Watson, J. B. (1929). "Behaviorism -- The Modern Note in Psychology."
 
-##### Secondary Sources:
+###### Secondary Sources:
 
 Hornstein, G. A. (2002). The Return of the Repressed: Psychology's Problematic Relations with Psychoanalysis, 1909-1960. Evolving Perspectives on the History of Psychology. W. E. Pickren and D. A. Dewsbury. Washington, DC, The American Psychological Association.
 
@@ -12310,7 +12346,7 @@ See, e.g. K MacCorquodale (1970) “On Chomsky's Review of Skinner's Verbal Beha
         <Document ID="235">
             <Title>Cognitivists</Title>
             <Text>
-### Cognitivists
+#### Cognitivists
 
 Cognitivists reject the behaviorists' conjecture that scientific psychology is limited—as *scientific* psychology—to observable behavior. But neither do they seek to reestablish introspection as a valid observational method.  Cognitivists agree that scientific evidence must be observable. But they disagree that the explanations of behavior must necessarily be in terms of observable macro-objects like organisms and environments.  Cognitivists see the mind/brain as an information-processing system; therefore an adequate scientific explanations would take form of the specifying the mechanisms by which information is processed—including positing algorithms or modeling neural mechanisms that would generate the behavior in question. The difference between the Cognitivists and the Behaviorists is not about the experimental methods they follow, but rather about the structure of a scientific explanation.
 
@@ -12318,16 +12354,16 @@ Thus, cognitivism distinguishes itself from behaviorism in terms of a meta-theor
 
 Cognitivism grew slowly between 1955 and 1965, in part because it was not an 'intentional' revolution like Behaviorism. George Miller's 1956 paper “The magical number seven, plus or minus two: Some limits on our capacity for processing information,” is one of the classics of cognitive psychology, although the term 'cognitive psychology' does not appear in it. Miller argues that  human's short-term memory behavior is limited to seven items plus or minus two.  These 'items', however, need not be individual atomic units like Ebbinghaus' nonsense syllables.  Miller hypothesized that brain could 'chunking' information into groups, which then could be easily remembered. To borrow a classic example from Bechtel and Graham, the sequence A, B, C, B, B, C, N, B, C, C, B, S would be difficult to remember on its own, but if it is 'chunked' into ABC, BBC, NBC, CBS, remembering it is simple. According to Miller, “There seems to be some limitation built into us either by learning or by design of our nervous system, al limit that keeps our channel capacities in this general range.” (1956, p. 86)  (see &lt;!--\ref{thesecondrevolution:cognitivescience}--&gt; for a historical introduction.) Miller's paper in included in the appendix.
 
-#### Further Reading
+##### Further Reading
 
-##### Primary Sources:
+###### Primary Sources:
 
 Miller, G. A. (1956). "The magical number seven, plus or minus two: Some limits on our capacity for processing information." Psychological Review 63: 81-97.
 
 Miller, G. A. (1962). Psychology, the science of mental life. New York,, Harper &amp; Row.
 
 
-##### Secondary Sources:
+###### Secondary Sources:
 
 Bechtel, W., A. Abrahamsen, et al. (1998). The Life of Cognitive Science. A Companion to Cognitive Science. W. Bechtel and G. Graham. Malden, Mass, Blackwell.
 
@@ -12337,6 +12373,16 @@ Leahey, T. H. (2002). The Mythical Revolutions of American Psychology. Evolving 
 
 Stillings, N.A., Feinstein, M.H., Garfield, J. L., Rissland, E.L, Rosenbaum, D.A., Weisler, S.E., Baker-Ward, L. Cognitive Science: An Introduction, Cambridge: MIT Press
 </Text>
+        </Document>
+        <Document ID="330">
+            <Title>Supplemental Documents</Title>
+            <Text>&lt;!-- \renewcommand*{\thechapter}{}
+\renewcommand*{\thesection}{\Alph{section}}
+\setcounter{chapter}{0}
+\renewcommand*{\thesubsection}{\arabic{subsection}}
+
+--&gt;
+## Appendicies</Text>
         </Document>
         <Document ID="205">
             <Title>Spitzer-bkg</Title>
@@ -12498,6 +12544,19 @@ Matarazzo, J. D. (1989). “The Reliability of Psychiatric and Psychological Dia
         </Document>
         <Document ID="0">
             <Title>Game Book v2.0</Title>
+        </Document>
+        <Document ID="331">
+            <Title>frontMatter</Title>
+            <Text>&lt;!--\begin{appendices}
+\let\svaddcontentsline\addcontentsline
+\renewcommand\addcontentsline[3]{%
+  \ifthenelse{\equal{#1}{lof}}{}%
+  {\ifthenelse{\equal{#1}{lot}}{}{\svaddcontentsline{#1}{#2}{#3}}}}
+
+
+
+--&gt;
+</Text>
         </Document>
         <Document ID="296">
             <Title>dsm-i</Title>
@@ -16188,6 +16247,13 @@ The historian of ideas may notice that this view is Kantian in nature: human lan
 %% Done--&gt;
 </Text>
         </Document>
+        <Document ID="332">
+            <Title>Pinel</Title>
+            <Text>### Pinel, Philippe.  “A Treatise on Insanity”, 1806
+
+&lt;!--\label{app: Pinel}
+\includepdf[pages={1-}]{../Appendices/1806-Pinel-A_treatise_on_insanity-Excerpt.pdf}--&gt;</Text>
+        </Document>
         <Document ID="297">
             <Title>Socarides</Title>
         </Document>
@@ -16788,6 +16854,9 @@ Bostock, C. “Synchronicity: A conversation with Robert Hopcke” available at:
         <Document ID="6">
             <Title>Historical Background</Title>
         </Document>
+        <Document ID="333">
+            <Title>Kraft-Ebing, Ricard von. "Psychopathie Sexualis", 1894</Title>
+        </Document>
         <Document ID="298">
             <Title>Socarides-1970-JAMA</Title>
             <Text>￼in the rr in ttt'tt ,
@@ -17106,6 +17175,15 @@ See also Ch 12, ph. 304-306</Comments>
         <Document ID="9">
             <Title>Core Texts</Title>
             <Text>## Core Texts</Text>
+        </Document>
+        <Document ID="334">
+            <Title>Excerpt 1</Title>
+            <Text>### Psychopathia sexualis
+
+#### Excerpt 1
+
+&lt;!--\label{app: KraftEbbing1}
+\includepdf[pages={1-}]{../Appendices/Excerpt1-1894-Psychopathia_sexualis.pdf}--&gt;</Text>
         </Document>
         <Document ID="299">
             <Title>WindyCityTimes-current</Title>
@@ -19152,6 +19230,13 @@ Socarides, C.W. (1970). “Homosexuality and Medicine” Journal of the American
             <Comments>Freud's discussion of the fixation of perversion as distinct from neurosis on p. 446-448 of the Introductory Lectures may be helpful here.
 See also Ch 12, ph. 304-306</Comments>
         </Document>
+        <Document ID="335">
+            <Title>Excerpt 2</Title>
+            <Text>#### Excerpt 2
+
+&lt;!--\label{app: KraftEbbing2}
+\includepdf[pages={1-}]{../Appendices/Excerpt2-1894-Psychopathia_sexualis.pdf}--&gt;</Text>
+        </Document>
         <Document ID="305">
             <Title>George A. Miller Obit - NYTimes</Title>
             <Text>George A. Miller, Cognitive Psychology Pioneer, Dies at 92 - NYTimes.com http://www.nytimes.com/2012/08/02/us/george-a-miller-cognitive-psych...
@@ -19198,8 +19283,22 @@ George A. Miller, Cognitive Psychology Pioneer, Dies at 92 - NYTimes.com http://
 4 of 4 7/3/2013 10:54 AM
 </Text>
         </Document>
+        <Document ID="336">
+            <Title>Excerpt 3</Title>
+            <Text>#### Excerpt 3
+
+&lt;!--\label{app: KraftEbbing3}
+\includepdf[pages={1-}]{../Appendices/Excerpt3-1894-Psychopathia_sexualis.pdf}--&gt;</Text>
+        </Document>
         <Document ID="306">
             <Title>Harlow</Title>
+        </Document>
+        <Document ID="337">
+            <Title>Freud-Homosexuality</Title>
+            <Text>### Freud, Sigmund “The psychogenesis of a case of homosexuality in a woman” (1920)
+
+&lt;!--\label{app: Freud}
+\includepdf[pages={1-}]{../Appendices/1920-Freud-HomosexualityInAWoman.pdf}--&gt;</Text>
         </Document>
         <Document ID="307">
             <Title>HarlowObit</Title>
@@ -19224,6 +19323,13 @@ ROBERT R. SEARS
 Stanford University
 AMERICANPSYCHOLOGIST • NOVEMBER1982 • 1281
 </Text>
+        </Document>
+        <Document ID="338">
+            <Title>Skinner 1954</Title>
+            <Text>### Skinner, B. F. “A Critique of Psychoanalytic Concepts and Theories” 1954
+
+&lt;!--\label{app: Skinner}
+\includepdf[pages={1-}]{../Appendices/1954-Skinner.pdf}--&gt;</Text>
         </Document>
         <Document ID="308">
             <Title>Proceedings of the National Academy of Sciences of the United States of America 1971 Harlow</Title>
@@ -19385,6 +19491,13 @@ This researchwas supportedby USPHS grants MH-11894 and RR-00167 from the Nationa
 8. Harlow,H. F., and M. K. Harlow,in Behaviorof Nonhuman
 Primates,ed. A. M. Schrier,H. F. Harlow, and F. Stollnitz (AcademicPress, New York, 1965), Vol. 2, pp. 287-334.
 </Text>
+        </Document>
+        <Document ID="339">
+            <Title>Chomsky 1959</Title>
+            <Text>### Chomsky, N. “Review of *Verbal Behaviour* by B.F. Skinner” 1959
+
+&lt;!--\label{app: Chomsky}
+\includepdf[pages={1-}]{../Appendices/1959-Chomsky-Review.pdf}--&gt;</Text>
         </Document>
         <Document ID="309">
             <Title>Skinner</Title>
@@ -25551,11 +25664,11 @@ See also Ch 12, ph. 304-306</Comments>
 
 This section is written for the contemporary reader, not the ‘character’ you’ll be playing. The standards of what makes a good experiment have not changed significantly since the mid 1970s, so there should be no historical anachronisms contained herein.
 
-The image to the right is a clipping from the Washington Post published in 2004. It’s one of these succicnt summations of scientific research that appear all the time in the media --- there is even a website (http://kill-or-cure.herokuapp.com/) that tracks all the things that the British Tabloid *The Daily Mail* has said either causes or cures cancer.
+The image to the right (figure &lt;!--\ref{fig: scientificreasoningexample}--&gt; )is a clipping from the Washington Post published in 2004. It’s one of these succinct summations of scientific research that appear all the time in the media --- there is even a website (http://kill-or-cure.herokuapp.com/) that tracks all the things that the British Tabloid *The Daily Mail* has said either causes or cures cancer.
 
 So what, exactly, is the claim being made here? What evidence is given in support of that claim? If we take the main headline
 
-&gt;Dogged crying and lower IQs are linked
+&gt; Dogged crying and lower IQs are linked
 
 as the central claim---the conclusion, as it were,---of the study that was performed, what would count as evidence in support? Against? 
 
@@ -25566,14 +25679,13 @@ What, exactly, does it mean to be 'linked' anyway? How are they linked? Does inc
 
      \includegraphics[scale=0.50]{../images/scientificReasoning2.jpg}
 \end{center}
- \caption{“Dogged crying, lower IQ linked”, Washington Post, 11/1/2004}
-\label{fig: BlueCross}
-\end{marginfigure}
---&gt;
-http://www.washingtonpost.com/wp-dyn/articles/A14670-2004Oct31.html?noredirect=on
+ \caption{--&gt; [#Vedantam:2004tz]&lt;!--}
+\label{fig: scientificreasoningexample}
+\end{marginfigure}--&gt;
+
 
 Fortunately, we have the original journal article for this one available, so I’ll quote the abstract:
-&lt;!--\begin{apatextbox}--&gt;
+&lt;!--\begin{apatextbox}{Abstract from --&gt; [#Rao:2004ku] &lt;!--}--&gt;
 **BACKGROUND:**
 
 Long term studies of cognitive development and colic have not differentiated between typical colic and prolonged crying.
@@ -25593,8 +25705,8 @@ Children with prolonged crying (but not those with colic only) had an adjusted m
 **CONCLUSIONS:**
 
 Excessive, uncontrolled crying that persists beyond 3 months of age in infants without other signs of neurological damage may be a marker for cognitive deficits during childhood. Such infants need to be examined and followed up more intensively.
-&lt;!--\end{apatextbox}--&gt; 
-From https://www.ncbi.nlm.nih.gov/pubmed/15499048.
+&lt;!--\end{apatextbox}--&gt;
+
 
 While the journalist used the word ‘linked,’  the scientific paper makes slightly different claim: that crying “may be a marker” for cognitive deficits during childhood.  This word change---from ‘marker’ to ‘link’---has implications that demand investigation.
 
@@ -25605,10 +25717,16 @@ The former claim---that ‘dogged crying’ *is linked* to lower IQ---suggests a
 Look back at the ‘Dogged crying’ abstract. You should note that this is study **not** an experiment. The authors of the study did **nothing** other than observe: they made no interventions to the babies or the mothers. They merely separated them into two groups, and measured those groups 5 years later.  
 
 &lt;!--\newthought{The ‘Junior high’ version}--&gt; of the scientific method tells us that to be science, one must observe-hypothesis-experiment-repeat. This simply isn’t true. Science uses a number of different methods, and not everything takes the form of the the classic *experimentum crucis* that we were taught in seventh grade.
-
-Constructing good hypotheses and good questions to test hypothesis can be challenging, especially in psychology and psychiatry. In this section, we’ll introduce some basic termniology regarding scientific reasoning and discuss a few model studies---those we call ‘paradigms’---that have influenced how science has progressed.</Text>
-            <Comments>The journalist in question here is Shakar Vendantam, who went on to host the “Hidden Brain” podcast on NPR.
-Add poster image</Comments>
+&lt;!--\begin{marginfigure}
+ \begin{center}
+     \includegraphics[scale=0.75]{../images/observe_poster.jpg}
+\end{center}
+ \caption{Photo of poster in abandoned junior high school in Hampstead, Maryland. Photo by Kenny Ditto, former student, 2008. Used with permission.}
+\label{fig: scientificmethod}
+\end{marginfigure}
+--&gt;
+Constructing good hypotheses and good questions to test hypothesis can be challenging, especially in psychology and psychiatry. In this section, we’ll introduce some basic terminology regarding scientific reasoning and discuss a few model studies---those we call ‘paradigms’---that have influenced how science has progressed.</Text>
+            <Comments>The journalist in question here is Shakar Vendantam, who went on to host the “Hidden Brain” podcast on NPR.</Comments>
         </Document>
         <Document ID="189">
             <Title>APAHandbookV4n15</Title>
@@ -25696,7 +25814,7 @@ Display: Aggression: Submission =
         </Document>
         <Document ID="320">
             <Title>Front Matter</Title>
-            <Text>&lt;!--
+            <Text>&lt;!-- 
 \frontmatter
 \tableofcontents
 \newpage
@@ -25710,7 +25828,8 @@ Display: Aggression: Submission =
 \mainmatter--&gt;
 
 
-# Role Sheets</Text>
+# Role Sheets
+&lt;!--\begin{refsection}--&gt;</Text>
         </Document>
         <Document ID="159">
             <Title>Research Committee Proposals</Title>
@@ -26008,8 +26127,8 @@ As you may remember from &lt;!--\fullref{prehistoryofpsychology:empiricismaboutt
 4. Finally, catalog all the instances of things that heat cannot be (Table of exclusions)
 
 Extrapolations...
-
-Newton first started his experiments on light and prisms in the early 1670’s, reporting his initial findings to the Royal Society in 1671. [#Newton:1671uw] It is actually his *second* letter on this topic, published in 1672, that is most frequently cited as the primary source. [#Newton:1672tm]. Newton does **not** use the term ‘experiment’ in either of these letters. He calls his investigations ‘Queries’.
+&lt;!--\begin{figure*}\includegraphics{../images/newton1671.png}\caption{Illustration of Newton's experiment contained in the 1st letter to the Royal Society, 1671}\label{fig:newton1671}\end{figure*}--&gt;
+Newton first started his experiments on light and prisms in the early 1670’s, reporting his initial findings to the Royal Society in 1671. [#Newton:1671uw] It is actually his *second* letter on this topic, published in 1672, that is most frequently cited as the primary source. [#Newton:1672tm]. 
 
 There’s a sense in which experiments can be seen as finding a way to put a phenomenon in one table or another.  Take the bending of light through a prism. This phenomenon was known long before Newton, and the spreading of ‘white’ light into a rainbow was well understood. What was not know was whether the colors of the rainbow were existent in the light and ‘revealed’ by the prism, or whether they were in the prism and ‘added’ to the white light as it passed through.  In short, is the prism breaking light up, or acting as a colored filter?
 
@@ -26020,9 +26139,22 @@ So here’s the first step in Newton’s logic: suppose we’re following Bacon�
 
 As the angle of refractionf and color are *always* linked, they
 
+•Note: the angle of the light coming from the prism and the color of that light are always linked. SO:
+•Either:
+–The colors and their respective angles are the white light itself, and the prism uncovers that fact
+–The prism adds the colors and the angles by corrupting the light.
 
-Newton’s *experimentum crucis*, or ‘critical experiment’ sought to </Text>
-            <Comments>Actually, he spelled it “Serie's of Quere’s”, but that doesn’t really matter in this case. </Comments>
+&gt;“And I saw by variation of those places that the light, tending to that end of the image toward which the refraction of the first prism was made, did in the second prism suffer a refraction considerably greater than the light tending to the other end.  And so the true cause of the length of that image was detected to be no other than that light consists of rays differently refrangible, which, without any respect to a difference in their incidence were , according to their degrees of refrangibility, transmitted to divers parts of the wall.”
+
+1. Either the colors and their respective angles are in the light itself, and the prism uncovers this fact, or the prism adds the colors and the angles by corrupting the pure white light.
+2.If the former, then light passing through a second prism would (a) not change the color (for a color once revealed can’t be revealed again) BUT it would (b) double the angle on the second pass.
+3.If the later, the light passing through a second prism would (a) change the color (for the prism adds color to whatever light it touches) AND it would (b) double the angle on the second pass.
+4.Passing light through 2 prisms produces the same color as passing light through 1 prism (as well as doubles the angle).
+5.Therefore, the colors and their angles are in the light itself
+
+Newton himself describes the logic of his *experimentum crucis* like this:
+
+&gt; To determine by Experiments these and such like Queries which involve the propounded theory, seems the most proper and direct way to a conclusion. And therefore I could with all objects were suspended, taken from Hypotheses or any other heads other than these two; of showing the insufficiency of Expeirments to determine these Queries or prove any other parts of my theory, but assigning the flaws ad defects in my conclusions drawn from them; or of producing other Experiments which directly contradict me, if any such may seem to occur. For if the Experiments, which I urge, be defective, it cannot e difficult to show the defects. But if value, then by proving the theory they must render all Objections invalid. [p. 5005][#Newton:1672tm]</Text>
         </Document>
         <Document ID="286">
             <Title>Cook-1957-Desegregation-APsychAnalysis</Title>
@@ -26302,9 +26434,9 @@ Grinker, R. &amp; Spiegel, J. P. (1945) Men Under Stress American Psychological 
         <Document ID="227">
             <Title>Works Cited</Title>
             <Text>&lt;!--
-%\backmatter
-%\printindex
-%\printbibliography
+\backmatter
+\printindex
+\printbibliography[heading=subbibliography]
 
 --&gt;</Text>
         </Document>
@@ -26398,6 +26530,14 @@ The grammars that Brown’s group wrote to account for such simplified language 
 Child: What John will read? Mother: What will John read?
 Superficially the child just mixed up the word order a bit, but Brown’s group proposed a much deeper analysis in terms of Chomsky’s generative grammar, which at the time, was a new and controversial approach to linguistics.
 Observation
+&lt;!--\begin{marginfigure}
+ \begin{center}
+     \includegraphics[scale=0.75]{../images/AmbigCheeta.jpg}
+\end{center}
+ \caption{Photo of ambiguous cheetas.  From--&gt; [#Pitts:2007km] &lt;!--}
+\label{fig: ambiguouscheetas}
+\end{marginfigure}
+--&gt;
 
 Brown’s child subjects produced sentences like “What John will read?” and “Why kitty can’t stand up?”.
 
@@ -26550,6 +26690,16 @@ You can also create your distribution by “painting” the top graph. Use your 
         </Document>
         <Document ID="327">
             <Title>Modelling</Title>
+        </Document>
+        <Document ID="328">
+            <Title>End Instructors manual</Title>
+            <Text>&lt;!--\end{appendices}
+\end{refsection}--&gt;</Text>
+        </Document>
+        <Document ID="329">
+            <Title>End role sheets</Title>
+            <Text>&lt;!--
+\end{refsection}--&gt;</Text>
         </Document>
         <Document ID="10">
             <Title>Supplemental Documents</Title>
@@ -26921,6 +27071,7 @@ http://reacting.barnard.edu/sites/default/files/rttp_gb_boilerplate.pdf</Text>
 # Game Book
 
 &lt;!--
+\begin{refsection}
 \title{Defining the Mind:\protect\\
 \large{The struggle for legitimacy in psychology and psychiatry during the 1970s.}}
 

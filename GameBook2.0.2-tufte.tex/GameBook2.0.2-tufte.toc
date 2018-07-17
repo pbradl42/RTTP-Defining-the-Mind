@@ -1,810 +1,816 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{I\hspace {1em}Game Book}{i}{part.1}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {chapter}{\numberline {1}Introducing The Game}{11}{chapter.1}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {1.1}Playing a Psychologist or Psychiatrist in the 1970s.}{12}{section.1.1}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Context: the role of Psychology and Psychiatry in American Political Life}{12}{subsection*.4}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {1.2}Prologue}{14}{section.1.2}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {1.3}Counterfactuals}{16}{section.1.3}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {chapter}{\numberline {2}Historical Background}{17}{chapter.2}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {2.1}Timeline of events relevant to game play}{17}{section.2.1}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {2.2}Brief history of the concept of `Psychology'}{20}{section.2.2}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Pre-history of Psychology: Empiricism about the Mind}{20}{subsection*.5}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Birth of Psychology: German Physiological Psychology in the 1880s--1890s.}{25}{subsection*.6}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Major areas of research during the infancy of psychology}{27}{subsection*.7}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Sensation and Perception: Fechner}{27}{subsubsection*.8}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Introspection: Wundt}{28}{subsubsection*.9}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Behavior: Pavlov}{29}{subsubsection*.10}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{American Psychology: William James and the function of consciousness}{30}{subsection*.11}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Experimentalism: Ebbinghaus and the unreliability of introspection}{32}{subsection*.12}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Psychology's First Revolution: Behaviorism}{33}{subsection*.13}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{S-S v. S-R Behaviorism: Tolman and Hull}{34}{subsubsection*.14}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Operant Conditioning \& Radical Behaviorism: Skinner}{36}{subsubsection*.15}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Concurrent developments: Logic and Computing}{39}{subsection*.16}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{The Second Revolution: Cognitive Science}{40}{subsection*.17}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Further Resources}{42}{subsection*.18}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {2.3}Brief History of the Study of Homosexuality in America}{43}{section.2.3}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{The Kinsey Report}{45}{subsection*.19}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Early `Homophile' movements}{46}{subsection*.20}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Connecting these threads: Evelyn Hooker}{46}{subsection*.21}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Stonewall: The street activists}{47}{subsection*.22}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Further Resources}{48}{subsection*.23}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {2.4}Brief History of Linguistics}{48}{section.2.4}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {2.5}History of classifications of mental illness}{49}{section.2.5}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Foundations}{50}{subsection*.24}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Foundation in Empiricism: Phillipe Pinel}{50}{subsubsection*.25}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Mental Alienation - Esquirol}{52}{subsubsection*.26}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Early Neurology}{56}{subsection*.27}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{American Nervousness --- George Beard}{56}{subsubsection*.28}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Early Neurology --- Charcot}{59}{subsubsection*.29}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Rise of Psychoanalysis}{61}{subsection*.30}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Hysteria and Hypnosis: Freud \& Breuer on Anna O.}{61}{subsubsection*.31}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Freud: The foundation of psychoanalysis}{63}{subsubsection*.32}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{The Clark Lectures}{65}{subsubsection*.33}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Classification of Mental Illness, 1918--1952}{66}{subsection*.34}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{The Rise of Psychopharmacology}{74}{subsection*.35}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {2.6}Setting the stage for 1971}{75}{section.2.6}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{References:}{76}{subsection*.36}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {chapter}{\numberline {3}Game Play}{79}{chapter.3}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {3.1}Major Issues in the Game}{79}{section.3.1}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{The Central issues}{80}{subsection*.37}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {3.2}Basic game play}{81}{section.3.2}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {3.3}Basic Principles}{82}{section.3.3}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Reputation \& Replication}{82}{subsection*.38}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Credibility Points}{83}{subsection*.39}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{The Responsibilities of the President}{84}{subsection*.40}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {3.4}Victory Objectives}{84}{section.3.4}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Credibility Points and Voting}{85}{subsection*.41}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {3.5}Special Rules}{85}{section.3.5}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Writing Tasks}{85}{subsection*.42}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Proposals}{86}{subsection*.43}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Papers and Symposia}{86}{subsection*.44}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Research Grants}{87}{subsection*.45}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Reading aloud}{87}{subsection*.46}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {3.6}Definitions used by the APA}{87}{section.3.6}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Definition of ``psychologist''}{87}{subsection*.47}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Definition of ``psychology''}{88}{subsection*.48}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Definition of ``psychiatrist''}{88}{subsection*.49}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Call for Papers and Symposia}{89}{subsection*.50}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Introduction}{89}{subsubsection*.51}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Kinds of Programs and Sessions}{89}{subsubsection*.52}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Who may participate}{89}{subsubsection*.53}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Volunteered Papers}{89}{paragraph*.54}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{A nonmember of the APA}{89}{paragraph*.55}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Symposia and invited addresses}{89}{paragraph*.56}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Limits of Individual Participation}{89}{subsubsection*.57}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Individual Reports}{89}{subsubsection*.58}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Research Reports}{89}{paragraph*.59}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Other individual reports}{89}{paragraph*.60}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Form of abstracts and summaries}{89}{paragraph*.61}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Where to send abstracts and summaries}{89}{paragraph*.62}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Symposia}{89}{subsubsection*.63}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Initiation of symposia}{89}{paragraph*.64}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Form of symposium proposals}{89}{paragraph*.65}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Special Programs}{89}{subsubsection*.66}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Miscellaneous Meetings and Special Sessions}{89}{subsubsection*.67}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Audio-Visual Presentations}{89}{subsubsection*.68}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Exhibits}{89}{subsubsection*.69}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Call for Research Grants}{91}{subsection*.70}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Introduction}{91}{subsubsection*.71}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Research Supported}{91}{subsubsection*.72}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Who May Submit Proposals}{91}{subsubsection*.73}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Members of the APA}{91}{paragraph*.74}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Nonmembers of the APA}{91}{paragraph*.75}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Confederates, Observers and Assistants}{91}{paragraph*.76}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Limitations of Participation}{91}{subsubsection*.77}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Form of the Proposal}{91}{subsubsection*.78}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Introduction}{91}{paragraph*.79}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Background /\penalty \exhyphenpenalty Review}{91}{paragraph*.80}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Rationale}{91}{paragraph*.81}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Method and Design}{91}{paragraph*.82}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Significance and Contribution}{91}{paragraph*.83}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{References}{91}{paragraph*.84}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {paragraph}{Where to send your proposal}{91}{paragraph*.85}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsubsection}{Reports}{91}{subsubsection*.86}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {3.7}Role of the gamemaster}{92}{section.3.7}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {3.8}Outline of Game Sessions}{92}{section.3.8}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {3.9}Committee structure}{93}{section.3.9}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Board of Directors:}{94}{subsection*.87}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Research Committee}{96}{subsection*.88}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Nomenclature Committee}{97}{subsection*.89}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {subsection}{Program Committee}{98}{subsection*.90}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {section}{\numberline {3.10}Elections}{100}{section.3.10}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {chapter}{\numberline {4}Roles and Factions}{101}{chapter.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Psychoanalysts}{101}{section.4.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Classical}{101}{subsection*.91}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Psychoanalytic Treatment}{106}{subsubsection*.92}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Jung}{108}{subsubsection*.93}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{For Further reading:}{110}{subsection*.94}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Primary Sources:}{110}{subsubsection*.95}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Secondary Sources:}{110}{subsubsection*.96}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Behaviorists}{110}{section.4.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Learning}{112}{subsection*.97}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Behaviorism as a treatment in psychiatry}{113}{subsubsection*.98}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Further Reading:}{114}{subsection*.99}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Primary Sources:}{114}{subsubsection*.100}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Secondary Sources:}{114}{subsubsection*.101}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Cognitivists}{114}{section.4.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Further Reading}{115}{subsection*.102}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Primary Sources:}{115}{subsubsection*.103}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Secondary Sources:}{115}{subsubsection*.104}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Brief Sketch of the Game Characters}{116}{section.4.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Psychoanalysts}{116}{subsection*.105}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Richard Green, MD Professor of Psychology, UCLA*}{116}{subsubsection*.106}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Robert Hopcke Psychotherapist, San Francisco, CA (Jungian)*}{116}{subsubsection*.107}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Harold Lief, MD Professor of Psychiatry at the University of Pennsylvania (Jungian)*}{116}{subsubsection*.108}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Judd Marmor, MD Psychiatrist, Hollywood, CA (Freudian)}{116}{subsubsection*.109}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Charles W. Socarides, MD Professor of Psychiatry, Columbia University and/\penalty \exhyphenpenalty or Irving Bieber, MD Professor of Psychiatry, NYU Medical College (Freudian)}{117}{subsubsection*.110}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{John P. Spiegel, MD Director, Lemberg Center for the Study of Violence, Brandeis University}{117}{subsubsection*.111}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Behaviorists}{117}{subsection*.112}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Albert Bandura, PhD Professor of Psychology, Stanford}{117}{subsubsection*.113}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Harry Harlow, PhD Professor of Psychology, University of Wisconsin}{118}{subsubsection*.114}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Evelyn Hooker, PhD Emeritus Professor of Psychology, UCLA}{118}{subsubsection*.115}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Cognitivists}{119}{subsection*.116}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Noam Chomsky, PhD Professor of Linguistics, MIT}{119}{subsubsection*.117}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{George Miller, PhD Professor of Psychology, Harvard}{119}{subsubsection*.118}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{David Marr, ABD Graduate Student, MIT*}{119}{subsubsection*.119}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Independents}{120}{subsection*.120}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{George W. Albee, PhD Professor of Psychology, University of Vermont (Psychologist)}{120}{subsubsection*.121}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Anne Anastasi, PhD Professor of Psychology, Fordham University (Psychologist)}{120}{subsubsection*.122}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Kenneth Clark, PhD Professor of Psychology, CCNY (psychologist)}{120}{subsubsection*.123}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{D Fordney-Settlage, MD Assistant Professor, Obstetrics and Gynecology Division of Reproductive Biology at the Los Angeles County-USC Medical Center., (gynecologist)*}{121}{subsubsection*.124}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{John Fryer, MD Professor of Psychiatry, Temple University (psychiatrist)}{121}{subsubsection*.125}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Paul Gebhard, PhD Director of the Kinsey Institute, Professor of Anthropology, Indiana University (Anthropologist)}{121}{subsubsection*.126}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Ron Gold Journalist for Variety (Journalist)*}{122}{subsubsection*.127}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Frank Kameny and/\penalty \exhyphenpenalty or Barbara Gittings (Activists)*}{122}{subsubsection*.128}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Stanley Milgram, PhD Director, Graduate Program in Social Psychology, CUNY (Social psychologist)*}{122}{subsubsection*.129}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Jean Piaget, PhD Director of the International Center for Genetic Epistemology in Geneva, Switzerland (Developmental psychologist)*}{122}{subsubsection*.130}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Robert Spitzer, MD Researcher at Columbia Center for Psychoanalytic Training and Research (Psychiatrist)}{123}{subsubsection*.131}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Thomas Szasz, MD Professor of Psychiatry, State Hospital of New York at Syracuse (Psychiatrist)}{123}{subsubsection*.132}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Leona Tyler, PhD Emeritus Dean and Professor of Psychology, University of Oregon, (Psychologist)}{124}{subsubsection*.133}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Philip Zimbardo, PhD Professor of Social Psychology at Stanford (Social psychologist)*}{124}{subsubsection*.134}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Basic scientific research}{124}{subsection*.135}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{The original ideal: Newton's experimentum crucis}{126}{subsubsection*.136}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Observation research}{130}{subsection*.137}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Margaret Mead}{130}{subsubsection*.138}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Roger Brown}{131}{subsubsection*.139}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Ethics of human research}{146}{subsection*.140}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{The Nuremberg Code}{146}{subsubsection*.141}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{The Declaration of Helsinki}{148}{subsubsection*.142}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{The APA Ethical Standards for Psychologists}{150}{subsubsection*.143}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Further reading:}{152}{subsubsection*.144}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {4.1}Main Factions}{101}{section.4.1}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{Psychoanalysts}{101}{subsection*.91}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Classical}{101}{subsubsection*.92}
+\defcounter {refsection}{1}\relax 
+\contentsline {paragraph}{Psychoanalytic Treatment}{106}{paragraph*.93}
+\defcounter {refsection}{1}\relax 
+\contentsline {paragraph}{Jung}{108}{paragraph*.94}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{For Further reading:}{110}{subsubsection*.95}
+\defcounter {refsection}{1}\relax 
+\contentsline {paragraph}{Primary Sources:}{110}{paragraph*.96}
+\defcounter {refsection}{1}\relax 
+\contentsline {paragraph}{Secondary Sources:}{110}{paragraph*.97}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{Behaviorists}{110}{subsection*.98}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Learning}{112}{subsubsection*.99}
+\defcounter {refsection}{1}\relax 
+\contentsline {paragraph}{Behaviorism as a treatment in psychiatry}{113}{paragraph*.100}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Further Reading:}{113}{subsubsection*.101}
+\defcounter {refsection}{1}\relax 
+\contentsline {paragraph}{Primary Sources:}{113}{paragraph*.102}
+\defcounter {refsection}{1}\relax 
+\contentsline {paragraph}{Secondary Sources:}{114}{paragraph*.103}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{Cognitivists}{114}{subsection*.104}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Further Reading}{115}{subsubsection*.105}
+\defcounter {refsection}{1}\relax 
+\contentsline {paragraph}{Primary Sources:}{115}{paragraph*.106}
+\defcounter {refsection}{1}\relax 
+\contentsline {paragraph}{Secondary Sources:}{115}{paragraph*.107}
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {4.2}Brief Sketch of the Game Characters}{115}{section.4.2}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{Psychoanalysts}{115}{subsection*.108}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Richard Green, MD Professor of Psychology, UCLA*}{115}{subsubsection*.109}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Robert Hopcke Psychotherapist, San Francisco, CA (Jungian)*}{116}{subsubsection*.110}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Harold Lief, MD Professor of Psychiatry at the University of Pennsylvania (Jungian)*}{116}{subsubsection*.111}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Judd Marmor, MD Psychiatrist, Hollywood, CA (Freudian)}{116}{subsubsection*.112}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Charles W. Socarides, MD Professor of Psychiatry, Columbia University and/\penalty \exhyphenpenalty or Irving Bieber, MD Professor of Psychiatry, NYU Medical College (Freudian)}{117}{subsubsection*.113}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{John P. Spiegel, MD Director, Lemberg Center for the Study of Violence, Brandeis University}{117}{subsubsection*.114}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{Behaviorists}{117}{subsection*.115}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Albert Bandura, PhD Professor of Psychology, Stanford}{117}{subsubsection*.116}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Harry Harlow, PhD Professor of Psychology, University of Wisconsin}{118}{subsubsection*.117}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Evelyn Hooker, PhD Emeritus Professor of Psychology, UCLA}{118}{subsubsection*.118}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{Cognitivists}{119}{subsection*.119}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Noam Chomsky, PhD Professor of Linguistics, MIT}{119}{subsubsection*.120}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{George Miller, PhD Professor of Psychology, Harvard}{119}{subsubsection*.121}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{David Marr, ABD Graduate Student, MIT*}{119}{subsubsection*.122}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{Independents}{119}{subsection*.123}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{George W. Albee, PhD Professor of Psychology, University of Vermont (Psychologist)}{119}{subsubsection*.124}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Anne Anastasi, PhD Professor of Psychology, Fordham University (Psychologist)}{120}{subsubsection*.125}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Kenneth Clark, PhD Professor of Psychology, CCNY (psychologist)}{120}{subsubsection*.126}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{D Fordney-Settlage, MD Assistant Professor, Obstetrics and Gynecology Division of Reproductive Biology at the Los Angeles County-USC Medical Center., (gynecologist)*}{121}{subsubsection*.127}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{John Fryer, MD Professor of Psychiatry, Temple University (psychiatrist)}{121}{subsubsection*.128}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Paul Gebhard, PhD Director of the Kinsey Institute, Professor of Anthropology, Indiana University (Anthropologist)}{121}{subsubsection*.129}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Ron Gold Journalist for Variety (Journalist)*}{122}{subsubsection*.130}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Frank Kameny and/\penalty \exhyphenpenalty or Barbara Gittings (Activists)*}{122}{subsubsection*.131}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Stanley Milgram, PhD Director, Graduate Program in Social Psychology, CUNY (Social psychologist)*}{122}{subsubsection*.132}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Jean Piaget, PhD Director of the International Center for Genetic Epistemology in Geneva, Switzerland (Developmental psychologist)*}{122}{subsubsection*.133}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Robert Spitzer, MD Researcher at Columbia Center for Psychoanalytic Training and Research (Psychiatrist)}{123}{subsubsection*.134}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Thomas Szasz, MD Professor of Psychiatry, State Hospital of New York at Syracuse (Psychiatrist)}{123}{subsubsection*.135}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Leona Tyler, PhD Emeritus Dean and Professor of Psychology, University of Oregon, (Psychologist)}{124}{subsubsection*.136}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Philip Zimbardo, PhD Professor of Social Psychology at Stanford (Social psychologist)*}{124}{subsubsection*.137}
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {4.3}Things you should know}{124}{section.4.3}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{Basic scientific research}{124}{subsection*.138}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{The original ideal: Newton's experimentum crucis}{126}{subsubsection*.139}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{Observation research}{131}{subsection*.140}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Margaret Mead}{131}{subsubsection*.141}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Roger Brown}{132}{subsubsection*.142}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{Ethics of human research}{147}{subsection*.143}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{The Nuremberg Code}{148}{subsubsection*.144}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{The Declaration of Helsinki}{149}{subsubsection*.145}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{The APA Ethical Standards for Psychologists}{151}{subsubsection*.146}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsubsection}{Further reading:}{154}{subsubsection*.147}
+\defcounter {refsection}{1}\relax 
 \contentsline {chapter}{\numberline {5}Core Texts}{155}{chapter.5}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{1}\relax 
 \contentsline {chapter}{\numberline {6}Works Cited}{157}{chapter.6}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {}Appendicies}{159}{chapter.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A}Pinel, Philippe. ``A Treatise on Insanity'', 1806}{159}{section.1..1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B}Psychopathia sexualis}{162}{section.1..2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Excerpt 1}{162}{subsection*.145}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Excerpt 2}{335}{subsection*.146}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Excerpt 3}{339}{subsection*.147}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {C}Freud, Sigmund ``The psychogenesis of a case of homosexuality in a woman'' (1920)}{342}{section.1..3}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {D}Skinner, B. F. ``A Critique of Psychoanalytic Concepts and Theories'' 1954}{358}{section.1..4}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {E}Chomsky, N. ``Review of \emph {Verbal Behaviour} by B.F. Skinner'' 1959}{365}{section.1..5}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {F}APA ``Ethical Standards of Psychologists'' 1968}{400}{section.1..6}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {G}APA \emph {Diagnostic and Statistical Manual} Mental Disorders, 1952}{406}{section.1..7}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {H}APA \emph {Diagnostic and Statistical Manual II}, 1968}{552}{section.1..8}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {I}Socarides, S. ``Homosexuality and Medicine'', 1968}{573}{section.1..9}
+\defcounter {refsection}{1}\relax 
+\contentsline {chapter}{Appendicies}{161}{chapter*.148}
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {A}Pinel, Philippe. ``A Treatise on Insanity'', 1806}{161}{section.1..1}
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {B}Psychopathia sexualis}{164}{section.1..2}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{Excerpt 1}{164}{subsection*.149}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{Excerpt 2}{337}{subsection*.150}
+\defcounter {refsection}{1}\relax 
+\contentsline {subsection}{Excerpt 3}{341}{subsection*.151}
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {C}Freud, Sigmund ``The psychogenesis of a case of homosexuality in a woman'' (1920)}{344}{section.1..3}
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {D}Skinner, B. F. ``A Critique of Psychoanalytic Concepts and Theories'' 1954}{360}{section.1..4}
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {E}Chomsky, N. ``Review of \emph {Verbal Behaviour} by B.F. Skinner'' 1959}{367}{section.1..5}
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {F}APA ``Ethical Standards of Psychologists'' 1968}{402}{section.1..6}
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {G}APA \emph {Diagnostic and Statistical Manual} Mental Disorders, 1952}{408}{section.1..7}
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {H}APA \emph {Diagnostic and Statistical Manual II}, 1968}{554}{section.1..8}
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {I}Socarides, S. ``Homosexuality and Medicine'', 1968}{575}{section.1..9}
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{II\hspace {1em}Instructor's Manual:}{1}{part.2}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{11}{chapter.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Major Events}{12}{subsection*.151}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Learning Objectives}{15}{subsection*.152}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Major Events}{12}{subsection*.155}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Learning Objectives}{15}{subsection*.156}
+\defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {1}Textbooks: A}{16}{section.1.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Key Concepts at Stake}{16}{subsection*.153}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Key Concepts at Stake}{16}{subsection*.157}
+\defcounter {refsection}{2}\relax 
 \contentsline {chapter}{\numberline {2}Model Schedules}{17}{chapter.2}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {1}Standard Schedule}{17}{section.2.1}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {2}Expanded Schedule}{18}{section.2.2}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {3}Compressed Schedule}{18}{section.2.3}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {4}Long Class meetings}{18}{section.2.4}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
 \contentsline {chapter}{\numberline {3}Roles and Factions}{19}{chapter.3}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {1}List of roles and factions}{19}{section.3.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Factions}{19}{subsection*.154}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Players}{20}{subsection*.155}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Cast of 16}{20}{subsubsection*.156}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Cast of 20}{21}{subsubsection*.157}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Cast of 27}{21}{subsubsection*.158}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Factions}{19}{subsection*.158}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Players}{20}{subsection*.159}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Cast of 16}{20}{subsubsection*.160}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Cast of 20}{21}{subsubsection*.161}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Cast of 27}{21}{subsubsection*.162}
+\defcounter {refsection}{2}\relax 
 \contentsline {chapter}{\numberline {4}Game Setup}{23}{chapter.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Victory Objectives}{24}{subsection*.159}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Possible Mod: DSMIV compromise}{25}{subsubsection*.160}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Possible Mod: Voting}{26}{subsection*.161}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{DSMIII}{26}{subsection*.162}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Writing}{26}{subsection*.163}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Speaking}{26}{subsection*.164}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Victory Objectives}{24}{subsection*.163}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Possible Mod: DSMIV compromise}{25}{subsubsection*.164}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Possible Mod: Voting}{26}{subsection*.165}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{DSMIII}{26}{subsection*.166}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Writing}{26}{subsection*.167}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Speaking}{26}{subsection*.168}
+\defcounter {refsection}{2}\relax 
 \contentsline {chapter}{\numberline {5}Game Management}{27}{chapter.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{1971}{27}{subsection*.165}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{1972}{29}{subsection*.166}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{1973}{30}{subsection*.167}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{1974}{31}{subsection*.168}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{1975}{32}{subsection*.169}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Other topics that may come up according to game play}{33}{subsection*.170}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Leona Tyler Principle (L Tyler, when president):}{33}{subsubsection*.171}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Hospital Privileges for Psychologists}{33}{subsubsection*.172}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Affirmative Action}{33}{subsubsection*.173}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Optional}{34}{subsubsection*.174}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{1971}{27}{subsection*.169}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{1972}{29}{subsection*.170}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{1973}{30}{subsection*.171}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{1974}{31}{subsection*.172}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{1975}{32}{subsection*.173}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Other topics that may come up according to game play}{33}{subsection*.174}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Leona Tyler Principle (L Tyler, when president):}{33}{subsubsection*.175}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Hospital Privileges for Psychologists}{33}{subsubsection*.176}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Affirmative Action}{33}{subsubsection*.177}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Optional}{34}{subsubsection*.178}
+\defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {1}Learning Objectives}{34}{section.5.1}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {2}Items you might need}{34}{section.5.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Labs /\penalty \exhyphenpenalty possible research proposals}{34}{subsection*.175}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Conference Schedule for 1971}{36}{subsection*.176}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Emotional responses in a human child.}{38}{subsection*.177}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Background:}{38}{subsubsection*.178}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Rationale:}{38}{subsubsection*.179}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Experimental Design:}{38}{subsubsection*.180}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Significance and Contribution}{39}{subsubsection*.181}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{References}{39}{subsubsection*.182}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Mental rotation of three-dimensional objects}{40}{subsection*.183}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Background:}{40}{subsubsection*.184}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Rationale:}{40}{subsubsection*.185}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Experimental Design:}{40}{subsubsection*.186}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Significance and Contribution}{40}{subsubsection*.187}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{On Being Sane in Insane Places}{41}{subsection*.188}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Background}{41}{subsubsection*.189}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Rationale}{41}{subsubsection*.190}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Experimental Design}{41}{subsubsection*.191}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Significance and Contributions}{41}{subsubsection*.192}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Works Cited}{42}{subsubsection*.193}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Adjustment of Homosexual and Heterosexual Women}{43}{subsection*.194}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Rationale}{43}{subsubsection*.195}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Experimental Design}{43}{subsubsection*.196}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Significance and Contribution}{44}{subsubsection*.197}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Works Cited.}{44}{subsubsection*.198}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{A Re-analysis of the Reliability of Psychiatric Diagnosis}{45}{subsection*.199}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Introduction}{45}{subsubsection*.200}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Background}{45}{subsubsection*.201}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Rationale}{45}{subsubsection*.202}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Experimental Design}{45}{subsubsection*.203}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Significance and Contributions}{46}{subsubsection*.204}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Works Cited}{46}{subsubsection*.205}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Interpersonal Dynamics in a Simulated Prison}{47}{subsection*.206}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Background}{47}{subsubsection*.207}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Rationale}{47}{subsubsection*.208}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Experimental Design}{48}{subsubsection*.209}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Significance and Contributions}{48}{subsubsection*.210}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Works Cited}{49}{subsubsection*.211}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Small World}{50}{subsection*.212}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Background}{50}{subsubsection*.213}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Rationale}{50}{subsubsection*.214}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Experimental Design}{50}{subsubsection*.215}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Significance and Contributions}{50}{subsubsection*.216}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Works Cited}{50}{subsubsection*.217}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Labs /\penalty \exhyphenpenalty possible research proposals}{34}{subsection*.179}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Conference Schedule for 1971}{36}{subsection*.180}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Emotional responses in a human child.}{38}{subsection*.181}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Background:}{38}{subsubsection*.182}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Rationale:}{38}{subsubsection*.183}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Experimental Design:}{38}{subsubsection*.184}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Significance and Contribution}{39}{subsubsection*.185}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{References}{39}{subsubsection*.186}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Mental rotation of three-dimensional objects}{40}{subsection*.187}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Background:}{40}{subsubsection*.188}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Rationale:}{40}{subsubsection*.189}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Experimental Design:}{40}{subsubsection*.190}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Significance and Contribution}{40}{subsubsection*.191}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{On Being Sane in Insane Places}{41}{subsection*.192}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Background}{41}{subsubsection*.193}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Rationale}{41}{subsubsection*.194}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Experimental Design}{41}{subsubsection*.195}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Significance and Contributions}{41}{subsubsection*.196}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Works Cited}{42}{subsubsection*.197}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Adjustment of Homosexual and Heterosexual Women}{43}{subsection*.198}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Rationale}{43}{subsubsection*.199}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Experimental Design}{43}{subsubsection*.200}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Significance and Contribution}{44}{subsubsection*.201}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Works Cited.}{44}{subsubsection*.202}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{A Re-analysis of the Reliability of Psychiatric Diagnosis}{45}{subsection*.203}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Introduction}{45}{subsubsection*.204}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Background}{45}{subsubsection*.205}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Rationale}{45}{subsubsection*.206}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Experimental Design}{45}{subsubsection*.207}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Significance and Contributions}{46}{subsubsection*.208}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Works Cited}{46}{subsubsection*.209}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Interpersonal Dynamics in a Simulated Prison}{47}{subsection*.210}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Background}{47}{subsubsection*.211}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Rationale}{47}{subsubsection*.212}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Experimental Design}{48}{subsubsection*.213}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Significance and Contributions}{48}{subsubsection*.214}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Works Cited}{49}{subsubsection*.215}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Small World}{50}{subsection*.216}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Background}{50}{subsubsection*.217}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Rationale}{50}{subsubsection*.218}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Experimental Design}{50}{subsubsection*.219}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Significance and Contributions}{50}{subsubsection*.220}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Works Cited}{50}{subsubsection*.221}
+\defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {3}Overview of events and assignments in the game}{50}{section.5.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Overview of elections, by year}{59}{subsubsection*.218}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Overview of elections, by year}{59}{subsubsection*.222}
+\defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {4}Managing Discussion}{61}{section.5.4}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {5}Interventions}{61}{section.5.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Poor Presidential tone}{61}{subsection*.219}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Not grasping importance of DSMIII}{61}{subsection*.220}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Failed Research cycle}{61}{subsection*.221}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Poor Presidential tone}{61}{subsection*.223}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Not grasping importance of DSMIII}{61}{subsection*.224}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Failed Research cycle}{61}{subsection*.225}
+\defcounter {refsection}{2}\relax 
 \contentsline {chapter}{\numberline {6}Exiting the game}{63}{chapter.6}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Actual presidents (Psychological association):}{63}{subsection*.222}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Actual history}{63}{subsection*.223}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Little Albert}{63}{subsubsection*.224}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Socarides \& Bieber}{64}{subsubsection*.225}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Leona Tyler Principle /\penalty \exhyphenpenalty Goldwater Rule}{65}{subsubsection*.226}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Marr}{66}{subsubsection*.227}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Declassification}{66}{subsubsection*.228}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Spitzer Task force}{67}{subsubsection*.229}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Averson Therapy}{67}{subsubsection*.230}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Reparative therapy}{68}{subsubsection*.231}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Evelyn Hooker}{68}{subsubsection*.232}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Actual presidents (Psychological association):}{63}{subsection*.226}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Actual history}{63}{subsection*.227}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Little Albert}{63}{subsubsection*.228}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Socarides \& Bieber}{64}{subsubsection*.229}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Leona Tyler Principle /\penalty \exhyphenpenalty Goldwater Rule}{65}{subsubsection*.230}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Marr}{66}{subsubsection*.231}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Declassification}{66}{subsubsection*.232}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Spitzer Task force}{67}{subsubsection*.233}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Averson Therapy}{67}{subsubsection*.234}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Reparative therapy}{68}{subsubsection*.235}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Evelyn Hooker}{68}{subsubsection*.236}
+\defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {1}After this era}{69}{section.6.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{The DSM-V Controversy}{69}{subsection*.233}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Spitzer 2003 Controversy}{70}{subsubsection*.234}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Further Reading}{71}{chapter.7}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}DSM-III}{71}{section.7.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Obituaries and Tributes}{72}{section.7.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Anne Anastasi}{72}{subsection*.235}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{George Albee}{72}{subsection*.236}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Irving Bieber}{72}{subsection*.237}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Kenneth Clark}{73}{subsection*.238}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{John Fryer}{73}{subsection*.239}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Barbara Gittings}{73}{subsection*.240}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Harry Harlow}{73}{subsection*.241}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Harold Lief}{73}{subsection*.242}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Charles Socarides}{73}{subsection*.243}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{John P. Spiegel}{74}{subsection*.244}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Citations not explicitly mentioned previously}{74}{section.7.3}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{The DSM-V Controversy}{69}{subsection*.237}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsubsection}{Spitzer 2003 Controversy}{70}{subsubsection*.238}
+\defcounter {refsection}{2}\relax 
+\contentsline {chapter}{\numberline {}Appendicies}{71}{chapter.1}
+\defcounter {refsection}{2}\relax 
+\contentsline {chapter}{\numberline {A}Further Reading}{73}{Appendix.2.A}
+\defcounter {refsection}{2}\relax 
+\contentsline {section}{\numberline {A}DSM-III}{73}{section.2.A.1}
+\defcounter {refsection}{2}\relax 
+\contentsline {section}{\numberline {B}Obituaries and Tributes}{74}{section.2.A.2}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Anne Anastasi}{74}{subsection*.239}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{George Albee}{74}{subsection*.240}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Irving Bieber}{74}{subsection*.241}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Kenneth Clark}{74}{subsection*.242}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{John Fryer}{75}{subsection*.243}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Barbara Gittings}{75}{subsection*.244}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Harry Harlow}{75}{subsection*.245}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Harold Lief}{75}{subsection*.246}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{Charles Socarides}{75}{subsection*.247}
+\defcounter {refsection}{2}\relax 
+\contentsline {subsection}{John P. Spiegel}{75}{subsection*.248}
+\defcounter {refsection}{2}\relax 
+\contentsline {section}{\numberline {C}Citations not explicitly mentioned previously}{76}{section.2.A.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {part}{III\hspace {1em}Role Sheets}{7}{part.3}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {1}George W. Albee, PhD}{9}{chapter.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Your Biography}{9}{section.1.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Game Objectives}{10}{section.1.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Specific Assignment}{11}{subsection*.248}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Game Note:}{11}{section.1.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Must Read:}{11}{section.1.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Other Relevant Work:}{11}{subsection*.249}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {1.1}Your Biography}{9}{section.1.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {1.2}Game Objectives}{10}{section.1.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Specific Assignment}{11}{subsection*.252}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {1.3}Game Note:}{11}{section.1.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {1.4}Must Read:}{11}{section.1.4}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Other Relevant Work:}{11}{subsection*.253}
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {2}Anne Anastasi, PhD}{13}{chapter.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Your Biography}{13}{section.2.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Game Objectives}{15}{section.2.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Specific Assignments}{15}{subsection*.250}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Must Read}{17}{section.2.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Secondary Sources}{17}{subsection*.251}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {2.1}Your Biography}{13}{section.2.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {2.2}Game Objectives}{15}{section.2.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Specific Assignments}{15}{subsection*.254}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {2.3}Must Read}{17}{section.2.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Secondary Sources}{17}{subsection*.255}
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {3}Kenneth Clark, PhD}{19}{chapter.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Your Biography}{19}{section.3.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Game Objectives}{21}{section.3.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Specific Assignments}{21}{subsection*.252}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Must Read}{22}{section.3.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Further Reading}{22}{subsection*.253}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {3.1}Your Biography}{19}{section.3.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {3.2}Game Objectives}{21}{section.3.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Specific Assignments}{21}{subsection*.256}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {3.3}Must Read}{22}{section.3.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Further Reading}{22}{subsection*.257}
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {4}D. Fordney Settlage, MD}{23}{chapter.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Your Biography}{23}{section.4.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Game Objectives}{24}{section.4.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Specific Assignments}{24}{subsection*.254}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Must Read}{25}{section.4.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Secondary Sources}{25}{subsection*.255}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {4.1}Your Biography}{23}{section.4.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {4.2}Game Objectives}{24}{section.4.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Specific Assignments}{24}{subsection*.258}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {4.3}Must Read}{25}{section.4.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Secondary Sources}{25}{subsection*.259}
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {5}John Fryer, MD}{27}{chapter.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Biography}{27}{section.5.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Game Objectives}{27}{section.5.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Must Read}{28}{section.5.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Secondary Sources}{30}{subsection*.256}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {5.1}Biography}{27}{section.5.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {5.2}Game Objectives}{27}{section.5.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {5.3}Must Read}{28}{section.5.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Secondary Sources}{30}{subsection*.260}
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {6}Frank Kameny and/\penalty \exhyphenpenalty or Barbara Gittings, Activists}{31}{chapter.6}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Frank Kameny Biography}{31}{section.6.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Game Objectives}{33}{section.6.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Specific Assignments}{34}{subsection*.257}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Must Read}{35}{section.6.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Secondary Sources}{35}{subsection*.258}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {6.1}Frank Kameny Biography}{31}{section.6.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {6.2}Game Objectives}{33}{section.6.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Specific Assignments}{34}{subsection*.261}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {6.3}Must Read}{35}{section.6.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Secondary Sources}{35}{subsection*.262}
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {7}Frank Kameny and/\penalty \exhyphenpenalty or Barbara Gittings, Activists}{37}{chapter.7}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Barbara Gittings Biography}{37}{section.7.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Barbara Gittings Biography}{38}{section.7.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Specific Assignments}{39}{subsection*.259}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Must Read}{39}{section.7.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Secondary Sources}{40}{subsection*.260}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {7.1}Barbara Gittings Biography}{37}{section.7.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {7.2}Barbara Gittings Biography}{38}{section.7.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Specific Assignments}{39}{subsection*.263}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {7.3}Must Read}{39}{section.7.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Secondary Sources}{40}{subsection*.264}
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {8}Stanley Milgram, PhD}{41}{chapter.8}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Your Biography}{41}{section.8.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Game Objectives}{42}{section.8.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Specific Assignments}{42}{subsection*.261}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Must Read}{43}{section.8.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Secondary Sources}{43}{subsection*.262}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {8.1}Your Biography}{41}{section.8.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {8.2}Game Objectives}{42}{section.8.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Specific Assignments}{42}{subsection*.265}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {8.3}Must Read}{43}{section.8.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Secondary Sources}{43}{subsection*.266}
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {9}Jean Piaget, PhD}{45}{chapter.9}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Your Biography}{45}{section.9.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Game Objectives}{46}{section.9.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Must Read}{47}{section.9.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Secondary Source}{47}{subsection*.263}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {9.1}Your Biography}{45}{section.9.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {9.2}Game Objectives}{46}{section.9.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {9.3}Must Read}{47}{section.9.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Secondary Source}{47}{subsection*.267}
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {10}Leona Tyler, PhD}{49}{chapter.10}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Your Biography}{49}{section.10.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Game Objectives}{50}{section.10.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Specific Assignments}{52}{subsection*.264}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Must Read}{52}{section.10.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Secondary Sources}{52}{subsection*.265}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {10.1}Your Biography}{49}{section.10.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {10.2}Game Objectives}{50}{section.10.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Specific Assignments}{52}{subsection*.268}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {10.3}Must Read}{52}{section.10.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Secondary Sources}{52}{subsection*.269}
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {11}Robert Spitzer, MD}{53}{chapter.11}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Your Biography}{53}{section.11.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Game Objectives}{55}{section.11.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Declassification: 1971--1973}{55}{subsection*.266}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Task Force: 1973--1975}{58}{subsection*.267}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Proposed Study}{58}{subsubsection*.268}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Defining `Mental Illness'}{59}{subsubsection*.269}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Summary}{61}{subsubsection*.270}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Specific Assignments:}{61}{subsection*.271}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Must Read}{62}{section.11.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Secondary Sources}{62}{subsection*.272}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {11.1}Your Biography}{53}{section.11.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {11.2}Game Objectives}{55}{section.11.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Declassification: 1971--1973}{55}{subsection*.270}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Task Force: 1973--1975}{58}{subsection*.271}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsubsection}{Proposed Study}{58}{subsubsection*.272}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsubsection}{Defining `Mental Illness'}{59}{subsubsection*.273}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsubsection}{Summary}{61}{subsubsection*.274}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Specific Assignments:}{61}{subsection*.275}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {11.3}Must Read}{62}{section.11.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Secondary Sources}{62}{subsection*.276}
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {12}Thomas S. Szasz, MD}{63}{chapter.12}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Your Biography}{63}{section.12.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Victory Objectives}{66}{section.12.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Game Strategy}{66}{subsection*.273}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Specific Assignments}{67}{section.12.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Must Read}{68}{section.12.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Secondary Sources}{68}{subsection*.274}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {12.1}Your Biography}{63}{section.12.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {12.2}Victory Objectives}{66}{section.12.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Game Strategy}{66}{subsection*.277}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {12.3}Specific Assignments}{67}{section.12.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {12.4}Must Read}{68}{section.12.4}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Secondary Sources}{68}{subsection*.278}
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {13}Robert Hopcke, MD}{69}{chapter.13}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Your Biography}{69}{section.13.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Game Objectives}{70}{section.13.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Must Read}{70}{section.13.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Secondary Sources}{70}{subsection*.275}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {13.1}Your Biography}{69}{section.13.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {13.2}Game Objectives}{70}{section.13.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {13.3}Must Read}{70}{section.13.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Secondary Sources}{70}{subsection*.279}
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {14}Charles Socarides, MD}{71}{chapter.14}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Your Biography}{71}{section.14.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Charles Socarides' Biography}{71}{subsection*.276}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Irving Bieber's Biography}{71}{subsection*.277}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Your View}{72}{section.14.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Game Objectives}{74}{section.14.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Specific Assignments}{76}{subsection*.278}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Must Read}{76}{section.14.4}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {14.1}Your Biography}{71}{section.14.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Charles Socarides' Biography}{71}{subsection*.280}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Irving Bieber's Biography}{71}{subsection*.281}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {14.2}Your View}{72}{section.14.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {14.3}Game Objectives}{74}{section.14.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Specific Assignments}{76}{subsection*.282}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {14.4}Must Read}{76}{section.14.4}
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {15}Judd Marmor, MD}{79}{chapter.15}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Your Biography}{79}{section.15.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Game Objectives}{81}{section.15.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Specific assignments}{82}{section.15.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Must Read}{83}{section.15.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Secondary Sources}{83}{subsection*.279}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {15.1}Your Biography}{79}{section.15.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {15.2}Game Objectives}{81}{section.15.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {15.3}Specific assignments}{82}{section.15.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {15.4}Must Read}{83}{section.15.4}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Secondary Sources}{83}{subsection*.283}
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {16}Evelyn Hooker, PhD}{85}{chapter.16}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Your Biography}{85}{section.16.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Game Objectives}{91}{section.16.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Specific Assignments}{92}{subsection*.280}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Must Read}{93}{section.16.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Secondary Sources}{93}{subsection*.281}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {16.1}Your Biography}{85}{section.16.1}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {16.2}Game Objectives}{91}{section.16.2}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Specific Assignments}{92}{subsection*.284}
+\defcounter {refsection}{3}\relax 
+\contentsline {section}{\numberline {16.3}Must Read}{93}{section.16.3}
+\defcounter {refsection}{3}\relax 
+\contentsline {subsection}{Secondary Sources}{93}{subsection*.285}
 \contentsfinish 

@@ -1,0 +1,109 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \sortlist[entry]{nty/global/}
+    \entry{Newton:1671uw}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
+           family={Newton},
+           family_i={N\bibinitperiod},
+           given={Isaac},
+           given_i={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{1671}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophical Transactions}
+      \field{title}{{A Letter of Mr. Issac Newton, Professor of the Mathematicks in the University of Cambridge; Containing His New Theory about Light and Colors: Sent by the Author to the Publisher from Cambridge, Febr. 6 1671/72; In Order to be Communicated to the R. Society}}
+      \field{volume}{6}
+      \field{year}{1671}
+      \field{pages}{3075\bibrangedash 3087}
+      \range{pages}{13}
+    \endentry
+    \entry{Newton:1672tm}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
+           family={Newton},
+           family_i={N\bibinitperiod},
+           given={Isaac},
+           given_i={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{1672}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophical Transactions}
+      \field{title}{{A Serie's of Quere's Propounded by Mr. Isaac Newton, to be Determin'd by Experiments, Positively and Directly Concludion His New Theory of Light and Colours; and Here Recommended to the Industry of the Lovers of Experimental Philosophy, as they Were Generously Imparted to the Publisher in a Letter of Said Mr. Newtons of July 8.1672}}
+      \field{volume}{7}
+      \field{year}{1672}
+      \field{pages}{4004\bibrangedash 4007}
+      \range{pages}{4}
+    \endentry
+    \entry{Pitts:2007km}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2d1c36aea3c528652bbd7e93b00c9d1a}{%
+           family={Pitts},
+           family_i={P\bibinitperiod},
+           given={Michael\bibnamedelima A},
+           given_i={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=baf7fcf628af55637171a935486d4f7d}{%
+           family={Nerger},
+           family_i={N\bibinitperiod},
+           given={Janice\bibnamedelima L},
+           given_i={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=16650b1311f0a74497c7ae341084c376}{%
+           family={Davis},
+           family_i={D\bibinitperiod},
+           given={Trevor\bibnamedelimb J\bibnamedelima R},
+           given_i={T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{0cc51f19f623793780313425a1f2eeec}
+      \strng{fullhash}{0cc51f19f623793780313425a1f2eeec}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2007}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Vision}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{Electrophysiological correlates of perceptual reversals for three different types of multistable images}}
+      \field{volume}{7}
+      \field{year}{2007}
+      \field{pages}{6\bibrangedash 6}
+      \range{pages}{1}
+    \endentry
+  \endsortlist
+  \missing{Rao:2004ku}
+  \missing{Vedantam:2004tz}
+\endrefsection
+\endinput
+
