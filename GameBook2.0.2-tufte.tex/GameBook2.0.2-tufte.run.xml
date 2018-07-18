@@ -55,6 +55,7 @@
       <file>biblatex.def</file>
       <file>chicago-authordate.bbx</file>
       <file>chicago-authordate.cbx</file>
+      <file>chicago-dates-common.cbx</file>
       <file>biblatex.cfg</file>
       <file>english.lbx</file>
     </requires>

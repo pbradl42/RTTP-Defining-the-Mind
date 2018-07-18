@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.7 $
+% $ biblatex bbl format version 2.8 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -19,20 +19,201 @@
 
 \refsection{1}
   \sortlist[entry]{nty/global/}
+    \entry{Bacon:1620ui}{book}{}
+      \name{author}{3}{}{%
+        {{hash=c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}{%
+           family={Bacon},
+           familyi={B\bibinitperiod},
+           given={Francis},
+           giveni={F\bibinitperiod}}}%
+        {{hash=466a6855128d664303cfd25c0228cd3e}{%
+           family={Jardine},
+           familyi={J\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f031c88b247a04455467d3df0809d2c4}{%
+           family={Silverthorne},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{13c4880b55904cb408682aa058eb189f}
+      \strng{fullhash}{13c4880b55904cb408682aa058eb189f}
+      \strng{authornamehash}{13c4880b55904cb408682aa058eb189f}
+      \strng{authorfullhash}{13c4880b55904cb408682aa058eb189f}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{99023266Novum organum. EnglishFrancis Bacon ; edited by Lisa Jardine, Michael Silverthorne.24 cm.Includes bibliographical references and index.}
+      \field{title}{{The new organon}}
+      \field{year}{1620}
+    \endentry
+    \entry{Brown:1972to}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fd2441fc444a775b7c17f801434c0148}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{fd2441fc444a775b7c17f801434c0148}
+      \strng{fullhash}{fd2441fc444a775b7c17f801434c0148}
+      \strng{authornamehash}{fd2441fc444a775b7c17f801434c0148}
+      \strng{authorfullhash}{fd2441fc444a775b7c17f801434c0148}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Psycholinguistics : selected papers}}
+      \field{year}{1972}
+    \endentry
+    \entry{Brown:1968df}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fd2441fc444a775b7c17f801434c0148}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{fd2441fc444a775b7c17f801434c0148}
+      \strng{fullhash}{fd2441fc444a775b7c17f801434c0148}
+      \strng{authornamehash}{fd2441fc444a775b7c17f801434c0148}
+      \strng{authorfullhash}{fd2441fc444a775b7c17f801434c0148}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Verbal Learning and Verbal Behavior}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{{The development of Wh questions in child speech}}
+      \field{volume}{7}
+      \field{year}{1968}
+      \field{pages}{279\bibrangedash 290}
+      \range{pages}{12}
+    \endentry
+    \entry{Chomsky:1965uu}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8e69e2dec38581003537abdb261651d0}{%
+           family={Chomsky},
+           familyi={C\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge}%
+      }
+      \strng{namehash}{8e69e2dec38581003537abdb261651d0}
+      \strng{fullhash}{8e69e2dec38581003537abdb261651d0}
+      \strng{authornamehash}{8e69e2dec38581003537abdb261651d0}
+      \strng{authorfullhash}{8e69e2dec38581003537abdb261651d0}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{74012329illus. 23 cm.Bibliography: p. [115]-118.}
+      \field{title}{{Syntactic Structures. Aspects of the Theory of Syntax}}
+      \field{year}{1965}
+    \endentry
+    \entry{Cordaro:2016bv}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f347e8801483c21ad188359ab7bafc0a}{%
+           family={Cordaro},
+           familyi={C\bibinitperiod},
+           given={Lucian},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5929e02042c5329a5c825fea2e09ef18}{%
+           family={Ison},
+           familyi={I\bibinitperiod},
+           given={James\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0813b45ff04c4564ec8fe52f64b4ab6}
+      \strng{fullhash}{b0813b45ff04c4564ec8fe52f64b4ab6}
+      \strng{authornamehash}{b0813b45ff04c4564ec8fe52f64b4ab6}
+      \strng{authorfullhash}{b0813b45ff04c4564ec8fe52f64b4ab6}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Reports}
+      \field{month}{8}
+      \field{number}{3}
+      \field{title}{{Psychology of the Scientist: X. Observer Bias in Classical Conditioning of the Planarian}}
+      \field{volume}{13}
+      \field{year}{2016}
+      \field{pages}{787\bibrangedash 789}
+      \range{pages}{3}
+    \endentry
+    \entry{Ebbinghaus:1885ud}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5d7a6e7e0e82bcc144f01ac47862fe2f}{%
+           family={Ebbinghaus},
+           familyi={E\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
+      \strng{fullhash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
+      \strng{authornamehash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
+      \strng{authorfullhash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{A Contribution to Experimental Psychology}
+      \field{title}{{Memory}}
+      \field{year}{1885}
+    \endentry
+    \entry{Mead:1928uk}{book}{}
+      \name{author}{1}{}{%
+        {{hash=589234b646aade5b7c73475a563cc408}{%
+           family={Mead},
+           familyi={M\bibinitperiod},
+           given={Margaret},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {New York W. Morrow 1928.}%
+      }
+      \strng{namehash}{589234b646aade5b7c73475a563cc408}
+      \strng{fullhash}{589234b646aade5b7c73475a563cc408}
+      \strng{authornamehash}{589234b646aade5b7c73475a563cc408}
+      \strng{authorfullhash}{589234b646aade5b7c73475a563cc408}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{On bookshelf, white cover. shelved with Phil Science}
+      \field{title}{{Coming of Age in Samoa; a Psychological Study of Primitive Youth for Western Civilization}}
+      \field{year}{1928}
+    \endentry
     \entry{Newton:1671uw}{article}{}
       \name{author}{1}{}{%
         {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
            family={Newton},
-           family_i={N\bibinitperiod},
+           familyi={N\bibinitperiod},
            given={Isaac},
-           given_i={I\bibinitperiod}}}%
+           giveni={I\bibinitperiod}}}%
       }
       \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \strng{authornamehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \strng{authorfullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \field{sortinit}{N}
-      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
-      \field{labelyear}{1671}
-      \field{datelabelsource}{}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Philosophical Transactions}
@@ -46,16 +227,18 @@
       \name{author}{1}{}{%
         {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
            family={Newton},
-           family_i={N\bibinitperiod},
+           familyi={N\bibinitperiod},
            given={Isaac},
-           given_i={I\bibinitperiod}}}%
+           giveni={I\bibinitperiod}}}%
       }
       \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \strng{authornamehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \strng{authorfullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \field{sortinit}{N}
-      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
-      \field{labelyear}{1672}
-      \field{datelabelsource}{}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{extrayear}{1}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Philosophical Transactions}
@@ -65,35 +248,108 @@
       \field{pages}{4004\bibrangedash 4007}
       \range{pages}{4}
     \endentry
+    \entry{Newton:1673tf}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
+           family={Newton},
+           familyi={N\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \strng{authornamehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \strng{authorfullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophical Transactions}
+      \field{title}{{Extracts of Two Letters, the One of Mr. Newton, Concerning the Number of the Colors, and the Necessity of Mixing Them All for the Production of White, {\&}c; the Other, of a Philosopher at Paris, by Way of Answer to the Former}}
+      \field{volume}{8}
+      \field{year}{1673}
+      \field{pages}{6108\bibrangedash 6112}
+      \range{pages}{5}
+    \endentry
+    \entry{Newton:1672wd}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
+           family={Newton},
+           familyi={N\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \strng{authornamehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \strng{authorfullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{extrayear}{2}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophical Transactions}
+      \field{title}{{Mr. Issac Newtons Answer to Some Considerations upon His Doctrine of Light and Colors; Which Doctrine Was Printed in Numb. 80 of These Tracts}}
+      \field{volume}{7}
+      \field{year}{1672}
+      \field{pages}{5084\bibrangedash 5103}
+      \range{pages}{20}
+    \endentry
+    \entry{Newton:2018th}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
+           family={Newton},
+           familyi={N\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sagwan Press}%
+      }
+      \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \strng{authornamehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \strng{authorfullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{{Opticks, Or, a Treatise of the Reflections, Refractions, Inflections and Colours of Light: 1721}}
+      \field{year}{2018}
+    \endentry
     \entry{Pitts:2007km}{article}{}
       \name{author}{3}{}{%
         {{hash=2d1c36aea3c528652bbd7e93b00c9d1a}{%
            family={Pitts},
-           family_i={P\bibinitperiod},
+           familyi={P\bibinitperiod},
            given={Michael\bibnamedelima A},
-           given_i={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=baf7fcf628af55637171a935486d4f7d}{%
            family={Nerger},
-           family_i={N\bibinitperiod},
+           familyi={N\bibinitperiod},
            given={Janice\bibnamedelima L},
-           given_i={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
         {{hash=16650b1311f0a74497c7ae341084c376}{%
            family={Davis},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={Trevor\bibnamedelimb J\bibnamedelima R},
-           given_i={T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
       }
       \strng{namehash}{0cc51f19f623793780313425a1f2eeec}
       \strng{fullhash}{0cc51f19f623793780313425a1f2eeec}
+      \strng{authornamehash}{0cc51f19f623793780313425a1f2eeec}
+      \strng{authorfullhash}{0cc51f19f623793780313425a1f2eeec}
       \field{sortinit}{P}
-      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
-      \field{labelyear}{2007}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Vision}
-      \field{month}{01}
+      \field{month}{1}
       \field{number}{1}
       \field{title}{{Electrophysiological correlates of perceptual reversals for three different types of multistable images}}
       \field{volume}{7}
@@ -101,9 +357,201 @@
       \field{pages}{6\bibrangedash 6}
       \range{pages}{1}
     \endentry
+    \entry{Rao:2004ku}{article}{}
+      \name{author}{5}{}{%
+        {{hash=ab9f7ec48fca23605c9500d844944433}{%
+           family={Rao},
+           familyi={R\bibinitperiod},
+           given={M\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=40318bcbb4b42bf0860abaa71c37d40a}{%
+           family={Brenner},
+           familyi={B\bibinitperiod},
+           given={R\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=722cde93aa0351a39f7437a54f47bfc1}{%
+           family={Schisterman},
+           familyi={S\bibinitperiod},
+           given={E\bibnamedelima F},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=1a44359f4b1ff303a3dea8b8377ce95f}{%
+           family={Vik},
+           familyi={V\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2c1cef141f2e7e9037d07ad413c53c6e}{%
+           family={Mills},
+           familyi={M\bibinitperiod},
+           given={J\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{0ba9f3de9754a25393f1422caf1d1f0d}
+      \strng{fullhash}{fd19051b0df926dd6efccc90b641b976}
+      \strng{authornamehash}{0ba9f3de9754a25393f1422caf1d1f0d}
+      \strng{authorfullhash}{fd19051b0df926dd6efccc90b641b976}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Archives of Disease in Childhood}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{{Long term cognitive development in children with prolonged crying}}
+      \field{volume}{89}
+      \field{year}{2004}
+      \field{pages}{989\bibrangedash 992}
+      \range{pages}{4}
+    \endentry
+    \entry{Vedantam:2004tz}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d7a506a59e674f9eb3b496fcef59e2b8}{%
+           family={Vedantam},
+           familyi={V\bibinitperiod},
+           given={Shankar},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d7a506a59e674f9eb3b496fcef59e2b8}
+      \strng{fullhash}{d7a506a59e674f9eb3b496fcef59e2b8}
+      \strng{authornamehash}{d7a506a59e674f9eb3b496fcef59e2b8}
+      \strng{authorfullhash}{d7a506a59e674f9eb3b496fcef59e2b8}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Washington Post}
+      \field{month}{1}
+      \field{title}{{\textbf{Dogged Crying, Lower IQ Linked}}}
+      \field{year}{2004}
+      \field{pages}{A12}
+      \range{pages}{-1}
+    \endentry
   \endsortlist
-  \missing{Rao:2004ku}
-  \missing{Vedantam:2004tz}
+  \missing{Kuhn:2012vq}
+\endrefsection
+
+\refsection{2}
+  \sortlist[entry]{nty/global/}
+    \entry{Haney:1973wf}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f60a8a49c7e79f0953d361b2c9be5e48}{%
+           family={Haney},
+           familyi={H\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b32821cc286e483967ff496eeaf4690d}{%
+           family={Banks},
+           familyi={B\bibinitperiod},
+           given={Curtis},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3fdbde2b74085385dcd1dc7c6e96e0ca}{%
+           family={Zimbardo},
+           familyi={Z\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{a98e360113a39a6c018e676d0c3a4fcc}
+      \strng{fullhash}{a98e360113a39a6c018e676d0c3a4fcc}
+      \strng{authornamehash}{a98e360113a39a6c018e676d0c3a4fcc}
+      \strng{authorfullhash}{a98e360113a39a6c018e676d0c3a4fcc}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Criminology and Penology}
+      \field{title}{{Interpersonal Dynamics in a Simulated Prison}}
+      \field{volume}{1}
+      \field{year}{1973}
+      \field{pages}{66\bibrangedash 97}
+      \range{pages}{32}
+    \endentry
+    \entry{Murre:2015ix}{article}{}
+      \name{author}{2}{}{%
+        {{hash=684f9cbfe71bd944e5d347ac7259a8c2}{%
+           family={Murre},
+           familyi={M\bibinitperiod},
+           given={Jaap\bibnamedelimb M\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f39def59e2a7a340de3dd3abfc15a8f7}{%
+           family={Dros},
+           familyi={D\bibinitperiod},
+           given={Joeri},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{2982c2d587f36447055f18e2c20c67f3}
+      \strng{fullhash}{2982c2d587f36447055f18e2c20c67f3}
+      \strng{authornamehash}{2982c2d587f36447055f18e2c20c67f3}
+      \strng{authorfullhash}{2982c2d587f36447055f18e2c20c67f3}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLOS ONE}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{{Replication and Analysis of Ebbinghaus{’} Forgetting Curve}}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{e0120644}
+      \range{pages}{-1}
+    \endentry
+    \entry{Rosenhan:1973uq}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dced9e823eab5d519f6369972a39fe71}{%
+           family={Rosenhan},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima L},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{dced9e823eab5d519f6369972a39fe71}
+      \strng{fullhash}{dced9e823eab5d519f6369972a39fe71}
+      \strng{authornamehash}{dced9e823eab5d519f6369972a39fe71}
+      \strng{authorfullhash}{dced9e823eab5d519f6369972a39fe71}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{title}{{On Being Sane In Insane Places}}
+      \field{volume}{179}
+      \field{year}{1973}
+      \field{pages}{250\bibrangedash 258}
+      \range{pages}{9}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{3}
+  \sortlist[entry]{nty/global/}
+    \entry{Mead:1928uk}{book}{}
+      \name{author}{1}{}{%
+        {{hash=589234b646aade5b7c73475a563cc408}{%
+           family={Mead},
+           familyi={M\bibinitperiod},
+           given={Margaret},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {New York W. Morrow 1928.}%
+      }
+      \strng{namehash}{589234b646aade5b7c73475a563cc408}
+      \strng{fullhash}{589234b646aade5b7c73475a563cc408}
+      \strng{authornamehash}{589234b646aade5b7c73475a563cc408}
+      \strng{authorfullhash}{589234b646aade5b7c73475a563cc408}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{On bookshelf, white cover. shelved with Phil Science}
+      \field{title}{{Coming of Age in Samoa; a Psychological Study of Primitive Youth for Western Civilization}}
+      \field{year}{1928}
+    \endentry
+  \endsortlist
 \endrefsection
 \endinput
 

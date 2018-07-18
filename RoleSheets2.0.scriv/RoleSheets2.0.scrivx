@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-2" Modified="2018-07-10 20:54:30 -0400" ModID="4D9A2597-4163-47CB-9552-DB6A12256C1E">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-2" Modified="2018-07-18 10:02:28 -0400" ModID="1B270F14-F48D-42F5-8D13-FDC28AEDCBD7">
     <Binder>
         <BinderItem ID="0" UUID="83E02873-467E-40BE-AB78-2B45BB5561E1" Type="DraftFolder" Created="2014-05-22 17:39:45 -0400" Modified="2014-07-21 19:56:59 -0400">
             <Title>RoleSheets v1.0</Title>
@@ -71,15 +71,6 @@
                         <TextSelection>2787,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="12" UUID="570E6544-552A-482B-993B-278A51DF8C92" Type="Text" Created="2011-03-02 12:07:04 -0500" Modified="2014-06-27 16:46:05 -0400">
-                    <Title>PGebhard</Title>
-                    <MetaData>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1215,53</TextSelection>
-                    </TextSettings>
-                </BinderItem>
                 <BinderItem ID="14" UUID="994081B4-A9B6-4BE4-BD19-9FB6E167F69E" Type="Text" Created="2011-03-02 16:49:33 -0500" Modified="2014-06-27 16:46:05 -0400">
                     <Title>RGold</Title>
                     <MetaData>
@@ -88,6 +79,17 @@
                     <TextSettings>
                         <TextSelection>6209,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem ID="12" UUID="570E6544-552A-482B-993B-278A51DF8C92" Type="Text" Created="2011-03-02 12:07:04 -0500" Modified="2014-06-27 16:46:05 -0400">
+                            <Title>PGebhard</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,3048</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem ID="6" UUID="4DBE580E-7A0D-47D0-A48C-71BAA29F4F6A" Type="Text" Created="2013-07-03 08:21:41 -0400" Modified="2014-07-06 19:29:39 -0400">
                     <Title>FKameny</Title>
@@ -710,7 +712,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-05-22 17:39:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-07-10 20:53:23 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-07-18 10:01:54 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
