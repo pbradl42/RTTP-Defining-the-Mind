@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.8 $
+% $ biblatex bbl format version 2.7 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -23,48 +23,70 @@
       \name{author}{3}{}{%
         {{hash=c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}{%
            family={Bacon},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Francis},
-           giveni={F\bibinitperiod}}}%
+           given_i={F\bibinitperiod}}}%
         {{hash=466a6855128d664303cfd25c0228cd3e}{%
            family={Jardine},
-           familyi={J\bibinitperiod},
+           family_i={J\bibinitperiod},
            given={Lisa},
-           giveni={L\bibinitperiod}}}%
+           given_i={L\bibinitperiod}}}%
         {{hash=f031c88b247a04455467d3df0809d2c4}{%
            family={Silverthorne},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={Michael},
-           giveni={M\bibinitperiod}}}%
+           given_i={M\bibinitperiod}}}%
       }
       \strng{namehash}{13c4880b55904cb408682aa058eb189f}
       \strng{fullhash}{13c4880b55904cb408682aa058eb189f}
-      \strng{authornamehash}{13c4880b55904cb408682aa058eb189f}
-      \strng{authorfullhash}{13c4880b55904cb408682aa058eb189f}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1620}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{99023266Novum organum. EnglishFrancis Bacon ; edited by Lisa Jardine, Michael Silverthorne.24 cm.Includes bibliographical references and index.}
       \field{title}{{The new organon}}
       \field{year}{1620}
     \endentry
+    \entry{Bernfeld:1949ji}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9a1199445fb2876699cba170641b8769}{%
+           family={Bernfeld},
+           family_i={B\bibinitperiod},
+           given={Siegfried},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a1199445fb2876699cba170641b8769}
+      \strng{fullhash}{9a1199445fb2876699cba170641b8769}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1949}
+      \field{labelmonth}{09}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Imago}
+      \field{month}{09}
+      \field{number}{3}
+      \field{title}{{Freud's Scientific Beginnings}}
+      \field{volume}{6}
+      \field{year}{1949}
+    \endentry
     \entry{Brown:1972to}{book}{}
       \name{author}{1}{}{%
         {{hash=fd2441fc444a775b7c17f801434c0148}{%
            family={Brown},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Roger},
-           giveni={R\bibinitperiod}}}%
+           given_i={R\bibinitperiod}}}%
       }
       \strng{namehash}{fd2441fc444a775b7c17f801434c0148}
       \strng{fullhash}{fd2441fc444a775b7c17f801434c0148}
-      \strng{authornamehash}{fd2441fc444a775b7c17f801434c0148}
-      \strng{authorfullhash}{fd2441fc444a775b7c17f801434c0148}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1972}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Psycholinguistics : selected papers}}
@@ -74,21 +96,21 @@
       \name{author}{1}{}{%
         {{hash=fd2441fc444a775b7c17f801434c0148}{%
            family={Brown},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Roger},
-           giveni={R\bibinitperiod}}}%
+           given_i={R\bibinitperiod}}}%
       }
       \strng{namehash}{fd2441fc444a775b7c17f801434c0148}
       \strng{fullhash}{fd2441fc444a775b7c17f801434c0148}
-      \strng{authornamehash}{fd2441fc444a775b7c17f801434c0148}
-      \strng{authorfullhash}{fd2441fc444a775b7c17f801434c0148}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1968}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Verbal Learning and Verbal Behavior}
-      \field{month}{4}
+      \field{month}{04}
       \field{number}{2}
       \field{title}{{The development of Wh questions in child speech}}
       \field{volume}{7}
@@ -96,13 +118,35 @@
       \field{pages}{279\bibrangedash 290}
       \range{pages}{12}
     \endentry
+    \entry{Carr:1996uw}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f6bd95f41a65bfabbed732330379a6fb}{%
+           family={Carr},
+           family_i={C\bibinitperiod},
+           given={Thomas\bibnamedelima M},
+           given_i={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f6bd95f41a65bfabbed732330379a6fb}
+      \strng{fullhash}{f6bd95f41a65bfabbed732330379a6fb}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{1996}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Encyclopedia of Rhetoric and Composition}
+      \field{title}{{Port-Royalists}}
+      \field{year}{1996}
+      \field{pages}{544\bibrangedash 547}
+      \range{pages}{4}
+    \endentry
     \entry{Chomsky:1965uu}{book}{}
       \name{author}{1}{}{%
         {{hash=8e69e2dec38581003537abdb261651d0}{%
            family={Chomsky},
-           familyi={C\bibinitperiod},
+           family_i={C\bibinitperiod},
            given={N},
-           giveni={N\bibinitperiod}}}%
+           given_i={N\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Cambridge}%
@@ -112,41 +156,71 @@
       }
       \strng{namehash}{8e69e2dec38581003537abdb261651d0}
       \strng{fullhash}{8e69e2dec38581003537abdb261651d0}
-      \strng{authornamehash}{8e69e2dec38581003537abdb261651d0}
-      \strng{authorfullhash}{8e69e2dec38581003537abdb261651d0}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{1965}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{74012329illus. 23 cm.Bibliography: p. [115]-118.}
       \field{title}{{Syntactic Structures. Aspects of the Theory of Syntax}}
       \field{year}{1965}
     \endentry
+    \entry{Clendinen:2013wy}{book}{}
+      \name{author}{2}{}{%
+        {{hash=25fab1471efec3d1eaf6eea9799d997b}{%
+           family={Clendinen},
+           family_i={C\bibinitperiod},
+           given={Dudley},
+           given_i={D\bibinitperiod}}}%
+        {{hash=c5fa073e57a972a8b5b93b5d434745a5}{%
+           family={Nagourney},
+           family_i={N\bibinitperiod},
+           given={Adam},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Simon}%
+        {Schuster}%
+      }
+      \strng{namehash}{8a5de02db211e8c5178161b8bbdf5668}
+      \strng{fullhash}{8a5de02db211e8c5178161b8bbdf5668}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2013}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{series}{The Struggle to Build a Gay Rights Movement in Ame}
+      \field{title}{{Out For Good}}
+      \field{year}{2013}
+    \endentry
     \entry{Cordaro:2016bv}{article}{}
       \name{author}{2}{}{%
         {{hash=f347e8801483c21ad188359ab7bafc0a}{%
            family={Cordaro},
-           familyi={C\bibinitperiod},
+           family_i={C\bibinitperiod},
            given={Lucian},
-           giveni={L\bibinitperiod}}}%
+           given_i={L\bibinitperiod}}}%
         {{hash=5929e02042c5329a5c825fea2e09ef18}{%
            family={Ison},
-           familyi={I\bibinitperiod},
+           family_i={I\bibinitperiod},
            given={James\bibnamedelima R},
-           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+           given_i={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
       }
       \strng{namehash}{b0813b45ff04c4564ec8fe52f64b4ab6}
       \strng{fullhash}{b0813b45ff04c4564ec8fe52f64b4ab6}
-      \strng{authornamehash}{b0813b45ff04c4564ec8fe52f64b4ab6}
-      \strng{authorfullhash}{b0813b45ff04c4564ec8fe52f64b4ab6}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Psychological Reports}
-      \field{month}{8}
+      \field{month}{08}
       \field{number}{3}
       \field{title}{{Psychology of the Scientist: X. Observer Bias in Classical Conditioning of the Planarian}}
       \field{volume}{13}
@@ -154,66 +228,298 @@
       \field{pages}{787\bibrangedash 789}
       \range{pages}{3}
     \endentry
+    \entry{Daston:1978vx}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a087df95b5b39def2de64be16a4627f8}{%
+           family={Daston},
+           family_i={D\bibinitperiod},
+           given={Lorraine\bibnamedelima J},
+           given_i={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a087df95b5b39def2de64be16a4627f8}
+      \strng{fullhash}{a087df95b5b39def2de64be16a4627f8}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{1978}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The History of Science Society}
+      \field{number}{2}
+      \field{title}{{British Response to Psycho-Physiology 1860-1900}}
+      \field{volume}{69}
+      \field{year}{1978}
+      \field{pages}{192\bibrangedash 208}
+      \range{pages}{17}
+    \endentry
+    \entry{Descartes:ut}{book}{}
+      \name{author}{2}{}{%
+        {{hash=9f046e68c5b38bcc80be3d2cc6f58dd6}{%
+           family={Descartes},
+           family_i={D\bibinitperiod},
+           given={René},
+           given_i={R\bibinitperiod}}}%
+        {{hash=eff21a433c95a45319e1650776b209bb}{%
+           family={Ariew},
+           family_i={A\bibinitperiod},
+           given={Roger},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hackett Publishing}%
+      }
+      \strng{namehash}{93f29d17d4ba719575edcd436b2e770a}
+      \strng{fullhash}{93f29d17d4ba719575edcd436b2e770a}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Philosophical Essays and Correspondence}}
+      \field{year}{2000}
+    \endentry
+    \entry{Descartes:1968uf}{book}{}
+      \name{author}{2}{}{%
+        {{hash=9f046e68c5b38bcc80be3d2cc6f58dd6}{%
+           family={Descartes},
+           family_i={D\bibinitperiod},
+           given={René},
+           given_i={R\bibinitperiod}}}%
+        {{hash=b658cc2b0fd82ab30d2e12e3d45202bf}{%
+           family={Sutcliffe},
+           family_i={S\bibinitperiod},
+           given={F},
+           given_i={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin}%
+      }
+      \strng{namehash}{43b71170355ba79e1038b4f9dcaed633}
+      \strng{fullhash}{43b71170355ba79e1038b4f9dcaed633}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{1968}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Discourse on Method and the Meditations}}
+      \field{year}{1968}
+    \endentry
+    \entry{Dewey:1916tl}{booklet}{}
+      \name{author}{1}{}{%
+        {{hash=03b3356eb23d298d57635488371299f9}{%
+           family={Dewey},
+           family_i={D\bibinitperiod},
+           given={John},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{03b3356eb23d298d57635488371299f9}
+      \strng{fullhash}{03b3356eb23d298d57635488371299f9}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{1916}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Democracy and Education}}
+      \field{year}{1916}
+    \endentry
+    \entry{Dewey:gu}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=03b3356eb23d298d57635488371299f9}{%
+           family={Dewey},
+           family_i={D\bibinitperiod},
+           given={John},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{03b3356eb23d298d57635488371299f9}
+      \strng{fullhash}{03b3356eb23d298d57635488371299f9}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Essays in experimental logic.}
+      \field{title}{{The objects of thought.}}
+      \field{pages}{157\bibrangedash 182}
+      \range{pages}{26}
+    \endentry
+    \entry{Dewey:1896vt}{booklet}{}
+      \name{author}{1}{}{%
+        {{hash=03b3356eb23d298d57635488371299f9}{%
+           family={Dewey},
+           family_i={D\bibinitperiod},
+           given={John},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{03b3356eb23d298d57635488371299f9}
+      \strng{fullhash}{03b3356eb23d298d57635488371299f9}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{1896}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The Reflex Arc Concept in Psychology}}
+      \field{year}{1896}
+    \endentry
     \entry{Ebbinghaus:1885ud}{book}{}
       \name{author}{1}{}{%
         {{hash=5d7a6e7e0e82bcc144f01ac47862fe2f}{%
            family={Ebbinghaus},
-           familyi={E\bibinitperiod},
+           family_i={E\bibinitperiod},
            given={Hermann},
-           giveni={H\bibinitperiod}}}%
+           given_i={H\bibinitperiod}}}%
       }
       \strng{namehash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
       \strng{fullhash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
-      \strng{authornamehash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
-      \strng{authorfullhash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
       \field{sortinit}{E}
-      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelyear}{1885}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{series}{A Contribution to Experimental Psychology}
       \field{title}{{Memory}}
       \field{year}{1885}
     \endentry
+    \entry{Hobbes:1651wh}{book}{}
+      \name{author}{1}{}{%
+        {{hash=225ea03e130430d41c202d9fe7612ed0}{%
+           family={Hobbes},
+           family_i={H\bibinitperiod},
+           given={Thomas},
+           given_i={T\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=839582ce61c07f538e9a0ffa51ecdb82}{%
+           family={Curley},
+           family_i={C\bibinitperiod},
+           given={Edwin},
+           given_i={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Indianapolis / Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Hackett}%
+      }
+      \strng{namehash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{fullhash}{225ea03e130430d41c202d9fe7612ed0}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1994}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Hackett edition. PDF is excerpt from gutenberg, used in class.}
+      \field{series}{with selected variants from the Latin edition of 1668}
+      \field{title}{{Leviathan}}
+      \field{year}{1994}
+    \endentry
+    \entry{Hull:1940ub}{article}{}
+      \name{author}{1}{}{%
+        {{hash=400ead4e17713347ca7eda332df3a8ea}{%
+           family={Hull},
+           family_i={H\bibinitperiod},
+           given={C},
+           given_i={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{400ead4e17713347ca7eda332df3a8ea}
+      \strng{fullhash}{400ead4e17713347ca7eda332df3a8ea}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1940}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{getcited.org}
+      \field{title}{{Mathematico-deductive theory of rote learning: A study in scientific methodology}}
+      \field{year}{1940}
+    \endentry
+    \entry{Hume:IGMvPNU2}{booklet}{}
+      \name{author}{1}{}{%
+        {{hash=a9c3ed8678a8acec56538df512c12cc7}{%
+           family={Hume},
+           family_i={H\bibinitperiod},
+           given={D},
+           given_i={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9c3ed8678a8acec56538df512c12cc7}
+      \strng{fullhash}{a9c3ed8678a8acec56538df512c12cc7}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1975}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Enquiries Concerning Human Understanding and Concerning the Principles of Morals, 1990}}
+      \field{year}{1975}
+    \endentry
     \entry{Mead:1928uk}{book}{}
       \name{author}{1}{}{%
         {{hash=589234b646aade5b7c73475a563cc408}{%
            family={Mead},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={Margaret},
-           giveni={M\bibinitperiod}}}%
+           given_i={M\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {New York W. Morrow 1928.}%
       }
       \strng{namehash}{589234b646aade5b7c73475a563cc408}
       \strng{fullhash}{589234b646aade5b7c73475a563cc408}
-      \strng{authornamehash}{589234b646aade5b7c73475a563cc408}
-      \strng{authorfullhash}{589234b646aade5b7c73475a563cc408}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1928}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{On bookshelf, white cover. shelved with Phil Science}
       \field{title}{{Coming of Age in Samoa; a Psychological Study of Primitive Youth for Western Civilization}}
       \field{year}{1928}
     \endentry
+    \entry{Miller:1962vk}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6000420e2d5ec41b2819d0f870152ee1}{%
+           family={Miller},
+           family_i={M\bibinitperiod},
+           given={George},
+           given_i={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{6000420e2d5ec41b2819d0f870152ee1}
+      \strng{fullhash}{6000420e2d5ec41b2819d0f870152ee1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1962}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{62009894illus. 22 cm.}
+      \field{title}{{Psychology, the science of mental life}}
+      \field{year}{1962}
+    \endentry
     \entry{Newton:1671uw}{article}{}
       \name{author}{1}{}{%
         {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
            family={Newton},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Isaac},
-           giveni={I\bibinitperiod}}}%
+           given_i={I\bibinitperiod}}}%
       }
       \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authornamehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authorfullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{1671}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Philosophical Transactions}
@@ -227,18 +533,17 @@
       \name{author}{1}{}{%
         {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
            family={Newton},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Isaac},
-           giveni={I\bibinitperiod}}}%
+           given_i={I\bibinitperiod}}}%
       }
       \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authornamehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authorfullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
       \field{extrayear}{1}
-      \field{labeldatesource}{year}
+      \field{labelyear}{1672}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Philosophical Transactions}
@@ -252,17 +557,16 @@
       \name{author}{1}{}{%
         {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
            family={Newton},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Isaac},
-           giveni={I\bibinitperiod}}}%
+           given_i={I\bibinitperiod}}}%
       }
       \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authornamehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authorfullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{1673}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Philosophical Transactions}
@@ -276,18 +580,17 @@
       \name{author}{1}{}{%
         {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
            family={Newton},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Isaac},
-           giveni={I\bibinitperiod}}}%
+           given_i={I\bibinitperiod}}}%
       }
       \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authornamehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authorfullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
       \field{extrayear}{2}
-      \field{labeldatesource}{year}
+      \field{labelyear}{1672}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Philosophical Transactions}
@@ -301,23 +604,23 @@
       \name{author}{1}{}{%
         {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
            family={Newton},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Isaac},
-           giveni={I\bibinitperiod}}}%
+           given_i={I\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Sagwan Press}%
       }
       \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authornamehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authorfullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{2018}
+      \field{labelmonth}{02}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{2}
+      \field{month}{02}
       \field{title}{{Opticks, Or, a Treatise of the Reflections, Refractions, Inflections and Colours of Light: 1721}}
       \field{year}{2018}
     \endentry
@@ -325,31 +628,31 @@
       \name{author}{3}{}{%
         {{hash=2d1c36aea3c528652bbd7e93b00c9d1a}{%
            family={Pitts},
-           familyi={P\bibinitperiod},
+           family_i={P\bibinitperiod},
            given={Michael\bibnamedelima A},
-           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           given_i={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=baf7fcf628af55637171a935486d4f7d}{%
            family={Nerger},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Janice\bibnamedelima L},
-           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given_i={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
         {{hash=16650b1311f0a74497c7ae341084c376}{%
            family={Davis},
-           familyi={D\bibinitperiod},
+           family_i={D\bibinitperiod},
            given={Trevor\bibnamedelimb J\bibnamedelima R},
-           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+           given_i={T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
       }
       \strng{namehash}{0cc51f19f623793780313425a1f2eeec}
       \strng{fullhash}{0cc51f19f623793780313425a1f2eeec}
-      \strng{authornamehash}{0cc51f19f623793780313425a1f2eeec}
-      \strng{authorfullhash}{0cc51f19f623793780313425a1f2eeec}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2007}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Vision}
-      \field{month}{1}
+      \field{month}{01}
       \field{number}{1}
       \field{title}{{Electrophysiological correlates of perceptual reversals for three different types of multistable images}}
       \field{volume}{7}
@@ -357,41 +660,57 @@
       \field{pages}{6\bibrangedash 6}
       \range{pages}{1}
     \endentry
+    \entry{Anonymous:1967hr}{article}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{1967}
+      \field{labelmonth}{09}
+      \field{datelabelsource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Psychiatry}
+      \field{month}{09}
+      \field{number}{3}
+      \field{title}{{Position Statement on Abortion}}
+      \field{volume}{124}
+      \field{year}{1967}
+      \field{pages}{450--a\bibrangedash 450}
+      \range{pages}{-1}
+    \endentry
     \entry{Rao:2004ku}{article}{}
       \name{author}{5}{}{%
         {{hash=ab9f7ec48fca23605c9500d844944433}{%
            family={Rao},
-           familyi={R\bibinitperiod},
+           family_i={R\bibinitperiod},
            given={M\bibnamedelima R},
-           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+           given_i={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{hash=40318bcbb4b42bf0860abaa71c37d40a}{%
            family={Brenner},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={R\bibnamedelima A},
-           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=722cde93aa0351a39f7437a54f47bfc1}{%
            family={Schisterman},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={E\bibnamedelima F},
-           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+           given_i={E\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
         {{hash=1a44359f4b1ff303a3dea8b8377ce95f}{%
            family={Vik},
-           familyi={V\bibinitperiod},
+           family_i={V\bibinitperiod},
            given={T},
-           giveni={T\bibinitperiod}}}%
+           given_i={T\bibinitperiod}}}%
         {{hash=2c1cef141f2e7e9037d07ad413c53c6e}{%
            family={Mills},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={J\bibnamedelima L},
-           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given_i={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
       \strng{namehash}{0ba9f3de9754a25393f1422caf1d1f0d}
       \strng{fullhash}{fd19051b0df926dd6efccc90b641b976}
-      \strng{authornamehash}{0ba9f3de9754a25393f1422caf1d1f0d}
-      \strng{authorfullhash}{fd19051b0df926dd6efccc90b641b976}
       \field{sortinit}{R}
-      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2004}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Archives of Disease in Childhood}
@@ -403,61 +722,213 @@
       \field{pages}{989\bibrangedash 992}
       \range{pages}{4}
     \endentry
+    \entry{Russell:2013wy}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c58c42b6f7e7e1f78dbbdc65ed8e5384}{%
+           family={Russell},
+           family_i={R\bibinitperiod},
+           given={Bertrand},
+           given_i={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{fullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2013}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{04}
+      \field{series}{Collectors Edition}
+      \field{title}{{History of Western Philosophy}}
+      \field{year}{2013}
+    \endentry
+    \entry{Skinner:1972wq}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4dae309a05afec96990a48a3e44d6875}{%
+           family={Skinner},
+           family_i={S\bibinitperiod},
+           given={B},
+           given_i={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dae309a05afec96990a48a3e44d6875}
+      \strng{fullhash}{4dae309a05afec96990a48a3e44d6875}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1972}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{72078259[by] B. F. Skinner.illus. 24 cm.}
+      \field{title}{{Cumulative record; a selection of papers}}
+      \field{year}{1972}
+    \endentry
+    \entry{Tolman:1922us}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6b8095a3894d396ba4327cce42c38123}{%
+           family={Tolman},
+           family_i={T\bibinitperiod},
+           given={Edward\bibnamedelima Chace},
+           given_i={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6b8095a3894d396ba4327cce42c38123}
+      \strng{fullhash}{6b8095a3894d396ba4327cce42c38123}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{1922}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{A new formula for behaviorism}}
+      \field{year}{1922}
+    \endentry
     \entry{Vedantam:2004tz}{article}{}
       \name{author}{1}{}{%
         {{hash=d7a506a59e674f9eb3b496fcef59e2b8}{%
            family={Vedantam},
-           familyi={V\bibinitperiod},
+           family_i={V\bibinitperiod},
            given={Shankar},
-           giveni={S\bibinitperiod}}}%
+           given_i={S\bibinitperiod}}}%
       }
       \strng{namehash}{d7a506a59e674f9eb3b496fcef59e2b8}
       \strng{fullhash}{d7a506a59e674f9eb3b496fcef59e2b8}
-      \strng{authornamehash}{d7a506a59e674f9eb3b496fcef59e2b8}
-      \strng{authorfullhash}{d7a506a59e674f9eb3b496fcef59e2b8}
       \field{sortinit}{V}
-      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelyear}{2004}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Washington Post}
-      \field{month}{1}
+      \field{month}{01}
       \field{title}{{\textbf{Dogged Crying, Lower IQ Linked}}}
       \field{year}{2004}
       \field{pages}{A12}
       \range{pages}{-1}
     \endentry
+    \entry{Watson:1926wd}{article}{}
+      \name{author}{1}{}{%
+        {{hash=120f402f6b36ff38b7d7e4a3d322d79f}{%
+           family={Watson},
+           family_i={W\bibinitperiod},
+           given={John},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{120f402f6b36ff38b7d7e4a3d322d79f}
+      \strng{fullhash}{120f402f6b36ff38b7d7e4a3d322d79f}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1926}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Philosophical Studies}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{{Behaviorism a Psychology Based on Reflex-Action}}
+      \field{volume}{1}
+      \field{year}{1926}
+      \field{pages}{454\bibrangedash 466}
+      \range{pages}{13}
+    \endentry
+    \entry{Watson:iMwU-3B8}{article}{}
+      \name{author}{1}{}{%
+        {{hash=120f402f6b36ff38b7d7e4a3d322d79f}{%
+           family={Watson},
+           family_i={W\bibinitperiod},
+           given={John},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{120f402f6b36ff38b7d7e4a3d322d79f}
+      \strng{fullhash}{120f402f6b36ff38b7d7e4a3d322d79f}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1929}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Behaviorism -- The Modern Note in Psychology}}
+      \field{year}{1929}
+    \endentry
+    \entry{Watson:1913tq}{article}{}
+      \name{author}{1}{}{%
+        {{hash=120f402f6b36ff38b7d7e4a3d322d79f}{%
+           family={Watson},
+           family_i={W\bibinitperiod},
+           given={John},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{120f402f6b36ff38b7d7e4a3d322d79f}
+      \strng{fullhash}{120f402f6b36ff38b7d7e4a3d322d79f}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1913}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{title}{{Psychology as the Behaviorist Views It}}
+      \field{volume}{20}
+      \field{year}{1913}
+      \field{pages}{158\bibrangedash 177}
+      \range{pages}{20}
+    \endentry
   \endsortlist
+  \missing{Locke:1959we}
+  \missing{Hume:2000ws}
   \missing{Kuhn:2012vq}
+  \missing{James:1890wm}
+  \missing{Tolman:1948ty}
+  \missing{York:tqkKlD3E}
 \endrefsection
 
 \refsection{2}
   \sortlist[entry]{nty/global/}
+    \entry{Anonymous:1993fb}{article}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{1993}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Psychiatry}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{{APA position statement on abortion}}
+      \field{volume}{150}
+      \field{year}{1993}
+      \field{pages}{676a\bibrangedash 676}
+      \range{pages}{-1}
+    \endentry
     \entry{Haney:1973wf}{article}{}
       \name{author}{3}{}{%
         {{hash=f60a8a49c7e79f0953d361b2c9be5e48}{%
            family={Haney},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={Craig},
-           giveni={C\bibinitperiod}}}%
+           given_i={C\bibinitperiod}}}%
         {{hash=b32821cc286e483967ff496eeaf4690d}{%
            family={Banks},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Curtis},
-           giveni={C\bibinitperiod}}}%
+           given_i={C\bibinitperiod}}}%
         {{hash=3fdbde2b74085385dcd1dc7c6e96e0ca}{%
            family={Zimbardo},
-           familyi={Z\bibinitperiod},
+           family_i={Z\bibinitperiod},
            given={Philip},
-           giveni={P\bibinitperiod}}}%
+           given_i={P\bibinitperiod}}}%
       }
       \strng{namehash}{a98e360113a39a6c018e676d0c3a4fcc}
       \strng{fullhash}{a98e360113a39a6c018e676d0c3a4fcc}
-      \strng{authornamehash}{a98e360113a39a6c018e676d0c3a4fcc}
-      \strng{authorfullhash}{a98e360113a39a6c018e676d0c3a4fcc}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1973}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Criminology and Penology}
@@ -471,26 +942,26 @@
       \name{author}{2}{}{%
         {{hash=684f9cbfe71bd944e5d347ac7259a8c2}{%
            family={Murre},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={Jaap\bibnamedelimb M\bibnamedelima J},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           given_i={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
         {{hash=f39def59e2a7a340de3dd3abfc15a8f7}{%
            family={Dros},
-           familyi={D\bibinitperiod},
+           family_i={D\bibinitperiod},
            given={Joeri},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
       }
       \strng{namehash}{2982c2d587f36447055f18e2c20c67f3}
       \strng{fullhash}{2982c2d587f36447055f18e2c20c67f3}
-      \strng{authornamehash}{2982c2d587f36447055f18e2c20c67f3}
-      \strng{authorfullhash}{2982c2d587f36447055f18e2c20c67f3}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2015}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PLOS ONE}
-      \field{month}{7}
+      \field{month}{07}
       \field{number}{7}
       \field{title}{{Replication and Analysis of Ebbinghaus{’} Forgetting Curve}}
       \field{volume}{10}
@@ -502,17 +973,16 @@
       \name{author}{1}{}{%
         {{hash=dced9e823eab5d519f6369972a39fe71}{%
            family={Rosenhan},
-           familyi={R\bibinitperiod},
+           family_i={R\bibinitperiod},
            given={David\bibnamedelima L},
-           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given_i={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
       \strng{namehash}{dced9e823eab5d519f6369972a39fe71}
       \strng{fullhash}{dced9e823eab5d519f6369972a39fe71}
-      \strng{authornamehash}{dced9e823eab5d519f6369972a39fe71}
-      \strng{authorfullhash}{dced9e823eab5d519f6369972a39fe71}
       \field{sortinit}{R}
-      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{1973}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Science}
@@ -523,6 +993,9 @@
       \range{pages}{9}
     \endentry
   \endsortlist
+  \missing{Washington:4DHpwcWC}
+  \missing{Psychiatry:1-jx4ild}
+  \missing{November:iRleas1e}
 \endrefsection
 
 \refsection{3}
@@ -531,20 +1004,19 @@
       \name{author}{1}{}{%
         {{hash=589234b646aade5b7c73475a563cc408}{%
            family={Mead},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={Margaret},
-           giveni={M\bibinitperiod}}}%
+           given_i={M\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {New York W. Morrow 1928.}%
       }
       \strng{namehash}{589234b646aade5b7c73475a563cc408}
       \strng{fullhash}{589234b646aade5b7c73475a563cc408}
-      \strng{authornamehash}{589234b646aade5b7c73475a563cc408}
-      \strng{authorfullhash}{589234b646aade5b7c73475a563cc408}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1928}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{On bookshelf, white cover. shelved with Phil Science}

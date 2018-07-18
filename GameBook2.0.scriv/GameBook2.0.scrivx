@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-2" Modified="2018-07-18 14:53:59 -0400" ModID="6D46F497-889B-4D49-8ACD-3CA45B6C8C32">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="PIC-142B-Desktop" Modified="2018-07-18 15:00:06 -0400" ModID="B82472A6-A9B7-4267-A992-503F19117A81">
     <Binder>
         <BinderItem ID="0" UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -204,7 +204,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>395,0</TextSelection>
+                                        <TextSelection>297,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -375,7 +375,7 @@
                                         <TextSelection>18,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem ID="233" UUID="510A150E-90B0-455A-AED7-88020F55BE4C" Type="Text" Created="2018-02-28 18:44:18 -0500" Modified="2018-07-18 14:53:59 -0400">
+                                        <BinderItem ID="233" UUID="510A150E-90B0-455A-AED7-88020F55BE4C" Type="Text" Created="2018-02-28 18:44:18 -0500" Modified="2018-07-18 14:59:43 -0400">
                                             <Title>Psychoanalysts</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -385,7 +385,7 @@
                                                 <TextSelection>22727,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem ID="234" UUID="0CF727F7-A595-4DBE-A1F3-43C6222C59B7" Type="Text" Created="2018-02-28 18:44:26 -0500" Modified="2018-07-18 14:53:59 -0400">
+                                        <BinderItem ID="234" UUID="0CF727F7-A595-4DBE-A1F3-43C6222C59B7" Type="Text" Created="2018-02-28 18:44:26 -0500" Modified="2018-07-18 14:59:43 -0400">
                                             <Title>Behaviorists</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -395,7 +395,7 @@
                                                 <TextSelection>9493,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem ID="235" UUID="DBFFD62F-2883-403F-9E73-78B2031C3B85" Type="Text" Created="2018-02-28 18:44:33 -0500" Modified="2018-07-17 13:39:34 -0400">
+                                        <BinderItem ID="235" UUID="DBFFD62F-2883-403F-9E73-78B2031C3B85" Type="Text" Created="2018-02-28 18:44:33 -0500" Modified="2018-07-18 14:59:43 -0400">
                                             <Title>Cognitivists</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -564,6 +564,15 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>3602,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="353" UUID="724BECC4-2D46-408A-91C0-4440F019F72F" Type="Text" Created="2018-07-18 14:56:49 -0400" Modified="2018-07-18 14:59:43 -0400">
+                                            <Title>WorksCited</Title>
+                                            <MetaData>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -3833,7 +3842,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="343" Characters="3574" Date="2018-07-18 08:35:02 -0400"></PreviousSession>
+        <PreviousSession Words="5" Characters="1129" Date="2018-07-18 14:56:24 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

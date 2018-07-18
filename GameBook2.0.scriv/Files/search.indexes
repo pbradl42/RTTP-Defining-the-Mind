@@ -8928,6 +8928,27 @@ NATIONAL COMMITTEE AGAINST MENTAL ILLNESS. What are the facts about mental illne
         <Document ID="82">
             <Title>clark-hull-2-sized</Title>
         </Document>
+        <Document ID="345">
+            <Title>Paradigmatic science</Title>
+            <Text>#### The Paradigmatic experiments
+&lt;!--\newthought{The ‘Junior high’ version}--&gt; of the scientific method tells us that to be science, one must observe-hypothesis-experiment-repeat. This simply isn’t true. Science uses a number of different methods, and not everything takes the form of the the classic *experimentum crucis* that we were taught in seventh grade.
+&lt;!--\begin{marginfigure}
+ \begin{center}
+     \includegraphics[scale=0.75]{../images/observe_poster.jpg}
+\end{center}
+ \caption{Photo of poster in abandoned junior high school in Hampstead, Maryland. Photo by Kenny Ditto, former student, 2008. Used with permission.}
+\label{fig: scientificmethod}
+\end{marginfigure}
+--&gt;
+
+Constructing good hypotheses and good questions to test hypothesis can be challenging, especially in psychology and psychiatry. In this section, we’ll introduce some basic terminology regarding scientific reasoning and discuss a few model studies---those we call ‘paradigms’---that have influenced how science has progressed.</Text>
+        </Document>
+        <Document ID="77">
+            <Title>Pinel</Title>
+        </Document>
+        <Document ID="315">
+            <Title>Milgrim</Title>
+        </Document>
         <Document ID="249">
             <Title>PsychoanalysisOverview</Title>
             <Text>### Psychoanalyst Overview
@@ -8943,11 +8964,8 @@ The central task for this game will be to create a coherent notion of ‘mental 
 
 </Text>
         </Document>
-        <Document ID="77">
-            <Title>Pinel</Title>
-        </Document>
-        <Document ID="315">
-            <Title>Milgrim</Title>
+        <Document ID="83">
+            <Title>Ernst_willhelm_von_bruecke.jpeg</Title>
         </Document>
         <Document ID="274">
             <Title>Albee-1970-UncertainFutureofClinicalPsych</Title>
@@ -9100,8 +9118,8 @@ American Psychologist, 1970, 25, 117-123.
 TYLEK, L. An approach to public affairs: Report of the ad hoc Committee on Public Affairs. American Psycholo- gist, 1969, 24, 1-4.
 </Text>
         </Document>
-        <Document ID="83">
-            <Title>Ernst_willhelm_von_bruecke.jpeg</Title>
+        <Document ID="78">
+            <Title>TimeCover</Title>
         </Document>
         <Document ID="177">
             <Title>Further Reading</Title>
@@ -9150,31 +9168,24 @@ Zusne, L. (1984). Biographical dictionary of psychology, Greenwood Press.
 
 </Text>
         </Document>
-        <Document ID="78">
-            <Title>TimeCover</Title>
-        </Document>
-        <Document ID="51">
-            <Title>Kraft-Ebing, Ricard von. "Psychopathie Sexualis", 1894</Title>
-        </Document>
-        <Document ID="275">
-            <Title>Albee-1970-UncertainFutureofClinicalPsychErratum</Title>
-            <Text> 256 AMERICAN PSYCHOLOGIST
-RATH, G. J. PPBS is more than a budget: It's a total- California State Department of Education, 1968. planning process. Nation's Schools, 1968, 82, 53-59, 90. (Mimeo) (b)
-STLVKKN, L. Cybernetics and education IC-12. Audiovisual TANNER, C. K. Techniques and application of educational
-Instruction, 1968, 13, 267-272.
-SMITH, R. G. The development of training objectives.
-(Human Resources Research Office Bulletin 11) Wash- ington, D. C.: George Washington University, June 1964. SWEIGKRT, R. L. The discovery of need in education: De- veloping a need inquiry system. Journal of Secondary
-Education, 1968, 43, 345-348. (a)
-SWEIGKRT, R. L. Need assessment—the first step toward
-deliberate rather than impulsive response to problems.
-system analysis. Audiovisual Instruction, 1969, 14, 89-90. UNITED STATES AIR FORCE. Work statement preparation.
-(System Command Manual 70-5) February 1, 1968. UNITED STATUS GOVERNMENT. Work break down structure for defense material items. (Mil.-Standard 881) Novem-
-ber 1, 1968.
-UNITED STATES GOVERNMENT, Department of Defense. Per-
-formance measurement for selected acquisitions. (DOD Instruction 7000.2) December 12,1967.
-ERRA TUM
-In the article by George Albee in the December 1970 issue, the following incorrect statement, appears on page 1077,lines 15-17: ". . . the American Medical Association has relinquished its tax-exempt status in order to par- ticipate actively in attempts at influencing legislation . . . ." The Amer- ican Medical Association has never relinquished its Sec. 501 (c) (6) tax- exempt status, and continues in this category to this date.
-</Text>
+        <Document ID="346">
+            <Title>Election schedule</Title>
+            <Text>&lt;!--\newpage--&gt;
+
+#### Elections
+
+The following shows elections that must be held each year, and the character vacating that position in parentheses. Characters serve through to the end of the conference in the year indicated. The VP immediately becomes the president: so while Bandura vacates the position of VP at the end of the conference in 1971, he becomes President at that moment.  The election in 1971 is for the VP of 1972, who will be President in 1973.
+&lt;!-- \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{2cm} | p{2cm} | p{2cm} |  p{2cm} | }
+\hline
+\tahead{Year}&amp;\tahead{VP}&amp;\tahead{Board at large}&amp;\tahead{Research (replacing)}&amp;\tahead{Nomenclature (replacing)}&amp;\tahead{Program (replacing)} \\ \hline
+\tahead{1971}&amp; 1972: (Bandura)&amp;A (Milgram)&amp; &amp; &amp; \\
+\tahead{1972}&amp;1973&amp;B (Albee)&amp;(Tyler)&amp;(Albee)&amp;(Hooker) \\
+\tahead{1973}&amp;1974&amp; &amp;(Clark)&amp; &amp;(Anastasi)\\
+\tahead{1974}&amp;1975&amp;A&amp;(Marmor)&amp;(Spiegel)&amp;(Gebhard) \\
+\tahead{1975}&amp;1976&amp;B&amp;(elected 1972)&amp; &amp;(elected 1972) \\ \hline
+\caption{Elections to be held each year}
+\label{table: boardMembership}
+\end{longtable}--&gt;</Text>
         </Document>
         <Document ID="84">
             <Title>Hermann_von_Helmholtz</Title>
@@ -9367,6 +9378,32 @@ Vol. 11.New York: John Wiley and Sons. Rapoport, A. and W. J. Horvath
         <Document ID="90">
             <Title>Wundt</Title>
         </Document>
+        <Document ID="51">
+            <Title>Kraft-Ebing, Ricard von. "Psychopathie Sexualis", 1894</Title>
+        </Document>
+        <Document ID="85">
+            <Title>Ivan_Pavlov_(Nobel)</Title>
+        </Document>
+        <Document ID="275">
+            <Title>Albee-1970-UncertainFutureofClinicalPsychErratum</Title>
+            <Text> 256 AMERICAN PSYCHOLOGIST
+RATH, G. J. PPBS is more than a budget: It's a total- California State Department of Education, 1968. planning process. Nation's Schools, 1968, 82, 53-59, 90. (Mimeo) (b)
+STLVKKN, L. Cybernetics and education IC-12. Audiovisual TANNER, C. K. Techniques and application of educational
+Instruction, 1968, 13, 267-272.
+SMITH, R. G. The development of training objectives.
+(Human Resources Research Office Bulletin 11) Wash- ington, D. C.: George Washington University, June 1964. SWEIGKRT, R. L. The discovery of need in education: De- veloping a need inquiry system. Journal of Secondary
+Education, 1968, 43, 345-348. (a)
+SWEIGKRT, R. L. Need assessment—the first step toward
+deliberate rather than impulsive response to problems.
+system analysis. Audiovisual Instruction, 1969, 14, 89-90. UNITED STATES AIR FORCE. Work statement preparation.
+(System Command Manual 70-5) February 1, 1968. UNITED STATUS GOVERNMENT. Work break down structure for defense material items. (Mil.-Standard 881) Novem-
+ber 1, 1968.
+UNITED STATES GOVERNMENT, Department of Defense. Per-
+formance measurement for selected acquisitions. (DOD Instruction 7000.2) December 12,1967.
+ERRA TUM
+In the article by George Albee in the December 1970 issue, the following incorrect statement, appears on page 1077,lines 15-17: ". . . the American Medical Association has relinquished its tax-exempt status in order to par- ticipate actively in attempts at influencing legislation . . . ." The Amer- ican Medical Association has never relinquished its Sec. 501 (c) (6) tax- exempt status, and continues in this category to this date.
+</Text>
+        </Document>
         <Document ID="52">
             <Title>Excerpt1-1894-Psychopathia_sexualis</Title>
             <Text>￼￼
@@ -9542,98 +9579,51 @@ Vol. 11.New York: John Wiley and Sons. Rapoport, A. and W. J. Horvath
 ￼￼
 ￼￼</Text>
         </Document>
-        <Document ID="85">
-            <Title>Ivan_Pavlov_(Nobel)</Title>
-        </Document>
-        <Document ID="178">
-            <Title>Obits and Tributes</Title>
-            <Text>### Obituaries and Tributes 
-
-#### Anne Anastasi
-
-“Anne Anastasi: Biography of a Former APA President” American Psychological Association: http://www.apa.org/about/archives/presidents/bio-anne-anastasi.asp
-
-Goode, E. “Anne Anastasi, the 'Test Guru' of Psychology, Is Dead at 92”, New York Times, May 16, 2001: http://www.nytimes.com/2001/05/16/nyregion/anne-anastasi-the-test-guru-of-psychology-is-dead-at-92.html 
-
-#### George Albee
-
-Kessler, M. (2007). "Obituary: George W. Albee (1921-2006)." American Psychologist 62(4): 317-318. 
-
-Associated Press (2006) “George W. Albee; Psychologist Sought Social Cures” July 13, 2006
-
-#### Irving Bieber
-
-Myers, S. L. “Irving Bieber, 80, a Psychoanalyst Who Studied Homosexuality, Dies” NY Times 8/28/1991 http://query.nytimes.com/gst/fullpage.html?res=9D0CE3D7153FF93BA1575BC0A967958260
-
-#### Kenneth Clark
-
-Phillips, L. (2002). “Recontextualizing Kenneth B. Clark: An Afrocentric Perspective on the Paradoxical Legacy of a Model Psychologist-Activist.” Evolving Perspectives on the History of Psychology. W. E. Pickren and D. A. Dewsbury. Washington, DC, American Psychiatric Association. 
-
-#### John Fryer
-
-Pray, R. (2003). “John E. Fryer, 65, psychiatrist.” The Philadelphia Inquirer. Philadelphia: B09.
-
-Lenzer, J. (2003). “John Fryer” BMJ  March 22; 326(7390): 662. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1125557/ 
-
-#### Barbara Gittings
-
-Kameny, Frank (2007). “Frank Kameny's Eulogy for Barbara Gittings” available at http://www.kamenypapers.org/eulogy.htm
-
-#### Harry Harlow
-
-Sears, R. R. (1982). "Obituary: Harry Frederick Harlow (1905-1981)." American Psychologist 37(11): 1280-1281. 	
-
-Obituary for Harry Frederick Harlow (1905-1981). Harlow's research career, spanning a full half century, was notable for its single-minded adherence to the search for understanding of a single species, for the imaginative methods he devised for the study of both cognition and motivation, and for the crucially important findings these methods provided. His careful empirical development of the facts of behavioral development led to prepositional generalizations that have contributed notably to an understanding of human as well as monkey motivational development. (PsycINFO Database Record (c) 2008 APA, all rights reserve 
-
-#### Harold Lief
-
-Pearce, J. (2007). “Harold I. Lief, Advocate of Sex Education, Dies at 89”, The New York Times, March 23, 2007: http://www.nytimes.com/2007/03/23/obituaries/23lief.html 
-
-#### Charles Socarides
-
-Fox, M. “Charles W Socarides, Psychiatrist and Psychoanalyst, Is Dead at 83”, NY Times, 12/25/2005 http://www.nytimes.com/2005/12/28/nyregion/28socarides.html
-
-#### John P. Spiegel
-
-Cook, J. “John P. Spiegel, 80, Expert on Violence And Combat Stress” New York Times, July 19, 1991. http://www.nytimes.com/1991/07/19/obituaries/john-p-spiegel-80-expert-on-violence-and-combat-stress.html
-</Text>
-        </Document>
-        <Document ID="345">
-            <Title>Paradigmatic science</Title>
-            <Text>#### The Paradigmatic experiments
-&lt;!--\newthought{The ‘Junior high’ version}--&gt; of the scientific method tells us that to be science, one must observe-hypothesis-experiment-repeat. This simply isn’t true. Science uses a number of different methods, and not everything takes the form of the the classic *experimentum crucis* that we were taught in seventh grade.
-&lt;!--\begin{marginfigure}
- \begin{center}
-     \includegraphics[scale=0.75]{../images/observe_poster.jpg}
-\end{center}
- \caption{Photo of poster in abandoned junior high school in Hampstead, Maryland. Photo by Kenny Ditto, former student, 2008. Used with permission.}
-\label{fig: scientificmethod}
-\end{marginfigure}
---&gt;
-
-Constructing good hypotheses and good questions to test hypothesis can be challenging, especially in psychology and psychiatry. In this section, we’ll introduce some basic terminology regarding scientific reasoning and discuss a few model studies---those we call ‘paradigms’---that have influenced how science has progressed.</Text>
-        </Document>
         <Document ID="91">
             <Title>Untitled</Title>
         </Document>
-        <Document ID="346">
-            <Title>Election schedule</Title>
-            <Text>&lt;!--\newpage--&gt;
+        <Document ID="347">
+            <Title>PGebhard</Title>
+            <Text>## Paul Gebhard, PhD
+### Your Biography
 
-#### Elections
+You were born July 3, 1917 in Rocky Ford, Colorado and obtained your B.S. from Harvard University in 1940, your Ph.D from Harvard University in 1947. You have worked in the Department of Anthropology at Indiana University from 1947 until the present, serving as the Director at the Institute for Sex Research starting 1956, after the death of your mentor, Alfred C. Kinsey.
 
-The following shows elections that must be held each year, and the character vacating that position in parentheses. Characters serve through to the end of the conference in the year indicated. The VP immediately becomes the president: so while Bandura vacates the position of VP at the end of the conference in 1971, he becomes President at that moment.  The election in 1971 is for the VP of 1972, who will be President in 1973.
-&lt;!-- \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{2cm} | p{2cm} | p{2cm} |  p{2cm} | }
-\hline
-\tahead{Year}&amp;\tahead{VP}&amp;\tahead{Board at large}&amp;\tahead{Research (replacing)}&amp;\tahead{Nomenclature (replacing)}&amp;\tahead{Program (replacing)} \\ \hline
-\tahead{1971}&amp; 1972: (Bandura)&amp;A (Milgram)&amp; &amp; &amp; \\
-\tahead{1972}&amp;1973&amp;B (Albee)&amp;(Tyler)&amp;(Albee)&amp;(Hooker) \\
-\tahead{1973}&amp;1974&amp; &amp;(Clark)&amp; &amp;(Anastasi)\\
-\tahead{1974}&amp;1975&amp;A&amp;(Marmor)&amp;(Spiegel)&amp;(Gebhard) \\
-\tahead{1975}&amp;1976&amp;B&amp;(elected 1972)&amp; &amp;(elected 1972) \\ \hline
-\caption{Elections to be held each year}
-\label{table: boardMembership}
-\end{longtable}--&gt;</Text>
+You are an Anthropologist, not a psychologist.  Anthropology has a varied and checkered history, especially in relation to psychology and sociology.  All three of these fields purport to study the human mind and human organizations, but they have gone about it in very different ways.  Pay close attention to the discussion of Margaret Mead in &lt;!--\fullref{observational research}--&gt;.  It is probably worth reading the Introduction to *Coming of Age in American Samoa* to understand the call for Anthropological research.  One ahistorical note: Mead’s study was essentially debunked in the mid-1980s.  It is now taught as an example of confirmation bias. You will have to be *very* cautious when studying to ensure that you can present Mead’s work as it would have been in the 1970’s---a foundational text in the discipline and a paradigm of good science. 
+
+
+The president of the APA in 1957, Lee J. Cronbach, titled his presidential address 'The Two Disciplines of Scientific Psychology.' Compare what Cronbach says about 'correlational' psychology to the method used by Kinsey.    
+
+
+### Game Objectives
+
+Get on the Spitzer task force. You're an independent on all other issues that may come before the task force or the membership. It is important that you use your judgment on what an Anthropologist and sexologist would have thought of the various other proposals that come forward.
+
+You are neutral on the definition of mental illness, although you are sympathetic to those views that see mental illness as dysfunction of culture, not of the individual. 
+
+### Specific Assignments
+
+Give a formal presentation of the findings of the Kinsey report in 1972, highlighting homosexuality in both mail and female.  I. Beiber's 1962 book Homosexuality: A Psychoanalytic Study is often seen as a response to the Kinsey report, so be prepared for significant questions from Socarides and Beiber.
+
+Submit a proposal to have the APA formally recognize Evelyn Hooker for her Distinguished Contribution to Psychology in the Public Interest.
+
+You are an initial member of the Program committee, with your term expiring in 1974. Review the model schedule in the gamebook, and solicit proposals from your peers. You are encouraged to add to the liminality of the game by decorating the room in themes corresponding to the different locations: 71: Washington DC, 72: Dallas, 73: Honolulu, 74: Philadelphia, 75: Chicago.
+
+
+### Must Read
+[#Mead:1928uk]
+
+Kinsey Reports:
+Kinsey, Alfred C. et al. (1948/1998). Sexual Behavior in the Human Male. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Currently out of print, but on google books.
+Kinsey, Alfred C. et al. (1953/1998). Sexual Behavior in the Human Female. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Preview available on google books.
+Gebhard, Paul H. and Johnson, Alan B. (1979/1998). The Kinsey Data: Marginal Tabulations of 1938-1963 Interviews Conducted by the Institute for Sex Research. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Preview available on google books.
+Cornbach, L. J. (1956) “The Two Disciplines of Scientific Psychology” American Psychologist, 12: 671-684. Available at http://psychclassics.yorku.ca/Cronbach/Disciplines/
+#### Secondary Sources
+'Paul Gebhard Interview' by NPR 'New River Media' available at http://www.pbs.org/fmc/interviews/gebhard.htm
+
+
+
+</Text>
         </Document>
         <Document ID="86">
             <Title>John-B-Watson</Title>
@@ -9862,47 +9852,57 @@ WHITE, R. W. Motivation reconsidered: The concept of competence. Psychological R
 changing behavior. Reading, Mass.: Addison-Wesley, 1969.
 </Text>
         </Document>
-        <Document ID="347">
-            <Title>PGebhard</Title>
-            <Text>## Paul Gebhard, PhD
-### Your Biography
+        <Document ID="178">
+            <Title>Obits and Tributes</Title>
+            <Text>### Obituaries and Tributes 
 
-You were born July 3, 1917 in Rocky Ford, Colorado and obtained your B.S. from Harvard University in 1940, your Ph.D from Harvard University in 1947. You have worked in the Department of Anthropology at Indiana University from 1947 until the present, serving as the Director at the Institute for Sex Research starting 1956, after the death of your mentor, Alfred C. Kinsey.
+#### Anne Anastasi
 
-You are an Anthropologist, not a psychologist.  Anthropology has a varied and checkered history, especially in relation to psychology and sociology.  All three of these fields purport to study the human mind and human organizations, but they have gone about it in very different ways.  Pay close attention to the discussion of Margaret Mead in &lt;!--\fullref{observational research}--&gt;.  It is probably worth reading the Introduction to *Coming of Age in American Samoa* to understand the call for Anthropological research.  One ahistorical note: Mead’s study was essentially debunked in the mid-1980s.  It is now taught as an example of confirmation bias. You will have to be *very* cautious when studying to ensure that you can present Mead’s work as it would have been in the 1970’s---a foundational text in the discipline and a paradigm of good science. 
+“Anne Anastasi: Biography of a Former APA President” American Psychological Association: http://www.apa.org/about/archives/presidents/bio-anne-anastasi.asp
 
+Goode, E. “Anne Anastasi, the 'Test Guru' of Psychology, Is Dead at 92”, New York Times, May 16, 2001: http://www.nytimes.com/2001/05/16/nyregion/anne-anastasi-the-test-guru-of-psychology-is-dead-at-92.html 
 
-The president of the APA in 1957, Lee J. Cronbach, titled his presidential address 'The Two Disciplines of Scientific Psychology.' Compare what Cronbach says about 'correlational' psychology to the method used by Kinsey.    
+#### George Albee
 
+Kessler, M. (2007). "Obituary: George W. Albee (1921-2006)." American Psychologist 62(4): 317-318. 
 
-### Game Objectives
+Associated Press (2006) “George W. Albee; Psychologist Sought Social Cures” July 13, 2006
 
-Get on the Spitzer task force. You're an independent on all other issues that may come before the task force or the membership. It is important that you use your judgment on what an Anthropologist and sexologist would have thought of the various other proposals that come forward.
+#### Irving Bieber
 
-You are neutral on the definition of mental illness, although you are sympathetic to those views that see mental illness as dysfunction of culture, not of the individual. 
+Myers, S. L. “Irving Bieber, 80, a Psychoanalyst Who Studied Homosexuality, Dies” NY Times 8/28/1991 http://query.nytimes.com/gst/fullpage.html?res=9D0CE3D7153FF93BA1575BC0A967958260
 
-### Specific Assignments
+#### Kenneth Clark
 
-Give a formal presentation of the findings of the Kinsey report in 1972, highlighting homosexuality in both mail and female.  I. Beiber's 1962 book Homosexuality: A Psychoanalytic Study is often seen as a response to the Kinsey report, so be prepared for significant questions from Socarides and Beiber.
+Phillips, L. (2002). “Recontextualizing Kenneth B. Clark: An Afrocentric Perspective on the Paradoxical Legacy of a Model Psychologist-Activist.” Evolving Perspectives on the History of Psychology. W. E. Pickren and D. A. Dewsbury. Washington, DC, American Psychiatric Association. 
 
-Submit a proposal to have the APA formally recognize Evelyn Hooker for her Distinguished Contribution to Psychology in the Public Interest.
+#### John Fryer
 
-You are an initial member of the Program committee, with your term expiring in 1974. Review the model schedule in the gamebook, and solicit proposals from your peers. You are encouraged to add to the liminality of the game by decorating the room in themes corresponding to the different locations: 71: Washington DC, 72: Dallas, 73: Honolulu, 74: Philadelphia, 75: Chicago.
+Pray, R. (2003). “John E. Fryer, 65, psychiatrist.” The Philadelphia Inquirer. Philadelphia: B09.
 
+Lenzer, J. (2003). “John Fryer” BMJ  March 22; 326(7390): 662. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1125557/ 
 
-### Must Read
-[#Mead:1928uk]
+#### Barbara Gittings
 
-Kinsey Reports:
-Kinsey, Alfred C. et al. (1948/1998). Sexual Behavior in the Human Male. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Currently out of print, but on google books.
-Kinsey, Alfred C. et al. (1953/1998). Sexual Behavior in the Human Female. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Preview available on google books.
-Gebhard, Paul H. and Johnson, Alan B. (1979/1998). The Kinsey Data: Marginal Tabulations of 1938-1963 Interviews Conducted by the Institute for Sex Research. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Preview available on google books.
-Cornbach, L. J. (1956) “The Two Disciplines of Scientific Psychology” American Psychologist, 12: 671-684. Available at http://psychclassics.yorku.ca/Cronbach/Disciplines/
-#### Secondary Sources
-'Paul Gebhard Interview' by NPR 'New River Media' available at http://www.pbs.org/fmc/interviews/gebhard.htm
+Kameny, Frank (2007). “Frank Kameny's Eulogy for Barbara Gittings” available at http://www.kamenypapers.org/eulogy.htm
 
+#### Harry Harlow
 
+Sears, R. R. (1982). "Obituary: Harry Frederick Harlow (1905-1981)." American Psychologist 37(11): 1280-1281. 	
 
+Obituary for Harry Frederick Harlow (1905-1981). Harlow's research career, spanning a full half century, was notable for its single-minded adherence to the search for understanding of a single species, for the imaginative methods he devised for the study of both cognition and motivation, and for the crucially important findings these methods provided. His careful empirical development of the facts of behavioral development led to prepositional generalizations that have contributed notably to an understanding of human as well as monkey motivational development. (PsycINFO Database Record (c) 2008 APA, all rights reserve 
+
+#### Harold Lief
+
+Pearce, J. (2007). “Harold I. Lief, Advocate of Sex Education, Dies at 89”, The New York Times, March 23, 2007: http://www.nytimes.com/2007/03/23/obituaries/23lief.html 
+
+#### Charles Socarides
+
+Fox, M. “Charles W Socarides, Psychiatrist and Psychoanalyst, Is Dead at 83”, NY Times, 12/25/2005 http://www.nytimes.com/2005/12/28/nyregion/28socarides.html
+
+#### John P. Spiegel
+
+Cook, J. “John P. Spiegel, 80, Expert on Violence And Combat Stress” New York Times, July 19, 1991. http://www.nytimes.com/1991/07/19/obituaries/john-p-spiegel-80-expert-on-violence-and-combat-stress.html
 </Text>
         </Document>
         <Document ID="92">
@@ -11787,21 +11787,7 @@ The task of a psychoanalyst, then, is not only to discover the original traumati
 
 The difference between practice among the psychoanalytic approaches is emphasis, not technique. As J.B. Wheelwright noted in 1963, “Freud focused on sexuality, Adler focused on power, and Jung focused on growth, which he called individuation.” (quoted in *American Handbook of Psychiatry*, p. 817)
 
-##### For Further reading:
-
-###### Primary Sources:
-
-Freud. S. (1917 / 1989) Introductory Lectures on Psychoanalysis, Strachey, J (trans) Liveright
-
-Freud, S. (1912 / 1994). The Dynamics of Transference. Essential Papers on Transference Analysis. G. P. Bauer. Upper Saddle River, NJ, Jason Aronson, Inc.
-
-Jung, C. G. and A. Storr (1983). The essential Jung. Princeton, N.J., Princeton University Press.
-
-Jung, C. G., H. E. Read, et al. (1953). The collected works of C. G. Jung. New York, Pantheon Books, v. 4
-
-###### Secondary Sources:
-
-Arieti, S. (1974). American handbook of psychiatry. New York,, Basic Books.</Text>
+</Text>
             <Comments>'Neurotic' behavior results from continuing conflict between the libinal desires and the ego's repression techniques. 'Psychotic' behaviors result when the libinal desires assert their reality on the ego. See the discussion of 'neurosis' and 'psychosis' in the History of the Classification of Mental Illness section below.
 The Introductory Lectures were published before Freud solidified the structural hypothesis using this terminology.  The beginnings of the idea, however, is present in the later chapters on neurosis: see, e.g. p. 437-438, where he describes the conflict between the 'libido' and the 'ego'.
 The Introductory Lectures mention only repression, subdivided into 'condensation' and 'displacement' as mechanisms of the ego, but promises further work on the topic (p. 364-366). He began to develop a taxonomy of ego mechanisms later in his life, but the full-fledged taxonomy we see here was developed his daughter Anna Freud (1936). The Ego and and the Mechanisms of Defense. C. Baines (trans). Connecticut: International University Press.
@@ -12041,23 +12027,7 @@ There are two major kinds of inhibition therapies found in the literature:
 
 Other inhibition therapies, such as 'retroactive inhibition' are usually forms of reciprocal inhibition.
 
-##### Further Reading:
-
-###### Primary Sources:
-
-Skinner, B. F. (1953). Science and human behavior. New York,, Macmillan.
-
-Watson, John B. (1913) “Psychology as the Behaviorist Views it.” Psychological Review, 20, 158-177. Also available at: http://psychclassics.asu.edu/Watson/views.htm
-
-Watson, J. B. (1929). "Behaviorism -- The Modern Note in Psychology."
-
-###### Secondary Sources:
-
-Hornstein, G. A. (2002). The Return of the Repressed: Psychology's Problematic Relations with Psychoanalysis, 1909-1960. Evolving Perspectives on the History of Psychology. W. E. Pickren and D. A. Dewsbury. Washington, DC, The American Psychological Association.
-
-Wolpe, R. (1958) Psychotherapy by Reciprocal Inhibition, Stanford University Press, Stanford.
-
-Wozniak, Robert H. (1997) “Behaviorism: The Early Years” Available at http://www.brynmawr.edu/Acads/Psych/rwozniak/behaviorism.html</Text>
+</Text>
             <Comments>As with most things in the history of ideas, even this definition is controversial.  I've chosen this definition, which reflects Skinner's presentation of Behaviorism in his 1953 Science and Human Behavior, chapter 1 because it is the most explicit and radical.  Watson defines that the goal of behaviorism as the “prediction and control of behavior,” (1913) leaving out observation. To understand the various different forms of behaviorism that have been posited since Watson's, please see &lt;!--\ref{psychoanalysts}--&gt; on page &lt;!--\pageref{psychoanalysts}--&gt;.
 See, for further explication of this claim, Skinner 1953, p. 27-31. Watson does not use the term 'inner state', but refers rather to 'consciousness', which he (possibly fallaciously) equates with the object of introspection. Thus, after objecting to the unreliability of introspective reports in a laboratory setting he claims “The time seems to have come when psychology must discard all references to consciousness; when it need no longer delude itself into thinking that it is making mental states the object of observation.”
 Animals do not have superegos or techniques of repression, so the behaviors explained in psychoanalytic terms should not generalize across species. But they do. Therefore, psychoanalytic explanations are insufficient.
@@ -12393,24 +12363,6 @@ Thus, cognitivism distinguishes itself from behaviorism in terms of a meta-theor
 
 Cognitivism grew slowly between 1955 and 1965, in part because it was not an 'intentional' revolution like Behaviorism. George Miller's 1956 paper “The magical number seven, plus or minus two: Some limits on our capacity for processing information,” is one of the classics of cognitive psychology, although the term 'cognitive psychology' does not appear in it. Miller argues that  human's short-term memory behavior is limited to seven items plus or minus two.  These 'items', however, need not be individual atomic units like Ebbinghaus' nonsense syllables.  Miller hypothesized that brain could 'chunking' information into groups, which then could be easily remembered. To borrow a classic example from Bechtel and Graham, the sequence A, B, C, B, B, C, N, B, C, C, B, S would be difficult to remember on its own, but if it is 'chunked' into ABC, BBC, NBC, CBS, remembering it is simple. According to Miller, “There seems to be some limitation built into us either by learning or by design of our nervous system, al limit that keeps our channel capacities in this general range.” (1956, p. 86)  (see &lt;!--\ref{thesecondrevolution:cognitivescience}--&gt; for a historical introduction.) Miller's paper in included in the appendix.
 
-##### Further Reading
-
-###### Primary Sources:
-
-Miller, G. A. (1956). "The magical number seven, plus or minus two: Some limits on our capacity for processing information." Psychological Review 63: 81-97.
-
-Miller, G. A. (1962). Psychology, the science of mental life. New York,, Harper &amp; Row.
-
-
-###### Secondary Sources:
-
-Bechtel, W., A. Abrahamsen, et al. (1998). The Life of Cognitive Science. A Companion to Cognitive Science. W. Bechtel and G. Graham. Malden, Mass, Blackwell.
-
-Baars, B. J. (1986). The Cognitive Revolution in Psychology. New York, The Guildford Press.
-
-Leahey, T. H. (2002). The Mythical Revolutions of American Psychology. Evolving Perspectives on the History of Psychology. W. E. Pickren and D. A. Dewsbury. Washington, DC, American Psychological Association.
-
-Stillings, N.A., Feinstein, M.H., Garfield, J. L., Rissland, E.L, Rosenbaum, D.A., Weisler, S.E., Baker-Ward, L. Cognitive Science: An Introduction, Cambridge: MIT Press
 </Text>
         </Document>
         <Document ID="169">
@@ -12589,6 +12541,41 @@ Matarazzo, J. D. (1989). “The Reliability of Psychiatric and Psychological Dia
 
 
 --&gt;
+</Text>
+        </Document>
+        <Document ID="301">
+            <Title>AlbeeObit</Title>
+            <Text>￼￼OBITUARIES
+￼George W. Albee (1921–2006)
+￼￼￼George W. Albee, a past President of the American Psy- chological Association (APA) and lifelong advocate of the importance of social change to deal effectively with mental disorders, died in his home in Longboat Key, Florida, on July 8, 2006, after a short illness. Family members gathered at his home to be with him at his death.
+His impact on psychology is reflected in the many awards he received in his lifetime, which included the APA Distinguished Professional Contribution Award in 1975, the American Psychological Foundation Gold Medal Award for Life Achievement in Psychology in the Public Interest in 1993, and the Lifetime Achievement Award in Applied Pre- ventive Psychology in 1997. He was a member of nine APA divisions and a fellow of four of them: Divisions 12 (Society of Clinical Psychology), 27 (Society for Community Research and Action: Division of Community Psychology), 35 (Society for the Psychology of Women), and 44 (Society for the Psychological Study of Lesbian, Gay, and Bisexual Issues). With his passing, psychology lost one of the staunchest ad- vocates of prevention as the most important approach to dealing with psychological ills. He was also a lifelong advo- cate for the disenfranchised.
+George’s belief that most psychological distress was a result of adverse social conditions—such as poverty, racism, and sexism—and not biology, undergirded his tireless fight for a psychology of prevention. His students could quote in their sleep his mantra “No mass disorder afflicting humankind
+May–June 2007 ● American Psychologist
+Copyright 2007 by the American Psychological Association 0003-066X/07/$12.00 Vol. 62, No. 4, 317–318 DOI: 10.1037/0003-066X.62.4.317
+has ever been brought under control by attempts at treating the individual,” and many took up his call and pursued careers in public health.
+George was born on December 20, 1921, in St. Mary’s, Pennsylvania. After attending local schools, he graduated from Bethany College in West Virginia in 1943 and served three years in the Army Air Forces during World War II. He earned his master’s degree (1947) and doctoral degree (1949) from the University of Pittsburgh with a dissertation titled “The Relation of Certain Socio-Cultural Experiences to De- lusions in Schizophrenia.” He completed a predoctoral clinical internship through the Veterans Administration (VA) and was among the first wave of psychologists to receive training in VA hospitals. After graduation, he joined the research staff at the Western Psychiatric Institute in Pittsburgh. His early re- search investigated various aspects of schizophrenia and laid the groundwork for his belief in the social causes of mental illness.
+He began his lifelong association with the APA in 1951 when he joined its staff as assistant executive secretary. At the time, the APA was housed in seven rooms of the old Amer- ican Association for the Advancement of Science building, and APA’s entire professional staff consisted of four people: Fillmore Sanford, Jane Hildreth, Margaret Harlow, and Albee. Among his responsibilities were public information, public relations, and placement. He started the APA Employment Bulletin to assist with the latter. He hired Michael Amrine, an experienced science writer, to run the press room at the 1952 annual convention. Amrine ended up staying at APA for 17 years, and he and Albee collaborated on numerous public information projects.
+George received a Fulbright Fellowship that took him to Helsinki University in 1953. He returned the following year to join the faculty at Western Reserve University (later Case Western Reserve University) in Cleveland, Ohio. There he rose through the ranks to professor and chaired the psychology department three different times. In 1958, he was named the George Trumbull Ladd Distinguished Professor of Psychology.
+While at Case Western Reserve, he collaborated with Ellen Lane and their students to publish a lengthy series of studies on the childhood intellectual development of adult schizophrenics. Later, he and Marguerite Dickey published the first study of human resources in the mental health pro- fessions. Following that work, George was appointed to head the Task Force on Manpower of President Eisenhower’s Joint Commission on Mental Health and Illness in 1958. The report of the work of that commission, which was published sepa- rately as “Mental Health Manpower Trends” in 1959, was considered by Nicholas Hobbs to be one of the three most influential publications of the decade. The work of the com- mission led to the Community Mental Health Act and the
+￼317
+development of modern community mental health centers. George was recalled to service by President Carter and served as coordinator of the Task Panel on Prevention of the Presi- dent’s Commission on Mental Health from 1977 to 1978.
+As a result of his experience and research in mental health, George became convinced of two things: first, that mental health problems were not the same as medical problems and could not be addressed by the same methods, and second, that there would never be sufficient human resources to treat all the “cases” of mental illness. He believed strongly that preventing problems was more effective, efficient, and humane in the long run than attempting to treat them with inadequate resources. Eventually, his work as an advocate for prevention would have both a national and international influence.
+George joined the faculty at the University of Vermont in 1971 and remained there until he retired in 1992. He established the Vermont Conferences on Primary Prevention at the University of Vermont, which held annual conferences for 17 years and published the proceedings, works that were seminal in promoting prevention programs around the world. Several of his students have become internationally recog- nized experts in prevention and mental health policy. George served as a mentor in prevention for his junior colleagues as well.
+Trained at a time when psychology was seen as the step- child of psychiatry, George advocated for independent training centers for psychologists and for legal recognition of psycholo- gists. Never afraid of controversy, he published many articles demonstrating the inadequacy of the sickness model of psycho- pathology, noting instead the contribution of social and political factors to their development. He taught that poverty, racism, and sexism were far more strongly associated with mental illness than were microbes, genes, or twisted molecules. He was an advocate for social change and for strengthening individual resources for coping with adversity.
+In line with these views, he even took on the psycholog- ical establishment and published articles recommending that psychotherapy not be paid for by medical insurance, correctly predicting that insurance companies would then begin to dic- tate how psychotherapy should be practiced. He was ada- mantly opposed to the current move to obtain prescription privileges for psychologists, a practice he saw as antithetical to a psychological practice and a boon to the pharmaceutical industry, which already dominates psychiatric practice.
+When George retired from the University of Vermont, he moved to Longboat Key, Florida. He was appointed courtesy professor at the Florida Mental Health Institute and visiting professor at the University of South Florida, where he con- tinued advocating for prevention. Recently, the University of South Florida’s National Institute on Multicultural Compe- tence dedicated its Student Mentoring/Early Career Profes- sional Leadership Development Training Program to George with these words: “This new intervention is dedicated to the life and legacy of George Albee, whose advocacy for preven- tion in the fields of counseling and psychology underlies the principles and spirit of the Student Mentoring and Early Career Professional Leadership Development Training Pro- gram.”
+George was an avid cook, gardener, and “rancher” (pigs, a cow, chickens), and he lived a green life long before doing so became part of a social movement. Early mornings in Vermont would see him making the rounds of the supermar- kets in his red pickup truck, collecting their discarded food for feeding to his pigs, or fertilizing his gigantic poppies with sawdust and animal droppings from the psychology depart- ment’s animal colony. His garden supported many tables each fall, and his contributions of tomatoes were legendary. He reached the national finals of a cooking contest with his recipe for “Marco Polo Pot Roast” and published a paper, jointly authored with his wife Margaret Tong, on Chinese cooking for Vermonters (titled “Woodstoves and Woks”).
+As Steve Goldston, Justin Joffe, and I wrote in 1992, in a Festschrift for George to celebrate his 70th birthday,
+[We] have also been invited along with George—to write articles and books, to plan conferences, to kill and dress chickens that were no longer layers, and in myriad other ways to walk with him in his path and to see the world through his lenses: a world free from exploitation and domination of one group by another, a world in which each person has the freedom and the resources to develop her or his resources to the fullest, a world in which the highest goal would be one person’s concern and regard for oth- ers. . . . [W]ith George’s invitation comes the unwritten command to fight the good fight, to smite the unrighteous, to educate the Philistines—with energy, commitment, and enthusiasm.
+As far as a life so varied and energetic can be reduced to words, that chapter captures some of the main themes and contributions of George’s professional life and a little of what he was like—some of his humor, his humanity, his dedication to improving the lot of humankind, his intellec- tual energy, and his wide-ranging curiosity.
+George was a frequent contributor to an eclectic array of publications: His letters to Ann Landers resulted in an article titled “Ann and Me,” and he also wrote a humor column for the Longboat Observer for several years. But most important, until the end, he wrote about, advocated, and truly battled for prevention. Albee’s memorial service at the University of Vermont on August 20, 2006, began with a five-minute slide show compiled by his daughter-in-law Beth Donovan. The photographs of George in those slides ranged across the years—from an image of him as a baby on his mother’s lap, through his time in uniform during World War II, then farm- ing his land, debating, cooking, milking a cow, receiving APA awards, to very recent portraits surrounded by his grandchil- dren—and were accompanied by a recording of Frank Sinatra singing “My Way,” written by Paul Anka. As we listened to Sinatra, some of us couldn’t help but think that the words might have been written for George himself:
+I’ve lived, a life that’s full, I’ve traveled each and every highway. And more, much more than this,
+I did it my way.
+Albee is survived by his wife, Margaret Tong; his children, Luke Albee, Alec Albee, Marina Albee, and Sarah Albee Willson; and 10 grandchildren.
+Marc Kessler
+University of Vermont
+￼318
+May–June 2007 ● American Psychologist
 </Text>
         </Document>
         <Document ID="296">
@@ -16044,41 +16031,6 @@ Mr. C. Larry Shull Methods Analyst Dept. of Institutions Olympia, Washington
 Mr. John Mannering Chief Statistician Bureau of Research and
 Statistics
 Dept. of Public Welfare Madison 2, Wisconsin
-</Text>
-        </Document>
-        <Document ID="301">
-            <Title>AlbeeObit</Title>
-            <Text>￼￼OBITUARIES
-￼George W. Albee (1921–2006)
-￼￼￼George W. Albee, a past President of the American Psy- chological Association (APA) and lifelong advocate of the importance of social change to deal effectively with mental disorders, died in his home in Longboat Key, Florida, on July 8, 2006, after a short illness. Family members gathered at his home to be with him at his death.
-His impact on psychology is reflected in the many awards he received in his lifetime, which included the APA Distinguished Professional Contribution Award in 1975, the American Psychological Foundation Gold Medal Award for Life Achievement in Psychology in the Public Interest in 1993, and the Lifetime Achievement Award in Applied Pre- ventive Psychology in 1997. He was a member of nine APA divisions and a fellow of four of them: Divisions 12 (Society of Clinical Psychology), 27 (Society for Community Research and Action: Division of Community Psychology), 35 (Society for the Psychology of Women), and 44 (Society for the Psychological Study of Lesbian, Gay, and Bisexual Issues). With his passing, psychology lost one of the staunchest ad- vocates of prevention as the most important approach to dealing with psychological ills. He was also a lifelong advo- cate for the disenfranchised.
-George’s belief that most psychological distress was a result of adverse social conditions—such as poverty, racism, and sexism—and not biology, undergirded his tireless fight for a psychology of prevention. His students could quote in their sleep his mantra “No mass disorder afflicting humankind
-May–June 2007 ● American Psychologist
-Copyright 2007 by the American Psychological Association 0003-066X/07/$12.00 Vol. 62, No. 4, 317–318 DOI: 10.1037/0003-066X.62.4.317
-has ever been brought under control by attempts at treating the individual,” and many took up his call and pursued careers in public health.
-George was born on December 20, 1921, in St. Mary’s, Pennsylvania. After attending local schools, he graduated from Bethany College in West Virginia in 1943 and served three years in the Army Air Forces during World War II. He earned his master’s degree (1947) and doctoral degree (1949) from the University of Pittsburgh with a dissertation titled “The Relation of Certain Socio-Cultural Experiences to De- lusions in Schizophrenia.” He completed a predoctoral clinical internship through the Veterans Administration (VA) and was among the first wave of psychologists to receive training in VA hospitals. After graduation, he joined the research staff at the Western Psychiatric Institute in Pittsburgh. His early re- search investigated various aspects of schizophrenia and laid the groundwork for his belief in the social causes of mental illness.
-He began his lifelong association with the APA in 1951 when he joined its staff as assistant executive secretary. At the time, the APA was housed in seven rooms of the old Amer- ican Association for the Advancement of Science building, and APA’s entire professional staff consisted of four people: Fillmore Sanford, Jane Hildreth, Margaret Harlow, and Albee. Among his responsibilities were public information, public relations, and placement. He started the APA Employment Bulletin to assist with the latter. He hired Michael Amrine, an experienced science writer, to run the press room at the 1952 annual convention. Amrine ended up staying at APA for 17 years, and he and Albee collaborated on numerous public information projects.
-George received a Fulbright Fellowship that took him to Helsinki University in 1953. He returned the following year to join the faculty at Western Reserve University (later Case Western Reserve University) in Cleveland, Ohio. There he rose through the ranks to professor and chaired the psychology department three different times. In 1958, he was named the George Trumbull Ladd Distinguished Professor of Psychology.
-While at Case Western Reserve, he collaborated with Ellen Lane and their students to publish a lengthy series of studies on the childhood intellectual development of adult schizophrenics. Later, he and Marguerite Dickey published the first study of human resources in the mental health pro- fessions. Following that work, George was appointed to head the Task Force on Manpower of President Eisenhower’s Joint Commission on Mental Health and Illness in 1958. The report of the work of that commission, which was published sepa- rately as “Mental Health Manpower Trends” in 1959, was considered by Nicholas Hobbs to be one of the three most influential publications of the decade. The work of the com- mission led to the Community Mental Health Act and the
-￼317
-development of modern community mental health centers. George was recalled to service by President Carter and served as coordinator of the Task Panel on Prevention of the Presi- dent’s Commission on Mental Health from 1977 to 1978.
-As a result of his experience and research in mental health, George became convinced of two things: first, that mental health problems were not the same as medical problems and could not be addressed by the same methods, and second, that there would never be sufficient human resources to treat all the “cases” of mental illness. He believed strongly that preventing problems was more effective, efficient, and humane in the long run than attempting to treat them with inadequate resources. Eventually, his work as an advocate for prevention would have both a national and international influence.
-George joined the faculty at the University of Vermont in 1971 and remained there until he retired in 1992. He established the Vermont Conferences on Primary Prevention at the University of Vermont, which held annual conferences for 17 years and published the proceedings, works that were seminal in promoting prevention programs around the world. Several of his students have become internationally recog- nized experts in prevention and mental health policy. George served as a mentor in prevention for his junior colleagues as well.
-Trained at a time when psychology was seen as the step- child of psychiatry, George advocated for independent training centers for psychologists and for legal recognition of psycholo- gists. Never afraid of controversy, he published many articles demonstrating the inadequacy of the sickness model of psycho- pathology, noting instead the contribution of social and political factors to their development. He taught that poverty, racism, and sexism were far more strongly associated with mental illness than were microbes, genes, or twisted molecules. He was an advocate for social change and for strengthening individual resources for coping with adversity.
-In line with these views, he even took on the psycholog- ical establishment and published articles recommending that psychotherapy not be paid for by medical insurance, correctly predicting that insurance companies would then begin to dic- tate how psychotherapy should be practiced. He was ada- mantly opposed to the current move to obtain prescription privileges for psychologists, a practice he saw as antithetical to a psychological practice and a boon to the pharmaceutical industry, which already dominates psychiatric practice.
-When George retired from the University of Vermont, he moved to Longboat Key, Florida. He was appointed courtesy professor at the Florida Mental Health Institute and visiting professor at the University of South Florida, where he con- tinued advocating for prevention. Recently, the University of South Florida’s National Institute on Multicultural Compe- tence dedicated its Student Mentoring/Early Career Profes- sional Leadership Development Training Program to George with these words: “This new intervention is dedicated to the life and legacy of George Albee, whose advocacy for preven- tion in the fields of counseling and psychology underlies the principles and spirit of the Student Mentoring and Early Career Professional Leadership Development Training Pro- gram.”
-George was an avid cook, gardener, and “rancher” (pigs, a cow, chickens), and he lived a green life long before doing so became part of a social movement. Early mornings in Vermont would see him making the rounds of the supermar- kets in his red pickup truck, collecting their discarded food for feeding to his pigs, or fertilizing his gigantic poppies with sawdust and animal droppings from the psychology depart- ment’s animal colony. His garden supported many tables each fall, and his contributions of tomatoes were legendary. He reached the national finals of a cooking contest with his recipe for “Marco Polo Pot Roast” and published a paper, jointly authored with his wife Margaret Tong, on Chinese cooking for Vermonters (titled “Woodstoves and Woks”).
-As Steve Goldston, Justin Joffe, and I wrote in 1992, in a Festschrift for George to celebrate his 70th birthday,
-[We] have also been invited along with George—to write articles and books, to plan conferences, to kill and dress chickens that were no longer layers, and in myriad other ways to walk with him in his path and to see the world through his lenses: a world free from exploitation and domination of one group by another, a world in which each person has the freedom and the resources to develop her or his resources to the fullest, a world in which the highest goal would be one person’s concern and regard for oth- ers. . . . [W]ith George’s invitation comes the unwritten command to fight the good fight, to smite the unrighteous, to educate the Philistines—with energy, commitment, and enthusiasm.
-As far as a life so varied and energetic can be reduced to words, that chapter captures some of the main themes and contributions of George’s professional life and a little of what he was like—some of his humor, his humanity, his dedication to improving the lot of humankind, his intellec- tual energy, and his wide-ranging curiosity.
-George was a frequent contributor to an eclectic array of publications: His letters to Ann Landers resulted in an article titled “Ann and Me,” and he also wrote a humor column for the Longboat Observer for several years. But most important, until the end, he wrote about, advocated, and truly battled for prevention. Albee’s memorial service at the University of Vermont on August 20, 2006, began with a five-minute slide show compiled by his daughter-in-law Beth Donovan. The photographs of George in those slides ranged across the years—from an image of him as a baby on his mother’s lap, through his time in uniform during World War II, then farm- ing his land, debating, cooking, milking a cow, receiving APA awards, to very recent portraits surrounded by his grandchil- dren—and were accompanied by a recording of Frank Sinatra singing “My Way,” written by Paul Anka. As we listened to Sinatra, some of us couldn’t help but think that the words might have been written for George himself:
-I’ve lived, a life that’s full, I’ve traveled each and every highway. And more, much more than this,
-I did it my way.
-Albee is survived by his wife, Margaret Tong; his children, Luke Albee, Alec Albee, Marina Albee, and Sarah Albee Willson; and 10 grandchildren.
-Marc Kessler
-University of Vermont
-￼318
-May–June 2007 ● American Psychologist
 </Text>
         </Document>
         <Document ID="266">
@@ -26687,6 +26639,67 @@ Grinker, R. &amp; Spiegel, J. P. (1945) Men Under Stress American Psychological 
 \printbibliography[heading=subbibliography]
 
 --&gt;</Text>
+        </Document>
+        <Document ID="353">
+            <Title>WorksCited</Title>
+            <Text>Psychoanalysts
+
+##### For Further reading:
+
+###### Primary Sources:
+
+Freud. S. (1917 / 1989) Introductory Lectures on Psychoanalysis, Strachey, J (trans) Liveright
+
+Freud, S. (1912 / 1994). The Dynamics of Transference. Essential Papers on Transference Analysis. G. P. Bauer. Upper Saddle River, NJ, Jason Aronson, Inc.
+
+Jung, C. G. and A. Storr (1983). The essential Jung. Princeton, N.J., Princeton University Press.
+
+Jung, C. G., H. E. Read, et al. (1953). The collected works of C. G. Jung. New York, Pantheon Books, v. 4
+
+###### Secondary Sources:
+
+Arieti, S. (1974). American handbook of psychiatry. New York,, Basic Books.
+
+Behaviorists
+##### Further Reading:
+
+###### Primary Sources:
+
+Skinner, B. F. (1953). Science and human behavior. New York,, Macmillan.
+
+Watson, John B. (1913) “Psychology as the Behaviorist Views it.” Psychological Review, 20, 158-177. Also available at: http://psychclassics.asu.edu/Watson/views.htm
+
+Watson, J. B. (1929). "Behaviorism -- The Modern Note in Psychology."
+
+###### Secondary Sources:
+
+Hornstein, G. A. (2002). The Return of the Repressed: Psychology's Problematic Relations with Psychoanalysis, 1909-1960. Evolving Perspectives on the History of Psychology. W. E. Pickren and D. A. Dewsbury. Washington, DC, The American Psychological Association.
+
+Wolpe, R. (1958) Psychotherapy by Reciprocal Inhibition, Stanford University Press, Stanford.
+
+Wozniak, Robert H. (1997) “Behaviorism: The Early Years” Available at http://www.brynmawr.edu/Acads/Psych/rwozniak/behaviorism.html
+
+Cognitivists
+
+##### Further Reading
+
+###### Primary Sources:
+
+Miller, G. A. (1956). "The magical number seven, plus or minus two: Some limits on our capacity for processing information." Psychological Review 63: 81-97.
+
+Miller, G. A. (1962). Psychology, the science of mental life. New York,, Harper &amp; Row.
+
+
+###### Secondary Sources:
+
+Bechtel, W., A. Abrahamsen, et al. (1998). The Life of Cognitive Science. A Companion to Cognitive Science. W. Bechtel and G. Graham. Malden, Mass, Blackwell.
+
+Baars, B. J. (1986). The Cognitive Revolution in Psychology. New York, The Guildford Press.
+
+Leahey, T. H. (2002). The Mythical Revolutions of American Psychology. Evolving Perspectives on the History of Psychology. W. E. Pickren and D. A. Dewsbury. Washington, DC, American Psychological Association.
+
+Stillings, N.A., Feinstein, M.H., Garfield, J. L., Rissland, E.L, Rosenbaum, D.A., Weisler, S.E., Baker-Ward, L. Cognitive Science: An Introduction, Cambridge: MIT Press
+</Text>
         </Document>
         <Document ID="323">
             <Title>The Logic of evidence</Title>
