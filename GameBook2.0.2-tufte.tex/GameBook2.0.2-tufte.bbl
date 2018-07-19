@@ -19,13 +19,131 @@
 
 \refsection{1}
   \sortlist[entry]{nty/global/}
+    \entry{Aldrich:2005wq}{booklet}{}
+      \name{author}{2}{}{%
+        {{hash=f3d8e5d075fdbc4e193ed7ee19228090}{%
+           family={Aldrich},
+           familyi={A\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e9a6cfe990ab8f4ae9c2e2e2a8da0b3d}{%
+           family={Wotherspoon},
+           familyi={W\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3da5b2402acf06cdffd70626aa44440b}
+      \strng{fullhash}{3da5b2402acf06cdffd70626aa44440b}
+      \strng{authornamehash}{3da5b2402acf06cdffd70626aa44440b}
+      \strng{authorfullhash}{3da5b2402acf06cdffd70626aa44440b}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Who's Who in Contemporary Gay and Lesbian History Vol. 2: From World War II to the Present Day}}
+      \field{year}{2005}
+    \endentry
+    \entry{Andreas:WVE4neKa}{book}{}
+      \name{author}{1}{}{%
+        {{hash=39cb86342bb5c3ee04d28279346f865a}{%
+           family={Andreas},
+           familyi={A\bibinitperiod},
+           given={Burton},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons}%
+      }
+      \strng{namehash}{39cb86342bb5c3ee04d28279346f865a}
+      \strng{fullhash}{39cb86342bb5c3ee04d28279346f865a}
+      \strng{authornamehash}{39cb86342bb5c3ee04d28279346f865a}
+      \strng{authorfullhash}{39cb86342bb5c3ee04d28279346f865a}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Experimental Psychology}}
+      \field{year}{1960}
+    \endentry
+    \entry{Appignanesi:2009vl}{book}{}
+      \name{author}{1}{}{%
+        {{hash=af5b834bd8d75ff4243d5eb22c1803d6}{%
+           family={Appignanesi},
+           familyi={A\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W. W. Norton {\&} Company}%
+      }
+      \strng{namehash}{af5b834bd8d75ff4243d5eb22c1803d6}
+      \strng{fullhash}{af5b834bd8d75ff4243d5eb22c1803d6}
+      \strng{authornamehash}{af5b834bd8d75ff4243d5eb22c1803d6}
+      \strng{authorfullhash}{af5b834bd8d75ff4243d5eb22c1803d6}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{{Mad, Bad, and Sad: A History of Women and the Mind Doctors}}
+      \field{year}{2009}
+    \endentry
+    \entry{Arieti:1974tm}{book}{}
+      \name{author}{1}{}{%
+        {{hash=44cbb0681a5e70aecdb3f197b25c43ce}{%
+           family={Arieti},
+           familyi={A\bibinitperiod},
+           given={Silvano},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{44cbb0681a5e70aecdb3f197b25c43ce}
+      \strng{fullhash}{44cbb0681a5e70aecdb3f197b25c43ce}
+      \strng{authornamehash}{44cbb0681a5e70aecdb3f197b25c43ce}
+      \strng{authorfullhash}{44cbb0681a5e70aecdb3f197b25c43ce}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{73078893Silvano Arieti, editor-in-chief.27 cm.Includes bibliographies.}
+      \field{title}{{American handbook of psychiatry}}
+      \field{year}{1974}
+    \endentry
+    \entry{Baars:i5QbNrcs}{book}{}
+      \name{author}{1}{}{%
+        {{hash=238f8ed213a73a1bbf8c880316615cbd}{%
+           family={Baars},
+           familyi={B\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{238f8ed213a73a1bbf8c880316615cbd}
+      \strng{fullhash}{238f8ed213a73a1bbf8c880316615cbd}
+      \strng{authornamehash}{238f8ed213a73a1bbf8c880316615cbd}
+      \strng{authorfullhash}{238f8ed213a73a1bbf8c880316615cbd}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The Cognitive Revolution in Psychology}}
+      \field{year}{1986}
+    \endentry
     \entry{Bacon:1620ui}{book}{}
-      \name{author}{3}{}{%
+      \name{author}{1}{}{%
         {{hash=c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}{%
            family={Bacon},
            familyi={B\bibinitperiod},
            given={Francis},
            giveni={F\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
         {{hash=466a6855128d664303cfd25c0228cd3e}{%
            family={Jardine},
            familyi={J\bibinitperiod},
@@ -37,10 +155,12 @@
            given={Michael},
            giveni={M\bibinitperiod}}}%
       }
-      \strng{namehash}{13c4880b55904cb408682aa058eb189f}
-      \strng{fullhash}{13c4880b55904cb408682aa058eb189f}
-      \strng{authornamehash}{13c4880b55904cb408682aa058eb189f}
-      \strng{authorfullhash}{13c4880b55904cb408682aa058eb189f}
+      \strng{namehash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \strng{fullhash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \strng{authornamehash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \strng{authorfullhash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
+      \strng{editornamehash}{e00b9e1ee39be5e4f3d30c2abf470e7a}
+      \strng{editorfullhash}{e00b9e1ee39be5e4f3d30c2abf470e7a}
       \field{sortinit}{B}
       \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
       \field{labeldatesource}{year}
@@ -48,7 +168,164 @@
       \field{labeltitlesource}{title}
       \field{annotation}{99023266Novum organum. EnglishFrancis Bacon ; edited by Lisa Jardine, Michael Silverthorne.24 cm.Includes bibliographical references and index.}
       \field{title}{{The new organon}}
-      \field{year}{1620}
+      \field{year}{2000}
+    \endentry
+    \entry{Bain:1903tf}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d789fd8eee71f91ab3f2c3ca632c4f92}{%
+           family={Bain},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d789fd8eee71f91ab3f2c3ca632c4f92}
+      \strng{fullhash}{d789fd8eee71f91ab3f2c3ca632c4f92}
+      \strng{authornamehash}{d789fd8eee71f91ab3f2c3ca632c4f92}
+      \strng{authorfullhash}{d789fd8eee71f91ab3f2c3ca632c4f92}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Dissertations on Leading Philosophical Topics}}
+      \field{year}{1903}
+    \endentry
+    \entry{Ball:2010tk}{article}{}
+      \name{author}{2}{}{%
+        {{hash=57730b53eaa91aea1093bd2a087488a4}{%
+           family={Ball},
+           familyi={B\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c191c23770ee3db6e1ac691c329fe5df}{%
+           family={Bazar},
+           familyi={B\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed9f18ad9ed74eca0d6a08d383b21ecf}
+      \strng{fullhash}{ed9f18ad9ed74eca0d6a08d383b21ecf}
+      \strng{authornamehash}{ed9f18ad9ed74eca0d6a08d383b21ecf}
+      \strng{authorfullhash}{ed9f18ad9ed74eca0d6a08d383b21ecf}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Time Capsule}
+      \field{number}{11}
+      \field{title}{{'I tormented the doctors to operate again': A look at patient decisions and the history of sexual surgeries.}}
+      \field{volume}{41}
+      \field{year}{2010}
+      \field{pages}{26}
+      \range{pages}{1}
+    \endentry
+    \entry{Beard:1881tg}{book}{}
+      \name{author}{1}{}{%
+        {{hash=86e3021bd80d9882c395743621a3087f}{%
+           family={Beard},
+           familyi={B\bibinitperiod},
+           given={George\bibnamedelima Miller},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {G. P. Putnam's Sons}%
+      }
+      \strng{namehash}{86e3021bd80d9882c395743621a3087f}
+      \strng{fullhash}{86e3021bd80d9882c395743621a3087f}
+      \strng{authornamehash}{86e3021bd80d9882c395743621a3087f}
+      \strng{authorfullhash}{86e3021bd80d9882c395743621a3087f}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{American Nervousness: its causes and consequences}}
+      \field{year}{1881}
+    \endentry
+    \entry{Beard:1867tz}{booklet}{}
+      \name{author}{2}{}{%
+        {{hash=86e3021bd80d9882c395743621a3087f}{%
+           family={Beard},
+           familyi={B\bibinitperiod},
+           given={George\bibnamedelima Miller},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=533370767f1a4b06548453aff95014e2}{%
+           family={Rockwell},
+           familyi={R\bibinitperiod},
+           given={Alphonso\bibnamedelima David},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{6762a03241e73a8b141bbc0a3fe767e5}
+      \strng{fullhash}{6762a03241e73a8b141bbc0a3fe767e5}
+      \strng{authornamehash}{6762a03241e73a8b141bbc0a3fe767e5}
+      \strng{authorfullhash}{6762a03241e73a8b141bbc0a3fe767e5}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The Medical Use of Electricity}}
+      \field{year}{1867}
+    \endentry
+    \entry{Bechtel:1999vr}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=83021149400056f4147e7d0b34342287}{%
+           family={Bechtel},
+           familyi={B\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e4d6407a183bc7397487c2d692bb5bf9}{%
+           family={Abramahson},
+           familyi={A\bibinitperiod},
+           given={Adele},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{3057e0cbe7499eda8d69e481c72b1395}
+      \strng{fullhash}{3057e0cbe7499eda8d69e481c72b1395}
+      \strng{authornamehash}{3057e0cbe7499eda8d69e481c72b1395}
+      \strng{authorfullhash}{3057e0cbe7499eda8d69e481c72b1395}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{A Companion to Cognitive Science}
+      \field{month}{9}
+      \field{title}{{The Life of Cognitive Science}}
+      \field{year}{1999}
+    \endentry
+    \entry{Bernfeld:1949ji}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9a1199445fb2876699cba170641b8769}{%
+           family={Bernfeld},
+           familyi={B\bibinitperiod},
+           given={Siegfried},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a1199445fb2876699cba170641b8769}
+      \strng{fullhash}{9a1199445fb2876699cba170641b8769}
+      \strng{authornamehash}{9a1199445fb2876699cba170641b8769}
+      \strng{authorfullhash}{9a1199445fb2876699cba170641b8769}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Imago}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{{Freud's Scientific Beginnings}}
+      \field{volume}{6}
+      \field{year}{1949}
+      \field{pages}{163\bibrangedash 196}
+      \range{pages}{34}
     \endentry
     \entry{Brown:1972to}{book}{}
       \name{author}{1}{}{%
@@ -96,6 +373,29 @@
       \field{pages}{279\bibrangedash 290}
       \range{pages}{12}
     \endentry
+    \entry{Carr:1996uw}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f6bd95f41a65bfabbed732330379a6fb}{%
+           family={Carr},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima M},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f6bd95f41a65bfabbed732330379a6fb}
+      \strng{fullhash}{f6bd95f41a65bfabbed732330379a6fb}
+      \strng{authornamehash}{f6bd95f41a65bfabbed732330379a6fb}
+      \strng{authorfullhash}{f6bd95f41a65bfabbed732330379a6fb}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Encyclopedia of Rhetoric and Composition}
+      \field{title}{{Port-Royalists}}
+      \field{year}{1996}
+      \field{pages}{544\bibrangedash 547}
+      \range{pages}{4}
+    \endentry
     \entry{Chomsky:1965uu}{book}{}
       \name{author}{1}{}{%
         {{hash=8e69e2dec38581003537abdb261651d0}{%
@@ -122,6 +422,59 @@
       \field{annotation}{74012329illus. 23 cm.Bibliography: p. [115]-118.}
       \field{title}{{Syntactic Structures. Aspects of the Theory of Syntax}}
       \field{year}{1965}
+    \endentry
+    \entry{Clark1903}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a8842ba914880dc3431cc0e416eda0b5}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={W\bibnamedelima R},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8842ba914880dc3431cc0e416eda0b5}
+      \strng{fullhash}{a8842ba914880dc3431cc0e416eda0b5}
+      \strng{authornamehash}{a8842ba914880dc3431cc0e416eda0b5}
+      \strng{authorfullhash}{a8842ba914880dc3431cc0e416eda0b5}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Pascal and the Port Royalists}}
+      \field{year}{1903}
+      \field{pages}{1\bibrangedash 253}
+      \range{pages}{253}
+    \endentry
+    \entry{Clendinen:2013wy}{book}{}
+      \name{author}{2}{}{%
+        {{hash=25fab1471efec3d1eaf6eea9799d997b}{%
+           family={Clendinen},
+           familyi={C\bibinitperiod},
+           given={Dudley},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c5fa073e57a972a8b5b93b5d434745a5}{%
+           family={Nagourney},
+           familyi={N\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Simon}%
+        {Schuster}%
+      }
+      \strng{namehash}{8a5de02db211e8c5178161b8bbdf5668}
+      \strng{fullhash}{8a5de02db211e8c5178161b8bbdf5668}
+      \strng{authornamehash}{8a5de02db211e8c5178161b8bbdf5668}
+      \strng{authorfullhash}{8a5de02db211e8c5178161b8bbdf5668}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{series}{The Struggle to Build a Gay Rights Movement in Ame}
+      \field{title}{{Out For Good}}
+      \field{year}{2013}
     \endentry
     \entry{Cordaro:2016bv}{article}{}
       \name{author}{2}{}{%
@@ -154,6 +507,165 @@
       \field{pages}{787\bibrangedash 789}
       \range{pages}{3}
     \endentry
+    \entry{Daston:1978vx}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a087df95b5b39def2de64be16a4627f8}{%
+           family={Daston},
+           familyi={D\bibinitperiod},
+           given={Lorraine\bibnamedelima J},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a087df95b5b39def2de64be16a4627f8}
+      \strng{fullhash}{a087df95b5b39def2de64be16a4627f8}
+      \strng{authornamehash}{a087df95b5b39def2de64be16a4627f8}
+      \strng{authorfullhash}{a087df95b5b39def2de64be16a4627f8}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The History of Science Society}
+      \field{number}{2}
+      \field{title}{{British Response to Psycho-Physiology 1860-1900}}
+      \field{volume}{69}
+      \field{year}{1978}
+      \field{pages}{192\bibrangedash 208}
+      \range{pages}{17}
+    \endentry
+    \entry{Descartes:ut}{book}{}
+      \name{author}{2}{}{%
+        {{hash=9f046e68c5b38bcc80be3d2cc6f58dd6}{%
+           family={Descartes},
+           familyi={D\bibinitperiod},
+           given={René},
+           giveni={R\bibinitperiod}}}%
+        {{hash=eff21a433c95a45319e1650776b209bb}{%
+           family={Ariew},
+           familyi={A\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hackett Publishing}%
+      }
+      \strng{namehash}{93f29d17d4ba719575edcd436b2e770a}
+      \strng{fullhash}{93f29d17d4ba719575edcd436b2e770a}
+      \strng{authornamehash}{93f29d17d4ba719575edcd436b2e770a}
+      \strng{authorfullhash}{93f29d17d4ba719575edcd436b2e770a}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Philosophical Essays and Correspondence}}
+      \field{year}{2000}
+    \endentry
+    \entry{Descartes:1968uf}{book}{}
+      \name{author}{2}{}{%
+        {{hash=9f046e68c5b38bcc80be3d2cc6f58dd6}{%
+           family={Descartes},
+           familyi={D\bibinitperiod},
+           given={René},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b658cc2b0fd82ab30d2e12e3d45202bf}{%
+           family={Sutcliffe},
+           familyi={S\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin}%
+      }
+      \strng{namehash}{43b71170355ba79e1038b4f9dcaed633}
+      \strng{fullhash}{43b71170355ba79e1038b4f9dcaed633}
+      \strng{authornamehash}{43b71170355ba79e1038b4f9dcaed633}
+      \strng{authorfullhash}{43b71170355ba79e1038b4f9dcaed633}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Discourse on Method and the Meditations}}
+      \field{year}{1968}
+    \endentry
+    \entry{Dewey:1916tl}{book}{}
+      \name{author}{1}{}{%
+        {{hash=03b3356eb23d298d57635488371299f9}{%
+           family={Dewey},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {The Macmillan Company}%
+      }
+      \strng{namehash}{03b3356eb23d298d57635488371299f9}
+      \strng{fullhash}{03b3356eb23d298d57635488371299f9}
+      \strng{authornamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authorfullhash}{03b3356eb23d298d57635488371299f9}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{An Introduction to the Philosophy of Education}
+      \field{title}{{Democracy and Education}}
+      \field{year}{1916}
+    \endentry
+    \entry{Dewey:gu}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=03b3356eb23d298d57635488371299f9}{%
+           family={Dewey},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{03b3356eb23d298d57635488371299f9}
+      \strng{fullhash}{03b3356eb23d298d57635488371299f9}
+      \strng{authornamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authorfullhash}{03b3356eb23d298d57635488371299f9}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Essays in experimental logic.}
+      \field{title}{{The objects of thought.}}
+      \field{pages}{157\bibrangedash 182}
+      \range{pages}{26}
+    \endentry
+    \entry{Dewey:1896vt}{book}{}
+      \name{author}{1}{}{%
+        {{hash=03b3356eb23d298d57635488371299f9}{%
+           family={Dewey},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{03b3356eb23d298d57635488371299f9}
+      \strng{fullhash}{03b3356eb23d298d57635488371299f9}
+      \strng{authornamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authorfullhash}{03b3356eb23d298d57635488371299f9}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The Reflex Arc Concept in Psychology}}
+      \field{year}{1896}
+    \endentry
     \entry{Ebbinghaus:1885ud}{book}{}
       \name{author}{1}{}{%
         {{hash=5d7a6e7e0e82bcc144f01ac47862fe2f}{%
@@ -174,6 +686,604 @@
       \field{series}{A Contribution to Experimental Psychology}
       \field{title}{{Memory}}
       \field{year}{1885}
+    \endentry
+    \entry{Esquirol:1845ug}{book}{}
+      \name{author}{2}{}{%
+        {{hash=9696629fc60035d4086f57ebd19cbb58}{%
+           family={Esquirol},
+           familyi={E\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3e3b1eac95d09780a82b6c6a193d7d6c}{%
+           family={Hunt},
+           familyi={H\bibinitperiod},
+           given={Ebenezer},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{81c2301af3d025333ba59ad80becb304}
+      \strng{fullhash}{81c2301af3d025333ba59ad80becb304}
+      \strng{authornamehash}{81c2301af3d025333ba59ad80becb304}
+      \strng{authorfullhash}{81c2301af3d025333ba59ad80becb304}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{0703439624 cm.}
+      \field{title}{{Mental maladies. A treatise on insanity}}
+      \field{year}{1845}
+    \endentry
+    \entry{Fite:1916tk}{article}{}
+      \name{author}{1}{}{%
+        {{hash=381b3a23fbc3ea2f5da55f835137eb49}{%
+           family={Fite},
+           familyi={F\bibinitperiod},
+           given={Warner},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{381b3a23fbc3ea2f5da55f835137eb49}
+      \strng{fullhash}{381b3a23fbc3ea2f5da55f835137eb49}
+      \strng{authornamehash}{381b3a23fbc3ea2f5da55f835137eb49}
+      \strng{authorfullhash}{381b3a23fbc3ea2f5da55f835137eb49}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Nation}
+      \field{title}{{Psycho-analysis and Sex-psychology}}
+      \field{volume}{103}
+      \field{year}{1916}
+      \field{pages}{127\bibrangedash 129}
+      \range{pages}{3}
+    \endentry
+    \entry{Freud:QdOvAgyZ}{book}{}
+      \name{author}{1}{}{%
+        {{hash=58227b8cb75750689aafd0bdb2b63408}{%
+           family={Freud},
+           familyi={F\bibinitperiod},
+           given={Sigmund},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{58227b8cb75750689aafd0bdb2b63408}
+      \strng{fullhash}{58227b8cb75750689aafd0bdb2b63408}
+      \strng{authornamehash}{58227b8cb75750689aafd0bdb2b63408}
+      \strng{authorfullhash}{58227b8cb75750689aafd0bdb2b63408}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{77374851Vorlesungen zur Einführung in die Psychoanalyse. EnglishSigm. Freud ; authorized English translation by Joan Riviere ; with a pref. by Ernest Jones.ill. ; 22 cm.Translation of Vorlesungen zur Einführung in die Psychoanalyse.Includes index.Psycho-analysis.}
+      \field{title}{{Introductory lectures on psycho-analysis : a course of twenty eight lectures delivered at the University of Vienna}}
+      \field{year}{1929}
+    \endentry
+    \entry{Freud:1994wo}{book}{}
+      \name{author}{2}{}{%
+        {{hash=58227b8cb75750689aafd0bdb2b63408}{%
+           family={Freud},
+           familyi={F\bibinitperiod},
+           given={Sigmund},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1fa38699e97ec643824a2f01f66838ef}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{9972f6f167399cce362a3145d5d8f5bf}
+      \strng{fullhash}{9972f6f167399cce362a3145d5d8f5bf}
+      \strng{authornamehash}{9972f6f167399cce362a3145d5d8f5bf}
+      \strng{authorfullhash}{9972f6f167399cce362a3145d5d8f5bf}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The Dynamics of Transference}}
+      \field{year}{1994}
+    \endentry
+    \entry{Freud:kVwxqGOZ}{book}{}
+      \name{author}{3}{}{%
+        {{hash=58227b8cb75750689aafd0bdb2b63408}{%
+           family={Freud},
+           familyi={F\bibinitperiod},
+           given={Sigmund},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0568fbf11e3795c282f62232b376436a}{%
+           family={Breuer},
+           familyi={B\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7560fcc04eb4c95c0ee4590460b044b1}{%
+           family={Luckhurst},
+           familyi={L\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d545a70b12cc04f9795c7702e3ae189}
+      \strng{fullhash}{1d545a70b12cc04f9795c7702e3ae189}
+      \strng{authornamehash}{1d545a70b12cc04f9795c7702e3ae189}
+      \strng{authorfullhash}{1d545a70b12cc04f9795c7702e3ae189}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Studies in hysteria}}
+      \field{year}{2004}
+    \endentry
+    \entry{Freud:1938vi}{book}{}
+      \name{author}{2}{}{%
+        {{hash=58227b8cb75750689aafd0bdb2b63408}{%
+           family={Freud},
+           familyi={F\bibinitperiod},
+           given={Sigmund},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d3ff6f44c3eee8c31cdd15c0bb84c16c}{%
+           family={Brill},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{85bffb7251da3eeda2a91139486ffdd7}
+      \strng{fullhash}{85bffb7251da3eeda2a91139486ffdd7}
+      \strng{authornamehash}{85bffb7251da3eeda2a91139486ffdd7}
+      \strng{authorfullhash}{85bffb7251da3eeda2a91139486ffdd7}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{38027462Selections. English.translated and edited, with an introduction, by Dr. A. A. Brill.diagrs. 21 cm."First Modern library edition, 1938."Psychopathology of everyday life.--The interpretation of dreams.--Three contributions to the theory of sex.--Wit and its relation to the unconscious.--Totem and taboo.--The history of the psychoanalytic movement.}
+      \field{title}{{The basic writings of Sigmund Freud}}
+      \field{year}{1938}
+    \endentry
+    \entry{Freud:vJ1P2PRd}{book}{}
+      \name{author}{2}{}{%
+        {{hash=58227b8cb75750689aafd0bdb2b63408}{%
+           family={Freud},
+           familyi={F\bibinitperiod},
+           given={Sigmund},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d82944639ecf1c78f4e5ed4f89b98452}{%
+           family={Strachey},
+           familyi={S\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{167ffa3979bddf2efbbfc6c761f5ac7d}
+      \strng{fullhash}{167ffa3979bddf2efbbfc6c761f5ac7d}
+      \strng{authornamehash}{167ffa3979bddf2efbbfc6c761f5ac7d}
+      \strng{authorfullhash}{167ffa3979bddf2efbbfc6c761f5ac7d}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{New introductory lectures on psychoanalysis}}
+      \field{year}{1965}
+    \endentry
+    \entry{Gorwitz:1974tt}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7c4afddbf7c0847cf116d48c55d30db2}{%
+           family={Gorwitz},
+           familyi={G\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{7c4afddbf7c0847cf116d48c55d30db2}
+      \strng{fullhash}{7c4afddbf7c0847cf116d48c55d30db2}
+      \strng{authornamehash}{7c4afddbf7c0847cf116d48c55d30db2}
+      \strng{authorfullhash}{7c4afddbf7c0847cf116d48c55d30db2}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Health Services Reports}
+      \field{number}{2}
+      \field{title}{{Census Enumeration of the Mentally Ill and the Mentally Retarded in the Nineteenth Century}}
+      \field{volume}{89}
+      \field{year}{1974}
+      \field{pages}{180\bibrangedash 187}
+      \range{pages}{8}
+    \endentry
+    \entry{Hobbes:1651wh}{book}{}
+      \name{author}{1}{}{%
+        {{hash=225ea03e130430d41c202d9fe7612ed0}{%
+           family={Hobbes},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=839582ce61c07f538e9a0ffa51ecdb82}{%
+           family={Curley},
+           familyi={C\bibinitperiod},
+           given={Edwin},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Indianapolis / Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Hackett}%
+      }
+      \strng{namehash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{fullhash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{authornamehash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{authorfullhash}{225ea03e130430d41c202d9fe7612ed0}
+      \strng{editornamehash}{839582ce61c07f538e9a0ffa51ecdb82}
+      \strng{editorfullhash}{839582ce61c07f538e9a0ffa51ecdb82}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Hackett edition. PDF is excerpt from gutenberg, used in class.}
+      \field{series}{with selected variants from the Latin edition of 1668}
+      \field{title}{{Leviathan}}
+      \field{year}{1994}
+    \endentry
+    \entry{Hornstein:2002wq}{book}{}
+      \name{author}{3}{}{%
+        {{hash=7a3684eabe07ca85dd6eddde84e37f58}{%
+           family={Hornstein},
+           familyi={H\bibinitperiod},
+           given={Gail},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a617fa97a7520405392768fbefea33c5}{%
+           family={Pickren},
+           familyi={P\bibinitperiod},
+           given={Wade},
+           giveni={W\bibinitperiod}}}%
+        {{hash=966525d5ea5ca42afdcc47ae3d3db392}{%
+           family={Dewsbury},
+           familyi={D\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b931ee9d370daf95f6823c1edb66ce6}
+      \strng{fullhash}{7b931ee9d370daf95f6823c1edb66ce6}
+      \strng{authornamehash}{7b931ee9d370daf95f6823c1edb66ce6}
+      \strng{authorfullhash}{7b931ee9d370daf95f6823c1edb66ce6}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The Return of the Repressed: Psychology's Problematic Relations with Psychoanalysis, 1909-1960}}
+      \field{year}{2002}
+    \endentry
+    \entry{Houts:2000vp}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8691bb6183e5f0adae3a355cd324a47e}{%
+           family={Houts},
+           familyi={H\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8691bb6183e5f0adae3a355cd324a47e}
+      \strng{fullhash}{8691bb6183e5f0adae3a355cd324a47e}
+      \strng{authornamehash}{8691bb6183e5f0adae3a355cd324a47e}
+      \strng{authorfullhash}{8691bb6183e5f0adae3a355cd324a47e}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of clinical psychology}
+      \field{title}{{Fifty years of psychiatric nomenclature: reflections on the 1943 War Department Technical Bulletin, Medical 203}}
+      \field{year}{2000}
+    \endentry
+    \entry{Hull:1940tm}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a97a682c496fc74ad77dc8f75115168c}{%
+           family={Hull},
+           familyi={H\bibinitperiod},
+           given={C\bibnamedelima L},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Haven}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{a97a682c496fc74ad77dc8f75115168c}
+      \strng{fullhash}{a97a682c496fc74ad77dc8f75115168c}
+      \strng{authornamehash}{a97a682c496fc74ad77dc8f75115168c}
+      \strng{authorfullhash}{a97a682c496fc74ad77dc8f75115168c}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Mathematico-Deductive Theory of Rote Learning}}
+      \field{year}{1940}
+    \endentry
+    \entry{Hume:IGMvPNU2}{booklet}{}
+      \name{author}{1}{}{%
+        {{hash=a9c3ed8678a8acec56538df512c12cc7}{%
+           family={Hume},
+           familyi={H\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9c3ed8678a8acec56538df512c12cc7}
+      \strng{fullhash}{a9c3ed8678a8acec56538df512c12cc7}
+      \strng{authornamehash}{a9c3ed8678a8acec56538df512c12cc7}
+      \strng{authorfullhash}{a9c3ed8678a8acec56538df512c12cc7}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Enquiries Concerning Human Understanding and Concerning the Principles of Morals, 1990}}
+      \field{year}{1975}
+    \endentry
+    \entry{Jacoby:2009tt}{webpage}{}
+      \name{author}{1}{}{%
+        {{hash=62b4707952217dbdfd268b131ed55db8}{%
+           family={Jacoby},
+           familyi={J\bibinitperiod},
+           given={Russell},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{62b4707952217dbdfd268b131ed55db8}
+      \strng{fullhash}{62b4707952217dbdfd268b131ed55db8}
+      \strng{authornamehash}{62b4707952217dbdfd268b131ed55db8}
+      \strng{authorfullhash}{62b4707952217dbdfd268b131ed55db8}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{{When Freud Came to America}}
+      \field{year}{2009}
+      \verb{url}
+      \verb https://www.chronicle.com/article/Freuds-Visit-to-Clark-U/48424
+      \endverb
+    \endentry
+    \entry{James:1904dz}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7e6824f8d67a0e956aae72188825dbf2}{%
+           family={James},
+           familyi={J\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e6824f8d67a0e956aae72188825dbf2}
+      \strng{fullhash}{7e6824f8d67a0e956aae72188825dbf2}
+      \strng{authornamehash}{7e6824f8d67a0e956aae72188825dbf2}
+      \strng{authorfullhash}{7e6824f8d67a0e956aae72188825dbf2}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Bulletin}
+      \field{number}{1}
+      \field{title}{{The Chicago School.}}
+      \field{volume}{1}
+      \field{year}{1904}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+    \endentry
+    \entry{Jung:cpLzoBjv}{book}{}
+      \name{author}{2}{}{%
+        {{hash=132c44b3d01e59de39f4e26e35b9e92b}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=31f6170d4952c1a2872646dfe2e26409}{%
+           family={Storr},
+           familyi={S\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2508ab6396ed32f57f44c111605b75bc}
+      \strng{fullhash}{2508ab6396ed32f57f44c111605b75bc}
+      \strng{authornamehash}{2508ab6396ed32f57f44c111605b75bc}
+      \strng{authorfullhash}{2508ab6396ed32f57f44c111605b75bc}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{82061441Selections. English.selected and introduced by Anthony Storr.ill. ; 22 cm.Bibliography: p. [427]-436.Includes index.}
+      \field{title}{{The essential Jung}}
+      \field{year}{1983}
+    \endentry
+    \entry{Jung:1953uoa}{book}{}
+      \name{author}{4}{}{%
+        {{hash=132c44b3d01e59de39f4e26e35b9e92b}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=78e9cfd427143d50e6fb3c72d6529fd4}{%
+           family={Read},
+           familyi={R\bibinitperiod},
+           given={Herbert},
+           giveni={H\bibinitperiod}}}%
+        {{hash=47ed09185c6dabbd5a9868d756f5fe6d}{%
+           family={Fordham},
+           familyi={F\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fe82f0d25dcaecad96556b92f0fa6c2e}{%
+           family={Adler},
+           familyi={A\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f328b80d9b3c1d3ddfd1f7c783a7e66}
+      \strng{fullhash}{0e3f260edbbd2a35f17ab025891f764b}
+      \strng{authornamehash}{9f328b80d9b3c1d3ddfd1f7c783a7e66}
+      \strng{authorfullhash}{0e3f260edbbd2a35f17ab025891f764b}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{75000156Works. English. Pantheon/Princetoneditors, Herbert Read, Michael Fordham, Gerhard Adler.ill. ; 24 cm.Includes second edition of some volumes.Volumes published after 1966 have imprint: Princeton, N.J. : Princeton University Press.Includes bibliographies.v. 1. Psychiatric studies -- v. 2. Experimental researches -- v. 3. The psychogenesis of mental disease -- v. 4. Freud and psychoanalysis -- v. 5. Symbols of transformation -- v. 6. Psychological types -- v. 7. Two essays on analytical psychology -- v. 8. The structure and dynamics of the psyche -- v. 9. pt. 1. The archetypes and the collective unconscious; pt. 2. Aion, researches into the phenomenology of the self -- v. 10. Civilization in transition -- v. 11. Psychology and religion, West and East -- v. 12. Psychology and alchemy -- v. 13. Alchemical studies -- v. 14. Mysterium coniunctionis, an inquiry into the separation and synthesis of psychic opposites in alchemy -- v. 15. The spirit in man, art, and literature -- v. 16. The practice of psychotherapy -- v. 17. The development of personality -- v. 18. The symbolic life. Miscellaneous writings -- v. 19. General bibliography of C.G. Jung's writings / compiled by Lisa Ress -- v. 20. General index to The collected works of C.G. Jung / compiled by Barbara Forryan and Janet M. Glover -- supplementary v. A. The Zofingia lectures.}
+      \field{title}{{The collected works of C. G. Jung}}
+      \field{year}{1953}
+    \endentry
+    \entry{Kinsey:1998ur}{book}{}
+      \name{author}{3}{}{%
+        {{hash=e3ccf582263eb77b4b565996b771a149}{%
+           family={Kinsey},
+           familyi={K\bibinitperiod},
+           given={Alfred\bibnamedelima Charles},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=2588b7a5f85b3e9ae0699ffb05cabc57}{%
+           family={Pomeroy},
+           familyi={P\bibinitperiod},
+           given={Wardell\bibnamedelima Baxter},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=89a3d68066e615cbb95e95f0c6933b7a}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Clyde\bibnamedelima Eugene},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Indiana University Press}%
+      }
+      \strng{namehash}{84a5fe882f2c3e81d7231a4d7c9ca2d2}
+      \strng{fullhash}{84a5fe882f2c3e81d7231a4d7c9ca2d2}
+      \strng{authornamehash}{84a5fe882f2c3e81d7231a4d7c9ca2d2}
+      \strng{authorfullhash}{84a5fe882f2c3e81d7231a4d7c9ca2d2}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Sexual Behavior in the Human Male}}
+      \field{year}{1998}
+    \endentry
+    \entry{Kraines:1964fy}{article}{}
+      \name{author}{1}{}{%
+        {{hash=179cc2b4cdbfe85499c54aa99920c40e}{%
+           family={Kraines},
+           familyi={K\bibinitperiod},
+           given={S\bibnamedelima H},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{179cc2b4cdbfe85499c54aa99920c40e}
+      \strng{fullhash}{179cc2b4cdbfe85499c54aa99920c40e}
+      \strng{authornamehash}{179cc2b4cdbfe85499c54aa99920c40e}
+      \strng{authorfullhash}{179cc2b4cdbfe85499c54aa99920c40e}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JAMA}
+      \field{month}{2}
+      \field{number}{6}
+      \field{title}{{Life Stress and Mental Health: The Midtown Manhattan Study}}
+      \field{volume}{187}
+      \field{year}{1964}
+      \field{pages}{464\bibrangedash 464}
+      \range{pages}{1}
+    \endentry
+    \entry{Leahey:2002tt}{book}{}
+      \name{author}{3}{}{%
+        {{hash=46972b47130c96af6a9b89a287e2bd7f}{%
+           family={Leahey},
+           familyi={L\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a617fa97a7520405392768fbefea33c5}{%
+           family={Pickren},
+           familyi={P\bibinitperiod},
+           given={Wade},
+           giveni={W\bibinitperiod}}}%
+        {{hash=966525d5ea5ca42afdcc47ae3d3db392}{%
+           family={Dewsbury},
+           familyi={D\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{354bb2903d2b5a05777502bab663d40e}
+      \strng{fullhash}{354bb2903d2b5a05777502bab663d40e}
+      \strng{authornamehash}{354bb2903d2b5a05777502bab663d40e}
+      \strng{authorfullhash}{354bb2903d2b5a05777502bab663d40e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The Mythical Revolutions of American Psychology}}
+      \field{year}{2002}
+    \endentry
+    \entry{Locke:1959wj}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b850f7e9b02245eddd11b3a5d656a240}{%
+           family={Locke},
+           familyi={L\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=18f44ee6a89ee74f4178575d4d3db292}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={Alexander\bibnamedelima Campbell},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Dover}%
+      }
+      \strng{namehash}{b850f7e9b02245eddd11b3a5d656a240}
+      \strng{fullhash}{b850f7e9b02245eddd11b3a5d656a240}
+      \strng{authornamehash}{b850f7e9b02245eddd11b3a5d656a240}
+      \strng{authorfullhash}{b850f7e9b02245eddd11b3a5d656a240}
+      \strng{editornamehash}{18f44ee6a89ee74f4178575d4d3db292}
+      \strng{editorfullhash}{18f44ee6a89ee74f4178575d4d3db292}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{An essay concerning human understanding}}
+      \field{volume}{1}
+      \field{year}{1959}
+    \endentry
+    \entry{Marx:1847vc}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ffaa7d7e7de43e6df8a62c572e9a2f81}{%
+           family={Marx},
+           familyi={M\bibinitperiod},
+           given={K\bibnamedelima F\bibnamedelima H},
+           giveni={K\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {John Churchill}%
+      }
+      \strng{namehash}{ffaa7d7e7de43e6df8a62c572e9a2f81}
+      \strng{fullhash}{ffaa7d7e7de43e6df8a62c572e9a2f81}
+      \strng{authornamehash}{ffaa7d7e7de43e6df8a62c572e9a2f81}
+      \strng{authorfullhash}{ffaa7d7e7de43e6df8a62c572e9a2f81}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The Moral Aspects of Medical Life}}
+      \field{year}{1847}
     \endentry
     \entry{Mead:1928uk}{book}{}
       \name{author}{1}{}{%
@@ -198,6 +1308,100 @@
       \field{annotation}{On bookshelf, white cover. shelved with Phil Science}
       \field{title}{{Coming of Age in Samoa; a Psychological Study of Primitive Youth for Western Civilization}}
       \field{year}{1928}
+    \endentry
+    \entry{Menninger:3tUbEPj8}{book}{}
+      \name{author}{2}{}{%
+        {{hash=f4f46d272bfc004969b27192f436b492}{%
+           family={Menninger},
+           familyi={M\bibinitperiod},
+           given={Roy},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ea5f1608359dfa2323a208910cf915e8}{%
+           family={Nemiah},
+           familyi={N\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f31f6d493466d8f42243649eb2d7c94c}
+      \strng{fullhash}{f31f6d493466d8f42243649eb2d7c94c}
+      \strng{authornamehash}{f31f6d493466d8f42243649eb2d7c94c}
+      \strng{authorfullhash}{f31f6d493466d8f42243649eb2d7c94c}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{American Psychiatry after World War II (1944-1994)}}
+      \field{year}{2000}
+    \endentry
+    \entry{MILLER:1979tt}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4a735bc4b5d54a7a42045d2be2d0dd67}{%
+           family={MILLER},
+           familyi={M\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a735bc4b5d54a7a42045d2be2d0dd67}
+      \strng{fullhash}{4a735bc4b5d54a7a42045d2be2d0dd67}
+      \strng{authornamehash}{4a735bc4b5d54a7a42045d2be2d0dd67}
+      \strng{authorfullhash}{4a735bc4b5d54a7a42045d2be2d0dd67}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Talk to Cognitive Science Workshop, MIT, Cambridge, Mass. 1 June 1979}
+      \field{title}{{A Very Personal History}}
+      \field{year}{1979}
+    \endentry
+    \entry{Miller:1962vk}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6000420e2d5ec41b2819d0f870152ee1}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, UK}%
+      }
+      \strng{namehash}{6000420e2d5ec41b2819d0f870152ee1}
+      \strng{fullhash}{6000420e2d5ec41b2819d0f870152ee1}
+      \strng{authornamehash}{6000420e2d5ec41b2819d0f870152ee1}
+      \strng{authorfullhash}{6000420e2d5ec41b2819d0f870152ee1}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{62009894illus. 22 cm.}
+      \field{title}{{Psychology, the science of mental life}}
+      \field{year}{1962}
+    \endentry
+    \entry{Miller:1956trb}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6000420e2d5ec41b2819d0f870152ee1}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{6000420e2d5ec41b2819d0f870152ee1}
+      \strng{fullhash}{6000420e2d5ec41b2819d0f870152ee1}
+      \strng{authornamehash}{6000420e2d5ec41b2819d0f870152ee1}
+      \strng{authorfullhash}{6000420e2d5ec41b2819d0f870152ee1}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{title}{{The magical number seven, plus or minus two: Some limits on our capacity for processing information.}}
+      \field{volume}{63}
+      \field{year}{1956}
+      \field{pages}{81\bibrangedash 97}
+      \range{pages}{17}
     \endentry
     \entry{Newton:1671uw}{article}{}
       \name{author}{1}{}{%
@@ -321,6 +1525,49 @@
       \field{title}{{Opticks, Or, a Treatise of the Reflections, Refractions, Inflections and Colours of Light: 1721}}
       \field{year}{2018}
     \endentry
+    \entry{Pavlov:1946ws}{booklet}{}
+      \name{author}{1}{}{%
+        {{hash=378dbd97a655cb837c33ae5058c6e554}{%
+           family={Pavlov},
+           familyi={P\bibinitperiod},
+           given={Ivan\bibnamedelima Petrovič},
+           giveni={I\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{378dbd97a655cb837c33ae5058c6e554}
+      \strng{fullhash}{378dbd97a655cb837c33ae5058c6e554}
+      \strng{authornamehash}{378dbd97a655cb837c33ae5058c6e554}
+      \strng{authorfullhash}{378dbd97a655cb837c33ae5058c6e554}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Oxford}
+      \field{title}{{Conditioned Reflexes}}
+      \field{year}{1927}
+    \endentry
+    \entry{Pinel:1806ws}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7a9696c32945207b58c5d01017be9cdf}{%
+           family={Pinel},
+           familyi={P\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a9696c32945207b58c5d01017be9cdf}
+      \strng{fullhash}{7a9696c32945207b58c5d01017be9cdf}
+      \strng{authornamehash}{7a9696c32945207b58c5d01017be9cdf}
+      \strng{authorfullhash}{7a9696c32945207b58c5d01017be9cdf}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{A treatise on insanity}}
+      \field{year}{1806}
+      \field{pages}{1\bibrangedash 365}
+      \range{pages}{365}
+    \endentry
     \entry{Pitts:2007km}{article}{}
       \name{author}{3}{}{%
         {{hash=2d1c36aea3c528652bbd7e93b00c9d1a}{%
@@ -356,6 +1603,62 @@
       \field{year}{2007}
       \field{pages}{6\bibrangedash 6}
       \range{pages}{1}
+    \endentry
+    \entry{Anonymous:1967hr}{article}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Psychiatry}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{{Position Statement on Abortion}}
+      \field{volume}{124}
+      \field{year}{1967}
+      \field{pages}{450--a\bibrangedash 450}
+      \range{pages}{-1}
+    \endentry
+    \entry{Prochnik:FiwLnN1z}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3908faf9f61a75bd52ea0c9dd1ffd796}{%
+           family={Prochnik},
+           familyi={P\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3908faf9f61a75bd52ea0c9dd1ffd796}
+      \strng{fullhash}{3908faf9f61a75bd52ea0c9dd1ffd796}
+      \strng{authornamehash}{3908faf9f61a75bd52ea0c9dd1ffd796}
+      \strng{authorfullhash}{3908faf9f61a75bd52ea0c9dd1ffd796}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Putnam Camp: Sigmund Freud, James Jackson Putnam, and the Purpose of American Psychology}}
+      \field{year}{2006}
+    \endentry
+    \entry{Putnam:1921uc}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7b4470ef78a3d569898c665f96576243}{%
+           family={Putnam},
+           familyi={P\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b4470ef78a3d569898c665f96576243}
+      \strng{fullhash}{7b4470ef78a3d569898c665f96576243}
+      \strng{authornamehash}{7b4470ef78a3d569898c665f96576243}
+      \strng{authorfullhash}{7b4470ef78a3d569898c665f96576243}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Addresses on Psycho-analysis}}
+      \field{year}{1921}
+      \field{pages}{1\bibrangedash 500}
+      \range{pages}{500}
     \endentry
     \entry{Rao:2004ku}{article}{}
       \name{author}{5}{}{%
@@ -403,6 +1706,202 @@
       \field{pages}{989\bibrangedash 992}
       \range{pages}{4}
     \endentry
+    \entry{Russell:2013wy}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c58c42b6f7e7e1f78dbbdc65ed8e5384}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Bertrand},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{fullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authornamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authorfullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{series}{Collectors Edition}
+      \field{title}{{History of Western Philosophy}}
+      \field{year}{2013}
+    \endentry
+    \entry{Sacks:1974um}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c592f90f4a37514387e9d71aeea86120}{%
+           family={Sacks},
+           familyi={S\bibinitperiod},
+           given={Oliver\bibnamedelima W},
+           giveni={O\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Doubleday Books}%
+      }
+      \strng{namehash}{c592f90f4a37514387e9d71aeea86120}
+      \strng{fullhash}{c592f90f4a37514387e9d71aeea86120}
+      \strng{authornamehash}{c592f90f4a37514387e9d71aeea86120}
+      \strng{authorfullhash}{c592f90f4a37514387e9d71aeea86120}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{{Awakenings}}
+      \field{year}{1974}
+    \endentry
+    \entry{Skinner:1972wq}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4dae309a05afec96990a48a3e44d6875}{%
+           family={Skinner},
+           familyi={S\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dae309a05afec96990a48a3e44d6875}
+      \strng{fullhash}{4dae309a05afec96990a48a3e44d6875}
+      \strng{authornamehash}{4dae309a05afec96990a48a3e44d6875}
+      \strng{authorfullhash}{4dae309a05afec96990a48a3e44d6875}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{72078259[by] B. F. Skinner.illus. 24 cm.}
+      \field{title}{{Cumulative record; a selection of papers}}
+      \field{year}{1972}
+    \endentry
+    \entry{Skinner:2005wr}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fd145f628044b1f219282c8f355e12c5}{%
+           family={Skinner},
+           familyi={S\bibinitperiod},
+           given={B\bibnamedelima F},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{fd145f628044b1f219282c8f355e12c5}
+      \strng{fullhash}{fd145f628044b1f219282c8f355e12c5}
+      \strng{authornamehash}{fd145f628044b1f219282c8f355e12c5}
+      \strng{authorfullhash}{fd145f628044b1f219282c8f355e12c5}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Science and Human Behavior}}
+      \field{year}{2005}
+      \field{pages}{1\bibrangedash 458}
+      \range{pages}{458}
+    \endentry
+    \entry{Stillings:1995to}{book}{}
+      \name{author}{7}{}{%
+        {{hash=cfd59323d5cd10895bc13694d1e5a8ef}{%
+           family={Stillings},
+           familyi={S\bibinitperiod},
+           given={Neil\bibnamedelima A},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1069a6cd1a31f3256d75254b5e5cd86a}{%
+           family={Feinstein},
+           familyi={F\bibinitperiod},
+           given={Mark\bibnamedelima H},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=5e794c7eb0b86e57e0aaf51964e082b4}{%
+           family={Garfield},
+           familyi={G\bibinitperiod},
+           given={Jay\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b4660b4db4d0870b627024fd336a54f1}{%
+           family={Rissland},
+           familyi={R\bibinitperiod},
+           given={Edwina\bibnamedelima L},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b052b6abd6445ed3c04aa4e1ce4cbb8f}{%
+           family={Rosenbaum},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=cb822b13c7ebba2c08e064378d33e87d}{%
+           family={Weisler},
+           familyi={W\bibinitperiod},
+           given={Steven\bibnamedelima E},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=02f261a8985cf03a6c1e6f7b943ea05b}{%
+           family={Baker-Ward},
+           familyi={B\bibinithyphendelim W\bibinitperiod},
+           given={Lynne},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{e6497a8b22d7602f71b964fc0c4d7642}
+      \strng{fullhash}{2b7d26f7b5d3b57bebce439d350cede5}
+      \strng{authornamehash}{e6497a8b22d7602f71b964fc0c4d7642}
+      \strng{authorfullhash}{2b7d26f7b5d3b57bebce439d350cede5}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{series}{An Introduction}
+      \field{title}{{Cognitive Science}}
+      \field{year}{1995}
+    \endentry
+    \entry{Tolman:1948kv}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dcf177e6ad0d77ef01975f16946ca63b}{%
+           family={Tolman},
+           familyi={T\bibinitperiod},
+           given={Edward\bibnamedelima C},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{dcf177e6ad0d77ef01975f16946ca63b}
+      \strng{fullhash}{dcf177e6ad0d77ef01975f16946ca63b}
+      \strng{authornamehash}{dcf177e6ad0d77ef01975f16946ca63b}
+      \strng{authorfullhash}{dcf177e6ad0d77ef01975f16946ca63b}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{number}{4}
+      \field{title}{{Cognitive maps in rats and men.}}
+      \field{volume}{55}
+      \field{year}{1948}
+      \field{pages}{189\bibrangedash 208}
+      \range{pages}{20}
+    \endentry
+    \entry{Tolman:1922us}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6b8095a3894d396ba4327cce42c38123}{%
+           family={Tolman},
+           familyi={T\bibinitperiod},
+           given={Edward\bibnamedelima Chace},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6b8095a3894d396ba4327cce42c38123}
+      \strng{fullhash}{6b8095a3894d396ba4327cce42c38123}
+      \strng{authornamehash}{6b8095a3894d396ba4327cce42c38123}
+      \strng{authorfullhash}{6b8095a3894d396ba4327cce42c38123}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{title}{{A new formula for behaviorism}}
+      \field{volume}{29}
+      \field{year}{1922}
+      \field{pages}{44\bibrangedash 53}
+      \range{pages}{10}
+    \endentry
     \entry{Vedantam:2004tz}{article}{}
       \name{author}{1}{}{%
         {{hash=d7a506a59e674f9eb3b496fcef59e2b8}{%
@@ -427,12 +1926,209 @@
       \field{pages}{A12}
       \range{pages}{-1}
     \endentry
+    \entry{Watson:iMwU-3B8}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=120f402f6b36ff38b7d7e4a3d322d79f}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{120f402f6b36ff38b7d7e4a3d322d79f}
+      \strng{fullhash}{120f402f6b36ff38b7d7e4a3d322d79f}
+      \strng{authornamehash}{120f402f6b36ff38b7d7e4a3d322d79f}
+      \strng{authorfullhash}{120f402f6b36ff38b7d7e4a3d322d79f}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Battle of Behaviorism}
+      \field{month}{10}
+      \field{title}{{Behaviorism -- The Modern Note in Psychology}}
+      \field{year}{2013}
+    \endentry
+    \entry{Watson:1913tq}{article}{}
+      \name{author}{1}{}{%
+        {{hash=120f402f6b36ff38b7d7e4a3d322d79f}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{120f402f6b36ff38b7d7e4a3d322d79f}
+      \strng{fullhash}{120f402f6b36ff38b7d7e4a3d322d79f}
+      \strng{authornamehash}{120f402f6b36ff38b7d7e4a3d322d79f}
+      \strng{authorfullhash}{120f402f6b36ff38b7d7e4a3d322d79f}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{title}{{Psychology as the Behaviorist Views It}}
+      \field{volume}{20}
+      \field{year}{1913}
+      \field{pages}{158\bibrangedash 177}
+      \range{pages}{20}
+    \endentry
+    \entry{Watson:2013ty}{book}{}
+      \name{author}{2}{}{%
+        {{hash=488fcde4dbbd58e2fc42fe5feee14e11}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima B},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=3e7fbe99f83d07cbc63333f41da18248}{%
+           family={MacDougall},
+           familyi={M\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Literary Licensing, LLC}%
+      }
+      \strng{namehash}{36252c10cacc2435485e8d45635628a2}
+      \strng{fullhash}{36252c10cacc2435485e8d45635628a2}
+      \strng{authornamehash}{36252c10cacc2435485e8d45635628a2}
+      \strng{authorfullhash}{36252c10cacc2435485e8d45635628a2}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{series}{An Exposition and an Exposure}
+      \field{title}{{The Battle of Behaviorism}}
+      \field{year}{2013}
+    \endentry
+    \entry{Wolpe:1958vt}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fe09677df4be84134e0e81e843dd62ab}{%
+           family={Wolpe},
+           familyi={W\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University Press}%
+      }
+      \strng{namehash}{fe09677df4be84134e0e81e843dd62ab}
+      \strng{fullhash}{fe09677df4be84134e0e81e843dd62ab}
+      \strng{authornamehash}{fe09677df4be84134e0e81e843dd62ab}
+      \strng{authorfullhash}{fe09677df4be84134e0e81e843dd62ab}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Psychotherapy by Reciprocal Inhibition}}
+      \field{year}{1958}
+    \endentry
+    \entry{Wozniak:1997vj}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=13c984eaffdc67167da8ecbf2a0c4767}{%
+           family={Wozniak},
+           familyi={W\bibinitperiod},
+           given={Robert\bibnamedelima H},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=13c984eaffdc67167da8ecbf2a0c4767}{%
+           family={Wozniak},
+           familyi={W\bibinitperiod},
+           given={Robert\bibnamedelima H},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{13c984eaffdc67167da8ecbf2a0c4767}
+      \strng{fullhash}{13c984eaffdc67167da8ecbf2a0c4767}
+      \strng{authornamehash}{13c984eaffdc67167da8ecbf2a0c4767}
+      \strng{authorfullhash}{13c984eaffdc67167da8ecbf2a0c4767}
+      \strng{editornamehash}{13c984eaffdc67167da8ecbf2a0c4767}
+      \strng{editorfullhash}{13c984eaffdc67167da8ecbf2a0c4767}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Reflex, habit and implicit response: The early elaboration of theoretical and methodological behaviourism.}
+      \field{title}{{\textbf{Behaviourism: The Early Years}}}
+      \field{year}{1997}
+    \endentry
+    \entry{Wundt:1876vu}{article}{}
+      \name{author}{1}{}{%
+        {{hash=55f582e0b43a07ab319e89c0c3c97edc}{%
+           family={Wundt},
+           familyi={W\bibinitperiod},
+           given={Wilhelm},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{55f582e0b43a07ab319e89c0c3c97edc}
+      \strng{fullhash}{55f582e0b43a07ab319e89c0c3c97edc}
+      \strng{authornamehash}{55f582e0b43a07ab319e89c0c3c97edc}
+      \strng{authorfullhash}{55f582e0b43a07ab319e89c0c3c97edc}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mind}
+      \field{number}{3}
+      \field{title}{{Central Innervation And Consciousness}}
+      \field{volume}{2}
+      \field{year}{1876}
+      \field{pages}{161\bibrangedash 178}
+      \range{pages}{18}
+    \endentry
+    \entry{Wundt:1902vf}{article}{}
+      \name{author}{1}{}{%
+        {{hash=55f582e0b43a07ab319e89c0c3c97edc}{%
+           family={Wundt},
+           familyi={W\bibinitperiod},
+           given={Wilhelm},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{55f582e0b43a07ab319e89c0c3c97edc}
+      \strng{fullhash}{55f582e0b43a07ab319e89c0c3c97edc}
+      \strng{authornamehash}{55f582e0b43a07ab319e89c0c3c97edc}
+      \strng{authorfullhash}{55f582e0b43a07ab319e89c0c3c97edc}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Principles of physiological psychology}}
+      \field{year}{1902}
+      \field{pages}{1\bibrangedash 373}
+      \range{pages}{373}
+    \endentry
   \endsortlist
+  \missing{Hume:2000ws}
+  \missing{James:1890wm}
+  \missing{Locke:1959we}
+  \missing{York:tqkKlD3E}
+  \missing{Hull:mFXxOgAu}
+  \missing{Tolman:1948ty}
   \missing{Kuhn:2012vq}
+  \missing{Medicine:2mOeOnTb}
 \endrefsection
 
 \refsection{2}
   \sortlist[entry]{nty/global/}
+    \entry{Anonymous:1993fb}{article}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Psychiatry}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{{APA position statement on abortion}}
+      \field{volume}{150}
+      \field{year}{1993}
+      \field{pages}{676a\bibrangedash 676}
+      \range{pages}{-1}
+    \endentry
     \entry{Haney:1973wf}{article}{}
       \name{author}{3}{}{%
         {{hash=f60a8a49c7e79f0953d361b2c9be5e48}{%
@@ -523,6 +2219,9 @@
       \range{pages}{9}
     \endentry
   \endsortlist
+  \missing{Washington:4DHpwcWC}
+  \missing{Psychiatry:1-jx4ild}
+  \missing{November:iRleas1e}
 \endrefsection
 
 \refsection{3}

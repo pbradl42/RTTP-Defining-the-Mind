@@ -340,7 +340,7 @@ John Locke follows Hobbes in this, just as he does in the development of politic
 
 But like Hobbes, Locke fails to explain how language structure could be produced by a finite mechanism.
 
-At the same time Locke was writing in England, Antione Arnaud, a fervent supporter of Descartes' theory of mind, was developing a school of thought in France which we now call the 'Port-Royalist' movement. ([#Carr:1996uw]) The Port-Royalists held that the structure of grammar was universal for humans and could be reduced to the laws of logic. Unlike the empiricists Hobbes and Locke, however, the Port-Royalists, who including the great logician and mathematician Pascal, were dualists and theists. For the Port-Royalists, thought was different from language, although we tend to think in language through force of habit.  Pure thought, both in its content and its structure, becomes imperfect when 'translated' into an imperfect spoken language. A perfect language, and perfect grammar, would be possible if each word signified unequivocally a single simple idea, and the grammar of speech matched perfectly the 'grammar of thought.' 
+At the same time Locke was writing in England, Antione Arnaud, a fervent supporter of Descartes' theory of mind, was developing a school of thought in France which we now call the 'Port-Royalist' movement. ([#Carr:1996uw]) The Port-Royalists held that the structure of grammar was universal for humans and could be reduced to the laws of logic. Unlike the empiricists Hobbes and Locke, however, the Port-Royalists, who including the great logician and mathematician Pascal, were dualists and theists. ([#Clark1903]) For the Port-Royalists, thought was different from language, although we tend to think in language through force of habit.  Pure thought, both in its content and its structure, becomes imperfect when 'translated' into an imperfect spoken language. A perfect language, and perfect grammar, would be possible if each word signified unequivocally a single simple idea, and the grammar of speech matched perfectly the 'grammar of thought.' 
 
 The empiricists Hobbes and Locke have adequately responded to Descartes’ assertion that ideas about abstract objects could not have their origin in the physical, finite, world.  But neither of them have managed to respond meaningfully to the assertion that the ability to put ideas together *in language* cannot be the product of the physical, finite world.
 
@@ -402,11 +402,11 @@ Wundt was, however, a student of Helmholtz. He didn’t run off an join Descarte
 
 &gt;Physiology and psychology cover, between them, the field of vital phenomena; they deal with the facts of life at large, and in particular with the facts of human life. Physiology is concerned with all those phenomena of life that present themselves to us in sense perception as bodily processes, and accordingly form part of that total environment which we name the external world. **Psychology, on the other hand, seeks to give account of the interconnection of processes which are evinced by our own consciousness**, or which we infer from such manifestations of the bodily life in other creatures as indicate the presence of a consciousness similar to our own. (1902, p. 1)
 
-Shortly thereafter, he asserts that Psychology is “**the investigation of conscious process in the modes of connection peculiar to them.**” (1902, p. 2) As consciousness is a unique phenomenon in this world, it can only, then, be approached with the investigative tools unique to consciousness: direct experience of consciousness by ourselves of inferred in others on the basis of direct observation and analogy. This does not mean, however, that a science of psychology is purely introspective. On the contrary, Wundt proposed a 'physiological psychology': a theory of conscious experience informed by our physiological understanding of the brain, what Wundt calls the 'bodily substrate of mental life.'
+Shortly thereafter, he asserts that Psychology is “**the investigation of conscious process in the modes of connection peculiar to them.**” [p. 2][#Wundt:1902vf]) As consciousness is a unique phenomenon in this world, it can only, then, be approached with the investigative tools unique to consciousness: direct experience of consciousness by ourselves of inferred in others on the basis of direct observation and analogy. This does not mean, however, that a science of psychology is purely introspective. On the contrary, Wundt proposed a 'physiological psychology': a theory of conscious experience informed by our physiological understanding of the brain, what Wundt calls the 'bodily substrate of mental life.'
 
 The nervous system was thought to be made up of a 'central substance' that maintained an equilibrium and 'nerve-fibres' that connected cells together. This 'central stuff' was understood not to just transmit information, but to modify it in one of two ways: first, if it were exposed to repeated stimulus, the amount of energy needed to produce a response would decrease, and second, in some cases, it could invert the signal into it's opposite (i.e. from 'x more than equilibrium' to 'x less than equilibrium'). Wundt sought to reduce Hume’s four standard 'Laws of Association' of ideas—similarity, contrast, spatial and temporal contiguity— to simple 'internal connection', as 'contrast' is a completion of an idea in the same way 'similarity' is; and contiguity in space and time are external, not internal, relationships. Ideas tend to produce their contrasting idea, rather than ideas which are similar, when they are accompanied by strong feelings, as all feelings have a kind of 'elasticity' to them, always presenting with its opposite feeling implicitly.
 
-'Internal connection,' is then is explained by what Wundt called 'central innervation,' or the properties of the nervous system.  It is a fundamental law of neuroscience, even then, that 'neurons that wire together fire together.'  For Wundt and his followers, the similarity and contrast of ideas was explainable by the excitation and inhibition properties of these nerves.
+'Internal connection,' is then is explained by what Wundt called 'central innervation,' or the properties of the nervous system. [#Wundt:1876vu] It is a fundamental law of neuroscience, even then, that 'neurons that wire together fire together.'  For Wundt and his followers, the similarity and contrast of ideas was explainable by the excitation and inhibition properties of these nerves.
 
 ##### Behavior: Pavlov
 
@@ -420,7 +420,7 @@ Pavlov's primary application of his findings were to the nervous system as a who
 
 Pavlov placed particular emphasis on the idea that his experiments were purely objective and not open to observer influence, such as the experiments of the Wundt and his ‘introspectivists.’ In fact, he closes his 1927 lectures with the bold claim that:
 
-&gt;all the experiments, those of other workers as well as our own, which have set as their object a purely physiological interpretation of the activity of the higher nervous system, I regard as being in the nature only of a preliminary inquiry, which has however, I fully believe, entirely justified its inception. We have indisputably the right to claim that our investigation of this extraordinarily complex field has followed the right direction, and that, although not a near, nevertheless a complete, success awaits it.
+&gt;all the experiments, those of other workers as well as our own, which have set as their object a purely physiological interpretation of the activity of the higher nervous system, I regard as being in the nature only of a preliminary inquiry, which has however, I fully believe, entirely justified its inception. We have indisputably the right to claim that our investigation of this extraordinarily complex field has followed the right direction, and that, although not a near, nevertheless a complete, success awaits it. [#Pavlov:1946ws]
 
 The importance of Pavlov's theorizing should be obvious at this point: classical conditioning provided a physiological law-like relationship that could take the place of (provide the bodily substrate for) the association of ideas. And it provides a mechanisms for creating, intervening in, or destroying those associations—which no previous theory had managed to do thus far.
 #### American Psychology: William James and the function of consciousness
@@ -439,7 +439,7 @@ In 1878 James contracted with Henry Holt and company to write a textbook for thi
 
 James held that consciousness (which was the central phenomenon to be studied by psychology) was like stream, encompassing much more than mere ‘associations’ of ideas. The associationists who followed Hume isolated experiences from their context, and provided a overly simplistic account. The object of study of psychology---the relations, tendencies and emotions that make up the stream of consciousness---are experienced directly in introspection, and form the basis of genuine scientific inquiry into the mind.
 
-James' fellow pragmatists Peirce and Dewey went on to construct a theory of psychology focused on the  functions of mental states, what was called ultimately called “The Chicago School.” Dewey argued that explanations of human activity that focused merely on the 'stimulus' and 'response' or the British thinker W.K. Clifford’s ‘reflex arcs' were inadequate characterizations of conscious states. In order to truly characterize, and then study, conscious states, science must take into account the function or end of those states. In his words:
+James' fellow pragmatists Peirce and Dewey went on to construct a theory of psychology focused on the  functions of mental states, what was called ultimately called “The Chicago School.”[#James:1904dz] Dewey argued that explanations of human activity that focused merely on the 'stimulus' and 'response' or the British thinker W.K. Clifford’s ‘reflex arcs' were inadequate characterizations of conscious states. In order to truly characterize, and then study, conscious states, science must take into account the function or end of those states. In his words:
 
 &gt;the distinction of sensation and movement as stimulus and response respectively is not a distinction which can be regarded as descriptive of anything which holds of psychical events or existences as such. The only events to which the terms stimulus and response can be descriptively applied are to minor acts serving by their respective positions to the maintenance of some organized coördination. The conscious stimulus or sensation, and the conscious response or motion, have a special genesis or motivation, and a special end or function. The reflex arc theory, by neglecting, by abstracting from, this genesis and this function gives us one disjointed part of a process as if it were the whole. [p. 370][#Dewey:1896vt]
 
@@ -467,7 +467,7 @@ Watson’s behaviorism explains the behavior of all organisms (not just humans) 
 
 MacDougall, among others, challenged Watson to explain “thinking” or “thought”  in terms of stimulus and response.  Watson does not shy away from this challenge:
 
-&gt; “The increasing dominance of language habits in the behavior of the developing child leads naturally over into the behaviorist's conception of thinking.  The behaviorist makes no mystery of thinking.  He holds that thinking is behavior, is motor organization, just like tennis playing or golf or any other form of muscular activity. But what kind of muscular activity? The muscular activity that he uses in talking. Thinking is merely talking, but talking with concealed musculature.” [p. 464][#Watson:1926wd]
+&gt; “The increasing dominance of language habits in the behavior of the developing child leads naturally over into the behaviorist's conception of thinking.  The behaviorist makes no mystery of thinking.  He holds that thinking is behavior, is motor organization, just like tennis playing or golf or any other form of muscular activity. But what kind of muscular activity? The muscular activity that he uses in talking. Thinking is merely talking, but talking with concealed musculature.” [p. 464][#Watson:2013ty]
 
 According to Watson, a child initiates verbal behavior by talking aloud to and about his surroundings. As that behavior is negatively reinforced, it changes to mumbling to oneself, and ultimately to keeping one's lips closed. It follows that thinking is not an activity of the mind/brain alone, but a kinesthetic experience of the entire organism—in short, a behavior.  Words are, in Watson's view “the conditioned substitutes for our world of objects and acts. Thinking is a device for manipulating the world of objects when those objects are not present to the senses.” [][#Watson:iMwU-3B8]
 
@@ -477,13 +477,13 @@ During the middle of the 20th century, behaviorism in American divided roughly i
 
 For Tolman, a behavioristic science must answer three major problems: “(1), given the stimulating agency, determining the behavior-cues (2), given the behavior-cues, determining the behavior-object and (3), given the behavior-object, determining the behavior-act.” (p. 51).  (1) is the problem of psychophysics, which is adequately solved by Fechner. (2) is accessible, with rewording, by classical conditioning. (3) is the “important problem of motive.” A proper science of behavior must answer all three of these problems. Doing so, Tolman contends, would allow the behaviorist to understand and better elucidate introspection.
 
-Opposing Tolman, Clark Hull (1884 – 1952) contended that in order for a postulate or theorem to be “truly scientific,” it must “take the form of specific statements of the outcome of concrete experimentations or observations.”[#Hull:1940ub] Simple classification of behavior are not, themselves, scientific. But neither is talk of such things as motives.  Scientific explanations must make use of clear, unambiguous terms that refer to  observable behavior. Everything else is simply not considered to be 'science.' Hull contends that psychology should produce mathematical equations that would specify precisely all the  relationships between variables that account for an organisms behavior. The specific behavior of a given organism would be an instance of these universal mathematical generalizations.
+Opposing Tolman, Clark Hull (1884 – 1952) contended that in order for a postulate or theorem to be “truly scientific,” it must “take the form of specific statements of the outcome of concrete experimentations or observations.”[#Hull:mFXxOgAu] Simple classification of behavior are not, themselves, scientific. But neither is talk of such things as motives.  Scientific explanations must make use of clear, unambiguous terms that refer to  observable behavior. Everything else is simply not considered to be 'science.' Hull contends that psychology should produce mathematical equations that would specify precisely all the  relationships between variables that account for an organisms behavior. The specific behavior of a given organism would be an instance of these universal mathematical generalizations.
 
 Hull's primary contribution to behaviorism is the thesis that that the when a given stimulus has the effect of reducing a biological need, the connection between the stimulus and the response is strengthened automatically. While that statement may seem like a commonsense position today (food given as a reward, e.g.), the important part of it in 1935 was the word of 'automatically.' Contrary to the introspectivists or even commonsense, one need not be aware of the satiation of one's physical desires in order to strengthen the association between the conditioned stimulus and the conditional response. In fact, most conditioned associations are not accessible to introspective awareness.
 
-Methodologically, Hull's insistence on the mathematical-deductive structure of theory led to a cadre of young psychologists who were able to represent complex relationships between variables mathematically.  Many members of that generation ended up at Stanford, ultimately providing much of the theory of information processing that allowed the cognitivists to advance sophisticated mathematical and computer models of cognitive states.
+Methodologically, Hull's insistence on the mathematical-deductive structure of theory led to a cadre of young psychologists who were able to represent complex relationships between variables mathematically.[#Hull:1940tm] Many members of that generation ended up at Stanford, ultimately providing much of the theory of information processing that allowed the cognitivists to advance sophisticated mathematical and computer models of cognitive states.
 
-In response to Hull, Tolman argued that simple stimulus-response connections were insufficient to explain behavior: specifically rats running a maze for a food reward.  In his famous 1948 paper “Cognitive Maps in Rats and Men,” Tolman presented evidence that showed rats that were allowed to wander around a maze randomly before the beginning of training period learned the maze more quickly than rats that began training without prior exposure to the maze. Tolman argued that the best explanation for this phenomenon---and our general intuition about why rats appear to pause before beginning down a specific course---is that the rats have built up a 'cognitive map' of the maze through their random explorations.  He goes so far as to suggest that the rats had the ability to learn through 'Vicarious Trial and Error,' or 'imagining' what would happen if they responded to a particular stimulus.  For Tolman, this was:
+In response to Hull, Tolman argued that simple stimulus-response connections were insufficient to explain behavior: specifically rats running a maze for a food reward.  In his famous 1948 paper “Cognitive Maps in Rats and Men,” Tolman presented evidence that showed rats that were allowed to wander around a maze randomly before the beginning of training period learned the maze more quickly than rats that began training without prior exposure to the maze. ([#Tolman:1948kv]) Tolman argued that the best explanation for this phenomenon---and our general intuition about why rats appear to pause before beginning down a specific course---is that the rats have built up a 'cognitive map' of the maze through their random explorations.  He goes so far as to suggest that the rats had the ability to learn through 'Vicarious Trial and Error,' or 'imagining' what would happen if they responded to a particular stimulus.  For Tolman, this was:
 
 &gt;evidence that in the critical stages-whether in the first picking up of the instructions or in the later making sure of which stimulus is which-the animal's activity is not just one of  responding passively to discrete stimuli, but rather one of the active selecting and comparing of stimuli. [p. 200][#Tolman:1948ty]
 
@@ -519,7 +519,7 @@ Skinner adamantly insisted that scientific inquiry could not countenance hypothe
 
 In the years following, Behaviorism came to utterly dominate American Psychology.  By 1960, for example, the standard textbook for experimental psychology, Burton G. Andreas' Experimental Psychology could confidently assert:
 
-**Psychology seeks to express the laws of behavior.** It makes the assumption that all aspects of behavior, like other natural phenomena, are dependent on the conditions under which the behavior occurs... Psychology seeks to describe the dependence of the activities of people or animals on their environments and states of being. Psychology's place is delineated by this particular goal and the specific techniques devised for striving toward it. (1960, p. 4)
+**Psychology seeks to express the laws of behavior.** It makes the assumption that all aspects of behavior, like other natural phenomena, are dependent on the conditions under which the behavior occurs... Psychology seeks to describe the dependence of the activities of people or animals on their environments and states of being. Psychology's place is delineated by this particular goal and the specific techniques devised for striving toward it. [p. 4][#Andreas:WVE4neKa]
 
 #### Concurrent developments: Logic and Computing
 
@@ -555,11 +555,9 @@ In 1959, Chomsky published a vitriolic review of Skinner's Verbal Behavior, in w
 
 In the decade before these tumultuous years, the Macy foundation had sponsored series of conferences that introduced some of great early mathematicians and computer scientists including John von Neumann (father of most computer languages), Norbert Wiener (founder of cybernetics), Warren McCulloch and Walter Pitts (who together created a mathematical model of a neuron, which is the basis for all neural network architecture), Julian Bigelow and Arutuo Rosenblueth (also pioneering cyberneticists) to the great social scientists and psychologists of the day, including the anthropologist Margaret Mead, the Gestalt psychologist Wolfgang Köhler. The goal of these workshops was to investigate the similarities between computational machines and human minds and social structures. Behaviorists almost never attended. While the results from these conferences were minimal, they set the stage for MIT's Second Symposium on Information theory, September 10-12 1956, that forever changed forever the face of psychology.  
 
-At that conference, Alan Newell and Herbert Simon, computer scientists from Carnegie-Melon, presented a simple machine that could do logic proofs and Noam Chomsky presented his idea of a transformative-generative grammar as the basis of language. George Miller writes, in an unpublished paper presented at MIT and repeatedly cited by historians of cognitive science, that he came away from the conference with a sense “more intuitive than rational, that human experimental psychology, theoretical linguistics, and the computer simulation of the cognitive process were all the pieces from a larger whole, and that the future would see a progressive elaboration and coordination of their shared concerns.”  Miller recalls Newell telling him “Chomsky was developing exactly the same kind of ideas for language that he and Herb Simon were developing for theorem-proving.”
+At that conference, Alan Newell and Herbert Simon, computer scientists from Carnegie-Melon, presented a simple machine that could do logic proofs and Noam Chomsky presented his idea of a transformative-generative grammar as the basis of language. George Miller writes, in an unpublished paper presented at MIT and repeatedly cited by historians of cognitive science, that he came away from the conference with a sense “more intuitive than rational, that human experimental psychology, theoretical linguistics, and the computer simulation of the cognitive process were all the pieces from a larger whole, and that the future would see a progressive elaboration and coordination of their shared concerns.”  Miller recalls Newell telling him “Chomsky was developing exactly the same kind of ideas for language that he and Herb Simon were developing for theorem-proving.” [#MILLER:1979tt]
 
-And so began 'the Cognitive Revolution”.
-
-#### Further Resources
+And so began “the Cognitive Revolution.”
 
 </Text>
             <Comments>The four idols distinguished by Bacon are the idols of the tribe, the cave, the marketplace and the theater.  The idols of the tribe are those which we all share, as a function of our biology. They “have their origin either in the regularity of the substance of the human spirit; or in its prejudices; or in its limitations; or in its restless movement; or in the influence of the emotions; or in the limited powers of the senses; or in the mode of impression” (LII)
@@ -1106,7 +1104,7 @@ In 1948, Alfred C. Kinsey (b. 1894 – d. August 25, 1956) published Sexual Beha
 
 Kinsey and his assistants had interviewed 5,300 white males from all walks of American life. The interviews required up to 521 questions, depending on the interviewee’s experiences.  Kinsey reported that a large number of men—up to 45%—reported having at least one homosexual encounter during his adolescence.  These encounters are most frequent at young age, dropping to a stable 10% of the population by age 20-25. These numbers, Kinsey fears, may not tell the whole story because:
 
-&gt;The social significance of the homosexual is considerably emphasized by the fact that both Jewish and Christian churches have considered this aspect of human sexuality to be abnormal and immoral. … Social custom and our Anglo-American law are sometimes very severe in penalizing one who is discovered to have had homosexual relations. In consequence, many persons who have had such experiences are psychically disturbed, and not a few of them have been in open conflict with the social organization. (p. 610)
+&gt;The social significance of the homosexual is considerably emphasized by the fact that both Jewish and Christian churches have considered this aspect of human sexuality to be abnormal and immoral. … Social custom and our Anglo-American law are sometimes very severe in penalizing one who is discovered to have had homosexual relations. In consequence, many persons who have had such experiences are psychically disturbed, and not a few of them have been in open conflict with the social organization. [p. 610][#Kinsey:1998ur]
 
 The Kinsey report found that homosexual activity as a common part of male sexual development.  Self-identifying as a homosexual, or engaging exclusively in homosexual activity, was found to be more rare. But at 10%, it was almost twice as high as any previous scientific estimate. Almost as importantly, Kinsey identified the source of psychic disturbance not to be the homosexual activity itself, but the social structures that penalize such behavior.
 
@@ -1148,7 +1146,7 @@ This alone was a major step forward in the study of male homosexuality, as all p
 
 Hooker tested the resulting 60 men using standard psychological tests: the Rorschach, Thematic Apperception Test (TAT) and the Make-A-Picture-Story Test (MAPS). The data was blinded and mixed, and then sent to psychologists with expertise on these the tests who were instructed to score them normally and return the scores.  Hooker found no significant difference between the 30 homosexual and 30 heterosexual males with respect to standard tests for mental disturbances, indicating that homosexual men were no more likely to be neurotic than equivalent heterosexual men.
 
-Hooker presented her findings at the 1956 APA in Chicago. Her paper was published in 1957, shortly after Sam Fromm's death in a car accident.
+Hooker presented her findings at the 1956 APA in Chicago. Her paper was published in 1957, shortly after Sam Fromm's death in a car accident. For more on Evelyn Hooker, see [#Aldrich:2005wq]
 
 #### Stonewall: The street activists
 
@@ -1365,7 +1363,7 @@ While behaviors associated with mental illness---hallucinations, catatonic state
 
 Pinel was an intellectual disciple of Étienne Bonnot de Condillac, who in turn, was a disciple of John Locke. Locke is most well known as the intellectual progenitor of the American Constitution, but his views on the nature of mind and the empirical basis of knowledge held sway over much of the Western intellectual world in the first half of the 19th century.  Locke's influence on Condillac and hence Pinel was two-fold: first, he held that all our ideas originate in sensation and reflection. Second, and as importantly, Locke followed Francis Bacon in teaching that all knowledge must be based on careful, systematic observation.
 
-For the empiricists, it follows that insanity, which is a severe form of our ideas 'leading us astray', is explained by a incorrect connection and association of ideas. The mechanism is simple: some of our ideas have a natural affinity or connection with one another. Others are held together by mere custom or habit. Cases of insanity are cases where habitual associations become so disorganized they begin to effect the 'natural' associations. This misassociation can become so extreme that it can “set us awry in our actions, as well moral as natural, passions, reasonings, and notions themselves” (Locke, Bk 2, Ch 33, p9. p 317). To this day, we use metaphors like 'lost his senses' to describe someone with mental illness; and we describe poorly chosen actions as 'not very sensible.'
+For the empiricists, it follows that insanity, which is a severe form of our ideas 'leading us astray', is explained by a incorrect connection and association of ideas. The mechanism is simple: some of our ideas have a natural affinity or connection with one another. Others are held together by mere custom or habit. Cases of insanity are cases where habitual associations become so disorganized they begin to effect the 'natural' associations. This misassociation can become so extreme that it can “set us awry in our actions, as well moral as natural, passions, reasonings, and notions themselves” [Bk 2, Ch 33, p9. Pg. 531][#Locke:1959wj]. To this day, we use metaphors like 'lost his senses' to describe someone with mental illness; and we describe poorly chosen actions as 'not very sensible.'
 
 This is simply the theoretical basis for understanding insanity in the broadest possible terms.  To truly understand how mental disorder is defined and classified, we must consider how the mentally ill have been treated.
 
@@ -1374,7 +1372,7 @@ This is simply the theoretical basis for understanding insanity in the broadest 
 
 Phillipe Pinel (1745-1826) revolutionized the treatment of the insane. When, in 1792, he was appointed a physician at the main asylum in Paris---the Bicêtre hospital---the situation was dire. According to a biographer in 1846:
 
-&gt; The buildings were unfit for habitation. In them were congregated men crouching together in the mud, in stone cells, narrow, cold, damp, destitute of air and light, and merely furnished with a straw bed, seldom renewed, and soon becoming foul and offensive; wretched dens, in which one would hesitate to place the meanest animal. The insane, who were immured in these filthy holes, were at the mercy of their attendants, and these persons were malefactors released from prison. The wretched patients were loaded with chains and manacled like convicts. Thus given up defenseless to the wickedness of their guardians, they were the sports of an insulting mockery, or of a brutality all the more blind that it was gratuitous. (Marx, 1846, p. 194-195)
+&gt; The buildings were unfit for habitation. In them were congregated men crouching together in the mud, in stone cells, narrow, cold, damp, destitute of air and light, and merely furnished with a straw bed, seldom renewed, and soon becoming foul and offensive; wretched dens, in which one would hesitate to place the meanest animal. The insane, who were immured in these filthy holes, were at the mercy of their attendants, and these persons were malefactors released from prison. The wretched patients were loaded with chains and manacled like convicts. Thus given up defenseless to the wickedness of their guardians, they were the sports of an insulting mockery, or of a brutality all the more blind that it was gratuitous. [p. 194-195][#Marx:1847vc]
 
 Upon his arrival, Pinel immediately began advocating pity, respect, and compassion for the patients, not only for humanitarian reasons, but also in order to allow the Baconian method of careful observation. Given the terrible conditions at the Bicêtre, Pines argued, one would never be able to determine if the behavior of the patients was the result of some underlying condition, or the condition of the Hospital itself. Bicêtre's chief physician, Pussin, was sympathetic to Pinel's techniques, and began a pilot study of unchaining the patients.
 
@@ -1383,7 +1381,28 @@ Two years later, Pinel was appointed  chief physician of the Hospice de la Salp�
 
 Pinel's revolutionary kindness is not just a story of a sympathetic humanitarian.  Pinel's goal was to systematical classify mental illness in the Baconian manner.  The conditions of confinement found in the Bicêtre and the Salpêtrière compounded the patients' mental illness, and confounded his attempts at observation. In these conditions, one could not determine if the regularity of symptoms found in the population resulted from the illness or the ‘treatment.’ By providing the patients respect and dignity, he believed he could observe their mental illness in a more untainted form.
 
-In general, Pinel followed Locke and Condillac in holding that insanity was 'derangement of the understanding’, yet extended the view to cover cases where memory, understanding and judgment were perfectly sound, and still the patient was maniacal. Pinel thus abandoned any formal all-encompassing theoretical explanation of insanity per se, and preferred to work with its variants, which he classified as mania, melancholy, dementia and idiocy.
+In general, Pinel followed Locke and Condillac in holding that insanity was 'derangement of the understanding’, yet extended the view to cover cases where memory, understanding and judgment were perfectly sound, and still the patient was maniacal. 
+
+Pinel thus abandoned any formal all-encompassing theoretical explanation of insanity per se, especially that which originated in Ancient Greek thought. The Greeks, he reasoned, were wrong about how the human brain functions, as we now understood. And as their system was based on their mistaken physiology, it is unreliable. 
+
+Instead, Pinel explicitly bases his system on “the numerous and important facts which have been discovered and detailed by modern pneumatologists” [p. 135][#Pinel:1806ws] 
+
+&lt;!-- \begin{longtable}[!t]{ | P{2cm} | P{11cm}  | }
+\hline
+\tahead{Name}&amp;\tahead{Presentation and Specific Character} \\ \hline 
+Melancholia or delirium upon one subject exclusively&amp;Presentation: taciturnity, a thoughtful pensive air, gloomy suspicions, and a love of solitude. (\S 54)\newline  Specific characterization: no propensity to acts of violence, independent of such as may be expressed by a predominant and chimerical idea: free exercise in other respects of all the faculties of the understanding: in some cases, equanimity of disposition, or a state of unruffled satisfaction: in others, habitual depression and anxiety, and frequently moroseness of character amounting even to the most decided misanthropy, and some times to an invincible disgust with life.(\S 59) \\ \hline
+Mania without delirium&amp;Presentation: no period do they give evidence of any lesion of the understanding, but are under the dominion of instinctive and abstract fury(\S 60) \newline
+May be continued or intermittent. No Sensible change int eh functions of the understanding ; but perversion of the active faculties, marked by an abstract and sanguinary fury, with a blind propensity to acts of violence. (\S 64) \\ \hline
+Mania with delirium&amp;Presentation: faculties may be excited by intense or vehement passions, bu exalted and furious enthusiasm, or whatever strong emotions that may originate in fanaticism or chimerical delusion.(\S 60) \newline
+May be continued or intermittent, with regular or irregular returns of the paroxsyms. It is distinguished, both in respect to the functions of mind as well as those of the body, by a strong nervous excitement; and marked by the lesion of one or more of the functions of the understanding, accompanied by emotions of gaiety, of despondence or of fury.(\S 67) \\ \hline
+Dementia, or the abolition of the thinking faculty&amp;Presentation: extreme volatility, thoughtless absence, extravagant improprieties, and wild eccentricities(\S 68) \newline
+Rapid succession or uninterrupted alternation of insulated ideas, and evanescent and unconnected emotions. Continually repeated acts of extravagance: complete forgetfulness of every previous state: diminished sensibility to external impressions: abolition of the faculty of judgement: perpetual activity.(\S 67) \\ \hline
+Ideotism&amp;Presentation: partial or total abolition of the intellectual and active faculties.(\S 72) \newline
+Total or partial obliteration of the intellectual powers and affections: universal torpor: detached, half articulated sounds; or entire absence of speech from want of ideas: in some cases, transient and unmeaning gusts of passion.(\S 76) \\ \hline
+\caption{Pinel’s classification system}
+\label{table: pinel}
+\end{longtable}
+--&gt;
 
 Pinel spent a great amount of time showing that the conditions he was treating did not have a physiological basis. Much of his argumentation in Treatise on Insanity turns on the dissections performed on patients who had died while at the Bicêtre. The reason for this was two-fold: first, the ancient Aristotlean understanding of the mind held that mental illness resulted from too much or too little of one of the four main 'humours': black bile, yellow bile, blood and phlegm.  By showing that the mentally ill had no significant lesions in the brain, or imbalances in their 'fluids', Pinel was able to establish the independence of psychiatry from other forms of medicine.
 
@@ -1409,13 +1428,13 @@ It is worth pointing out that the word 'asylum' means, of course, a sanctuary or
 
 While Pinel tended to think of transient mental illness as a confusion of ideas, he occasionally spoke of the role of passions in mental illness.  In the early pages of the Treatise, he hypotheses three different causes of insanity:
 
-&gt;I now proceed to describe the general progress of periodical insanity. Among its various causes; exclusive of changes in the state of the atmosphere, my experience leads me to enumerate as the most frequent; undue indulgence of the angry passions; any circumstances calculated to suggest the recollection of the original exciting cause of the disease, intemperance in drinking, inanition, &amp;c. (p. 12)
+&gt;I now proceed to describe the general progress of periodical insanity. Among its various causes; exclusive of changes in the state of the atmosphere, my experience leads me to enumerate as the most frequent; undue indulgence of the angry passions; any circumstances calculated to suggest the recollection of the original exciting cause of the disease, intemperance in drinking, inanition, &amp;c. [p. 12][#Pinel:1806ws]
 
 Pinel's greatest student, Esquirol built on this hypothesis of 'undue indulgence of the angry passions' and redefined the notion of transient insanity as 'mental alienation.' It was Esquirol who grew the empirical understanding of the mind into a full-fledged psychiatric system. But like Pinel, the set of conditions he sought to explain were those with symptoms that were not obviously explained by physical, bodily conditions.
 
-To Pinel's four-fold classification, Esquirol added monomania, or obsession with a single idea, as distinct kind of mental illness.  'Melancholy,' he renamed 'lypemania.' because the former implied the medieval theory of 'humors' and  'black bile.' 
+Esquirol split Pinel’s ‘Melancholia’ (see &lt;!--\fullref{table: pinel}--&gt;, into ‘monomania,’ or obsession with a single idea, and 'lypemania.' The latter he renamed partially because the ‘melancholia’ implied the medieval theory of 'humors' and  'black bile,’ which Pinel specifically wanted to banish. 
 
-Monomania, lypemania and mania were distinguished by the nature of the passions that are out of order: “The passions of the insane are impetuous, especially in mania and monomania. They are of a depressing character in lypemania. In dementia and imbecility, those only exist, which spring from the first wants of man,--love, anger, jealousy.” (p 26).  
+Monomania, lypemania and mania were distinguished by the nature of the passions that are out of order: “The passions of the insane are impetuous, especially in mania and monomania. They are of a depressing character in lypemania. In dementia and imbecility, those only exist, which spring from the first wants of man,--love, anger, jealousy.” [p 26][#Esquirol:1845ug]  
 
 As the curable, transient forms of insanity were diseases of malformed passions, their treatment required reforming or redirecting the passions. His five varieties of insanity are defined thus:
 
@@ -1427,7 +1446,7 @@ As the curable, transient forms of insanity were diseases of malformed passions,
 
 4. Dementia, win which the insensate utter folly, because the organs of thought have lost their energy, and the strength requisite to fulfill their functions.
 
-5. Imbecility, or idiocy, in which the conformation of the organs has never been such, that hose who are thus afflicted, could reason justly. (29)]
+5. Imbecility, or idiocy, in which the conformation of the organs has never been such, that hose who are thus afflicted, could reason justly. [p. 29][#Esquirol:1845ug]
 
 It is important to note here that the passions *accompany* delirium with respect to collections of objects.  One cannot be passionate without being passionate about something. The 'something' that is the object of passion is supplied by the senses---and hence, we're still within a Lockean framework of understanding the mind.  
 
@@ -1451,13 +1470,13 @@ At mature age, the relations become extended, social wants multiple and the pass
 &gt;Insanity from a moral cause, rarely exists with him, and when he loses his reason, it is because his organs are fatigued and exhausted. Hence, it is neither mania nor monomania which is developed, at this period, but senile dementia.
 
 &gt;Of all moral causes, those which most frequently produce insanity, are pride, fear, fright, ambition, reverses of fortune, and domestic trouble. This last should have been placed, relative to its great influence, at the head of the moral causes, if it be limited to a simple ideas; but by domesticate troubles, I express all the pains, all the griefs, all oppositions, misfortunes and dissensions that grow out of the family state.
-(Mental Maladies: A Treatise on Insanity, p 45-46)
+[P. 45-46][#Esquirol:1845ug]
 
 Esquirol began to gather around himself a 'circle' of students who are sometimes referred to as the 'mental alienists.’ Two of the most famous of his students were Charles Lasègue, who is now credited with working out the first definition of hysteria and first documenting *anorexia nervosa*; and Étienne-Jean Georget who delineated four sub-types of 'monomania': theomania (religious obsession), ertomania (sexual obsession), demonomania (obsession with evil) and homocidal monomania.
 
 Esquirol's concept of monomania sparked what is probably the first recorded wave of copy-cat psychosis. In November 1825, a young single mother of two named Henriette Cornier, decapitated the 19 month-old child of her neighbors. She had prepared her room for the act, even placing a bucket to catch the blood. She had known the family of the infant for only ten days, and had, up until this event, been nothing but loving and gentle towards the little girl who would be her victim. When the police arrived, she offered no resistance to the police, and did not flee. She confessed, saying that the idea had taken hold of her, and she simply had to act upon it.
 
-The case became a sensation across Europe. Georget diagnosed her as a 'homicidal monomaniac.' At her trial, the jury decided that the act had not been premediated and as a result, she was sentenced to life in prison with hard labor instead of death. This ruling makes little sense: Cornier admitted that the idea had occurred to her before the event, and she had carefully prepared her room for the murder. Thus, many commentators---include Lisa Appengasi (p 75)---have attributed the jury’s leniency to Georget's diagnosis of mental alienation. After all, if Cornier was mentally ill, does pre-planning count as 'premediation'?
+The case became a sensation across Europe. Georget diagnosed her as a 'homicidal monomaniac.' At her trial, the jury decided that the act had not been premediated and as a result, she was sentenced to life in prison with hard labor instead of death. This ruling makes little sense: Cornier admitted that the idea had occurred to her before the event, and she had carefully prepared her room for the murder. Thus, many commentators---include Lisa Appignanesi [p 75][#Appignanesi:2009vl]---have attributed the jury’s leniency to Georget's diagnosis of mental alienation. After all, if Cornier was mentally ill, does pre-planning count as 'premediation'?
 
 The idea of the murderous monomaniac took off across Europe, informing or appearing in some of the greatest literature of era, including (according to various literary critics) Poe's “The Tell-Tale Heart,” the character of Roskolvikov in Dostovesky's *Crime and Punishment*, and even Heathcliff in Bonte's *Wutherheights*. The Marquis de Sade is also said to have been a monomaniac.
 &lt;!--\begin{marginfigure}
@@ -1477,7 +1496,7 @@ The precise relationship between nerves and electricity, as well as the relation
 
 #####  American Nervousness --- George Beard
 
-George Beard (1839-1883) was an American physician who started out advocating for the use of electricity as a medical intervention.  His first book *Electricity as a Tonic* (1866) suggested that electricity could be used to cure 'general nervous debility,' including dyspepsia, chorea, neuralgia, anaemia, or amenorrhoea. (1867, p. 73) Beard was a charismatic popular author, who went on to write a series of popular home-healthcare books starting with *Our Home Physician: Handy Book of Family Medicine* in 1869.
+George Beard (1839-1883) was an American physician who started out advocating for the use of electricity as a medical intervention.  His first book *Medical Uses of Electricity* ([#Beard:1867tz]) suggested that electricity could be used to cure 'general nervous debility,' including dyspepsia, chorea, neuralgia, anaemia, or amenorrhoea. Beard was a charismatic popular author, who went on to write a series of popular home-healthcare books starting with *Our Home Physician: Handy Book of Family Medicine* in 1869.
 &lt;!--\begin{marginfigure}
  \begin{center}
 
@@ -1490,7 +1509,7 @@ George Beard (1839-1883) was an American physician who started out advocating fo
 
 Starting in the 1870s, Beard became increasingly interested in psychological disorders. In 1881, he published *American Nervousness*, a book that came to define psychological treatment for a generation.  'Nervousness' did not mean then what it means today: jitteriness or tension. Then, it denoted a kind of fundamental exhaustion—what we still call a 'nervous breakdown'.  Technically, Beard defined it as:
 
-&gt;“deficiency of lack of nerve-force. This condition, together with all the symptoms of diseases that are evolved from it, has developed mainly within the nineteenth century, and is especially frequent and severe in the Northern and Eastern portions of the United States. Nervousness, in the sense here used, is to be distinguished rigidly and systematically from simple excess of emotion and from organic disease.” (1881, p. vi)
+&gt;“deficiency of lack of nerve-force. This condition, together with all the symptoms of diseases that are evolved from it, has developed mainly within the nineteenth century, and is especially frequent and severe in the Northern and Eastern portions of the United States. Nervousness, in the sense here used, is to be distinguished rigidly and systematically from simple excess of emotion and from organic disease.” [p. vi][#Beard:1881tg]
 
 It was caused by “modern civilization, which is distinguished from the ancient by these five characteristics: steam-power, the periodical press, the telegraph, the sciences, and the mental activity of women.” (p. vi)
 
@@ -1519,9 +1538,9 @@ Her experiences you may know from the American Standard short story The Yellow W
 
 While Beard and Wier Mitchell are today often ridiculed as snake-oil salesmen playing on political concerns over rapid modernization and the suffragist movement, they made a number of notable contributions to our commonsense understanding of psychological disorder. First, they indelibly linked mental disorders to neurology. As mentioned above, we still use phrases like 'nervous breakdown' in common parlance to explain psychological disorder. Second, by proscribing puberty, birth, menopause and the 'unprecedented beauty of American women' as prime causes of mental illness, they further established a link between the onset and frustration of sexuality with mental illness, a point upon which Freud would build psychoanalysis.
 
-It would be a mistake, however, to accept the simplistic narrative that the doctors of this era were manipulating and abusing their female patients without their consent. Historians of Psychology Laura C. Ball and Jennifer L. Bazar have recently demonstrated that in some cases, some women aggressive sought out procedures, such as clitorectomies, in this period. In one remarkable case, a patient even 'tormented the doctors to operate again.'
+It would be a mistake, however, to accept the simplistic narrative that the doctors of this era were manipulating and abusing their female patients without their consent. Historians of Psychology Laura C. Ball and Jennifer L. Bazar have recently demonstrated that in some cases, some women aggressive sought out procedures, such as clitorectomies, in this period. In one remarkable case, a patient even 'tormented the doctors to operate again.' [#Ball:2010tk]
 
-One way to chart the rise of psychiatric diagnosis is to consider how people with mental illness are counted.  Starting in 1830, the US census included categories for the disabled, including 'blind' and 'deaf.' From 1840-1870, the census included the category 'idiocy/insanity.' Starting in 1880, however, the federal government began using categories of mental illness. In 1880, those categories were:
+One way to chart the rise of psychiatric diagnosis is to consider how people with mental illness are counted.  Starting in 1830, the US census included categories for the disabled, including 'blind' and 'deaf.' [#Gorwitz:1974tt] From 1840-1870, the census included the category 'idiocy/insanity.' Starting in 1880, however, the federal government began using categories of mental illness. In 1880, those categories were:
 &lt;!-- \begin{longtable}[!t]{ |  p{1cm} |  p{1cm} |p{4.8cm} | }
 \hline
 21&amp;\multicolumn{2}{ | p{5.8cm} | }{\tahead{Mental Disease, Insanity}} \\ \hline
@@ -1538,6 +1557,7 @@ One way to chart the rise of psychiatric diagnosis is to consider how people wit
 \label{table: 1880classifications}
 \end{longtable}
 --&gt;
+
 Readers of these sections will no doubt recognize this taxonomy as owing an intellectual debt to both Esquirol (Melancholy, Mania, Hysteria and Dementia) *and* Beard (Nerves).
 
 ##### Early Neurology --- Charcot
@@ -1594,7 +1614,7 @@ These founders of psychiatry theorized about a population that had been deemed m
 
 Without a control population, there was no way these classifications could tease apart underlying conditions from any effects that may have resulted from being classified this way in the first place. 
 
-In 1880, Josef Breuer, a student of the great psycho-physiologist Ewald Hering, was studying the ear as a part of his research at Vienna General Hospital. It was there that he first met 'Anna O.', a young woman with an extremely acute cough. Finding **no physical reason** for the cough, her family physician diagnosed her with “typical *tussis nurvosa* [nervous cough]” (p 27) 
+In 1880, Josef Breuer, a student of the great psycho-physiologist Ewald Hering, was studying the ear as a part of his research at Vienna General Hospital. It was there that he first met 'Anna O.', a young woman with an extremely acute cough. Finding **no physical reason** for the cough, her family physician diagnosed her with “typical *tussis nurvosa* [nervous cough]” [p 27][#Freud:kVwxqGOZ] 
 
  Shortly thereafter a number of other symptoms arose. Freud &amp; Breuer describe her case thusly:
 
@@ -1610,17 +1630,17 @@ In 1880, Josef Breuer, a student of the great psycho-physiologist Ewald Hering, 
 
 &gt; C)	A period of continual somnambulism ensues, which then alternates with more normal states; continuation of a series of chronic symptoms until December 1881.
 
-&gt; D)	Gradual winding down of mental states and symptoms until June 1882. (p25-26)
+&gt; D)	Gradual winding down of mental states and symptoms until June 1882. [p25-26][#Freud:kVwxqGOZ]
 
 Breuer took over her care during the period of 'manifest illness,'  during which, Anna O. slept for great periods of time ('somnambulism'), but when she awoke in the evening, she would complain of 'torment.' Her speech lost all grammatical structure ('paraphasia') and she would piece together words and phrases from the five distinct languages she spoke, producing an incomprehensible jargon. This same jargon appeared in writing, so Breuer knew that it was not a disfunction of the physical mechanism of speech.
 
 In the early spring of 1881, Anna O fell mute for a period of two weeks. At this point, Breuer claims that he 
 
-&gt;“knew she had taken great offense at something and had resolved to say nothing about it. When I guessed as much and forced her to talk about it, the inhibition, which had until then made it impossible for her to speak about anything else either, disappeared.” (p 29)
+&gt;“knew she had taken great offense at something and had resolved to say nothing about it. When I guessed as much and forced her to talk about it, the inhibition, which had until then made it impossible for her to speak about anything else either, disappeared.” [p 29][#Freud:kVwxqGOZ]
 
 After her father's death, her illness became much more severe. Breuer noticed, however, that her periods of sleep in the later afternoon, during which she was 'tormented' by hallucinations, resembled hypnotic states.  He decided to preemptively hypnotize her and prompt her to 'talk through' these tormenting phantasies. The symptoms subsided quickly.  The day after a session, she would become 'quite calm' and 'agreeable, obedient, industrious and even in good spirits'. The second day after a session she would be 'increasingly moody, contrary and disagreeable, and this worsened on the third.'  Anna O. named these sessions (in English) the 'talking cure' and 'chimney-sweeping.'  Breuer preferred the more sophisticated 'cathartic procedure.'
 
-Breuer communicated this to his friend Sigmund Freud, who offered to co-author a paper laying out the findings. That paper, titled 'The Psychic Mechanism of Hysterical Phenomena,' first appeared in 1893, but was republished as the first chapter of Freud and Breuer's *Studies on Hysteria* (1895). In it, Freud and Breuer propose a new form of hysteria, called 'traumatic hysteria', which they conjecture is always connected to some traumatic event that evokes the syndrome. They further hypothesize that the traumatic event can be unavailable to the conscious, reflective mind of patient---i.e. be unconscious---yet still be causally responsible for the hysterical symptoms.  Moreover, they hypothesize that making the patient aware of the trauma, via Breuer’s 'cathartic procedure' using hypnosis if necessary, alleviates the hysteria.
+Breuer communicated this to his friend Sigmund Freud, who offered to co-author a paper laying out the findings. That paper, titled 'The Psychic Mechanism of Hysterical Phenomena,' first appeared in 1893, but was republished as the first chapter of Freud and Breuer's *Studies on Hysteria* [1895][#Freud:kVwxqGOZ]. In it, Freud and Breuer propose a new form of hysteria, called 'traumatic hysteria', which they conjecture is always connected to some traumatic event that evokes the syndrome. They further hypothesize that the traumatic event can be unavailable to the conscious, reflective mind of patient---i.e. be unconscious---yet still be causally responsible for the hysterical symptoms.  Moreover, they hypothesize that making the patient aware of the trauma, via Breuer’s 'cathartic procedure' using hypnosis if necessary, alleviates the hysteria.
 
 ##### Freud: The foundation of psychoanalysis
 
@@ -1631,7 +1651,11 @@ It was this realization that gives us the basis for psychoanalysis, for it is th
 The barrier between the mentally ill and the mentally healthy had been permanently broken. No longer does the theory of psychiatry apply only to those who cannot be helped by medicine. Now the theory applies to everyone: a healthy person could become ill through unhealthy habits of mental representation, and ill people could become healthy through the process of discovering their habits of mental representation and recognizing their unconscious traumas.  
 
 This conflation of psychiatric conditions and normal life left Freud in the precarious position of having to define 'mental illness.'  He did so thus:
-&gt; Symptoms—and of course we are dealing now with psychical (or psychogenic) symptoms and psychical illness—are acts detrimental, or at least useless, to the subject's life as a whole, often complained by him as unwelcome and bringing unpleasure or suffering to him. (*Introductory Lectures*, p. 445)
+&lt;!--\begin{apatextbox}[Freud’s Definition of Mental Illness]--&gt;
+&gt; Symptoms—and of course we are dealing now with psychical (or psychogenic) symptoms and psychical illness—are acts detrimental, or at least useless, to the subject's life as a whole, often complained by him as unwelcome and bringing unpleasure or suffering to him. [p. 445][#Freud:QdOvAgyZ]
+
+&lt;!--\end{apatextbox}--&gt;
+
 
 **Neurosis v. Psychosis.** One of the hallmarks of Freud's theory is his thesis that the there is no hard and fast distinction to be made between the mentally ill and the mentally healthy. His *Introductory Lectures* are structured to introduce the reader to psychopathology in everyday life before extending the analysis of common activities to psychotics and neurotic patients.  As such, there are no hard and fast definitions of psychosis and neurosis.
 
@@ -1644,13 +1668,13 @@ See Lectures 22 and 23 of the *Introductory Lectures* for a full discussion of n
 
 In 1909, G. Stanley Hall, first president of the American Psychological Association, invited Freud and Jung to give a series of lectures at Clark University. The conference itself was a major moment in the intellectual history of America, as such luminaries as William James, Franz Boas, Adolf Meyer and E.B. Tichner were in attendance, as well as the famed Anarchist Emma Goldman.
 
-After the lectures, James Jackson Putnam, a neurologist in New York City, invited Freud and Jung to retire to his family's Adirondack 'great camp' for the weekend.  Putnam became an important advocate for psychoanalysis in the United States, establishing its legitimacy as a treatment for hysteria. While there are articles prior to 1909 on psychoanalysis (notably one by Putnam himself in 1906), we don't find significant discussion of  psychoanalysis in the mainstream journals of Psychology until after the Clark lectures. An effort to convince the American public of the scientific nature of psychoanalysis was mounted by Putnam camp attendees A.A. Brill, founder of the New York Psychoanalytic Society, and Ernest Jones, student of Freud. By 1916, Jones had published 20 articles, notes and reviews in the Journal of Abnormal Psychology offering or advocating for psychoanalysis.
+After the lectures, James Jackson Putnam, a neurologist in New York City, invited Freud and Jung to retire to his family's Adirondack 'great camp' for the weekend. ([#Prochnik:FiwLnN1z])  Putnam became an important advocate for psychoanalysis in the United States, establishing its legitimacy as a treatment for hysteria. While there are articles prior to 1909 on psychoanalysis (notably one by Putnam himself in 1906), we don't find significant discussion of  psychoanalysis in the mainstream journals of Psychology until after the Clark lectures. An effort to convince the American public of the scientific nature of psychoanalysis was mounted by Putnam camp attendees A.A. Brill, founder of the New York Psychoanalytic Society, and Ernest Jones, student of Freud. By 1916, Jones had published 20 articles, notes and reviews in the Journal of Abnormal Psychology offering or advocating for psychoanalysis.
 
-Putnam and Freud went on to become close friends, and Putnam spent much of the rest of his career attempting to professionalize and regularize the practice of psychiatry. He founded the American Psychoanalytic Association (APsaA) in 1911, which is still active today. His posthumously published *Addresses on Psychoanalysis*, which contains a preface by Freud himself, not only seeks to introduce Freudian theory to his scientific community, but also to dispel misunderstanding gained “through the gossip of prejudice and misconception” (Putnam &amp; Jones, 1921, p. 3).
+Putnam and Freud went on to become close friends, and Putnam spent much of the rest of his career attempting to professionalize and regularize the practice of psychiatry. He founded the American Psychoanalytic Association (APsaA) in 1911, which is still active today. His posthumously published *Addresses on Psychoanalysis*, which contains a preface by Freud himself, not only seeks to introduce Freudian theory to his scientific community, but also to dispel misunderstanding gained “through the gossip of prejudice and misconception” [p. 3][#Putnam:1921uc].
 
 Putnam’s influence here cannot be understated. Putnam introduced psychoanalytic ideas to the budding field of medical neurology. His position as a medical doctor at Harvard gave psychoanalysis legitimacy as a medical practice in America, and his stature in the neurological community helped to assuage any doubts about the lack of a physical basis for the hypothetical entities posited by Freud's structural hypothesis.
 
-The story is not all smooth sailing. In 1916, the Princeton philosopher and psychologist Warren Fite reviewed of Jung's *Psychology of the Unconscious* for *The Nation*, writing that it “presents some five hundred-odd pages of incoherence and obscenity in the form of a psycho-analytic interpretation of the experiences of a sentimental young American woman.” (Fite, 1916) The fact that the United States was at war with Germany didn't help the psychoanalytic cause: Christine Ladd-Franklin, a student of C.S. Peirce and protege of no less than Hermann Helmholtz as well as one of the first women in the APA, called Freud's theory the product of an “undeveloped... German mind.”
+The story is not all smooth sailing. In 1916, the Princeton philosopher and psychologist Warren Fite reviewed of Jung's *Psychology of the Unconscious* for *The Nation*, writing that it “presents some five hundred-odd pages of incoherence and obscenity in the form of a psycho-analytic interpretation of the experiences of a sentimental young American woman.” [#Fite:1916tk] The fact that the United States was at war with Germany didn't help the psychoanalytic cause: Christine Ladd-Franklin, a student of C.S. Peirce and protege of no less than Hermann Helmholtz as well as one of the first women in the APA, called Freud's theory the product of an “undeveloped... German mind.”
 
 What followed is a history of tension between those in the psychological and psychoanalytic communities. Helped by the military's preference for psychoanalysts in the treatment of 'shell-shock' during WWI and 'combat fatigue' in WWII, psychoanalysis gained credibility in the eyes of the American public.
 
@@ -1752,7 +1776,9 @@ In 1917 during its annual meeting in New York, the American Medico-Psychological
 --&gt;
 
 
-In 1928, the New York Academy of Medicine invited the Public Health Service, the Army and Navy Medical Departments and the American Hospital Association to collaborate on a standard nomenclature of disease. That standard was first published in 1933 as *A Standard Classified Nomenclature of Disease*, generally referred to as *The Standard*, and was widely used until at least the 1960s. In its original form, it used the following ten categories, as displayed in table &lt;!--\ref{table: 1933Classification}--&gt;:
+In 1928, the New York Academy of Medicine invited the Public Health Service, the Army and Navy Medical Departments and the American Hospital Association to collaborate on a standard nomenclature of disease. That standard was first published in 1933 as *A Standard Classified Nomenclature of Disease*, generally referred to as *The Standard*, and was widely used until at least the 1960s. [#Houts:2000vp]
+
+ In its original form, it used the following ten categories, as displayed in table &lt;!--\ref{table: 1933Classification}--&gt;:
 
 &lt;!-- \begin{longtable}[!t]{ | p{13.8cm}  | }
 \hline
@@ -1977,9 +2003,16 @@ Because psychoanalysis tended to be confined to clinical, military settings in t
 
 Much of the scientific credibility for psychoanalysis turned on its success in treating psychotic patients.  Medical Doctors tend not to worry so much about the putative mechanism of a therapy, so long as that therapy works for the individual patient in question.  It isn't uncommon for a drug to help some small portion of the population and fail with another.  Generalizations to universal laws are uncommon in the practice of medicine, and much the of time the cause of a certain medical condition remains unknown, even if we understand how to cure it (consider cancers like lymphoma, for example). Thus, when psychologists objected that psychoanalysis did not generalize, its mechanisms were untestable, and as a treatment it was highly individualistic, medical practitioners were not overly impressed.  
 
-All of that changed starting in 1955 when Wallace Labs began marketing the world's first popular psychotropic for the treatment of anxiety: *Miltown*. The Wallace Lab claimed that *Miltown* controlled anxiety without reducing mental function, allowing patients to return to their normal lives. It was quickly followed by *Trofranil*, an antidepressant, in 1959; *Librium*, an anti-anxiety medication, in 1960; and *Valium* in 1963. In 1969, the neurologist Oliver Sacks administered a new drug L-DOPA to patients who had been comatose for almost 40 years. They woke up.  His experiences were immortalized in the book and subsequent movie, *Awakenings.*
-https://prescriptiondrugs.procon.org/view.resource.php?resourceID=005707
-https://commons.wikimedia.org/wiki/File:Advert_for_Tofranil_Geigy_Wellcome_L0043517.jpg
+All of that changed starting in 1955 when Wallace Labs began marketing the world's first popular psychotropic for the treatment of anxiety: *Miltown*. The Wallace Lab claimed that *Miltown* controlled anxiety without reducing mental function, allowing patients to return to their normal lives. It was quickly followed by *Trofranil*, an antidepressant, in 1959; *Librium*, an anti-anxiety medication, in 1960; and *Valium* in 1963. In 1969, the neurologist Oliver Sacks administered a new drug L-DOPA to patients who had been comatose for almost 40 years. They woke up.  His experiences were immortalized in the book and subsequent movie, *Awakenings.* [#Sacks:1974um]
+&lt;!--\begin{marginfigure}
+ \begin{center}
+
+     \includegraphics{../images/Trofanil_Geigy_Wellcome.jpg}
+\end{center}
+ \caption{See page for author CC BY 4.0  (https://creativecommons.org/licenses/by/4.0 ), via Wikimedia Commons https://commons.wikimedia.org/wiki/File:Advert_for_Tofranil_Geigy_Wellcome_L0043517.jpg }
+\label{fig: MattachinePamphlet}
+\end{marginfigure}
+--&gt;
 
 These drugs did—in short order—what years of psychoanalysis, hypnosis, electro-shock therapy (the decedent of Beard's treatments) and confinement could not: they allowed patients with crippling anxiety to return to normal or close-to-normal functioning.
 
@@ -1987,7 +2020,7 @@ These drugs did—in short order—what years of psychoanalysis, hypnosis, elect
 
 In 1961, Thomas Langer and Stanley Michael conducted 2-hour interviews with 1,660 individuals chose at random from the streets of New York. This was, in many ways, the first wide-scale study of the psychology of people *not already* seeking treatment for psychological trouble.  Their findings are quite simple: socio-economic status and age explain most of an individual's mental health. 
 
- The study was revolutionary. As S. H. Kranes of the University of Chicago said "[this study] is a pioneer in obtaining 'objective' information.  Psychiatry is too promote to the philosophical other than the factual." (http://jama.jamanetwork.com/article.aspx?articleid=1161943)
+ The study was revolutionary. As S. H. Kranes of the University of Chicago said "[this study] is a pioneer in obtaining 'objective' information.  Psychiatry is too promote to the philosophical other than the factual." [#Kraines:1964fy]
 
 Since the origin of psychiatry, there has been a distinction made between those disorders that can be directly attributable to a biological dysfunction of the brain and those that cannot. The former were classified as 'neurological,' and the latter 'psychiatric.'  It is this inability to find a biological etiology of the disorder defines the domain of psychiatry.
 
@@ -1997,39 +2030,37 @@ Two major trends are appearing in psychology and psychiatry:
 
 2. Psychiatric disorders must have a physical component, and hence, the line between psychiatry and neurology may be breaking down.
 
-In light of these trends,what will happen to the field of psychiatry?
+In light of these trends, what will happen to the field of psychiatry?
 
 </Text>
             <Comments>See, e.g. Treatise on Insanity, p. 46
-Double check reference
 The story of how Pinel became interested in insanity is frequently retold. Like Newton's apple, it is probably something of a myth, although there may be some core of truth. Here it is, as told by himself in A Treatise on Insanity:
 	The loss of a friend, who became insane through excessive love of glory, in 1783, and the ineptitude of pharmaceutic preparations to the mind elated, as his was, with a high sense of its independence, enhanced my admiration of the judicous precepts of the ancients, and made me regret that I had it not then in my power to put them in practice. (p 52)
 From a letter by Marx 1846:
 	...in 1785, he had the misfortune to lose a young man to whom he was much attached, and whose reason became affected through excessive study and abstinence. This unfortunate person, after his return to his family, became maniacal, one evening he escaped from his father's house into the neighboring forest and was devoured by wolves; a few torn rags were found the following day, and near them a copy of the Phaedra covered with blood.
 And by Lisa Appignanesi in 2009:
-A shy provincial like himself, the friend had fallen into despair and then 'mania' when his legal aspirations failed to materialize. Unable to help the younger man once he had all but ceased to eat, Pinel had brought him to the Hôtel-Dieu where a treatment of baths and food seemed to restore him. But his worried family intervened and took him home before he was quite well. The youth escaped their hold, fled to the woods and was found dead only after the wolves had got him. (p58)
-From a letter of honor, included in Marx 1846: “He who walks in an odoriferous flower-garden, which had formerly been a pestilential swamp, will best be able to appreciate what you effected in madhouses. Formerly an atmosphere almost stifling, damp rooms, the clank of chains, the cries of those under the lash, the hoarse growl of the rough attendants, the desperate frenzy of the ill-used patients; these succeeded by clean apartments, the greatest humanity in personal attentions, and an atmosphere of peace and confidence throughout the whole establishment. (p.210)
+A shy provincial like himself, the friend had fallen into despair and then 'mania' when his legal aspirations failed to materialize. Unable to help the younger man once he had all but ceased to eat, Pinel had brought him to the Hôtel-Dieu where a treatment of baths and food seemed to restore him. But his worried family intervened and took him home before he was quite well. The youth escaped their hold, fled to the woods and was found dead only after the wolves had got him. [p. 58][#Marx:1847vc]
+From a letter of honor, included in Marx 1846: “He who walks in an odoriferous flower-garden, which had formerly been a pestilential swamp, will best be able to appreciate what you effected in madhouses. Formerly an atmosphere almost stifling, damp rooms, the clank of chains, the cries of those under the lash, the hoarse growl of the rough attendants, the desperate frenzy of the ill-used patients; these succeeded by clean apartments, the greatest humanity in personal attentions, and an atmosphere of peace and confidence throughout the whole establishment. [p. 210][#Marx:1847vc]
 See Roberty Fleury's 'Dr. Phillippe Pinel at the Salpêtrière' (1795)
-See, e.g p. 3, Section 4, p 134. Also, from the Marx (1846): Every delusion is the result of confused modes of thinking; wrong and crime originate in ignorance.” (p. 212)
+See, e.g p. 3, Section 4, p 134. Also, from the Marx (1846): Every delusion is the result of confused modes of thinking; wrong and crime originate in ignorance.” [p. 212][#Marx:1847vc]
 Each humour had an associated personality type. Imbalance in a given humour was thought to be the cause of imbalances in mood or personality: people with too much black bile were melancholic, yellow bile choleric (full of energy), blood sanguine (impulsive), and phlegm phlegmatic (emotional). See Aristotle's Problems Bk 3, Section1 Galen's De temperamentis, and Avicenna's The Canon of Medicine for more detail.
 The modern reader of A Treatise on Insanity is impressed by the number of times that Pinel stresses these two features of mental illness. We take both of these for granted to such an extent that the work can seem highly repetitive and redundant. But they were radical theses in the late 18th century, and Pinel's thoroughness in covering the topics no doubt reflects the importance of these thesis in his own mind. (Cite Data – number of pages, examples, etc.).
-Where’s the list?
 And hence, the frequently-used trope of science fiction dating back to Frankenstein that the dead can be brought back to life with electricity.
-For more, see Edward M. Brown, “An American Treatment for the 'American Nervousness': George Miller Beard and  General Electrization, available at http://bms.brown.edu/HistoryofPsychiatry/Beard.html
-Ball and Bazar (2010)
-In his 'History of the Psychiatric Movement', Freud writes: “...It was the case of the young married couple from the far East. The wife was a great sufferer and the husband was impotent, or exceedinly awkward. I head Charcot repeat: “Tâchez donc, je vous assure vous y arriverez.” Brouardel, who spoke less distinctly, must have expressed his astonishment that such symptoms as those of the young wife should have appeared as a result of such circumstances, for Charcot said suddenly and with great vivacity: “Mais, dans de cas pareils, c'est toujours la chose génital, toujours—toujours-toujours.” And while saying that, he crossed his hands in his lap an jumped up and down several times, with the vivacity peculiar to him.” (Freud, 1938, p. 937-938)
+For more, see [#Medicine:2mOeOnTb]
+In his 'History of the Psychiatric Movement', Freud writes: “...It was the case of the young married couple from the far East. The wife was a great sufferer and the husband was impotent, or exceedinly awkward. I head Charcot repeat: “Tâchez donc, je vous assure vous y arriverez.” Brouardel, who spoke less distinctly, must have expressed his astonishment that such symptoms as those of the young wife should have appeared as a result of such circumstances, for Charcot said suddenly and with great vivacity: “Mais, dans de cas pareils, c'est toujours la chose génital, toujours—toujours-toujours.” And while saying that, he crossed his hands in his lap an jumped up and down several times, with the vivacity peculiar to him.” [p. 937-938][#Freud:1938vi]
 
 We know that George Beard and Silas Wier Mitchell had the same view at this point, and that Freud was familiar with their work on ‘hysteria.’  What is unknown, given that Freud's retelling of this anecdote is based on his memory alone, is the accuracy of this story. It might be the case, and it might just be Freud misattributing a theory he picked up from Beard and Wier Mitchell to his mentor years after the fact.
-See, for example, Drellich, Marvin G. “Classical Psychoanalytic School” in Arieti, S. (1974). American handbook of psychiatry (2d ed.). New York,: Basic Books.
-I am simplifying here a bit. While Freud is commonly believed to originate the idea that dreams and psychotic hallucinations were best understood on a continuum, the ideas appears in the work of the British associationist Alexander Bain (see, e.g. Bain, A. (1903) Dissertations on Leading Philosophical Topics, Longmans, Green, and Co., New York and Bombay., p. 45)
+See, for example, Drellich, Marvin G. “Classical Psychoanalytic School” in [#Arieti:1974tm]
+I am simplifying here a bit. While Freud is commonly believed to originate the idea that dreams and psychotic hallucinations were best understood on a continuum, the ideas appears in the work of the British associationist Alexander Bain. See, e.g. [p. 45][#Bain:1903tf]
 Label somehow and include in a table.
-The distinction between neurosis and psychosis has always been controversial. Consider Pavlov's comment in his 1927 lectures: “Contemporary medicine distinguishes "nervous" and "psychic" disturbances-neuroses and psychoses, but this distinction is, of course, only arbitrary. No real line of demarcation can be drawn between these two groups: it is impossible to imagine a deviation of higher activities from normal without a functional or structural disturbance of the cortex.” (Pavlov, 1927, Lecture 23)
-See, for example Clark University's archive: http://www.clarku.edu/research/archives/freud_jung.cfm and the Chronicle of Higher Education's “When Freud Came to Clark U.”: http://chronicle.com/article/Freuds-Visit-to-Clark-U/48424/
+The distinction between neurosis and psychosis has always been controversial. Consider Pavlov's comment in his 1927 lectures: “Contemporary medicine distinguishes "nervous" and "psychic" disturbances-neuroses and psychoses, but this distinction is, of course, only arbitrary. No real line of demarcation can be drawn between these two groups: it is impossible to imagine a deviation of higher activities from normal without a functional or structural disturbance of the cortex.” [Lecture 23][#Pavlov:1946ws]
+See, for example [#Jacoby:2009tt]
 
 Experienced Reactors may recognize Emma Goldman from Mary Jane Tracey's Suffrageist game
-For a discussion, see Hornstein, G. A. (2002). The Return of the Repressed: Psychology's Problematic Relations with Psychoanalysis, 1909-1960. Evolving Perspectives on the History of Psychology. W. E. Pickren and D. A. Dewsbury. Washington, DC, The American Psychological Association.
-Hornstein, p. 474.
-See Chapter 1 of Menninger and Nemiah (2000) for an interesting discussion of this history.</Comments>
+For a discussion, see [#Hornstein:2002wq]
+See, e..g. [p. 474][#Hornstein:2002wq]
+See Chapter 1 of [#Menninger:3tUbEPj8] for an interesting discussion of this history.
+For a particularly fascinating example, see https://prescriptiondrugs.procon.org/view.resource.php?resourceID=005707 </Comments>
         </Document>
         <Document ID="270">
             <Title>Albee</Title>
@@ -8928,6 +8959,27 @@ NATIONAL COMMITTEE AGAINST MENTAL ILLNESS. What are the facts about mental illne
         <Document ID="82">
             <Title>clark-hull-2-sized</Title>
         </Document>
+        <Document ID="345">
+            <Title>Paradigmatic science</Title>
+            <Text>#### The Paradigmatic experiments
+&lt;!--\newthought{The ‘Junior high’ version}--&gt; of the scientific method tells us that to be science, one must observe-hypothesis-experiment-repeat. This simply isn’t true. Science uses a number of different methods, and not everything takes the form of the the classic *experimentum crucis* that we were taught in seventh grade.
+&lt;!--\begin{marginfigure}
+ \begin{center}
+     \includegraphics[scale=0.75]{../images/observe_poster.jpg}
+\end{center}
+ \caption{Photo of poster in abandoned junior high school in Hampstead, Maryland. Photo by Kenny Ditto, former student, 2008. Used with permission.}
+\label{fig: scientificmethod}
+\end{marginfigure}
+--&gt;
+
+Constructing good hypotheses and good questions to test hypothesis can be challenging, especially in psychology and psychiatry. In this section, we’ll introduce some basic terminology regarding scientific reasoning and discuss a few model studies---those we call ‘paradigms’---that have influenced how science has progressed.</Text>
+        </Document>
+        <Document ID="77">
+            <Title>Pinel</Title>
+        </Document>
+        <Document ID="315">
+            <Title>Milgrim</Title>
+        </Document>
         <Document ID="249">
             <Title>PsychoanalysisOverview</Title>
             <Text>### Psychoanalyst Overview
@@ -8943,11 +8995,8 @@ The central task for this game will be to create a coherent notion of ‘mental 
 
 </Text>
         </Document>
-        <Document ID="77">
-            <Title>Pinel</Title>
-        </Document>
-        <Document ID="315">
-            <Title>Milgrim</Title>
+        <Document ID="83">
+            <Title>Ernst_willhelm_von_bruecke.jpeg</Title>
         </Document>
         <Document ID="274">
             <Title>Albee-1970-UncertainFutureofClinicalPsych</Title>
@@ -9100,8 +9149,8 @@ American Psychologist, 1970, 25, 117-123.
 TYLEK, L. An approach to public affairs: Report of the ad hoc Committee on Public Affairs. American Psycholo- gist, 1969, 24, 1-4.
 </Text>
         </Document>
-        <Document ID="83">
-            <Title>Ernst_willhelm_von_bruecke.jpeg</Title>
+        <Document ID="78">
+            <Title>TimeCover</Title>
         </Document>
         <Document ID="177">
             <Title>Further Reading</Title>
@@ -9150,31 +9199,24 @@ Zusne, L. (1984). Biographical dictionary of psychology, Greenwood Press.
 
 </Text>
         </Document>
-        <Document ID="78">
-            <Title>TimeCover</Title>
-        </Document>
-        <Document ID="51">
-            <Title>Kraft-Ebing, Ricard von. "Psychopathie Sexualis", 1894</Title>
-        </Document>
-        <Document ID="275">
-            <Title>Albee-1970-UncertainFutureofClinicalPsychErratum</Title>
-            <Text> 256 AMERICAN PSYCHOLOGIST
-RATH, G. J. PPBS is more than a budget: It's a total- California State Department of Education, 1968. planning process. Nation's Schools, 1968, 82, 53-59, 90. (Mimeo) (b)
-STLVKKN, L. Cybernetics and education IC-12. Audiovisual TANNER, C. K. Techniques and application of educational
-Instruction, 1968, 13, 267-272.
-SMITH, R. G. The development of training objectives.
-(Human Resources Research Office Bulletin 11) Wash- ington, D. C.: George Washington University, June 1964. SWEIGKRT, R. L. The discovery of need in education: De- veloping a need inquiry system. Journal of Secondary
-Education, 1968, 43, 345-348. (a)
-SWEIGKRT, R. L. Need assessment—the first step toward
-deliberate rather than impulsive response to problems.
-system analysis. Audiovisual Instruction, 1969, 14, 89-90. UNITED STATES AIR FORCE. Work statement preparation.
-(System Command Manual 70-5) February 1, 1968. UNITED STATUS GOVERNMENT. Work break down structure for defense material items. (Mil.-Standard 881) Novem-
-ber 1, 1968.
-UNITED STATES GOVERNMENT, Department of Defense. Per-
-formance measurement for selected acquisitions. (DOD Instruction 7000.2) December 12,1967.
-ERRA TUM
-In the article by George Albee in the December 1970 issue, the following incorrect statement, appears on page 1077,lines 15-17: ". . . the American Medical Association has relinquished its tax-exempt status in order to par- ticipate actively in attempts at influencing legislation . . . ." The Amer- ican Medical Association has never relinquished its Sec. 501 (c) (6) tax- exempt status, and continues in this category to this date.
-</Text>
+        <Document ID="346">
+            <Title>Election schedule</Title>
+            <Text>&lt;!--\newpage--&gt;
+
+#### Elections
+
+The following shows elections that must be held each year, and the character vacating that position in parentheses. Characters serve through to the end of the conference in the year indicated. The VP immediately becomes the president: so while Bandura vacates the position of VP at the end of the conference in 1971, he becomes President at that moment.  The election in 1971 is for the VP of 1972, who will be President in 1973.
+&lt;!-- \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{2cm} | p{2cm} | p{2cm} |  p{2cm} | }
+\hline
+\tahead{Year}&amp;\tahead{VP}&amp;\tahead{Board at large}&amp;\tahead{Research (replacing)}&amp;\tahead{Nomenclature (replacing)}&amp;\tahead{Program (replacing)} \\ \hline
+\tahead{1971}&amp; 1972: (Bandura)&amp;A (Milgram)&amp; &amp; &amp; \\
+\tahead{1972}&amp;1973&amp;B (Albee)&amp;(Tyler)&amp;(Albee)&amp;(Hooker) \\
+\tahead{1973}&amp;1974&amp; &amp;(Clark)&amp; &amp;(Anastasi)\\
+\tahead{1974}&amp;1975&amp;A&amp;(Marmor)&amp;(Spiegel)&amp;(Gebhard) \\
+\tahead{1975}&amp;1976&amp;B&amp;(elected 1972)&amp; &amp;(elected 1972) \\ \hline
+\caption{Elections to be held each year}
+\label{table: boardMembership}
+\end{longtable}--&gt;</Text>
         </Document>
         <Document ID="84">
             <Title>Hermann_von_Helmholtz</Title>
@@ -9367,6 +9409,32 @@ Vol. 11.New York: John Wiley and Sons. Rapoport, A. and W. J. Horvath
         <Document ID="90">
             <Title>Wundt</Title>
         </Document>
+        <Document ID="51">
+            <Title>Kraft-Ebing, Ricard von. "Psychopathie Sexualis", 1894</Title>
+        </Document>
+        <Document ID="85">
+            <Title>Ivan_Pavlov_(Nobel)</Title>
+        </Document>
+        <Document ID="275">
+            <Title>Albee-1970-UncertainFutureofClinicalPsychErratum</Title>
+            <Text> 256 AMERICAN PSYCHOLOGIST
+RATH, G. J. PPBS is more than a budget: It's a total- California State Department of Education, 1968. planning process. Nation's Schools, 1968, 82, 53-59, 90. (Mimeo) (b)
+STLVKKN, L. Cybernetics and education IC-12. Audiovisual TANNER, C. K. Techniques and application of educational
+Instruction, 1968, 13, 267-272.
+SMITH, R. G. The development of training objectives.
+(Human Resources Research Office Bulletin 11) Wash- ington, D. C.: George Washington University, June 1964. SWEIGKRT, R. L. The discovery of need in education: De- veloping a need inquiry system. Journal of Secondary
+Education, 1968, 43, 345-348. (a)
+SWEIGKRT, R. L. Need assessment—the first step toward
+deliberate rather than impulsive response to problems.
+system analysis. Audiovisual Instruction, 1969, 14, 89-90. UNITED STATES AIR FORCE. Work statement preparation.
+(System Command Manual 70-5) February 1, 1968. UNITED STATUS GOVERNMENT. Work break down structure for defense material items. (Mil.-Standard 881) Novem-
+ber 1, 1968.
+UNITED STATES GOVERNMENT, Department of Defense. Per-
+formance measurement for selected acquisitions. (DOD Instruction 7000.2) December 12,1967.
+ERRA TUM
+In the article by George Albee in the December 1970 issue, the following incorrect statement, appears on page 1077,lines 15-17: ". . . the American Medical Association has relinquished its tax-exempt status in order to par- ticipate actively in attempts at influencing legislation . . . ." The Amer- ican Medical Association has never relinquished its Sec. 501 (c) (6) tax- exempt status, and continues in this category to this date.
+</Text>
+        </Document>
         <Document ID="52">
             <Title>Excerpt1-1894-Psychopathia_sexualis</Title>
             <Text>￼￼
@@ -9542,98 +9610,51 @@ Vol. 11.New York: John Wiley and Sons. Rapoport, A. and W. J. Horvath
 ￼￼
 ￼￼</Text>
         </Document>
-        <Document ID="85">
-            <Title>Ivan_Pavlov_(Nobel)</Title>
-        </Document>
-        <Document ID="178">
-            <Title>Obits and Tributes</Title>
-            <Text>### Obituaries and Tributes 
-
-#### Anne Anastasi
-
-“Anne Anastasi: Biography of a Former APA President” American Psychological Association: http://www.apa.org/about/archives/presidents/bio-anne-anastasi.asp
-
-Goode, E. “Anne Anastasi, the 'Test Guru' of Psychology, Is Dead at 92”, New York Times, May 16, 2001: http://www.nytimes.com/2001/05/16/nyregion/anne-anastasi-the-test-guru-of-psychology-is-dead-at-92.html 
-
-#### George Albee
-
-Kessler, M. (2007). "Obituary: George W. Albee (1921-2006)." American Psychologist 62(4): 317-318. 
-
-Associated Press (2006) “George W. Albee; Psychologist Sought Social Cures” July 13, 2006
-
-#### Irving Bieber
-
-Myers, S. L. “Irving Bieber, 80, a Psychoanalyst Who Studied Homosexuality, Dies” NY Times 8/28/1991 http://query.nytimes.com/gst/fullpage.html?res=9D0CE3D7153FF93BA1575BC0A967958260
-
-#### Kenneth Clark
-
-Phillips, L. (2002). “Recontextualizing Kenneth B. Clark: An Afrocentric Perspective on the Paradoxical Legacy of a Model Psychologist-Activist.” Evolving Perspectives on the History of Psychology. W. E. Pickren and D. A. Dewsbury. Washington, DC, American Psychiatric Association. 
-
-#### John Fryer
-
-Pray, R. (2003). “John E. Fryer, 65, psychiatrist.” The Philadelphia Inquirer. Philadelphia: B09.
-
-Lenzer, J. (2003). “John Fryer” BMJ  March 22; 326(7390): 662. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1125557/ 
-
-#### Barbara Gittings
-
-Kameny, Frank (2007). “Frank Kameny's Eulogy for Barbara Gittings” available at http://www.kamenypapers.org/eulogy.htm
-
-#### Harry Harlow
-
-Sears, R. R. (1982). "Obituary: Harry Frederick Harlow (1905-1981)." American Psychologist 37(11): 1280-1281. 	
-
-Obituary for Harry Frederick Harlow (1905-1981). Harlow's research career, spanning a full half century, was notable for its single-minded adherence to the search for understanding of a single species, for the imaginative methods he devised for the study of both cognition and motivation, and for the crucially important findings these methods provided. His careful empirical development of the facts of behavioral development led to prepositional generalizations that have contributed notably to an understanding of human as well as monkey motivational development. (PsycINFO Database Record (c) 2008 APA, all rights reserve 
-
-#### Harold Lief
-
-Pearce, J. (2007). “Harold I. Lief, Advocate of Sex Education, Dies at 89”, The New York Times, March 23, 2007: http://www.nytimes.com/2007/03/23/obituaries/23lief.html 
-
-#### Charles Socarides
-
-Fox, M. “Charles W Socarides, Psychiatrist and Psychoanalyst, Is Dead at 83”, NY Times, 12/25/2005 http://www.nytimes.com/2005/12/28/nyregion/28socarides.html
-
-#### John P. Spiegel
-
-Cook, J. “John P. Spiegel, 80, Expert on Violence And Combat Stress” New York Times, July 19, 1991. http://www.nytimes.com/1991/07/19/obituaries/john-p-spiegel-80-expert-on-violence-and-combat-stress.html
-</Text>
-        </Document>
-        <Document ID="345">
-            <Title>Paradigmatic science</Title>
-            <Text>#### The Paradigmatic experiments
-&lt;!--\newthought{The ‘Junior high’ version}--&gt; of the scientific method tells us that to be science, one must observe-hypothesis-experiment-repeat. This simply isn’t true. Science uses a number of different methods, and not everything takes the form of the the classic *experimentum crucis* that we were taught in seventh grade.
-&lt;!--\begin{marginfigure}
- \begin{center}
-     \includegraphics[scale=0.75]{../images/observe_poster.jpg}
-\end{center}
- \caption{Photo of poster in abandoned junior high school in Hampstead, Maryland. Photo by Kenny Ditto, former student, 2008. Used with permission.}
-\label{fig: scientificmethod}
-\end{marginfigure}
---&gt;
-
-Constructing good hypotheses and good questions to test hypothesis can be challenging, especially in psychology and psychiatry. In this section, we’ll introduce some basic terminology regarding scientific reasoning and discuss a few model studies---those we call ‘paradigms’---that have influenced how science has progressed.</Text>
-        </Document>
         <Document ID="91">
             <Title>Untitled</Title>
         </Document>
-        <Document ID="346">
-            <Title>Election schedule</Title>
-            <Text>&lt;!--\newpage--&gt;
+        <Document ID="347">
+            <Title>PGebhard</Title>
+            <Text>## Paul Gebhard, PhD
+### Your Biography
 
-#### Elections
+You were born July 3, 1917 in Rocky Ford, Colorado and obtained your B.S. from Harvard University in 1940, your Ph.D from Harvard University in 1947. You have worked in the Department of Anthropology at Indiana University from 1947 until the present, serving as the Director at the Institute for Sex Research starting 1956, after the death of your mentor, Alfred C. Kinsey.
 
-The following shows elections that must be held each year, and the character vacating that position in parentheses. Characters serve through to the end of the conference in the year indicated. The VP immediately becomes the president: so while Bandura vacates the position of VP at the end of the conference in 1971, he becomes President at that moment.  The election in 1971 is for the VP of 1972, who will be President in 1973.
-&lt;!-- \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{2cm} | p{2cm} | p{2cm} |  p{2cm} | }
-\hline
-\tahead{Year}&amp;\tahead{VP}&amp;\tahead{Board at large}&amp;\tahead{Research (replacing)}&amp;\tahead{Nomenclature (replacing)}&amp;\tahead{Program (replacing)} \\ \hline
-\tahead{1971}&amp; 1972: (Bandura)&amp;A (Milgram)&amp; &amp; &amp; \\
-\tahead{1972}&amp;1973&amp;B (Albee)&amp;(Tyler)&amp;(Albee)&amp;(Hooker) \\
-\tahead{1973}&amp;1974&amp; &amp;(Clark)&amp; &amp;(Anastasi)\\
-\tahead{1974}&amp;1975&amp;A&amp;(Marmor)&amp;(Spiegel)&amp;(Gebhard) \\
-\tahead{1975}&amp;1976&amp;B&amp;(elected 1972)&amp; &amp;(elected 1972) \\ \hline
-\caption{Elections to be held each year}
-\label{table: boardMembership}
-\end{longtable}--&gt;</Text>
+You are an Anthropologist, not a psychologist.  Anthropology has a varied and checkered history, especially in relation to psychology and sociology.  All three of these fields purport to study the human mind and human organizations, but they have gone about it in very different ways.  Pay close attention to the discussion of Margaret Mead in &lt;!--\fullref{observational research}--&gt;.  It is probably worth reading the Introduction to *Coming of Age in American Samoa* to understand the call for Anthropological research.  One ahistorical note: Mead’s study was essentially debunked in the mid-1980s.  It is now taught as an example of confirmation bias. You will have to be *very* cautious when studying to ensure that you can present Mead’s work as it would have been in the 1970’s---a foundational text in the discipline and a paradigm of good science. 
+
+
+The president of the APA in 1957, Lee J. Cronbach, titled his presidential address 'The Two Disciplines of Scientific Psychology.' Compare what Cronbach says about 'correlational' psychology to the method used by Kinsey.    
+
+
+### Game Objectives
+
+Get on the Spitzer task force. You're an independent on all other issues that may come before the task force or the membership. It is important that you use your judgment on what an Anthropologist and sexologist would have thought of the various other proposals that come forward.
+
+You are neutral on the definition of mental illness, although you are sympathetic to those views that see mental illness as dysfunction of culture, not of the individual. 
+
+### Specific Assignments
+
+Give a formal presentation of the findings of the Kinsey report in 1972, highlighting homosexuality in both mail and female.  I. Beiber's 1962 book Homosexuality: A Psychoanalytic Study is often seen as a response to the Kinsey report, so be prepared for significant questions from Socarides and Beiber.
+
+Submit a proposal to have the APA formally recognize Evelyn Hooker for her Distinguished Contribution to Psychology in the Public Interest.
+
+You are an initial member of the Program committee, with your term expiring in 1974. Review the model schedule in the gamebook, and solicit proposals from your peers. You are encouraged to add to the liminality of the game by decorating the room in themes corresponding to the different locations: 71: Washington DC, 72: Dallas, 73: Honolulu, 74: Philadelphia, 75: Chicago.
+
+
+### Must Read
+[#Mead:1928uk]
+
+Kinsey Reports:
+Kinsey, Alfred C. et al. (1948/1998). Sexual Behavior in the Human Male. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Currently out of print, but on google books.
+Kinsey, Alfred C. et al. (1953/1998). Sexual Behavior in the Human Female. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Preview available on google books.
+Gebhard, Paul H. and Johnson, Alan B. (1979/1998). The Kinsey Data: Marginal Tabulations of 1938-1963 Interviews Conducted by the Institute for Sex Research. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Preview available on google books.
+Cornbach, L. J. (1956) “The Two Disciplines of Scientific Psychology” American Psychologist, 12: 671-684. Available at http://psychclassics.yorku.ca/Cronbach/Disciplines/
+#### Secondary Sources
+'Paul Gebhard Interview' by NPR 'New River Media' available at http://www.pbs.org/fmc/interviews/gebhard.htm
+
+
+
+</Text>
         </Document>
         <Document ID="86">
             <Title>John-B-Watson</Title>
@@ -9862,47 +9883,57 @@ WHITE, R. W. Motivation reconsidered: The concept of competence. Psychological R
 changing behavior. Reading, Mass.: Addison-Wesley, 1969.
 </Text>
         </Document>
-        <Document ID="347">
-            <Title>PGebhard</Title>
-            <Text>## Paul Gebhard, PhD
-### Your Biography
+        <Document ID="178">
+            <Title>Obits and Tributes</Title>
+            <Text>### Obituaries and Tributes 
 
-You were born July 3, 1917 in Rocky Ford, Colorado and obtained your B.S. from Harvard University in 1940, your Ph.D from Harvard University in 1947. You have worked in the Department of Anthropology at Indiana University from 1947 until the present, serving as the Director at the Institute for Sex Research starting 1956, after the death of your mentor, Alfred C. Kinsey.
+#### Anne Anastasi
 
-You are an Anthropologist, not a psychologist.  Anthropology has a varied and checkered history, especially in relation to psychology and sociology.  All three of these fields purport to study the human mind and human organizations, but they have gone about it in very different ways.  Pay close attention to the discussion of Margaret Mead in &lt;!--\fullref{observational research}--&gt;.  It is probably worth reading the Introduction to *Coming of Age in American Samoa* to understand the call for Anthropological research.  One ahistorical note: Mead’s study was essentially debunked in the mid-1980s.  It is now taught as an example of confirmation bias. You will have to be *very* cautious when studying to ensure that you can present Mead’s work as it would have been in the 1970’s---a foundational text in the discipline and a paradigm of good science. 
+“Anne Anastasi: Biography of a Former APA President” American Psychological Association: http://www.apa.org/about/archives/presidents/bio-anne-anastasi.asp
 
+Goode, E. “Anne Anastasi, the 'Test Guru' of Psychology, Is Dead at 92”, New York Times, May 16, 2001: http://www.nytimes.com/2001/05/16/nyregion/anne-anastasi-the-test-guru-of-psychology-is-dead-at-92.html 
 
-The president of the APA in 1957, Lee J. Cronbach, titled his presidential address 'The Two Disciplines of Scientific Psychology.' Compare what Cronbach says about 'correlational' psychology to the method used by Kinsey.    
+#### George Albee
 
+Kessler, M. (2007). "Obituary: George W. Albee (1921-2006)." American Psychologist 62(4): 317-318. 
 
-### Game Objectives
+Associated Press (2006) “George W. Albee; Psychologist Sought Social Cures” July 13, 2006
 
-Get on the Spitzer task force. You're an independent on all other issues that may come before the task force or the membership. It is important that you use your judgment on what an Anthropologist and sexologist would have thought of the various other proposals that come forward.
+#### Irving Bieber
 
-You are neutral on the definition of mental illness, although you are sympathetic to those views that see mental illness as dysfunction of culture, not of the individual. 
+Myers, S. L. “Irving Bieber, 80, a Psychoanalyst Who Studied Homosexuality, Dies” NY Times 8/28/1991 http://query.nytimes.com/gst/fullpage.html?res=9D0CE3D7153FF93BA1575BC0A967958260
 
-### Specific Assignments
+#### Kenneth Clark
 
-Give a formal presentation of the findings of the Kinsey report in 1972, highlighting homosexuality in both mail and female.  I. Beiber's 1962 book Homosexuality: A Psychoanalytic Study is often seen as a response to the Kinsey report, so be prepared for significant questions from Socarides and Beiber.
+Phillips, L. (2002). “Recontextualizing Kenneth B. Clark: An Afrocentric Perspective on the Paradoxical Legacy of a Model Psychologist-Activist.” Evolving Perspectives on the History of Psychology. W. E. Pickren and D. A. Dewsbury. Washington, DC, American Psychiatric Association. 
 
-Submit a proposal to have the APA formally recognize Evelyn Hooker for her Distinguished Contribution to Psychology in the Public Interest.
+#### John Fryer
 
-You are an initial member of the Program committee, with your term expiring in 1974. Review the model schedule in the gamebook, and solicit proposals from your peers. You are encouraged to add to the liminality of the game by decorating the room in themes corresponding to the different locations: 71: Washington DC, 72: Dallas, 73: Honolulu, 74: Philadelphia, 75: Chicago.
+Pray, R. (2003). “John E. Fryer, 65, psychiatrist.” The Philadelphia Inquirer. Philadelphia: B09.
 
+Lenzer, J. (2003). “John Fryer” BMJ  March 22; 326(7390): 662. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1125557/ 
 
-### Must Read
-[#Mead:1928uk]
+#### Barbara Gittings
 
-Kinsey Reports:
-Kinsey, Alfred C. et al. (1948/1998). Sexual Behavior in the Human Male. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Currently out of print, but on google books.
-Kinsey, Alfred C. et al. (1953/1998). Sexual Behavior in the Human Female. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Preview available on google books.
-Gebhard, Paul H. and Johnson, Alan B. (1979/1998). The Kinsey Data: Marginal Tabulations of 1938-1963 Interviews Conducted by the Institute for Sex Research. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Preview available on google books.
-Cornbach, L. J. (1956) “The Two Disciplines of Scientific Psychology” American Psychologist, 12: 671-684. Available at http://psychclassics.yorku.ca/Cronbach/Disciplines/
-#### Secondary Sources
-'Paul Gebhard Interview' by NPR 'New River Media' available at http://www.pbs.org/fmc/interviews/gebhard.htm
+Kameny, Frank (2007). “Frank Kameny's Eulogy for Barbara Gittings” available at http://www.kamenypapers.org/eulogy.htm
 
+#### Harry Harlow
 
+Sears, R. R. (1982). "Obituary: Harry Frederick Harlow (1905-1981)." American Psychologist 37(11): 1280-1281. 	
 
+Obituary for Harry Frederick Harlow (1905-1981). Harlow's research career, spanning a full half century, was notable for its single-minded adherence to the search for understanding of a single species, for the imaginative methods he devised for the study of both cognition and motivation, and for the crucially important findings these methods provided. His careful empirical development of the facts of behavioral development led to prepositional generalizations that have contributed notably to an understanding of human as well as monkey motivational development. (PsycINFO Database Record (c) 2008 APA, all rights reserve 
+
+#### Harold Lief
+
+Pearce, J. (2007). “Harold I. Lief, Advocate of Sex Education, Dies at 89”, The New York Times, March 23, 2007: http://www.nytimes.com/2007/03/23/obituaries/23lief.html 
+
+#### Charles Socarides
+
+Fox, M. “Charles W Socarides, Psychiatrist and Psychoanalyst, Is Dead at 83”, NY Times, 12/25/2005 http://www.nytimes.com/2005/12/28/nyregion/28socarides.html
+
+#### John P. Spiegel
+
+Cook, J. “John P. Spiegel, 80, Expert on Violence And Combat Stress” New York Times, July 19, 1991. http://www.nytimes.com/1991/07/19/obituaries/john-p-spiegel-80-expert-on-violence-and-combat-stress.html
 </Text>
         </Document>
         <Document ID="92">
@@ -11791,17 +11822,20 @@ The difference between practice among the psychoanalytic approaches is emphasis,
 
 ###### Primary Sources:
 
-Freud. S. (1917 / 1989) Introductory Lectures on Psychoanalysis, Strachey, J (trans) Liveright
+[#Freud:QdOvAgyZ]
 
-Freud, S. (1912 / 1994). The Dynamics of Transference. Essential Papers on Transference Analysis. G. P. Bauer. Upper Saddle River, NJ, Jason Aronson, Inc.
+[#Freud:vJ1P2PRd]
 
-Jung, C. G. and A. Storr (1983). The essential Jung. Princeton, N.J., Princeton University Press.
+[#Freud:1994wo]
 
-Jung, C. G., H. E. Read, et al. (1953). The collected works of C. G. Jung. New York, Pantheon Books, v. 4
+[#Jung:cpLzoBjv]
+
+[#Jung:1953uoa]
 
 ###### Secondary Sources:
 
-Arieti, S. (1974). American handbook of psychiatry. New York,, Basic Books.</Text>
+[#Arieti:1974tm]
+</Text>
             <Comments>'Neurotic' behavior results from continuing conflict between the libinal desires and the ego's repression techniques. 'Psychotic' behaviors result when the libinal desires assert their reality on the ego. See the discussion of 'neurosis' and 'psychosis' in the History of the Classification of Mental Illness section below.
 The Introductory Lectures were published before Freud solidified the structural hypothesis using this terminology.  The beginnings of the idea, however, is present in the later chapters on neurosis: see, e.g. p. 437-438, where he describes the conflict between the 'libido' and the 'ego'.
 The Introductory Lectures mention only repression, subdivided into 'condensation' and 'displacement' as mechanisms of the ego, but promises further work on the topic (p. 364-366). He began to develop a taxonomy of ego mechanisms later in his life, but the full-fledged taxonomy we see here was developed his daughter Anna Freud (1936). The Ego and and the Mechanisms of Defense. C. Baines (trans). Connecticut: International University Press.
@@ -12045,19 +12079,19 @@ Other inhibition therapies, such as 'retroactive inhibition' are usually forms o
 
 ###### Primary Sources:
 
-Skinner, B. F. (1953). Science and human behavior. New York,, Macmillan.
+[#Skinner:2005wr]
 
-Watson, John B. (1913) “Psychology as the Behaviorist Views it.” Psychological Review, 20, 158-177. Also available at: http://psychclassics.asu.edu/Watson/views.htm
+[#Watson:1913tq]. Also available at: http://psychclassics.asu.edu/Watson/views.htm
 
-Watson, J. B. (1929). "Behaviorism -- The Modern Note in Psychology."
+[#Watson:iMwU-3B8]
 
 ###### Secondary Sources:
 
-Hornstein, G. A. (2002). The Return of the Repressed: Psychology's Problematic Relations with Psychoanalysis, 1909-1960. Evolving Perspectives on the History of Psychology. W. E. Pickren and D. A. Dewsbury. Washington, DC, The American Psychological Association.
+[#Hornstein:2002wq]
 
-Wolpe, R. (1958) Psychotherapy by Reciprocal Inhibition, Stanford University Press, Stanford.
+[#Wolpe:1958vt]
 
-Wozniak, Robert H. (1997) “Behaviorism: The Early Years” Available at http://www.brynmawr.edu/Acads/Psych/rwozniak/behaviorism.html</Text>
+[#Wozniak:1997vj] Available at http://www.brynmawr.edu/psychology/rwozniak/behaviorism.html</Text>
             <Comments>As with most things in the history of ideas, even this definition is controversial.  I've chosen this definition, which reflects Skinner's presentation of Behaviorism in his 1953 Science and Human Behavior, chapter 1 because it is the most explicit and radical.  Watson defines that the goal of behaviorism as the “prediction and control of behavior,” (1913) leaving out observation. To understand the various different forms of behaviorism that have been posited since Watson's, please see &lt;!--\ref{psychoanalysts}--&gt; on page &lt;!--\pageref{psychoanalysts}--&gt;.
 See, for further explication of this claim, Skinner 1953, p. 27-31. Watson does not use the term 'inner state', but refers rather to 'consciousness', which he (possibly fallaciously) equates with the object of introspection. Thus, after objecting to the unreliability of introspective reports in a laboratory setting he claims “The time seems to have come when psychology must discard all references to consciousness; when it need no longer delude itself into thinking that it is making mental states the object of observation.”
 Animals do not have superegos or techniques of repression, so the behaviors explained in psychoanalytic terms should not generalize across species. But they do. Therefore, psychoanalytic explanations are insufficient.
@@ -12397,20 +12431,20 @@ Cognitivism grew slowly between 1955 and 1965, in part because it was not an 'in
 
 ###### Primary Sources:
 
-Miller, G. A. (1956). "The magical number seven, plus or minus two: Some limits on our capacity for processing information." Psychological Review 63: 81-97.
+[#Miller:1956trb]
 
-Miller, G. A. (1962). Psychology, the science of mental life. New York,, Harper &amp; Row.
+[#Miller:1962vk]
 
 
 ###### Secondary Sources:
 
-Bechtel, W., A. Abrahamsen, et al. (1998). The Life of Cognitive Science. A Companion to Cognitive Science. W. Bechtel and G. Graham. Malden, Mass, Blackwell.
+[#Bechtel:1999vr]
 
-Baars, B. J. (1986). The Cognitive Revolution in Psychology. New York, The Guildford Press.
+[#Baars:i5QbNrcs]
 
-Leahey, T. H. (2002). The Mythical Revolutions of American Psychology. Evolving Perspectives on the History of Psychology. W. E. Pickren and D. A. Dewsbury. Washington, DC, American Psychological Association.
+[#Leahey:2002tt]
 
-Stillings, N.A., Feinstein, M.H., Garfield, J. L., Rissland, E.L, Rosenbaum, D.A., Weisler, S.E., Baker-Ward, L. Cognitive Science: An Introduction, Cambridge: MIT Press
+[#Stillings:1995to]
 </Text>
         </Document>
         <Document ID="169">
@@ -12589,6 +12623,41 @@ Matarazzo, J. D. (1989). “The Reliability of Psychiatric and Psychological Dia
 
 
 --&gt;
+</Text>
+        </Document>
+        <Document ID="301">
+            <Title>AlbeeObit</Title>
+            <Text>￼￼OBITUARIES
+￼George W. Albee (1921–2006)
+￼￼￼George W. Albee, a past President of the American Psy- chological Association (APA) and lifelong advocate of the importance of social change to deal effectively with mental disorders, died in his home in Longboat Key, Florida, on July 8, 2006, after a short illness. Family members gathered at his home to be with him at his death.
+His impact on psychology is reflected in the many awards he received in his lifetime, which included the APA Distinguished Professional Contribution Award in 1975, the American Psychological Foundation Gold Medal Award for Life Achievement in Psychology in the Public Interest in 1993, and the Lifetime Achievement Award in Applied Pre- ventive Psychology in 1997. He was a member of nine APA divisions and a fellow of four of them: Divisions 12 (Society of Clinical Psychology), 27 (Society for Community Research and Action: Division of Community Psychology), 35 (Society for the Psychology of Women), and 44 (Society for the Psychological Study of Lesbian, Gay, and Bisexual Issues). With his passing, psychology lost one of the staunchest ad- vocates of prevention as the most important approach to dealing with psychological ills. He was also a lifelong advo- cate for the disenfranchised.
+George’s belief that most psychological distress was a result of adverse social conditions—such as poverty, racism, and sexism—and not biology, undergirded his tireless fight for a psychology of prevention. His students could quote in their sleep his mantra “No mass disorder afflicting humankind
+May–June 2007 ● American Psychologist
+Copyright 2007 by the American Psychological Association 0003-066X/07/$12.00 Vol. 62, No. 4, 317–318 DOI: 10.1037/0003-066X.62.4.317
+has ever been brought under control by attempts at treating the individual,” and many took up his call and pursued careers in public health.
+George was born on December 20, 1921, in St. Mary’s, Pennsylvania. After attending local schools, he graduated from Bethany College in West Virginia in 1943 and served three years in the Army Air Forces during World War II. He earned his master’s degree (1947) and doctoral degree (1949) from the University of Pittsburgh with a dissertation titled “The Relation of Certain Socio-Cultural Experiences to De- lusions in Schizophrenia.” He completed a predoctoral clinical internship through the Veterans Administration (VA) and was among the first wave of psychologists to receive training in VA hospitals. After graduation, he joined the research staff at the Western Psychiatric Institute in Pittsburgh. His early re- search investigated various aspects of schizophrenia and laid the groundwork for his belief in the social causes of mental illness.
+He began his lifelong association with the APA in 1951 when he joined its staff as assistant executive secretary. At the time, the APA was housed in seven rooms of the old Amer- ican Association for the Advancement of Science building, and APA’s entire professional staff consisted of four people: Fillmore Sanford, Jane Hildreth, Margaret Harlow, and Albee. Among his responsibilities were public information, public relations, and placement. He started the APA Employment Bulletin to assist with the latter. He hired Michael Amrine, an experienced science writer, to run the press room at the 1952 annual convention. Amrine ended up staying at APA for 17 years, and he and Albee collaborated on numerous public information projects.
+George received a Fulbright Fellowship that took him to Helsinki University in 1953. He returned the following year to join the faculty at Western Reserve University (later Case Western Reserve University) in Cleveland, Ohio. There he rose through the ranks to professor and chaired the psychology department three different times. In 1958, he was named the George Trumbull Ladd Distinguished Professor of Psychology.
+While at Case Western Reserve, he collaborated with Ellen Lane and their students to publish a lengthy series of studies on the childhood intellectual development of adult schizophrenics. Later, he and Marguerite Dickey published the first study of human resources in the mental health pro- fessions. Following that work, George was appointed to head the Task Force on Manpower of President Eisenhower’s Joint Commission on Mental Health and Illness in 1958. The report of the work of that commission, which was published sepa- rately as “Mental Health Manpower Trends” in 1959, was considered by Nicholas Hobbs to be one of the three most influential publications of the decade. The work of the com- mission led to the Community Mental Health Act and the
+￼317
+development of modern community mental health centers. George was recalled to service by President Carter and served as coordinator of the Task Panel on Prevention of the Presi- dent’s Commission on Mental Health from 1977 to 1978.
+As a result of his experience and research in mental health, George became convinced of two things: first, that mental health problems were not the same as medical problems and could not be addressed by the same methods, and second, that there would never be sufficient human resources to treat all the “cases” of mental illness. He believed strongly that preventing problems was more effective, efficient, and humane in the long run than attempting to treat them with inadequate resources. Eventually, his work as an advocate for prevention would have both a national and international influence.
+George joined the faculty at the University of Vermont in 1971 and remained there until he retired in 1992. He established the Vermont Conferences on Primary Prevention at the University of Vermont, which held annual conferences for 17 years and published the proceedings, works that were seminal in promoting prevention programs around the world. Several of his students have become internationally recog- nized experts in prevention and mental health policy. George served as a mentor in prevention for his junior colleagues as well.
+Trained at a time when psychology was seen as the step- child of psychiatry, George advocated for independent training centers for psychologists and for legal recognition of psycholo- gists. Never afraid of controversy, he published many articles demonstrating the inadequacy of the sickness model of psycho- pathology, noting instead the contribution of social and political factors to their development. He taught that poverty, racism, and sexism were far more strongly associated with mental illness than were microbes, genes, or twisted molecules. He was an advocate for social change and for strengthening individual resources for coping with adversity.
+In line with these views, he even took on the psycholog- ical establishment and published articles recommending that psychotherapy not be paid for by medical insurance, correctly predicting that insurance companies would then begin to dic- tate how psychotherapy should be practiced. He was ada- mantly opposed to the current move to obtain prescription privileges for psychologists, a practice he saw as antithetical to a psychological practice and a boon to the pharmaceutical industry, which already dominates psychiatric practice.
+When George retired from the University of Vermont, he moved to Longboat Key, Florida. He was appointed courtesy professor at the Florida Mental Health Institute and visiting professor at the University of South Florida, where he con- tinued advocating for prevention. Recently, the University of South Florida’s National Institute on Multicultural Compe- tence dedicated its Student Mentoring/Early Career Profes- sional Leadership Development Training Program to George with these words: “This new intervention is dedicated to the life and legacy of George Albee, whose advocacy for preven- tion in the fields of counseling and psychology underlies the principles and spirit of the Student Mentoring and Early Career Professional Leadership Development Training Pro- gram.”
+George was an avid cook, gardener, and “rancher” (pigs, a cow, chickens), and he lived a green life long before doing so became part of a social movement. Early mornings in Vermont would see him making the rounds of the supermar- kets in his red pickup truck, collecting their discarded food for feeding to his pigs, or fertilizing his gigantic poppies with sawdust and animal droppings from the psychology depart- ment’s animal colony. His garden supported many tables each fall, and his contributions of tomatoes were legendary. He reached the national finals of a cooking contest with his recipe for “Marco Polo Pot Roast” and published a paper, jointly authored with his wife Margaret Tong, on Chinese cooking for Vermonters (titled “Woodstoves and Woks”).
+As Steve Goldston, Justin Joffe, and I wrote in 1992, in a Festschrift for George to celebrate his 70th birthday,
+[We] have also been invited along with George—to write articles and books, to plan conferences, to kill and dress chickens that were no longer layers, and in myriad other ways to walk with him in his path and to see the world through his lenses: a world free from exploitation and domination of one group by another, a world in which each person has the freedom and the resources to develop her or his resources to the fullest, a world in which the highest goal would be one person’s concern and regard for oth- ers. . . . [W]ith George’s invitation comes the unwritten command to fight the good fight, to smite the unrighteous, to educate the Philistines—with energy, commitment, and enthusiasm.
+As far as a life so varied and energetic can be reduced to words, that chapter captures some of the main themes and contributions of George’s professional life and a little of what he was like—some of his humor, his humanity, his dedication to improving the lot of humankind, his intellec- tual energy, and his wide-ranging curiosity.
+George was a frequent contributor to an eclectic array of publications: His letters to Ann Landers resulted in an article titled “Ann and Me,” and he also wrote a humor column for the Longboat Observer for several years. But most important, until the end, he wrote about, advocated, and truly battled for prevention. Albee’s memorial service at the University of Vermont on August 20, 2006, began with a five-minute slide show compiled by his daughter-in-law Beth Donovan. The photographs of George in those slides ranged across the years—from an image of him as a baby on his mother’s lap, through his time in uniform during World War II, then farm- ing his land, debating, cooking, milking a cow, receiving APA awards, to very recent portraits surrounded by his grandchil- dren—and were accompanied by a recording of Frank Sinatra singing “My Way,” written by Paul Anka. As we listened to Sinatra, some of us couldn’t help but think that the words might have been written for George himself:
+I’ve lived, a life that’s full, I’ve traveled each and every highway. And more, much more than this,
+I did it my way.
+Albee is survived by his wife, Margaret Tong; his children, Luke Albee, Alec Albee, Marina Albee, and Sarah Albee Willson; and 10 grandchildren.
+Marc Kessler
+University of Vermont
+￼318
+May–June 2007 ● American Psychologist
 </Text>
         </Document>
         <Document ID="296">
@@ -16044,41 +16113,6 @@ Mr. C. Larry Shull Methods Analyst Dept. of Institutions Olympia, Washington
 Mr. John Mannering Chief Statistician Bureau of Research and
 Statistics
 Dept. of Public Welfare Madison 2, Wisconsin
-</Text>
-        </Document>
-        <Document ID="301">
-            <Title>AlbeeObit</Title>
-            <Text>￼￼OBITUARIES
-￼George W. Albee (1921–2006)
-￼￼￼George W. Albee, a past President of the American Psy- chological Association (APA) and lifelong advocate of the importance of social change to deal effectively with mental disorders, died in his home in Longboat Key, Florida, on July 8, 2006, after a short illness. Family members gathered at his home to be with him at his death.
-His impact on psychology is reflected in the many awards he received in his lifetime, which included the APA Distinguished Professional Contribution Award in 1975, the American Psychological Foundation Gold Medal Award for Life Achievement in Psychology in the Public Interest in 1993, and the Lifetime Achievement Award in Applied Pre- ventive Psychology in 1997. He was a member of nine APA divisions and a fellow of four of them: Divisions 12 (Society of Clinical Psychology), 27 (Society for Community Research and Action: Division of Community Psychology), 35 (Society for the Psychology of Women), and 44 (Society for the Psychological Study of Lesbian, Gay, and Bisexual Issues). With his passing, psychology lost one of the staunchest ad- vocates of prevention as the most important approach to dealing with psychological ills. He was also a lifelong advo- cate for the disenfranchised.
-George’s belief that most psychological distress was a result of adverse social conditions—such as poverty, racism, and sexism—and not biology, undergirded his tireless fight for a psychology of prevention. His students could quote in their sleep his mantra “No mass disorder afflicting humankind
-May–June 2007 ● American Psychologist
-Copyright 2007 by the American Psychological Association 0003-066X/07/$12.00 Vol. 62, No. 4, 317–318 DOI: 10.1037/0003-066X.62.4.317
-has ever been brought under control by attempts at treating the individual,” and many took up his call and pursued careers in public health.
-George was born on December 20, 1921, in St. Mary’s, Pennsylvania. After attending local schools, he graduated from Bethany College in West Virginia in 1943 and served three years in the Army Air Forces during World War II. He earned his master’s degree (1947) and doctoral degree (1949) from the University of Pittsburgh with a dissertation titled “The Relation of Certain Socio-Cultural Experiences to De- lusions in Schizophrenia.” He completed a predoctoral clinical internship through the Veterans Administration (VA) and was among the first wave of psychologists to receive training in VA hospitals. After graduation, he joined the research staff at the Western Psychiatric Institute in Pittsburgh. His early re- search investigated various aspects of schizophrenia and laid the groundwork for his belief in the social causes of mental illness.
-He began his lifelong association with the APA in 1951 when he joined its staff as assistant executive secretary. At the time, the APA was housed in seven rooms of the old Amer- ican Association for the Advancement of Science building, and APA’s entire professional staff consisted of four people: Fillmore Sanford, Jane Hildreth, Margaret Harlow, and Albee. Among his responsibilities were public information, public relations, and placement. He started the APA Employment Bulletin to assist with the latter. He hired Michael Amrine, an experienced science writer, to run the press room at the 1952 annual convention. Amrine ended up staying at APA for 17 years, and he and Albee collaborated on numerous public information projects.
-George received a Fulbright Fellowship that took him to Helsinki University in 1953. He returned the following year to join the faculty at Western Reserve University (later Case Western Reserve University) in Cleveland, Ohio. There he rose through the ranks to professor and chaired the psychology department three different times. In 1958, he was named the George Trumbull Ladd Distinguished Professor of Psychology.
-While at Case Western Reserve, he collaborated with Ellen Lane and their students to publish a lengthy series of studies on the childhood intellectual development of adult schizophrenics. Later, he and Marguerite Dickey published the first study of human resources in the mental health pro- fessions. Following that work, George was appointed to head the Task Force on Manpower of President Eisenhower’s Joint Commission on Mental Health and Illness in 1958. The report of the work of that commission, which was published sepa- rately as “Mental Health Manpower Trends” in 1959, was considered by Nicholas Hobbs to be one of the three most influential publications of the decade. The work of the com- mission led to the Community Mental Health Act and the
-￼317
-development of modern community mental health centers. George was recalled to service by President Carter and served as coordinator of the Task Panel on Prevention of the Presi- dent’s Commission on Mental Health from 1977 to 1978.
-As a result of his experience and research in mental health, George became convinced of two things: first, that mental health problems were not the same as medical problems and could not be addressed by the same methods, and second, that there would never be sufficient human resources to treat all the “cases” of mental illness. He believed strongly that preventing problems was more effective, efficient, and humane in the long run than attempting to treat them with inadequate resources. Eventually, his work as an advocate for prevention would have both a national and international influence.
-George joined the faculty at the University of Vermont in 1971 and remained there until he retired in 1992. He established the Vermont Conferences on Primary Prevention at the University of Vermont, which held annual conferences for 17 years and published the proceedings, works that were seminal in promoting prevention programs around the world. Several of his students have become internationally recog- nized experts in prevention and mental health policy. George served as a mentor in prevention for his junior colleagues as well.
-Trained at a time when psychology was seen as the step- child of psychiatry, George advocated for independent training centers for psychologists and for legal recognition of psycholo- gists. Never afraid of controversy, he published many articles demonstrating the inadequacy of the sickness model of psycho- pathology, noting instead the contribution of social and political factors to their development. He taught that poverty, racism, and sexism were far more strongly associated with mental illness than were microbes, genes, or twisted molecules. He was an advocate for social change and for strengthening individual resources for coping with adversity.
-In line with these views, he even took on the psycholog- ical establishment and published articles recommending that psychotherapy not be paid for by medical insurance, correctly predicting that insurance companies would then begin to dic- tate how psychotherapy should be practiced. He was ada- mantly opposed to the current move to obtain prescription privileges for psychologists, a practice he saw as antithetical to a psychological practice and a boon to the pharmaceutical industry, which already dominates psychiatric practice.
-When George retired from the University of Vermont, he moved to Longboat Key, Florida. He was appointed courtesy professor at the Florida Mental Health Institute and visiting professor at the University of South Florida, where he con- tinued advocating for prevention. Recently, the University of South Florida’s National Institute on Multicultural Compe- tence dedicated its Student Mentoring/Early Career Profes- sional Leadership Development Training Program to George with these words: “This new intervention is dedicated to the life and legacy of George Albee, whose advocacy for preven- tion in the fields of counseling and psychology underlies the principles and spirit of the Student Mentoring and Early Career Professional Leadership Development Training Pro- gram.”
-George was an avid cook, gardener, and “rancher” (pigs, a cow, chickens), and he lived a green life long before doing so became part of a social movement. Early mornings in Vermont would see him making the rounds of the supermar- kets in his red pickup truck, collecting their discarded food for feeding to his pigs, or fertilizing his gigantic poppies with sawdust and animal droppings from the psychology depart- ment’s animal colony. His garden supported many tables each fall, and his contributions of tomatoes were legendary. He reached the national finals of a cooking contest with his recipe for “Marco Polo Pot Roast” and published a paper, jointly authored with his wife Margaret Tong, on Chinese cooking for Vermonters (titled “Woodstoves and Woks”).
-As Steve Goldston, Justin Joffe, and I wrote in 1992, in a Festschrift for George to celebrate his 70th birthday,
-[We] have also been invited along with George—to write articles and books, to plan conferences, to kill and dress chickens that were no longer layers, and in myriad other ways to walk with him in his path and to see the world through his lenses: a world free from exploitation and domination of one group by another, a world in which each person has the freedom and the resources to develop her or his resources to the fullest, a world in which the highest goal would be one person’s concern and regard for oth- ers. . . . [W]ith George’s invitation comes the unwritten command to fight the good fight, to smite the unrighteous, to educate the Philistines—with energy, commitment, and enthusiasm.
-As far as a life so varied and energetic can be reduced to words, that chapter captures some of the main themes and contributions of George’s professional life and a little of what he was like—some of his humor, his humanity, his dedication to improving the lot of humankind, his intellec- tual energy, and his wide-ranging curiosity.
-George was a frequent contributor to an eclectic array of publications: His letters to Ann Landers resulted in an article titled “Ann and Me,” and he also wrote a humor column for the Longboat Observer for several years. But most important, until the end, he wrote about, advocated, and truly battled for prevention. Albee’s memorial service at the University of Vermont on August 20, 2006, began with a five-minute slide show compiled by his daughter-in-law Beth Donovan. The photographs of George in those slides ranged across the years—from an image of him as a baby on his mother’s lap, through his time in uniform during World War II, then farm- ing his land, debating, cooking, milking a cow, receiving APA awards, to very recent portraits surrounded by his grandchil- dren—and were accompanied by a recording of Frank Sinatra singing “My Way,” written by Paul Anka. As we listened to Sinatra, some of us couldn’t help but think that the words might have been written for George himself:
-I’ve lived, a life that’s full, I’ve traveled each and every highway. And more, much more than this,
-I did it my way.
-Albee is survived by his wife, Margaret Tong; his children, Luke Albee, Alec Albee, Marina Albee, and Sarah Albee Willson; and 10 grandchildren.
-Marc Kessler
-University of Vermont
-￼318
-May–June 2007 ● American Psychologist
 </Text>
         </Document>
         <Document ID="266">
@@ -26770,7 +26804,7 @@ The central issue in this game—whether it be voiced in the selection of experi
 
 It follows, then, that behaviorists reject the hypothetical-deductive method of science advanced by thinkers like John Stuart Mill and John Dewey (see the history of Behaviorism in the game book) as misleading and inaccurate characterizations of the way that scientific reasoning proceeds.  While it does not deny the validity of careful case studies in the collection of data, it denies the generalizability of those findings without experimental results.
 
-As a result, behaviorists view psychoanalysis as “voodooism” (Watson, 1928, p. 94) and a “delusion” (Jastrow, 1932, p. 142). Skinner went so far as to systematically define the central mechanisms of psychoanalytic theory in behavioristic terms in Chapter 24 of his 1953 Science and Human Behavior.
+As a result, behaviorists view psychoanalysis as “voodooism” (Watson, 1928, p. 94) and a “delusion” [p. 142].[#Jastrow:1932wl] Skinner went so far as to systematically define the central mechanisms of psychoanalytic theory in behavioristic terms in Chapter 24 of his 1953 Science and Human Behavior.
 
 In addition to the thesis that introspection is not a reliable scientific methodology, Behaviorists have a couple of other lines of argument that are frequently used: First, they argue that mental states are causally irrelevant, as 'mental' things are meant to be non-physical, and only physical things can causally interact with physical things. Second, they argue that explanations of behavior in terms of 'inner states' are ad hoc: the supposed 'ideas' or 'mind' is invented after the fact as an explanation of the behavior, rather than an actual cause. Behaviorists point to the fact that these mental states are almost always posited to have exactly those properties necessary to cause the explained behavior. Rarely, if ever, is a mental property invoked in making a bold and surprising prediction. Rather, they are reminiscent of the 'faculties' of phrenology: every behavior is explained perfectly by positing a hypothetical faculty for that behavior.  
 
