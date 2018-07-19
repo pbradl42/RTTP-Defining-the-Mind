@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-2" Modified="2018-07-19 14:10:40 -0400" ModID="A590464D-FD3F-4BCC-B947-19DC0B4345E0">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="PIC-142B-Desktop" Modified="2018-07-19 14:30:48 -0400" ModID="430DE3EB-E360-4B2E-8C67-DAED57E6B96B">
     <Binder>
         <BinderItem ID="0" UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -185,7 +185,7 @@
                                                 <TextSelection>152,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem ID="39" UUID="0B0B6C32-0E44-466E-A863-7F3C4484E6AD" Type="Text" Created="2013-07-25 00:09:28 -0400" Modified="2018-07-19 13:44:15 -0400">
+                                        <BinderItem ID="39" UUID="0B0B6C32-0E44-466E-A863-7F3C4484E6AD" Type="Text" Created="2013-07-25 00:09:28 -0400" Modified="2018-07-19 14:15:40 -0400">
                                             <Title>historyOfMentalIllness</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -193,7 +193,7 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextMode>Script</TextMode>
-                                                <TextSelection>73568,0</TextSelection>
+                                                <TextSelection>73534,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -592,24 +592,24 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="11" UUID="0477DC1F-3247-4166-A9E0-35FC83F6C9F9" Type="Folder" Created="2014-07-21 03:42:06 -0400" Modified="2018-07-13 16:34:27 -0400">
+                        <BinderItem ID="11" UUID="0477DC1F-3247-4166-A9E0-35FC83F6C9F9" Type="Folder" Created="2014-07-21 03:42:06 -0400" Modified="2018-07-19 14:30:37 -0400">
                             <Title>Selected Bibliography</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>27,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="227" UUID="550B9B3B-46FB-42F1-9BBB-F0980AEB2172" Type="Text" Created="2016-09-21 15:47:09 -0400" Modified="2018-07-17 14:14:01 -0400">
+                                <BinderItem ID="227" UUID="550B9B3B-46FB-42F1-9BBB-F0980AEB2172" Type="Text" Created="2016-09-21 15:47:09 -0400" Modified="2018-07-19 14:30:48 -0400">
                                     <Title>Works Cited</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>31,0</TextSelection>
+                                        <TextSelection>7,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3838,7 +3838,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="CADF5D6E-EF6B-400A-8C7F-CFF850A380D1" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">&lt;&lt;&lt;&lt;&lt;&lt;&lt;</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">Trof</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
@@ -3872,7 +3872,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="232" Characters="1689" Date="2018-07-19 14:05:03 -0400"></PreviousSession>
+        <PreviousSession Words="233" Characters="1705" Date="2018-07-19 14:12:44 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

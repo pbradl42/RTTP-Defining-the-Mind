@@ -2009,10 +2009,12 @@ All of that changed starting in 1955 when Wallace Labs began marketing the world
 
      \includegraphics{../images/Trofanil_Geigy_Wellcome.jpg}
 \end{center}
- \caption{See page for author CC BY 4.0  (https://creativecommons.org/licenses/by/4.0 ), via Wikimedia Commons https://commons.wikimedia.org/wiki/File:Advert_for_Tofranil_Geigy_Wellcome_L0043517.jpg }
+ \caption{See page for author CC BY 4.0  }
 \label{fig: MattachinePamphlet}
 \end{marginfigure}
 --&gt;
+
+(https://creativecommons.org/licenses/by/4.0 ), via Wikimedia Commons https://commons.wikimedia.org/wiki/File:Advert_for_Tofranil_Geigy_Wellcome_L0043517.jpg 
 
 These drugs did—in short order—what years of psychoanalysis, hypnosis, electro-shock therapy (the decedent of Beard's treatments) and confinement could not: they allowed patients with crippling anxiety to return to normal or close-to-normal functioning.
 
@@ -26716,8 +26718,9 @@ Grinker, R. &amp; Spiegel, J. P. (1945) Men Under Stress American Psychological 
             <Title>Works Cited</Title>
             <Text>&lt;!--
 \backmatter
-\printindex
 \printbibliography[heading=subbibliography]
+\printindex
+
 
 --&gt;</Text>
         </Document>
@@ -27111,7 +27114,7 @@ Once it became clear that there was some other cue Hans was using, interest in h
         </Document>
         <Document ID="11">
             <Title>Selected Bibliography</Title>
-            <Text>## Works Cited</Text>
+            <Text>## Index and Bibliographies</Text>
         </Document>
         <Document ID="12">
             <Title>Acknolwedgments</Title>
