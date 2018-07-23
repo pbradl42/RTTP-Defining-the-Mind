@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-2" Modified="2018-07-22 21:39:11 -0400" ModID="66AD83FA-EB8A-43BA-A2E0-91B863555C24">
+=======
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="PIC-142B-Desktop" Modified="2018-07-20 16:35:40 -0400" ModID="EE7E84AE-2F86-4D91-9934-8C01B8A2F69A">
+>>>>>>> 87e5e59d9b458246e7aaf9cc4ca722765387200e
     <Binder>
         <BinderItem ID="0" UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -521,14 +525,22 @@
                                                                 </BinderItem>
                                                             </Children>
                                                         </BinderItem>
+<<<<<<< HEAD
                                                         <BinderItem ID="326" UUID="F485E0A0-5A46-4A4B-B4E2-3AE92FD501EF" Type="Text" Created="2018-07-15 20:18:35 -0400" Modified="2018-07-22 19:59:07 -0400">
+=======
+                                                        <BinderItem ID="326" UUID="F485E0A0-5A46-4A4B-B4E2-3AE92FD501EF" Type="Text" Created="2018-07-15 20:18:35 -0400" Modified="2018-07-20 16:34:58 -0400">
+>>>>>>> 87e5e59d9b458246e7aaf9cc4ca722765387200e
                                                             <Title>Experimentation</Title>
                                                             <MetaData>
                                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                                             </MetaData>
                                                             <TextSettings>
+<<<<<<< HEAD
                                                                 <TextSelection>470,0</TextSelection>
+=======
+                                                                <TextSelection>13883,0</TextSelection>
+>>>>>>> 87e5e59d9b458246e7aaf9cc4ca722765387200e
                                                             </TextSettings>
                                                             <Children>
                                                                 <BinderItem ID="351" UUID="A9F2AC25-75F0-4BFB-910F-823DD140E2BF" Type="Text" Created="2018-07-18 12:46:16 -0400" Modified="2018-07-21 21:25:22 -0400">
@@ -558,7 +570,11 @@
                                                                         <NotesTextSelection>0,0</NotesTextSelection>
                                                                     </MetaData>
                                                                     <TextSettings>
+<<<<<<< HEAD
                                                                         <TextSelection>1104,0</TextSelection>
+=======
+                                                                        <TextSelection>150,1</TextSelection>
+>>>>>>> 87e5e59d9b458246e7aaf9cc4ca722765387200e
                                                                     </TextSettings>
                                                                 </BinderItem>
                                                             </Children>
@@ -3883,7 +3899,11 @@
         </Collection>
         <Collection Type="RecentSearch" ID="CADF5D6E-EF6B-400A-8C7F-CFF850A380D1" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
+<<<<<<< HEAD
             <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">Gebhard,,</SearchSettings>
+=======
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">Rochest</SearchSettings>
+>>>>>>> 87e5e59d9b458246e7aaf9cc4ca722765387200e
         </Collection>
     </Collections>
     <LabelSettings>
@@ -3917,7 +3937,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+<<<<<<< HEAD
         <PreviousSession Words="0" Characters="0" Date="2018-07-23 08:18:12 -0400"></PreviousSession>
+=======
+        <PreviousSession Words="112" Characters="1357" Date="2018-07-20 16:34:06 -0400"></PreviousSession>
+>>>>>>> 87e5e59d9b458246e7aaf9cc4ca722765387200e
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

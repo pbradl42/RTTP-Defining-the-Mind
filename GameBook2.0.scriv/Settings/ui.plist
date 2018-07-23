@@ -36,7 +36,11 @@
 	</dict>
 	<key>binderSelection</key>
 	<array>
+<<<<<<< HEAD
 		<integer>84</integer>
+=======
+		<integer>50</integer>
+>>>>>>> 87e5e59d9b458246e7aaf9cc4ca722765387200e
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
@@ -135,7 +139,11 @@
 	<integer>1</integer>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
+<<<<<<< HEAD
 		<integer>170</integer>
+=======
+		<integer>326</integer>
+>>>>>>> 87e5e59d9b458246e7aaf9cc4ca722765387200e
 	</array>
 	<key>mainDocumentEditor.currentEditorViewMode</key>
 	<integer>1</integer>
@@ -158,6 +166,7 @@
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
+<<<<<<< HEAD
 					<integer>325</integer>
 				</array>
 				<key>ViewMode</key>
@@ -175,6 +184,9 @@
 				<key>BinderDocIDs</key>
 				<array>
 					<integer>325</integer>
+=======
+					<integer>37</integer>
+>>>>>>> 87e5e59d9b458246e7aaf9cc4ca722765387200e
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -955,12 +967,34 @@
 				<key>ViewMode</key>
 				<integer>1</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>23</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>326</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
+<<<<<<< HEAD
 	<string>{{0, 0}, {418, 685}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{382, 0}</string>
+=======
+	<string>{{0, 7432}, {464, 685}}</string>
+	<key>mainDocumentEditor.selectedRanges</key>
+	<string>{13883, 0}</string>
+>>>>>>> 87e5e59d9b458246e7aaf9cc4ca722765387200e
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -971,7 +1005,7 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>299 631 1343 786 0 0 2560 1417 </string>
+	<string>175 105 1343 786 0 0 2560 1417 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>

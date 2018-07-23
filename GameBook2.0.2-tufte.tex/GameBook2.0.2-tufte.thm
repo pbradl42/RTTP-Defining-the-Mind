@@ -3,9 +3,15 @@
 \defcounter {refsection}{1}\relax 
 \contentsline {mythesis}{{Thesis}{4.{2}}{Auxiliary Hypothesis}}{135}{mythesis.4.2}
 \defcounter {refsection}{1}\relax 
+<<<<<<< HEAD
 \contentsline {mythesis}{{Thesis}{4.{3}}{Independent variable}}{141}{mythesis.4.3}
 \defcounter {refsection}{1}\relax 
 \contentsline {mythesis}{{Thesis}{4.{4}}{Dependent variable}}{141}{mythesis.4.4}
+=======
+\contentsline {mythesis}{{Thesis}{4.{3}}{Independent variable}}{142}{mythesis.4.3}
+\defcounter {refsection}{1}\relax 
+\contentsline {mythesis}{{Thesis}{4.{4}}{Dependent variable}}{142}{mythesis.4.4}
+>>>>>>> 87e5e59d9b458246e7aaf9cc4ca722765387200e
 \defcounter {refsection}{1}\relax 
 \contentsline {mythesis}{{Thesis}{4.{5}}{Confounding Variables}}{145}{mythesis.4.5}
 \defcounter {refsection}{1}\relax 

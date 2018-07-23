@@ -2398,6 +2398,7 @@
     <bcf:citekey order="115">Ebbinghaus:1885ud</bcf:citekey>
     <bcf:citekey order="116">Pitts:2007km</bcf:citekey>
     <bcf:citekey order="117">Mead:1928uk</bcf:citekey>
+<<<<<<< HEAD
     <bcf:citekey order="118">Mead:1928uk</bcf:citekey>
     <bcf:citekey order="119">Mead:1928uk</bcf:citekey>
     <bcf:citekey order="120">Mead:1928uk</bcf:citekey>
@@ -2420,6 +2421,13 @@
     <bcf:citekey order="137">Association:1968uu</bcf:citekey>
     <bcf:citekey order="138">Fisher:uAWUHvuo</bcf:citekey>
     <bcf:citekey order="139">Fisher:2003tg</bcf:citekey>
+=======
+    <bcf:citekey order="118">Brown:1968df</bcf:citekey>
+    <bcf:citekey order="119">Brown:1972to</bcf:citekey>
+    <bcf:citekey order="120">Chomsky:1965uu</bcf:citekey>
+    <bcf:citekey order="121">Cordaro:2016bv</bcf:citekey>
+    <bcf:citekey order="122">DeSio:2014kp</bcf:citekey>
+>>>>>>> 87e5e59d9b458246e7aaf9cc4ca722765387200e
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
