@@ -1,48 +1,33 @@
 [0] Config.pm:343> INFO - This is Biber 2.5
 [0] Config.pm:346> INFO - Logfile is 'GameBook2.0.2-tufte.blg'
-[35] biber-darwin:290> INFO - === Fri Jul 20, 2018, 16:37:05
-[52] Biber.pm:351> INFO - Reading 'GameBook2.0.2-tufte.bcf'
-[138] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[138] Biber.pm:776> INFO - Found 89 citekeys in bib section 1
-[138] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[138] Biber.pm:776> INFO - Found 7 citekeys in bib section 2
-[139] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[139] Biber.pm:776> INFO - Found 2 citekeys in bib section 3
-[139] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[161] Biber.pm:3493> INFO - Processing section 1
-[172] Biber.pm:3657> INFO - Looking for bibtex format file '../APA.bib' for section 1
-[207] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
-[245] bibtex.pm:1048> INFO - Found BibTeX data source '../APA.bib'
-[263] Utils.pm:149> WARN - Duplicate entry key: 'Herbert:2017tz' in file '../APA.bib', skipping ...
-[361] Utils.pm:149> WARN - I didn't find a database entry for 'Locke:1959we' (section 1)
-[361] Utils.pm:149> WARN - I didn't find a database entry for 'Hume:2000ws' (section 1)
-[361] Utils.pm:149> WARN - I didn't find a database entry for 'James:1890wm' (section 1)
-[361] Utils.pm:149> WARN - I didn't find a database entry for 'Hull:mFXxOgAu' (section 1)
-[361] Utils.pm:149> WARN - I didn't find a database entry for 'Tolman:1948ty' (section 1)
-[362] Utils.pm:149> WARN - I didn't find a database entry for 'York:tqkKlD3E' (section 1)
-[362] Utils.pm:149> WARN - I didn't find a database entry for 'Locke:1959wj' (section 1)
-[362] Utils.pm:149> WARN - I didn't find a database entry for 'Medicine:2mOeOnTb' (section 1)
-[362] Utils.pm:149> WARN - I didn't find a database entry for 'Kuhn:2012vq' (section 1)
-[362] Utils.pm:149> WARN - I didn't find a database entry for 'DeSio:2014kp' (section 1)
-[432] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[433] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[433] Biber.pm:3306> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
-[433] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
-[512] Biber.pm:3493> INFO - Processing section 2
-[512] Biber.pm:3657> INFO - Looking for bibtex format file '../APA.bib' for section 2
-[516] Utils.pm:149> WARN - I didn't find a database entry for 'Washington:4DHpwcWC' (section 2)
-[516] Utils.pm:149> WARN - I didn't find a database entry for 'Psychiatry:1-jx4ild' (section 2)
-[516] Utils.pm:149> WARN - I didn't find a database entry for 'November:iRleas1e' (section 2)
-[525] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[525] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[525] Biber.pm:3306> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
-[525] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
-[529] Biber.pm:3493> INFO - Processing section 3
-[529] Biber.pm:3657> INFO - Looking for bibtex format file '../APA.bib' for section 3
-[537] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[537] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[537] Biber.pm:3306> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
-[538] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
-[539] bbl.pm:526> INFO - Writing 'GameBook2.0.2-tufte.bbl' with encoding 'UTF-8'
-[547] bbl.pm:619> INFO - Output to GameBook2.0.2-tufte.bbl
-[547] Biber.pm:108> INFO - WARNINGS: 14
+[34] biber-darwin:290> INFO - === Mon Jul 23, 2018, 08:32:04
+[50] Biber.pm:351> INFO - Reading 'GameBook2.0.2-tufte.bcf'
+[131] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[132] Biber.pm:776> INFO - Found 99 citekeys in bib section 1
+[132] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[132] Biber.pm:776> INFO - Found 4 citekeys in bib section 2
+[132] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[132] Biber.pm:776> INFO - Found 2 citekeys in bib section 3
+[132] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[155] Biber.pm:3493> INFO - Processing section 1
+[169] Biber.pm:3657> INFO - Looking for bibtex format file '../APA.bib' for section 1
+[202] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[240] bibtex.pm:1048> INFO - Found BibTeX data source '../APA.bib'
+[450] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[450] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[450] Biber.pm:3306> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[450] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[550] Biber.pm:3493> INFO - Processing section 2
+[550] Biber.pm:3657> INFO - Looking for bibtex format file '../APA.bib' for section 2
+[562] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[562] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[562] Biber.pm:3306> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[563] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[565] Biber.pm:3493> INFO - Processing section 3
+[566] Biber.pm:3657> INFO - Looking for bibtex format file '../APA.bib' for section 3
+[574] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[574] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[574] Biber.pm:3306> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[574] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[575] bbl.pm:526> INFO - Writing 'GameBook2.0.2-tufte.bbl' with encoding 'UTF-8'
+[585] bbl.pm:619> INFO - Output to GameBook2.0.2-tufte.bbl
