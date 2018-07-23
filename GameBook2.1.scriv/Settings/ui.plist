@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderSelection</key>
+	<array>
+		<integer>23</integer>
+	</array>
+	<key>binderSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {130, 759}}</string>
+		<string>{{131, 0}, {1309, 759}}</string>
+	</array>
+	<key>binderState</key>
+	<array>
+		<integer>0</integer>
+		<integer>133</integer>
+		<integer>10</integer>
+		<integer>134</integer>
+	</array>
+	<key>collectionSelectionAutosaveName</key>
+	<array>
+		<integer>6</integer>
+	</array>
+	<key>collectionsHeight</key>
+	<real>101</real>
+	<key>collectionsRepresentedBinderDocumentsInfo</key>
+	<dict>
+		<key>MainID</key>
+		<string></string>
+		<key>SupportingID</key>
+		<string></string>
+	</dict>
+	<key>collectionsTabListIsCollapsed</key>
+	<true/>
+	<key>editorSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {549, 731}}</string>
+		<string>{{550, 0}, {531, 731}}</string>
+	</array>
+	<key>editorSplitType</key>
+	<integer>2</integer>
+	<key>inspectorIsCollapsed</key>
+	<false/>
+	<key>inspectorSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {631, 522}}</string>
+		<string>{{632, 0}, {227, 522}}</string>
+	</array>
+	<key>inspectorWidth</key>
+	<real>227</real>
+	<key>lastDocumentSplitType</key>
+	<integer>1</integer>
+	<key>mainDocumentEditor.binderDocuments</key>
+	<array>
+		<integer>47</integer>
+	</array>
+	<key>mainDocumentEditor.currentEditorViewMode</key>
+	<integer>0</integer>
+	<key>mainDocumentEditor.editorGroupsViewMode</key>
+	<integer>0</integer>
+	<key>mainDocumentEditor.navigationHistory</key>
+	<dict>
+		<key>CurrentIndex</key>
+		<integer>2</integer>
+		<key>NavigationHistoryArray</key>
+		<array>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>194</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{1469, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>134</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>47</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>mainDocumentEditor.scrollRect</key>
+	<string>{{0, 0}, {549, 680}}</string>
+	<key>mainDocumentEditor.textEditorState</key>
+	<dict>
+		<key>hasMultiplePages</key>
+		<false/>
+		<key>textScale</key>
+		<integer>100</integer>
+		<key>usesFacingPages</key>
+		<false/>
+	</dict>
+	<key>mainWindowFrame</key>
+	<string>0 96 1440 781 0 0 1440 877 </string>
+	<key>selectedCollectionTabIndex</key>
+	<integer>1</integer>
+	<key>supportingDocumentEditor.binderDocuments</key>
+	<array>
+		<integer>136</integer>
+	</array>
+	<key>supportingDocumentEditor.currentEditorViewMode</key>
+	<integer>0</integer>
+	<key>supportingDocumentEditor.editorGroupsViewMode</key>
+	<integer>0</integer>
+	<key>supportingDocumentEditor.navigationHistory</key>
+	<dict>
+		<key>CurrentIndex</key>
+		<integer>3</integer>
+		<key>NavigationHistoryArray</key>
+		<array>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>194</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>238</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>39</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>136</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>supportingDocumentEditor.scrollRect</key>
+	<string>{{0, 0}, {531, 680}}</string>
+	<key>supportingDocumentEditor.selectedRanges</key>
+	<string>{1304, 0}</string>
+	<key>supportingDocumentEditor.textEditorState</key>
+	<dict>
+		<key>hasMultiplePages</key>
+		<false/>
+		<key>textScale</key>
+		<integer>100</integer>
+		<key>usesFacingPages</key>
+		<false/>
+	</dict>
+	<key>supportingDocumentViewIsCurrent</key>
+	<true/>
+</dict>
+</plist>
