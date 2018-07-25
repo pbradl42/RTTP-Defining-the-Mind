@@ -2,14 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>SCRSelectedCompileOptionsInfoSaveName</key>
+	<dict>
+		<key>Tag</key>
+		<integer>1</integer>
+		<key>Title</key>
+		<string>Original</string>
+	</dict>
 	<key>binderSelection</key>
 	<array>
-		<integer>20</integer>
+		<integer>34</integer>
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {130, 759}}</string>
-		<string>{{131, 0}, {1309, 759}}</string>
+		<string>{{0, 0}, {235, 754}}</string>
+		<string>{{236, 0}, {1204, 754}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -18,6 +25,8 @@
 		<integer>10</integer>
 		<integer>134</integer>
 		<integer>136</integer>
+		<integer>137</integer>
+		<integer>139</integer>
 		<integer>150</integer>
 		<integer>170</integer>
 		<integer>169</integer>
@@ -62,16 +71,16 @@
 	<integer>1</integer>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>55</integer>
+		<integer>140</integer>
 	</array>
 	<key>mainDocumentEditor.currentEditorViewMode</key>
 	<integer>0</integer>
 	<key>mainDocumentEditor.editorGroupsViewMode</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>mainDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>20</integer>
+		<integer>24</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -244,12 +253,46 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>194</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{12276, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>136</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>139</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>140</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {520, 680}}</string>
+	<string>{{0, 0}, {520, 675}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{1, 1}</string>
+	<string>{1607, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -260,7 +303,7 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>0 96 1440 781 0 0 1440 877 </string>
+	<string>0 101 1440 776 0 0 1440 877 </string>
 	<key>selectedCollectionTabIndex</key>
 	<integer>0</integer>
 	<key>supportingDocumentEditor.binderDocuments</key>
@@ -328,9 +371,9 @@
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 5101}, {560, 680}}</string>
+	<string>{{0, 6142}, {455, 675}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
-	<string>{15939, 0}</string>
+	<string>{15959, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>

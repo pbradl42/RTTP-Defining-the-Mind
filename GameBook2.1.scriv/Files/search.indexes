@@ -11037,7 +11037,7 @@ This is not a game about the accumulation and use of power in the ordinary way. 
 
 But there are moments---Kuhn used the political metaphor of a revolution---where known anomalies in the dominant paradigm become to great to ignore, and shifts happen. In these moments, academic credibility takes on a new form. And like political revolutions, new movements in science gain credibility by appeal to external entities and ideologies.
 
-The DSMIII marks a significant revolution in Psychiatry. The DSM I’s “Revised Nomenclature” is 39 pages long &lt;!--\fullref{app: DSMI}--&gt;. The DSMII’s is 40 pages &lt;!--\fullref{app: DSMII}--&gt;. The equivalent section (2) of the DSMIII is 300 pages long.  The DSMIII-R added another 250 pages or so and the DSMIV another 100.  Since then, the DSM IV-TR  and the DSM V  ...
+The DSMIII marks a significant revolution in Psychiatry. The DSM I’s “Revised Nomenclature” is 39 pages long &lt;!--\fullref{app: DSMI}--&gt;. The DSMII’s is 40 pages &lt;!--\fullref{app: DSMII}--&gt;. The equivalent section (2) of the DSMIII is 300 pages long.  The DSMIII-R added another 250 pages or so and the DSMIV another 100. Since then, the DSM IV-TR  and the DSM V  ...
 
 We do not expect that undergraduate students will be able to produce a diagnostic taxonomy in this game. Rather, we are expecting students to determine upon what basis such a diagnostic taxonomy should be based: observable symptoms or hypothetical causes.  Of course, we throw in Thomas Szasz and his sympathizers to drive home the importance of having a definition in the first place.
 </Text>
@@ -11996,6 +11996,7 @@ Litowitz, B.E. (1999). “Freud and Piaget: une fois de plus” The Genetic Epis
         <Document ID="138">
             <Title>Major events</Title>
             <Text>#### Major Events
+
 The are three majors topics / events that every game should address. The first, demedicalization, is really a sample question to set up the major issues of the game.
 
 1. **Demedicalization of Homosexuality (week 1)**
@@ -12020,7 +12021,7 @@ At the same time, the Spitzer taskforce should propose a covering definition of 
 
 Members of the factions have the option to form splinter associations. In reality:
 
-* the behaviorists found the “Society for the Experimental Analysis of Behavior” (actual founding 1957), and found two journals: *Journal of the Experimental Analysis of Behavior and Journal of Applied Behavioral Analysis*. 
+* the behaviorists found the “Society for the Experimental Analysis of Behavior” (actual founding 1957), and found two journals: *Journal of the Experimental Analysis of Behavior* and *Journal of Applied Behavioral Analysis*. 
 * Psychoanalysts form the American Psychoanalytic Association (actual founding in 1911, but grew rapidly in this era) and the journal *Journal of the American Psychoanalytic Association (JAPA)*, and 
 
 * Cognitivists form the Cognitive Science Society (1979) and its associated journals. 
@@ -26905,9 +26906,13 @@ These assumptions — for example, that our techniques for measuring velocity ar
         </Document>
         <Document ID="228">
             <Title>Learning Objectives</Title>
-            <Text>### Learning Objectives
+            <Text>##### Learning Objectives of the Game
 
 At the completion of this game, the students will be able to:
+
+* Recognize that the historical contingency of the nature of our contemporary disciplines 
+
+* Identify and respond to historical examples at which debates about evidence shift into debates about the philosophy of science, and the legitimacy of evidence. (See examples in XX)
 
 * Demonstrate, using actual examples from historical psychology, a more sophisticated understanding of the process of scientific inquiry than the simplistic experimental model. 
 
@@ -26925,11 +26930,7 @@ At the completion of this game, the students will be able to:
 
 * Demonstrate a working knowledge of the major distinctions in the study of the mind: psychodynamic, behavioristic and cognitive, including being able to correctly categorize major views / works, and discuss the complexity of cases on the margins (I.e. Tolman, Bandura)
 
-* Identify and respond to historical examples at which debates about evidence shift into debates about the philosophy of science, or the legitimacy of evidence. (See examples in XX)
-
-* Recognize that the historical contingency of the structure of our contemporary disciplines 
-
-* Appreciate the social impact taxonomies and labels can have on others, and the social significance thereof
+* Appreciate the social impact taxonomies and labels can have on others, and the social significance thereof.
 </Text>
             <Comments>Peter Bradley, 7/23/18, 4:44 PM</Comments>
         </Document>
@@ -27724,7 +27725,7 @@ http://reacting.barnard.edu/sites/default/files/rttp_gb_boilerplate.pdf</Text>
         </Document>
         <Document ID="140">
             <Title>Key concepts</Title>
-            <Text>#### Key Concepts at Stake
+            <Text>#### Conceptual issues at stake
 
 Many of the issues raised in the course of the game are appropriately philosophical.  While we've instructed the students to focus on the evidence, and its relationship with the claims asserted, one is often forced to notice how few of the great conflicts in the history of psychology and psychiatry are actually about the quality of the evidence presented. The conflicts are, most frequently, actually about whether the evidence in question can be considered 'scientific.' 
 
