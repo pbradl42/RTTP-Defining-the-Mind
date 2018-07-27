@@ -471,89 +471,6 @@ Available at http://www.apa.org/about/policy/archive.aspx
 Available at http://www.psych.org/Departments/EDU/Library/APAOfficialDocumentsandRelated/PositionStatements/197703.aspx
 ‘Unreliable’ should be read here in the technical sense---the same individual would not be classified the same way by a different analysts)</Comments>
         </Document>
-        <Document ID="49">
-            <Title>Observation</Title>
-            <Text>#### Observational research
-
-We acquire knowledge of the world primarily through our senses. As humans, we rely most heavily, but clearly not exclusively, on vision. Seeing the world seems very straight-forward. We open our eyes and the world impresses itself upon our consciousness. 
-&lt;!--\begin{marginfigure}
- \begin{center}
-
-
-     \includegraphics[scale=0.50]{../images/AmbigCheeta.jpg}
-\end{center}
- \caption{Ambiguous Cheetahs, from --&gt; [#Pitts:2007km]&lt;!--}
-\label{fig: ambiguouscheetahs}
-\end{marginfigure}--&gt;
-
-Take a look at the image to the right.  Which head goes with which cheetah?  Can you flip your interpretation to see it the ‘other way’?  There are *tons* of created images like this, from the Necker cube to Salvador Dali paintings, the way you see the image can change dramatically, depending on the environmental conditions or what you had experienced just before seeing the image.
-
-Our ability to see is, in part, learned. One aspect of 'successful' seeing is the ability to recognize things when one encounters them again. Recognition requires the ability to categorize. Seeing, in this robust sense, also implies the ability to organize the categories into a taxonomy or classification system.
-
-Although much scientific research goes beyond mere observation to posit causal processes and mechanisms behind what is observed, observational research plays a vital role in the development of scientific knowledge— both in delineating the phenomenon of study and in validating hypothesis and predictions. When conducting observational research, the question of how we organize observations into categories, as well as how we organize categories into taxonomies, plays a central role. In addition, we must pay careful attention to the notion of a 'variable', and how we measure and estimate the values of variables.
-
-Observational research is an important part of the scientific toolkit. Here we’ll present two paradigmatic observational studies that were hugely influential in the 1970s.
-
-##### Margaret Mead
-
-Margaret Mead was an extraordinarily talented student at Barnard college, completing here Bachelors in 1924.  She earned her Masters’ under the supervision of the famous Anthropologist Franz Boas a year later in 1925. In 1926, at the age of 23, she set off for nine months on the Manu’an Islands of American Samoa. 
-
-She was inspired in the trip by Boas, and his concern that problems in the mental life of adolescents, was the result of western culture---specifically our prohibitions on sex---not any individual dysfunction. 
-
-But how can one test such a hypothesis?  One cannot, because of basic human ethics, separate a bunch of children at birth to raise them outside of western culture. Nor would it be helpful to find groups of children in western culture and follow them, because there are two many variables at play to isolate the influence of sexual repression on mental health. As she argues:
-
-&gt; The only method is that of the anthropologist, to go to a different civilization and make a study of human beings under different cultural conditions in some other part of the world.  For such studies the anthropologist chooses quite simple peoples, primitive peoples, whose society has never attained the complexity of our own. 
-
-This last point is important: the anthropologist has to become ‘embedded’ int the culture to understand it enough to communicate with its people on their terms.  Western societies, even those sometimes found on the outskirts, are simply too complex to allow a quick study. Their language alone would take years to master, and their social structures too complex to understand quickly. As “she could hope for great intimacy in working with girls rather than with boys”, [p. 9][#Mead:1928uk] she choose to study adolescent girls in Samoa.
-
-As her professor Boas writes in the preface to *Coming of Age in Samoa*, 
-
-&gt; In our own civilization, the individual is beset with difficulties which we are likely to ascribe to fundamental human traits. When we speak about the difficulties of childhood and of adolescence, we are thinking of them as unavoidable periods of adjustment through which everyone has to pass. The whole psycho-analytic approach is largely based on this supposition. 
-&gt; The anthropologist doubts the correctness of these views, but up to this time hardly any one has taken pains to identify himself sufficiently with a primitive population to obtain an insight into these problems. We fell, therefore, grateful to Miss Mead for having undertaken to identify herself so completely with Samoan youth that she gives us a lucid and clear picture of the joys and difficulties encountered by the young individual in a culture so entirely different from our own. [#Mead:1928uk]
-
-Mead describes society which has very different sexual mores: 
-
-&gt; “Masturbation is an all but universal hair, beginning at the age of six or seven. There were only three little girls in my group ho did not masturbate... Boys masturbate in groups but among little girls it is a more individualistic, secretive practice.” [p. 136][#Mead:1928uk] 
-
-The girls, she writes “deter marriage through as many years of casual love-making as possible” [p. 195][#Mead:1928uk]
-
-And as a result, there are few conflicts or troubles in the mental life of adolescent girls.  Thus, adolescence is not a difficult time period for *all* girls. As it is a major problem in the west, it must then follow that the ‘storm and stress’ of girls’ adolescence is due to the culture they inhabit, not their biology or process of maturation.
-
-##### Roger Brown
-
-Roger Brown and his research team at Harvard University in the 1960s visited the homes of “Adam,” “Eve,” and “Sarah” every two weeks during the period they were first acquiring English. The team audiotaped and transcribed everything the children and their mothers said, resulting in three corpora of such high quality that they are still in use. (Although teenagers talk somewhat differently today than in the 1960s, 2-year-olds then and now talk about juice, dogs, hats, more, allgone, etc.) 
-
-Especially in the earliest stages, children omit a lot and parents sometimes fill in what is missing. Here is one of Brown’s examples:
-
-&lt;!--\begin{apatextbox}{Brown’s first example}
-Child- Throw Daddy \\
-Mother- Throw it to Daddy
-\end{apatextbox}--&gt;
-The grammars that Brown’s group wrote to account for such simplified language were far more complex than you might imagine. Even more intriguing, though, were child utterances that had to be changed, not just expanded, to get an adult utterance. For example:
-
-&lt;!--\begin{apatextbox}{Brown’s second example}
-Child- What John will read? \\
-Mother- What will John read? 
-\end{apatextbox}--&gt;[#Brown:1968df]
-
-Notice that there is *no* attempt by the researchers to intervene in these situations. Parents are not coached to speak to their children in a certain way, nor were they asked to fill in the sentences or avoid making corrections. There is no ‘control’ group, no independent variables, no dependent variables.  Brown and his colleagues are simply observing speech of children as it occurs.
-
- An understanding of how children acquire language begins with extensive observation and careful records, focused especially on ages 1-3 years. The key product is a child language corpus, which is a written transcription of all utterances by a particular child and, usually, at least one adult who is present and interacting with the child during one or more periods of observation. As technology has progressed, researchers have gained choices. In the earliest studies (and still occasionally by choice today) observations were recorded in handwritten diaries (motion picture film and soundtracks existed but were not practical in this context). By the 1960s, audio recordings were made at the time of observation — sometimes supplemented by handwritten notes — and then transcribed into written form. 
-
-So what are we observing here?  At first pass, it may appear that the child just mixed up the word order a bit, and was corrected by a parent. Brown’s group proposed a much deeper analysis in terms of what would become know as a “generative grammar.” 
-&lt;!--\newthought{The earliest versions of generative grammar}--&gt; emphasized the idea (adapted from Chomsky’s mentor, Zellig Harris) that a sentence should be viewed as the product of a series of transformations. Consider the following sentences:
-
-&lt;!--\begin{apatextbox}{Generative Grammar}
-\rowgroup{John will read what? BASE QUESTION (atypical word order for a question)} \\ \rowgroup{What John will read? PREPOSING TRANSFORMATION: moves wh-word (what) to the front.} \\ \rowgroup{What will John read? TRANSPOSING TRANSFORMATION: reverses the subject (\emph{John}) and the auxiliary verb (\emph{will}).}
-\end{apatextbox}--&gt;
-The final form in the sequence is what an adult would typically say. The transformations and the intermediate form are not directly observed, but Chomsky claimed that they can be inferred and are part of the speaker’s linguistic competence.
-
-&lt;!--\newthought{Brown and his colleagues suggested}--&gt; that the child was in the process of acquiring transformations, and at this point (about 3 years of age) had acquired preposing but not transposing. As a result, the “hypothetical intermediate” became an actual, observed form. Not only did this give a neat explanation of what the child said, but in the other direction it lent support to Chomsky’s theory. [#Brown:1972to] [#Chomsky:1965uu]
-
-
-</Text>
-            <Comments>I hope the reader recognizes that I am speaking here as Mead did, and as one would in the 1970s’. I don’t believe a word of this, as you might expect. To contemporary thinking, Mead’s presumption of simplicity of the Somoan culture and language is the core failing of her study.</Comments>
-        </Document>
         <Document ID="86">
             <Title>Learning objectives</Title>
             <Text>
@@ -641,6 +558,89 @@ We are in dire need of a richer, more complete approach to introducing the scien
 Wundt, 1902, pg. 5-10
 Watson 1929, pg. 25-6 “The Behaviorist finds no scientific evidence for the existence of any vitalistic principle, such, for example, as Prof. MacDougall's 'purpose... ...There are many things we cannot explain in behavior just as there are many things we cannot explain in physics and chemistry, but where objectively verifiable experimentation ends, hypothesis, and later theory, begin.”
 Newton, the critic would note, posited 'force', an invisible entity that was criticized at the time as an 'occult' power.</Comments>
+        </Document>
+        <Document ID="49">
+            <Title>Observation</Title>
+            <Text>#### Observational research
+
+We acquire knowledge of the world primarily through our senses. As humans, we rely most heavily, but clearly not exclusively, on vision. Seeing the world seems very straight-forward. We open our eyes and the world impresses itself upon our consciousness. 
+&lt;!--\begin{marginfigure}
+ \begin{center}
+
+
+     \includegraphics[scale=0.50]{../images/AmbigCheeta.jpg}
+\end{center}
+ \caption{Ambiguous Cheetahs, from --&gt; [#Pitts:2007km]&lt;!--}
+\label{fig: ambiguouscheetahs}
+\end{marginfigure}--&gt;
+
+Take a look at the image to the right.  Which head goes with which cheetah?  Can you flip your interpretation to see it the ‘other way’?  There are *tons* of created images like this, from the Necker cube to Salvador Dali paintings, the way you see the image can change dramatically, depending on the environmental conditions or what you had experienced just before seeing the image.
+
+Our ability to see is, in part, learned. One aspect of 'successful' seeing is the ability to recognize things when one encounters them again. Recognition requires the ability to categorize. Seeing, in this robust sense, also implies the ability to organize the categories into a taxonomy or classification system.
+
+Although much scientific research goes beyond mere observation to posit causal processes and mechanisms behind what is observed, observational research plays a vital role in the development of scientific knowledge— both in delineating the phenomenon of study and in validating hypothesis and predictions. When conducting observational research, the question of how we organize observations into categories, as well as how we organize categories into taxonomies, plays a central role. In addition, we must pay careful attention to the notion of a 'variable', and how we measure and estimate the values of variables.
+
+Observational research is an important part of the scientific toolkit. Here we’ll present two paradigmatic observational studies that were hugely influential in the 1970s.
+
+##### Margaret Mead
+
+Margaret Mead was an extraordinarily talented student at Barnard college, completing here Bachelors in 1924.  She earned her Masters’ under the supervision of the famous Anthropologist Franz Boas a year later in 1925. In 1926, at the age of 23, she set off for nine months on the Manu’an Islands of American Samoa. 
+
+She was inspired in the trip by Boas, and his concern that problems in the mental life of adolescents, was the result of western culture---specifically our prohibitions on sex---not any individual dysfunction. 
+
+But how can one test such a hypothesis?  One cannot, because of basic human ethics, separate a bunch of children at birth to raise them outside of western culture. Nor would it be helpful to find groups of children in western culture and follow them, because there are two many variables at play to isolate the influence of sexual repression on mental health. As she argues:
+
+&gt; The only method is that of the anthropologist, to go to a different civilization and make a study of human beings under different cultural conditions in some other part of the world.  For such studies the anthropologist chooses quite simple peoples, primitive peoples, whose society has never attained the complexity of our own. 
+
+This last point is important: the anthropologist has to become ‘embedded’ int the culture to understand it enough to communicate with its people on their terms.  Western societies, even those sometimes found on the outskirts, are simply too complex to allow a quick study. Their language alone would take years to master, and their social structures too complex to understand quickly. As “she could hope for great intimacy in working with girls rather than with boys”, [p. 9][#Mead:1928uk] she choose to study adolescent girls in Samoa.
+
+As her professor Boas writes in the preface to *Coming of Age in Samoa*, 
+
+&gt; In our own civilization, the individual is beset with difficulties which we are likely to ascribe to fundamental human traits. When we speak about the difficulties of childhood and of adolescence, we are thinking of them as unavoidable periods of adjustment through which everyone has to pass. The whole psycho-analytic approach is largely based on this supposition. 
+&gt; The anthropologist doubts the correctness of these views, but up to this time hardly any one has taken pains to identify himself sufficiently with a primitive population to obtain an insight into these problems. We fell, therefore, grateful to Miss Mead for having undertaken to identify herself so completely with Samoan youth that she gives us a lucid and clear picture of the joys and difficulties encountered by the young individual in a culture so entirely different from our own. [#Mead:1928uk]
+
+Mead describes society which has very different sexual mores: 
+
+&gt; “Masturbation is an all but universal hair, beginning at the age of six or seven. There were only three little girls in my group ho did not masturbate... Boys masturbate in groups but among little girls it is a more individualistic, secretive practice.” [p. 136][#Mead:1928uk] 
+
+The girls, she writes “deter marriage through as many years of casual love-making as possible” [p. 195][#Mead:1928uk]
+
+And as a result, there are few conflicts or troubles in the mental life of adolescent girls.  Thus, adolescence is not a difficult time period for *all* girls. As it is a major problem in the west, it must then follow that the ‘storm and stress’ of girls’ adolescence is due to the culture they inhabit, not their biology or process of maturation.
+
+##### Roger Brown
+
+Roger Brown and his research team at Harvard University in the 1960s visited the homes of “Adam,” “Eve,” and “Sarah” every two weeks during the period they were first acquiring English. The team audiotaped and transcribed everything the children and their mothers said, resulting in three corpora of such high quality that they are still in use. (Although teenagers talk somewhat differently today than in the 1960s, 2-year-olds then and now talk about juice, dogs, hats, more, allgone, etc.) 
+
+Especially in the earliest stages, children omit a lot and parents sometimes fill in what is missing. Here is one of Brown’s examples:
+
+&lt;!--\begin{apatextbox}{Brown’s first example}
+Child- Throw Daddy \\
+Mother- Throw it to Daddy
+\end{apatextbox}--&gt;
+The grammars that Brown’s group wrote to account for such simplified language were far more complex than you might imagine. Even more intriguing, though, were child utterances that had to be changed, not just expanded, to get an adult utterance. For example:
+
+&lt;!--\begin{apatextbox}{Brown’s second example}
+Child- What John will read? \\
+Mother- What will John read? 
+\end{apatextbox}--&gt;[#Brown:1968df]
+
+Notice that there is *no* attempt by the researchers to intervene in these situations. Parents are not coached to speak to their children in a certain way, nor were they asked to fill in the sentences or avoid making corrections. There is no ‘control’ group, no independent variables, no dependent variables.  Brown and his colleagues are simply observing speech of children as it occurs.
+
+ An understanding of how children acquire language begins with extensive observation and careful records, focused especially on ages 1-3 years. The key product is a child language corpus, which is a written transcription of all utterances by a particular child and, usually, at least one adult who is present and interacting with the child during one or more periods of observation. As technology has progressed, researchers have gained choices. In the earliest studies (and still occasionally by choice today) observations were recorded in handwritten diaries (motion picture film and soundtracks existed but were not practical in this context). By the 1960s, audio recordings were made at the time of observation — sometimes supplemented by handwritten notes — and then transcribed into written form. 
+
+So what are we observing here?  At first pass, it may appear that the child just mixed up the word order a bit, and was corrected by a parent. Brown’s group proposed a much deeper analysis in terms of what would become know as a “generative grammar.” 
+&lt;!--\newthought{The earliest versions of generative grammar}--&gt; emphasized the idea (adapted from Chomsky’s mentor, Zellig Harris) that a sentence should be viewed as the product of a series of transformations. Consider the following sentences:
+
+&lt;!--\begin{apatextbox}{Generative Grammar}
+\rowgroup{John will read what? BASE QUESTION (atypical word order for a question)} \\ \rowgroup{What John will read? PREPOSING TRANSFORMATION: moves wh-word (what) to the front.} \\ \rowgroup{What will John read? TRANSPOSING TRANSFORMATION: reverses the subject (\emph{John}) and the auxiliary verb (\emph{will}).}
+\end{apatextbox}--&gt;
+The final form in the sequence is what an adult would typically say. The transformations and the intermediate form are not directly observed, but Chomsky claimed that they can be inferred and are part of the speaker’s linguistic competence.
+
+&lt;!--\newthought{Brown and his colleagues suggested}--&gt; that the child was in the process of acquiring transformations, and at this point (about 3 years of age) had acquired preposing but not transposing. As a result, the “hypothetical intermediate” became an actual, observed form. Not only did this give a neat explanation of what the child said, but in the other direction it lent support to Chomsky’s theory. [#Brown:1972to] [#Chomsky:1965uu]
+
+
+</Text>
+            <Comments>I hope the reader recognizes that I am speaking here as Mead did, and as one would in the 1970s’. I don’t believe a word of this, as you might expect. To contemporary thinking, Mead’s presumption of simplicity of the Somoan culture and language is the core failing of her study.</Comments>
         </Document>
         <Document ID="41">
             <Title>Overview of Characters</Title>
@@ -975,6 +975,15 @@ There have long been rumors of a shadow organization of homosexual psychiatrists
 Everyone knows that a mentally ill person cannot practice psychiatry. And homosexuality is a mental illness. This Dr. H. Anonymous, if he or she is telling the truth, is risking his or her medical license. But yet there must be more. We all know, ever since Kinsey's famous study, that about 10% of the population identifies as primarily homosexual, while a significantly larger percentage have engaged in homosexual activity.  And ever since Hooker's paper in 1956, we know that most of this population are psychologically normal. Given the numbers attending this meeting, Dr. H. Anonymous surely can't be alone.
 
 On the other hand, Socarides and Bieber have called Hooker and Kinsey's data into question. If they are correct, and only a small percentage of the population is homosexual, on what basis could one call it a 'normal' behavior?  Are homosexuals, as Bieber contends, individuals whose “heterosexual function is crippled, like the legs of a polio victim”? 
+&lt;!--\begin{marginfigure}
+ \begin{center}
+
+     \includegraphics{../images/TimeCover.jpg}
+\end{center}
+ \caption{Cover of Time Magazine, Oct 31st, 1969}
+\label{fig: time1969}
+\end{marginfigure}
+--&gt;
 
 Back in October of 1969, Time magazine had a cover story on the movement amongst homosexuals---who they called 'inverts'---for greater social recognition. In the second paragraph, it referred to “gay” bars (with the quotations), but then proceeded to use the word “gay” without quotes. It even used the term 'gay marriage.' The article, however, made the following claim:
 
