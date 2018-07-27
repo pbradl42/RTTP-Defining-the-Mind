@@ -5,23 +5,24 @@
 {\colortbl;\red255\green255\blue255;\red118\green57\blue12;\red235\green236\blue237;\red36\green38\blue41;
 \red180\green0\blue20;\red115\green115\blue115;\red43\green39\blue19;\red118\green57\blue12;\red234\green234\blue234;
 \red19\green67\blue109;\red235\green236\blue237;\red180\green0\blue20;\red36\green38\blue41;\red214\green0\blue25;
-\red236\green236\blue236;\red63\green63\blue63;\red118\green57\blue12;\red235\green236\blue237;\red180\green0\blue20;
-\red36\green38\blue41;\red129\green39\blue43;\red15\green112\blue1;\red247\green247\blue247;\red43\green39\blue19;
-\red107\green0\blue1;\red214\green0\blue25;\red23\green0\blue178;\red63\green63\blue63;\red254\green254\blue251;
-}
+\red236\green236\blue236;\red63\green63\blue63;\red129\green39\blue43;\red15\green112\blue1;\red247\green247\blue247;
+\red43\green39\blue19;\red107\green0\blue1;\red214\green0\blue25;\red23\green0\blue178;\red63\green63\blue63;
+\red254\green254\blue251;}
 {\*\expandedcolortbl;;\cssrgb\c54118\c29020\c4314;\cssrgb\c93725\c94118\c94510;\cssrgb\c18824\c20000\c21176;
 \cssrgb\c76471\c9412\c9412;\cssrgb\c52549\c52549\c52549;\cssrgb\c22353\c20000\c9412;\csgenericrgb\c46275\c22353\c4706;\csgenericrgb\c91765\c91765\c91765;
 \csgenericrgb\c7451\c26275\c42745;\csgenericrgb\c92157\c92549\c92941;\csgenericrgb\c70588\c0\c7843;\csgenericrgb\c14118\c14902\c16078;\cssrgb\c87843\c12549\c12549;
-\cssrgb\c94118\c94118\c94118;\cssrgb\c31373\c31373\c31373;\cssrgb\c54118\c29020\c4314;\cssrgb\c93725\c94118\c94510;\cssrgb\c76471\c9412\c9412;
-\cssrgb\c18824\c20000\c21176;\cssrgb\c58431\c21961\c21961;\csgenericrgb\c5882\c43922\c392;\csgenericrgb\c96863\c96863\c96863;\csgenericrgb\c16863\c15294\c7451;
-\csgenericrgb\c41961\c0\c392;\csgenericrgb\c83922\c0\c9804;\csgenericrgb\c9020\c0\c69804;\csgenericrgb\c24706\c24706\c24706;\csgenericrgb\c99608\c99608\c98431;
-}
+\cssrgb\c94118\c94118\c94118;\cssrgb\c31373\c31373\c31373;\cssrgb\c58431\c21961\c21961;\csgenericrgb\c5882\c43922\c392;\csgenericrgb\c96863\c96863\c96863;
+\csgenericrgb\c16863\c15294\c7451;\csgenericrgb\c41961\c0\c392;\csgenericrgb\c83922\c0\c9804;\csgenericrgb\c9020\c0\c69804;\csgenericrgb\c24706\c24706\c24706;
+\csgenericrgb\c99608\c99608\c98431;}
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural
 
 \f0\fs28 \cf0 <!--\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\pardeftab720\fi360\sl288\slmult1
 
-\f1 \cf0 \
+\f1 \cf0 \\usepackage\{pdflscape\}\
+\\usepackage\{tabularx\}\
+\
+\
 \\setcounter\{secnumdepth\}\{1\}\
 %\\setsecnumdepth\{subsection\}\
 \\setcounter\{tocdepth\}\{3\}\
@@ -67,28 +68,28 @@
 \pard\pardeftab720\sl360
 
 \f3\fs32 \cf14 \cb15 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec14 \\newenvironment\{apatextbox\}[1]\
-    \{ \\def\\savedcaption\{\\caption\{#1\}\} \\begin\{center\}\\begin\{longtable\}\{| P\{14cm\} |\} \\hline \}\{\\\\ \\hline \\savedcaption \\end\{longtable\}\\end\{center\}\}\cf16 \strokec16 \
+\\newenvironment\{apatextbox\}[1]\
+    \{ \\def\\savedcaption\{\\caption\{#1\}\} \\begin\{center\}\\begin\{longtable\}\{| P\{14cm\} |\} \\hline \}\{\\\\ \\hline \\savedcaption \\end\{longtable\}\\end\{center\}\}\cf16 \
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
 
-\f1\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\f1\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
 \pard\pardeftab720\sl364
 
-\f4\fs26 \cf17 \cb18 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec17 \\newcommand\cf19 \strokec19 \{\cf17 \strokec17 \\rowgroup\cf19 \strokec19 \}[\cf20 \strokec20 1\cf19 \strokec19 ]\{\cf17 \strokec17 \\setlength\cf19 \strokec19 \{\cf17 \strokec17 \\leftskip\cf19 \strokec19 \}\{\cf21 \strokec21 1cm\cf19 \strokec19 \}\cf20 \strokec20 #1\cf19 \strokec19 \}
-\f1\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\f4\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\\newcommand\cf5 \{\cf2 \\rowgroup\cf5 \}[\cf4 1\cf5 ]\{\cf2 \\setlength\cf5 \{\cf2 \\leftskip\cf5 \}\{\cf17 1cm\cf5 \}\cf4 #1\cf5 \}
+\f1\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
 \cf0 \
 \pard\pardeftab720\sl364
 
-\f5\b \cf22 \cb23 \
+\f5\b \cf18 \cb19 \
 %\\ldots
 \f1\b0\fs24 \cf0 \cb1 \
 
-\f5\b\fs28 \cf22 \cb23 \\newcolumntype
-\f3\b0 \cf22 \cb23 \{\cf0 \cb23 d\cf22 \cb23 \}\cf0 \cb23 [1]\cf22 \cb23 \{\cf0 \cb23 D\cf22 \cb23 \{\cf0 \cb23 .\cf22 \cb23 \}\{
-\f5\b \cf22 \cb23 \\cdot
-\f3\b0 \cf22 \cb23 \}\{\cf0 \cb23 #1\cf22 \cb23 \}\cf0 \cb23  \cf22 \cb23 \} % Define table column
+\f5\b\fs28 \cf18 \cb19 \\newcolumntype
+\f3\b0 \{\cf0 d\cf18 \}\cf0 [1]\cf18 \{\cf0 D\cf18 \{\cf0 .\cf18 \}\{
+\f5\b \\cdot
+\f3\b0 \}\{\cf0 #1\cf18 \}\cf0  \cf18 \} % Define table column
 \f1\fs24 \cf0 \cb1 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\pardeftab720\fi360\sl288\slmult1
 
@@ -97,20 +98,20 @@
 \fs24 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\pardeftab720\fi360\sl288\slmult1
 
-\f2\fs26 \cf24 \cb9 \
+\f2\fs26 \cf20 \cb9 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\pardeftab720\fi360\sl288\slmult1
 
 \f1\fs28 \cf0 \cb1 \
 \pard\pardeftab720\sl266
 
-\fs20 \cf25 \\setcounter\cf26 \{\cf27 tocdepth\}\{1\cf26 \}
+\fs20 \cf21 \\setcounter\cf22 \{\cf23 tocdepth\}\{1\cf22 \}
 \f0\fs28 \cf0 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\pardeftab720\fi360\sl288\slmult1\pardirnatural
 
-\f4\fs26 \cf28 \cb29 \expnd0\expndtw0\kerning0
+\f4\fs26 \cf24 \cb25 \expnd0\expndtw0\kerning0
 \
 \pard\pardeftab720\sl384
-\cf28 % Set numbering system to sub subsection\
+\cf24 % Set numbering system to sub subsection\
 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural
 
@@ -131,7 +132,7 @@
 \\frontmatter\\pagenumbering\{roman\}\\pagestyle\{empty\}\
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural
 
-\f4\fs26 \cf28 \cb29 \expnd0\expndtw0\kerning0
+\f4\fs26 \cf24 \cb25 \expnd0\expndtw0\kerning0
 \
 \pard\pardeftab720\sl384
-\cf28 -->}
+\cf24 -->}

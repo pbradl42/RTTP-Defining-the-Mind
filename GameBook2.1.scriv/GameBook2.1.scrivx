@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-2" Modified="2018-07-24 20:47:44 -0400" ModID="DD065A95-A508-4367-B176-A531DFEE4450">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-2" Modified="2018-07-27 12:41:01 -0400" ModID="ECEA2521-08A6-4024-ACFC-E0863F5D485A">
     <Binder>
         <BinderItem ID="0" UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -31,7 +31,7 @@
                         <TextSelection>8520,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="319" UUID="30F48AFA-E95B-4DE8-A663-F47FEB4FE409" Type="Text" Created="2016-12-22 10:26:47 -0500" Modified="2018-07-15 16:30:10 -0400">
+                <BinderItem ID="319" UUID="30F48AFA-E95B-4DE8-A663-F47FEB4FE409" Type="Text" Created="2016-12-22 10:26:47 -0500" Modified="2018-07-25 15:25:43 -0400">
                     <Title>Latex-common</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -39,7 +39,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>545,0</TextSelection>
+                        <TextSelection>50,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="133" UUID="68ABC9B6-DC0F-4003-A98D-F43A0155C00B" Type="Folder" Created="2016-07-10 22:43:48 -0400" Modified="2016-07-10 22:43:52 -0400">
@@ -142,7 +142,7 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextMode>Script</TextMode>
-                                        <TextSelection>2829,10</TextSelection>
+                                        <TextSelection>9645,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="22" UUID="4081CD71-BAFB-488A-8658-4F1EF20E8C6F" Type="Text" Created="2014-07-21 03:43:48 -0400" Modified="2018-07-12 14:27:51 -0400">
@@ -162,7 +162,7 @@
                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>34842,0</TextSelection>
+                                                <TextSelection>37246,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem ID="37" UUID="9C4F3AD5-4ACA-4D2B-86D8-A512E7E47705" Type="Text" Created="2013-09-18 16:33:28 -0400" Modified="2018-07-22 17:31:04 -0400">
@@ -889,14 +889,14 @@
                                                 <TextSelection>208,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem ID="139" UUID="5CA8569A-711B-4066-8A72-A57A7FB5EA95" Type="Text" Created="2014-07-21 03:48:31 -0400" Modified="2018-07-22 21:33:59 -0400">
+                                        <BinderItem ID="139" UUID="5CA8569A-711B-4066-8A72-A57A7FB5EA95" Type="Text" Created="2014-07-21 03:48:31 -0400" Modified="2018-07-27 11:50:22 -0400">
                                             <Title>Learning objectives</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2603,0</TextSelection>
+                                                <TextSelection>8973,0</TextSelection>
                                             </TextSettings>
                                             <Children>
                                                 <BinderItem ID="228" UUID="BBE0EB60-B6D8-4AA2-BA30-626590C0160A" Type="Text" Created="2016-09-22 16:55:38 -0400" Modified="2018-07-24 20:46:18 -0400">
@@ -906,7 +906,7 @@
                                                         <NotesTextSelection>0,0</NotesTextSelection>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>1880,0</TextSelection>
+                                                        <TextSelection>377,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                             </Children>
@@ -1198,14 +1198,14 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem ID="169" UUID="43F88318-E0B5-4F34-94D5-1EFD85C0F3AA" Type="Text" Created="2014-07-21 03:51:32 -0400" Modified="2016-09-22 16:57:19 -0400">
+                                <BinderItem ID="169" UUID="43F88318-E0B5-4F34-94D5-1EFD85C0F3AA" Type="Text" Created="2014-07-21 03:51:32 -0400" Modified="2018-07-25 15:25:07 -0400">
                                     <Title>Items you will neee</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>24,0</TextSelection>
+                                        <TextSelection>263,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem ID="247" UUID="753F10A5-593E-4100-9066-07D2143EA0A2" Type="Text" Created="2018-03-02 14:40:11 -0500" Modified="2018-07-10 15:36:27 -0400">
@@ -1344,14 +1344,14 @@
                                         <TextSelection>23,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="230" UUID="89634C5E-6527-4573-9D1B-79CD68D32127" Type="Text" Created="2016-09-22 16:56:40 -0400" Modified="2018-07-10 15:48:42 -0400">
+                                <BinderItem ID="230" UUID="89634C5E-6527-4573-9D1B-79CD68D32127" Type="Text" Created="2016-09-22 16:56:40 -0400" Modified="2018-07-25 15:09:08 -0400">
                                     <Title>Interventions</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>86,0</TextSelection>
+                                        <TextSelection>16,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -2921,6 +2921,17 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem ID="360" UUID="B4953DA7-4CD9-495B-B514-398FBBF4D61E" Type="PDF" Created="2018-07-27 09:46:19 -0400" Modified="2018-07-27 09:46:19 -0400">
+                            <Title>psymajor-guidelines</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>18</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
                         <BinderItem ID="312" UUID="1A595F8F-79AB-412B-992A-FD0C1F18CD70" Type="Folder" Created="2018-07-09 21:01:53 -0400" Modified="2018-07-09 21:02:16 -0400">
                             <Title>Testimonials from the UK treatmentshomosexuality</Title>
                             <MetaData>
@@ -3895,7 +3906,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="CADF5D6E-EF6B-400A-8C7F-CFF850A380D1" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">subconscious</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">longtable</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
@@ -3929,7 +3940,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="482" Characters="3254" Date="2018-07-24 16:50:56 -0400"></PreviousSession>
+        <PreviousSession Words="915" Characters="6447" Date="2018-07-27 09:21:46 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
