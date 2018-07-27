@@ -514,7 +514,7 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>16 101 1440 776 0 0 1440 877 </string>
+	<string>0 101 1440 776 0 0 1440 877 </string>
 	<key>selectedCollectionTabIndex</key>
 	<integer>0</integer>
 	<key>supportingDocumentEditor.binderDocuments</key>
@@ -718,7 +718,7 @@
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {455, 675}}</string>
+	<string>{{0, 0}, {621, 304}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
