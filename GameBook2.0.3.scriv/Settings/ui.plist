@@ -501,7 +501,7 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 2479}, {520, 674.96191}}</string>
+	<string>{{0, 2479}, {520, 675}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{8973, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -514,9 +514,11 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>0 101 1440 776 0 0 1440 877 </string>
+	<string>313 409 1440 776 0 0 2560 1417 </string>
 	<key>selectedCollectionTabIndex</key>
 	<integer>0</integer>
+	<key>supportingDocumentEditor.PDFAutoScales</key>
+	<false/>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
 		<integer>360</integer>
