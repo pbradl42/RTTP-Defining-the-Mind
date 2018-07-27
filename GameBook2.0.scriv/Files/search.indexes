@@ -27303,6 +27303,120 @@ Explaining the occurrence of a phenomenon by identifying the mechanism that prod
             <Text>&lt;!--\end{appendices}
 \end{refsection}--&gt;</Text>
         </Document>
+        <Document ID="359">
+            <Title>Experimentation2</Title>
+            <Text>#### Testing causal claims experimentally
+
+In the ideal experiment, the only plausible explanation the two variable changing together is that they are causally connected. All other possible explanations—those based on the effects of other untested variables—have been ruled out by ‘controlling’ them.  The simplest form of an experiment has:
+
+* an independent variable—the suspected cause—is manipulated.
+&lt;!--\begin{thesis}[Independent variable]
+Independent variable (manipulated): a variable of interest that is suspected to have a causal impact on the dependent variable, and is manipulated in an experiment to put this to the test.\newline
+The ‘independent variable is sometimes called the suspected cause, the IV-manipulated or manipulated IV, or just ‘IV’, if context makes clear that this is a manipulated IV, not a measured IV.
+\end{thesis}--&gt;
+
+* a dependent variable—the suspected effect—is carefully measured. &lt;!--\begin{thesis}[Dependent variable]
+Dependent variable: a variable of interest that is suspected to be affected by the independent variable, and is measured in experimental or correlational tests of this hypothesis.
+\newline
+The ‘dependent variable’ is also sometimes called the ‘DV’, the suspected effect.
+\end{thesis}--&gt;
+
+* extraneous variables are controlled
+
+If the independent variable is *in fact* causally related to the dependent variable, then altering the value of the independent variable will produce changes in the value of the dependent variable. Moreover, these changes would not be found if the independent variable were not changed.
+
+We will begin with the simplest case, one in which the causal relations are deterministic (that is, a change in the independent variable always produces the same change in the dependent variable). In such cases we sidestep the additional concerns with statistical analysis. But in later parts of this module we will consider such statistical relations as other factors that affect to validity of experimental demonstrations of causation.
+
+&lt;!--\newthought{The core idea of an experiment}--&gt; is that the researcher *manipulates* the suspected cause and *measures* the suspected effect. By contrast, a study in which the researcher *measures* both the suspected cause and the suspected effect we call a “correlational study.” 
+
+ If this manipulation produces an change in the value of the variable suspected of depending on the causal variable, we have the strongest evidence we can get that the suspected relation is genuinely causal. If it does not produce the expected changes, any correlation previously noted between the variables may be due to the fact that they are both caused by a third variable. To determine the real cause, we would then need to figure which other variable is the best candidate and manipulate it in a new experiment — perhaps repeating this cycle more than once until we hit the right variable.
+Recall that we already have some useful terminology to use when causal hypotheses get put to the test in a research study. The suspected effect is the *dependent variable*. The suspected cause is the *independent variable*, which can be further specified as manipulated (if the study is an experiment), or measured (if the study is correlational, in the broad sense of that term that can include comparing group means as well as computing correlation coefficients). Since we are focusing on experiments in this module, the following are definitions of independent variable (manipulated) and dependent variable given in the margin at the right.
+
+Whenever you see the term independent variable used by itself, one must determine whether it is manipulated or measured. This will be important when you evaluate the outcome of the study and ask how well it supports the suspected causal connection.
+
+The most basic experiments manipulate only one independent variable and are limited to two values of that variable. That is, the independent variable is treated as the simplest kind of categorical variable—a binary variable—even if it is based on a score variable. Dependent variables usually are score variables, but need not be; methods of analysis are available for DVs at any level of measurement, all the way down to binary. 
+
+&lt;!--\newthought{More complicated experiments}--&gt; may investigate multiple factors at the same time as well as multiple levels of the same factor. For example, if we were designing an experiment to examine the effects of both *diet* and *exercise* on *weight-loss.* This would be a two-factor study. And rather than just using two levels, we might use four levels of the exercise factor—none, light, moderate, and heavy—and three levels of the diet factor—high-protein, high- carbohydrate, and balanced. Exercise is a rank variable here and diet is categorical. Usually the statistical analysis will treat both as categorical, which is fine. However, even if the result were statistically significant, it would be hard to interpret results for exercise in which none and moderate led to weight loss and light and heavy did not.
+
+In choosing the levels of a factor, sometimes experience or common sense are very helpful in avoiding results that are inadequate for your purpose or difficult to interpret. For example, if your hypothesis is that eating oatmeal affects cholesterol levels, manipulating diet such that one group gets one teaspoon per month more oatmeal than the other group is unlikely to produce an effect. At the other extreme, manipulating diet such that one group gets no oatmeal and the other must eat 50 cups a day would make the second group overweight and unhealthy. It would be more reasonable to contrast no oatmeal to an easily sustainable amount of oatmeal (perhaps two servings per week of ¾-cup of oatmeal) to a larger, but not ridiculous, amount of oatmeal (perhaps one cup per day).
+
+&lt;!--\newthought{Some predictions can be tested}--&gt; by manipulating an independent variable once. What is required is that the relation between the independent and dependent variable be *deterministic*. That is, each time the independent variable takes a particular value, its effect on the dependent variable should be the same. For example, replacing water with mercury in 100 vacuum tubes in a given place and time should have the same effect (a reduction in height from 34 feet for water to 2 ½ feet for mercury). Research in the physical sciences is often of this type. A few replications may be included, but only as a precaution: the first case basically tells scientists whether or not a prediction is true.
+
+When we study human minds, or any other complex systems, variability is unavoidable. Two individuals of the same species may respond differently to the same chemical, the same psychological stimulus, or the same social situation. So might the same individual at different times. In this situation, causal relations are nondeterministic and hence a single response by a single individual is just one bit of data. To test a hypothesis, many such bits of data must be obtained and, most often, will be averaged together to get an overall value of the dependent variable for each tested value of the independent variable.
+
+Consider the hypothesis that oatmeal consumption is causally connected to the level of cholesterol in the blood, as indicated by the *black arrow* in the causal diagram below. Specifically, we predict that if people eat oatmeal their cholesterol will be lower than if they do not eat oatmeal. The *question mark* over the black arrow indicates that the causal relationship is merely hypothesized and awaits confirmation (or disconfirmation). The labeled *red arrow* indicates that we will test the hypothesis by manipulating (not just measuring) whether oatmeal is eaten.
+
+&lt;!--\begin{marginfigure}
+ \begin{center}
+
+  \includegraphics{../images/cholesterolcausaldiagram1.jpg}
+\end{center}
+ \caption{Hypothetical experimental design---hypothesis only.}
+\label{fig: cholestrol1}
+\end{marginfigure}
+--&gt;
+
+This causal graph shows a simple experiment with two variables:
+&lt;!-- \begin{longtable}[!t]{ | P{4cm} | P{3cm} | P{1.5cm} | }
+\hline
+\tahead{Type of Variable}&amp;\tahead{Variable}&amp;\tahead{Values} \\ \hline
+Independent variable --- manipulated&amp;Eat oatmeal&amp;no,yes \\ \hline
+Dependent variable&amp;Cholesterol level&amp;0-500 mg/dl \\ \hline
+\caption{Variables in sample experimental design}
+\label{table: variables}
+\end{longtable}
+--&gt;
+
+Thus, researchers begin with a random (or representative) sample from the actual population, and divide that group into sub-samples. In one of the simplest experimental designs, the independent variable has one value that is thought to affect the dependent variable (often called the *treatment* condition) and a neutral value that is thought to have no effect (often called the *control condition*). The experimental manipulation involves delivering the value that is thought to affect the DV to one sample, known as the *experimental* or *treatment group*, and the neutral value to the other sample, known as the *control group*.
+
+* The *experimental group* receives the experimental treatment. It functions as a sample of the hypothetical population in which everyone received the experimental treatment
+
+* The *control group* acts as if it were a sample of the hypothetical population in which no one received the experimental treatment
+
+To determine whether eating oatmeal affects cholesterol levels, we will focus on the difference between the means for the variable cholesterol level for both the experimental and control group and determine whether the difference is statistically significant. If it is, we conclude that eating oatmeal ¾ cup of oatmeal per day does cause lower cholesterol. If, on the other hand, there is no difference or the difference is too small to be statistically significant, we conclude that this study failed to provide evidence of a causal connection.
+
+&lt;!--\newthought{Generally only one or a few variables}--&gt; are used to differentiate the experimental from the control group. But there are many other variables on which individuals may very. For example, if you were a subject in the cholesterol study, other factors in your life may have changed during the period you were eating cholesterol every day. 
+
+
+&lt;!--\begin{marginfigure}
+ \begin{center}
+
+  \includegraphics{../images/cholesterolcausaldiagram.jpg}
+\end{center}
+ \caption{Hypothetical experimental design with auxiliary hypotheses.}
+\label{fig: cholestrol-withauxiliary}
+\end{marginfigure}
+--&gt;Maybe you took up ultimate frisbee during this time, and the vigorous exercise was responsible. Or you were taking a very difficult course, and studying hard made the difference. Thus, from your results alone we cannot distinguish between &lt;!--\fullref{fig: cholestrol-withauxiliary}--&gt;.
+
+
+These additional variables are known as *extraneous variables*. In many instances we can be pretty confident that these additional variables will not affect the outcome of the study. For example, deciding to dye your hair or acquiring a cat is not likely to affect your cholesterol levels. But in some cases the variable just might be a causal factor for the dependent variable under investigation. If it does influence the outcome of the study, it is known as a *confounding variable*.
+
+&lt;!--\begin{thesis}[Confounding Variables]\label{thesis:confoundingvariables}Confounding variable: an extraneous variable that co-varies in the experiment with the IV or DV; if it happens to be causally related to the IV or DV, the internal validity of the experiment (the ability of the experiment to test what it tries to test) is compromised. \newline
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+A confounding variable is frequently simply called a ‘confound.’\end{thesis}--&gt;
+
+
+&lt;!--\newthought{Confounding variables can arise}--&gt; at many different points in the experiment. There may be differences between the subjects comprising the experimental and control group. If some other variable is inequality distributed across the two experimental groups, it could be the cause of the difference observed in the DV. 
+
+If the difference is between subjects, the variables are known as *subject variables.*
+
+If the difference is between the procedures followed for the two groups, the variables are known as *procedural variables.*
+
+&lt;!--\newthought{It often takes real detective work}--&gt; to identify confounds in an experiment. Take the case of Wilhelm von Osten, who in 1900 purchased an arab stallion from Russia named Hans. Convinced that animals were more intelligent than usually thought, von Osten set out to teach Hans simple arithmetic. Von Osten presented arithmetic problems to Hans on a chalkboard, and Hans responded by taping his foot the appropriate number of times. Hans seemed to be able to solve even fairly complicated problems including the taking of square roots. Although many were skeptical, numerous mathematicians were brought in to test the horse, and some even concluded that his mathematical abilities equaled those of 14 year old school children.
+
+&lt;!--\begin{figure*}\includegraphics{../images/CleverHans.jpg}\caption{Clever Hans---By Karl Krall (Karl Krall, Denkende Tiere, Leipzig 1912, Tafel 2) Public domain, via Wikimedia Commons}\label{fig:cleverhans}\end{figure*}--&gt;
+
+&lt;!--\begin{marginfigure}
+\begin{center}\includegraphics{../images/cleverhansarticle.png}\end{center}
+\caption{Article reporting on Clever Hans, from Democrat and Chronicle, Rochester NY, published Aug 5, 1906.}
+\label{fig:cleverhansarticle}
+\end{marginfigure}--&gt;To answer skeptics, von Osten brought together a group of two zoologists, a psychologist, a horse trainer, and a circus manager to study Hans over several weeks. Hans performed brilliantly until the psychologist, Oskar Pfungst, varied the experimental setup to conceal the problem from all the humans in the room. The person who wrote the problem on the board was required to leave before the horse entered. 
+
+Under these conditions, Hans dropped from scoring 9 out of 10 to 1 out of 10. This suggested that Hans was picking up a subtle, inadvertent cue from one of the humans and using that to decide when to stop tapping his foot.
+
+Once it became clear that there was some other cue Hans was using, interest in him diminished. But if you were interested in discovering just what cue Hans was responding to, more experiments would be needed. 
+</Text>
+        </Document>
         <Document ID="329">
             <Title>End role sheets</Title>
             <Text>&lt;!--

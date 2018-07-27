@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
         <Document ID="61">
@@ -700,17 +700,6 @@ r
         </Document>
         <Document ID="3">
             <Title>Title Page</Title>
-            <Text>
-
-
-
-
-
-
-
-
-
-</Text>
         </Document>
         <Document ID="68">
             <Title>APAHandbookV4N80</Title>

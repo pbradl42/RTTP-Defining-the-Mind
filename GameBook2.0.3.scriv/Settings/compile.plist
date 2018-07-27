@@ -444,7 +444,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileMultiMarkdownLaTeXBeginDocumentStringKey</key>
 	<string></string>
 	<key>SCRCompileMultiMarkdownLaTeXDocumentClassKey</key>
-	<integer>3</integer>
+	<integer>1</integer>
 	<key>SCRCompileMultiMarkdownLaTeXFooterStringKey</key>
 	<string></string>
 	<key>SCRCompileMultiMarkdownLaTeXHeaderStringKey</key>
