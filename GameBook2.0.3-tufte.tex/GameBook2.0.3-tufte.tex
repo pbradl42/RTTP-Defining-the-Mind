@@ -327,6 +327,9 @@ shaded={rulecolor=black, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}}
 \newcommand*{\thead}[1]{{\bfseries #1}} % Table header
 \newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 
 % Define textboxes
 \newenvironment{apatextbox}[1]
@@ -337,6 +340,7 @@ shaded={rulecolor=black, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}}
 
 %\ldots
 \newcolumntype{d}[1]{D{.}{\cdot}{#1} } % Define table column
+
 
 \pagestyle{plain}
 
@@ -525,9 +529,11 @@ Are psychology and psychiatry scientific? Is there such a thing as a `mental ill
 
 In reality there are two distinct associations named `APA.' The American Psychiatric Association, which is composed of Medical Doctors who practice Psychiatry, maintains the DSM. The American Psychological Association, which is composed of academics (PhDs) who study the mind in a variety of ways, does not. 
 
-In this game, I have conflated the two, which is significant transgression on both sides of the divide. 
+In this game, I have conflated the two, which is significant transgression according to both sides of the divide. 
 
 If you are interested in studying these events in closer detail, all our characters correspond to a real person or persons. Those with with MDs are members of the American Psychiatric Association, while characters with PhDs are members of the American Psychological Association. 
+
+The American Psychology Association produces a list of educational objectives that are necessary for a Undergraduate Major in Psychology. The first goal “Knowledge Base in Psychology” includes “Identify other fields other than psychology that address behavioral concerns.” Of the eight standard \emph{Introduction to Psychology} textbooks I reviewed\footnote{The instructor’s manual for the game has the full list, if you are interested.}, three (~\citep{Myers:2015ws}, ~\citep{Hockenbury:2014ws} and ~\citep{Zimbardo:2012uz}) mention ‘Psychiatry’ in this context, ranging from a single sentence (~\citep{Myers:2015ws}) to a paragraph (~\citep{Zimbardo:2012uz})---albeit to distinguish Psychiatry from Psychology. Three texts ( ~\citep{Gazzaniga:2018tq}, ~\citep{Cervone:2015ud} and ~\citep{Cacioppo:2018we}) mention ‘Psychiatry’ in later sections where they compare careers in Psychology, and two (~\citep{Lilienfeld:2014ws}, ~\citep{Rathus:2012uz}) fail to mention it at all, at least according to the Index.
 
 For the most part, the historical events with which a character interacts occurred under the umbrella of their respective organization.
 
@@ -1865,47 +1871,57 @@ In light of these trends, what will happen to the field of psychiatry?
 \section{Major Issues in the Game}
 \label{majorissuesinthegame}
 
-All psychological theories hold that human action can be predicted based on previous actions of that human. The way to make those predictions---and the underlying mechanisms posited that explain those actions---separates psychological theories from each other.
+All psychological theories hold that human action can be described, understood, predicted and controlled based on previous actions or mental processes of that human. The way to make those predictions---and the underlying mechanisms posited that explain those actions---separates psychological theories from each other.
 
-When I say ‘mechanism’, I am using a very specific notion in the Philosophy of science. A mechanism is an organization of underlying entities which interact with each other to create the phenomenon of interest. Biologists talk of cell mechanisms, Doctors and Pharmacists of drug actions and mechanisms, Chemists speak of the mechanisms of reactions, etc. 
+When I say ‘mechanism’, I am using a very specific notion in the Philosophy of science. A mechanism is an organization of underlying entities which interact with each other to create the phenomenon of interest. Biologists talk of “mechanisms of cell death”, Doctors and Pharmacists of “drug actions and mechanisms”, Chemists speak of the “mechanisms of reactions,” etc. 
 
-When one looks at the history of psychological theories, it is not hard to see the metaphorical connections between the psychological mechanisms posited at a certain time, and the most complicated machines available to that society. Psychoanalysis, which was dominants in American Psychiatry from 1890 until 1974, posits an underlying unconscious, which ‘boils’ away, providing energy for all observable behavior. When that behavior is correctly directed with the right set of pressures, it moves the organism forward. When it is not, either the pressure goes out sideways, creating negative behaviors, or it builds towards ultimate ‘explosion’ in psychosis. It is, in short, a steam engine.
+When one looks at the history of psychological theories, it is not hard to see the metaphorical connections between the psychological mechanisms posited at a certain time, and the most complicated machines available to that society. Psychoanalysis, which was dominants in American Psychiatry from 1890 until the events of this game, posits an underlying unconscious, which ‘boils’ away, providing energy for all observable behavior. When that behavior is correctly directed with the right set of pressures, it moves the organism forward. When it is not, either the pressure goes out sideways, creating negative behaviors, or it builds towards ultimate ‘explosion’ in psychosis. It is, in short, a steam engine.
 
 Behaviorism sought to explain all behavior in terms of stimulus and response, without recourse to ‘internal states’ or ‘processes’. Behaviorism’s rise which started in 1913 and peaked with the Radical Behaviorism of Skinner in 1958 correspond roughly to the electrification of the United States, as well as the rise of mass media including radio and television. Electric lights, toasters, radios and TVs are straightforward stimulus-response mechanisms: apply electricity and something happens. Don’t apply electricity and nothing happens. The wiring is relatively simple, without internal computation or representation. 
 
-On the other hand, once the notion of a ‘computer’ with internal working memory (RAM) and permanent storage (hard drives) becomes current, Cognitivism results. Here, the mind is a metaphor of the computer: it takes information in, executes computational functions, and produces behavioral output. Today, we use computer-based nomenclature when talking about the mind all the time: someone might not have the ‘bandwidth’ for a new task, the ‘executive function’ system might be down, we look for ‘expert systems’, or think ‘algorithmically.’ 
+On the other hand, once the notion of a ‘computer’ with internal working memory (RAM) and permanent storage (hard drives) arrives in the 1960’s, Cognitivism results. And notably, from MIT. Here, the mind is a metaphor of the computer: it takes information in, executes computational functions, and produces behavioral output. Today, we use computer-based nomenclature when talking about the mind all the time: someone might not have the ‘bandwidth’ for a new task, the ‘executive function’ system might be down, we look for ‘expert systems’, or think ‘algorithmically.’ These are all metaphors---metaphors that compare the human mind to the dominant technological apparatus of our time: the computer and internet.
 
 \subsection{The Central issues}
 \label{thecentralissues}
 
-The \textbf{main issue of debate} in this game is whether or not psychoanalysis is a viable theory of human action. If it is, mental illnesses out to be classified according to the competing psychoactive mechanisms. If it is not, we need to figure out how mental illness should be classified.
+There are three interweaving threads of debate in this game. The first---the \textbf{main issue of debate}---is whether or not psychoanalysis is a viable theory of human action. If it is, mental illnesses out to be classified according to the competing psychoactive mechanisms. If it is not, we need to figure out how mental illness should be classified.
 
-The issue of the demedicalization of homosexuality is merely the tip of the iceberg---it forced psychiatry to address the viability of psychoanalysis and the need for psychological observation of individuals \emph{not} in already in treatment.
+The issue of the demedicalization of homosexuality, which begins this debate, is merely the tip of the iceberg---if homosexuality is not a mental illness---a medical condition---psychiatry must address the viability of psychoanalysis and the need for psychological observation of individuals \emph{not} in already in treatment.
+
+The second is research. Throughout the game, individuals will propose studies to the ‘Research committee.’ If they are approved, the class will break into a ‘lab’ session and conduct that research. The propose \emph{must} then report the findings at the next conference.
+
+The third is the responsibility science has society. Obviously, the demedicalization of homosexuality was motivated because psychiatrists became aware that the stigma of ‘mental illness’ was doing more harm than good---it was causing mental illness, not curing it. But the Goldwater affair, and the Supreme Court’s citation of Kenneth Clark’s work on children internalizing prejudice in the \emph{Brown v. Board of Education of Topeka Kansas} decision weigh heavily on the Psychological and Psychiatric communities.
+
+Table \ref{table: majorissues} summarizes these and other issues that may arise during the course of the game. As with all Reacting Games, other than the first issue---demedicalization of homosexuality---when and how these issues appear is a matter of game play, so the schedule is ultimately up to you.
 
  \begin{longtable}[!t]{ | P{7cm} | P{2cm} |  P{2cm} | }
 \hline
 
 \tahead{Issue}&\tahead{Partisans}&\tahead{Session} \\ \hline \hline
-Homosexuality \emph{is / is not} a mental disorder&Spitzer, Socarides, Bieber, Marmor& \\ \hline
+Homosexuality \emph{is / is not} a mental disorder&Spitzer, Socarides, Bieber, Marmor& Week 1, session A. \\ \hline
 The ‘medical model’ \emph{is / is not} a suitable approach to understanding the human mind&Albee, XX& \\ \hline
 Psychoanalysis \emph{is / is not} scientific.&& \\ \hline
 Mental disorders should be classified according to \emph{observable symptoms / underlying mechanisms}.&Spitzer, XX psychoanalyst& \\ \hline
-Mental illness / mental disorder \emph{are / are not} genuine medical conditions. If so, how do we define a mental illness / disorder?&Spitzer, Szasz, Albee XX& \\ \hline
+Mental illness / mental disorder \emph{are / are not} genuine medical conditions.& & \\ \hline
+How do we define a mental illness / disorder---regardless of whether it is or is not a medical condition?&Spitzer, Szasz, Albee XX& \\ \hline
 The mentally ill \emph{must / should be} treated exclusively by \emph{psychiatrists / psychiatrists} and \emph{psychologists / exclusively psychologists} &Albee& \\ \hline
+What does scientific research on the mind look like? & & \\ \hline
 What are the ethical limitations on psychological / psychiatric research?&& \\ \hline
 What is the proper role of an intellectual---specifically a social scientist---in a democratic society?&Clark, Chomsky, Tyler& \\ \hline
 \caption{Major Issues for debate}
 \label{table: majorissues}
 \end{longtable}
 
+Note that while these questions overlap, none of them ought to determine any of the others. One could believe, for example, that psychoanalysis is scientific, but \emph{bad} science. Or one could believe that the medical model \emph{is} a suitable approach, but classifying mental disorders under any criteria is a mistake. The range of positions on these issues can be found in the characters in this game.
+
 \section{Basic game play}
 \label{basicgameplay}
 
 Each week (two or three sessions, depending on your schedule) of game play reenacts one annual conference of the APA in the early 1970s. The five weeks of game play cover the years 1971--1975. In reality, these conferences are huge events. There are presentations on current research, symposia on issues facing the discipline, administrative meetings for various committees, public discussions and votes on proclamations, and publishers promoting their products. In game play, players will present papers, propose research projects, vote on resolutions and grants, and hold committee meetings.
 
-Each conference opens with a presidential address. The position of President is both an honorific and administrative position. The President is often elected based on his or her reputation as a researcher, but he or she also must have keen leadership skills and knowledge of the policies and procedures of the organization's committee structure. Since these two areas of expertise do not always appear in the same person, an individual is not elected directly to the presidency by the membership. Rather, the membership holds an annual election for the vice-president, who is then promoted to president after a year of sitting on the Board of Directors and observing the inner workings of the political system.
+Each conference opens with a presidential address. The position of President is both an honorific and administrative position. The President is often elected based on his or her reputation as a researcher, but he or she also must have keen leadership skills and knowledge of the policies and procedures of the organization's committee structure. Since these two areas of expertise do not always appear in the same person, an individual is \textbf{not} elected directly to the Presidency by the membership. Rather, the membership holds an annual election for the \textbf{Vice-President,} who is then promoted to President after a year of sitting on the Board of Directors and observing the inner workings of the political system. After a President’s year in office, he or she becomes the \textbf{Former President} and continues to serve on the Board.
 
-The Board of Directors is composed of the President, the Vice president, the former president and two members elected at large each of whom serving three year terms. For classes smaller than 16, the Board of Directors will be limited to the current President, the Vice President and the Former President. The executive secretary, who serves without vote, is responsible for maintaining the minutes of the Board of Directors and taking whatever actions the committee approves during its meetings.
+The Board of Directors is composed of the President, the Vice president, the Former President and \emph{two} members elected at large each of whom serving three year terms. For classes smaller than 16, the Board of Directors will be limited to the current President, the Vice President and the Former President. The executive secretary, who serves without vote, is responsible for maintaining the minutes of the Board of Directors and taking whatever actions the committee approves during its meetings.
 
 At each year's conference, the following events occur:
 
@@ -1936,36 +1952,53 @@ At each year's conference, the following events occur:
 
  
 
-Game play may take many forms in the classroom. You may be questioning the President about his or her vision for future directions in psychological or psychiatric research, engaging with or participating in a symposium with two or three of your colleagues on a contentious issue of the day, participating in research, evaluating research results, discussing proposals in committee, or even arguing about reports from task forces. The schedule of events will be left to the Program Committee, and it is very important that they distribute the schedule early and widely. See ‘\ref{programcommittee}’ on page \pageref{programcommittee} for more on the potential forms of conference activities.
+Game play may take many forms in the classroom. You may be questioning the President about his or her vision for future directions in psychological or psychiatric research, engaging with or participating in a symposium with two or three of your colleagues on a contentious issue of the day, participating in research, evaluating research results, discussing proposals in committee, or even arguing about reports from task forces. The schedule of events will be left to the Program Committee, so it is very important that they distribute the schedule early and widely. See Section ‘\fullref{programcommittee}’ for more on the potential forms of conference activities.
 
 \section{Basic Principles}
 \label{basicprinciples}
 
-Academic associations like the APA not only provide their members with a forum through which they can socialize, share ideas and test or their most recent work; they also represent their discipline to the public. An association's president is often called upon to act as a spokesperson during times of controversy. The associations often define---sometimes very carefully---the qualifications someone must have to become a member.
+Academic associations like the APA not only provide their members with a forum through which they can socialize, share ideas and test or their most recent work; they also represent their discipline to the public. An association's President is often called upon to act as a spokesperson during times of controversy. And the associations often define---sometimes very carefully---the qualifications someone must have to become a member.
 
-During 1970s, the APA is being called upon to represent their membership in both of these ways. It is important, therefore, to ensure that actions of the APA---whether it be the election of a new president or the publication of a statement---represent the will of the membership. The association exists for the membership, not the other way around.
+During 1970s, the APA is being called upon to represent their membership in both of these ways. It is important, therefore, to ensure that actions of the APA---whether it be the election of a new President or the publication of a statement---represent the will of the membership. The association exists to serve the membership, not the other way around.
 
 \subsection{Credibility Points}
 \label{credibilitypoints}
 
-At the beginning of each conference (i.e. Week), each member of the APA is given one ‘credibility point.' Credibility in Academic is a kind of capital---those with it have power, those without do not.
+In academic culture, reputation is capital. But unlike other reputation-based cultures, your reputation depends entirely on the quality of data you produce, your creativity and insight in designing research, and your ability to explain the ideas in clear, simple terms. 
 
-In this game, we treat ‘credibility’ like a currency. Each player starts with a different amount, depending their publication record so far. Players \emph{gain} credibility by presenting papers or research proposals that are of interest to other players. 
+At the beginning of each conference (i.e. Week), each member of the APA is given one ‘credibility point' in the form of a small slip of paper. Credibility in academic life is capital---those with it have power, those without it do not.
 
-At the end of that conference, each player must give a credibility point to the speaker who they believe presented the best paper, or the best research proposal.
+In this game, we treat ‘credibility’ like a currency. Each player starts with a different amount, depending their publication record so far. Players \emph{gain} credibility by presenting papers or research proposals that are of interest to other players, or by serving in positions of power, such as the President or Committee chair.
 
-No player may keep these points for himself or herself. 
+At the end of each week (one “conference”), each player must give a credibility point to the speaker they believe presented the best paper, or the best research proposal. No player may keep the weekly credibility point for himself or herself. 
 
-Credibility points, once awarded, \emph{can} be stockpiled by faction or bartered with other players. They can be traded, hoarded, used for bribes, pressure, blackmail, etc. In short, all the things that money is used for in the real world.
+When an individual retires from a formal position (President, committee, etc.) the members of that board or committee can confer upon that person a ‘gift’ of credibility points for his or her “distinguished service to the APA”. The members of the board \slash  committee who are voting on this award must do so unanimously. They must must work with the game master to determine how many credibility points to give, but no one shall be given more than 5 for distinguished service.
+
+Credibility points, once awarded, \emph{can} be stockpiled by faction or bartered with other players. They can be traded, hoarded, used for bribes, pressure, blackmail, etc. In short, all the things that money is used for in the real world. But, just like credibility in the Academia, they have no value outside the game.
+
+Running for various positions ‘costs’ you credibility. In game play, you must turn in the equivalent number of credibility points when accepting a nomination or declaring that you will run. These are non-refundable.
+
+There is much to be gained in having a position of power---including more credibility when you complete your distinguished service, but it takes credibility to get credibility. The chart below is suggested, but may be modified by the Game Master.
+
+\begin{longtable}[!t]{ | P{7cm} | P{2cm}  | } \hline
+\tahead{Position}&\tahead{Cost} \\ \hline 
+Vice-President of the APA& 10 \\ \hline
+Member of the Board & 5 \\ \hline
+Chair, Research Committee & 3 \\ \hline
+Chair, Nomenclature Committee & 3 \\ \hline
+Chair, Program Committee & 1 \\ \hline
+\caption{Credibility ‘costs’ for service to the APA}
+\label{table: credibilitymenu}  
+\end{longtable} 
+
+See \fullref{committeestructure} for a description of the structure and responsibilities of of each committee.
 
 In the final vote (see `Victory Objectives' below), the credibility points can be turned into votes—although the specifics are left to the game master to decide. 
 
 \subsubsection{Reputation \& Replication}
 \label{reputationreplication}
 
-In academic culture, reputation is capital. But unlike other reputation-based cultures, your reputation depends entirely on the quality of data you produce, your creativity and insight in designing research, and your ability to explain the ideas in clear, simple terms. 
-
-Disagreements are almost always professional: you can disagree vociferously with an opponent, yet respect his or her abilities as a scientist. On the flipside, those who cross the line between professional and personal disagreements run the risk of ruining both their professional and personal reputations.
+Even as you strive for more credibility, reputation is paramount. Disagreements are always professional: you can disagree vociferously with an opponent, yet respect his or her abilities as a scientist. Attacking a fellow member personally, or using obvious rhetorical fallacies can damage your credibility. In game play, the board can vote to ‘censure’ a member \emph{at any time} and strip him or her of acquired credibility points. A simple majority will do.
 
 At some point in your life---probably 7th grade---you were told that `The Scientific Method' consists of creating hypotheses, designing experiments to test those hypotheses and then formulating a new hypothesis that can be tested. But most importantly, you were probably told that scientific inquiry is distinguished from non-scientific inquiry insofar as scientific inquiry can be replicated by a stranger. 
 
@@ -1978,11 +2011,11 @@ Conferences, such as the APA, rely on a system of peer review to ensure that the
 \subsection{The Responsibilities of the President}
 \label{theresponsibilitiesofthepresident}
 
-While the presidency of the APA is largely an honorific position, it does come with some serious responsibilities. It is awarded by election of the membership, according to standards known only to them. Traditionally, it has been given to significant figures in the field at the end of their careers as a kind of `lifetime achievement' award (for example, Koffka in 1958) and advocates for new and promising avenues of research early in their careers. The first president in this game, George Miller, best exemplifies of the latter.
+While the presidency of the APA is largely an honorific position, it does come with some serious responsibilities. It is awarded by election of the membership, according to standards known only to them. Traditionally, it has been given to significant figures in the field at the end of their careers as a kind of `lifetime achievement' award (for example, Koffka in 1958) and advocates for new and promising avenues of research early in their careers. The first president in this game, George Miller, best exemplifies the latter sort.
 
-The President's main responsibilities include presiding over the meetings of the Board of Directors, and opening each conference with a plenary address. These addresses provide the president a huge forum to reflect on recent trends in the discipline and potential future directions.
+The President's main responsibilities include presiding over the meetings of the Board of Directors, and opening each conference with a plenary address. These addresses provide the President a huge forum to reflect on recent trends in the discipline and potential future directions.
 
-In reality, all presidential addresses of the American Psychological Association are published in the \emph{American Psychologist}, which is available at Jstor.org. Potential presidents should consult the journal for examples.
+In reality, all Presidential addresses of the American Psychological Association are published in the \emph{American Psychologist}, which is available at Jstor.org. Potential presidents should consult the journal for examples.
 
 \section{Victory Objectives}
 \label{victoryobjectives}
@@ -2017,10 +2050,10 @@ Every player will write and present at least once during the course of the game.
 
 A special note for data-driven writing tasks: don't say `studies have shown that' or (in the 1st person) `I have shown that{\ldots}', show it. That will probably mean that you will have to go to the library, find the original research reports of your character, and familiarize yourself with the basic research design, as well as the relationship between the evidence presented and the thesis that evidence is reported to support. If that sounds like a great deal of effort, it should. Above all, remember that you're not writing a report on this person or position, you are playing the person and defending the position. So don't write about what you (as the character) believe, write as if you believe it.
 
-\subsection{Proposals}
-\label{proposals}
+\subsection{Proposals to the Board}
+\label{proposalstotheboard}
 
-Proposals should be formal. They should be distributed to the membership at least 24 hours before a vote is called. It is usually sufficient to distribute proposals during the first session of a conference year, and hold a vote during the second (or third). Ample time for discussion should be allotted for each proposal.
+Proposals should be formal. They should be distributed to the membership at least 24 hours before a vote is called. It is usually sufficient to distribute proposals during the first session of a conference year, and hold a vote during the second (or third). Ample time for discussion should be allotted for each proposal. 
 
 Formal proposals begin by laying out the reasons for the proposal with a series of `WHEREAS{\ldots}' clauses. It should then state the resolution. For example, in 1969, the APA resolved:
 
@@ -2038,19 +2071,23 @@ You should follow this format when drafting your proposals. Proposals in the inc
 \subsection{Papers and Symposia}
 \label{papersandsymposia}
 
-Academic conferences are opportunities to disseminate information you have gathered for your views. The method of presenting those ideas or that data, however, can vary a great deal. The APA currently supports two kinds of presentations: Individual Reports and Symposia. The Program Committee (see below) is encouraged to experiment with new kinds of presentations, including posters, round tables, workshops, and even exhibits, if they choose. Individual Reports are talks given by a single researcher or group of researchers. Symposia are `panel' presentations, where a group of presentations are offered on a theme or a specific problem.
+Academic conferences are opportunities to discuss and disseminate information you have gathered to support your views. The method of presenting those ideas or that data, however, can vary a great deal. The APA currently supports two kinds of presentations: Individual Reports and Symposia. Individual Reports are talks given by a single researcher or group of researchers. Symposia are `panel' presentations, where a group of presentations are offered on a theme or a specific problem.
+
+The Program Committee (see \fullref{programcommittee}) is encouraged to experiment with new kinds of presentations, including posters, round tables, workshops, and even exhibits, if they choose. 
 
 The Program Committee reviews all proposals for both individual reports and symposia. The guidelines for proposing a report are included in the official \fullref{callforpapersandsymposia}.
 
 \subsection{Research Grants}
 \label{researchgrants}
 
-Research grants are 1--2 page proposals specifying a research project you'd like to carry out. These are submitted to the Research committee (see p. 7) and follow the form specified in the Call for Research Grants', which follows on page 17. If you win a research grant, you will be expected to present your findings at the next annual conference.
+Research grants are 1--2 page proposals specifying a research project you'd like to carry out. These are submitted to the Research committee (see \fullref{researchcommittee}) and follow the form specified in the ‘Call for Research Grants', which follows on \fullref{callforresearchgrants}. If you win a research grant, you will be expected to present your findings at the annual conference that immediately follows the successful completion of your grant.
 
 \subsection{Reading aloud}
 \label{readingaloud}
 
-Presentations at academic conferences are evaluated by peers primarily on the basis of the content presented, not the style of presentation. While it is important to practice good public speaking skills-making eye contact with the audience, modulating one's voice, etc.—getting the data right is more important than being entertaining. For that reason, this game will allow `reading' of some experimental reports. Experimental reports highlight the data presented, and carefully articulate the structure of the experiment performed. It is also advisable to bring handouts for the membership when presenting data.
+Presentations at academic conferences are evaluated by peers primarily on the basis of the content presented, not the style of presentation. While it is important to practice good public speaking skills---making eye contact with the audience, modulating one's voice, etc.---getting the data right is more important than being entertaining. For that reason, this game will allow `reading' of some experimental reports. Experimental reports highlight the data presented, and carefully articulate the structure of the experiment performed. It is also advisable to bring handouts of any important charts or datasets for the membership when presenting data. 
+
+Note that we’re in 1975, so powerpoint will not be allowed. You can, with the approval of the game master, requisition an overhead projector and print our data or charts on transparencies.
 
 Presidential addresses, however, should be carefully crafted general lectures. These should appeal to the membership of the APA, which includes many individuals from a variety of backgrounds. They should also be understandable by the general public, as the President is often seen as a spokesperson and advocate for the discipline.
 
@@ -2083,268 +2120,374 @@ Psychology is the study of the mind and behavior. The discipline embraces all as
 
 A psychiatrist is a physician who specializes in the diagnosis, treatment, and prevention of mental illnesses and substance use disorders. It takes many years of education and training to become a psychiatrist: He or she must graduate from college and then medical school, and go on to complete four years of residency training in the field of psychiatry. (Many psychiatrists undergo additional training so that they can further specialize in such areas as child and adolescent psychiatry, geriatric psychiatry, forensic psychiatry, psychopharmacology, and\slash or psychoanalysis.) This extensive medical training enables the psychiatrist to understand the body's functions and the complex relationship between emotional illness and other medical illnesses. The psychiatrist is thus the mental health professional and physician best qualified to distinguish between physical and psychological causes of both mental and physical distress.
 
+\newpage
+
 Sample call for papers and symposia.\footnote{This entire section is adapted from the “Call for Papers and Symposia” from the 1957 \emph{American Psychologist}.}
 
 
 \begin{apatextbox}{Sample call for proposals for APA conference}  
 
-\subsection{Call for Papers and Symposia}
-\label{callforpapersandsymposia}
+\rowgroup{
 
-\subsubsection{Introduction}
-\label{introduction}
+\subsection{Call for Papers and Symposia } \\}
+\label{callforpapersandsymposia----}
 
-I. The Program committee herein announces a Call of Papers and Symposia for the annual convention of the APA. Please read the relevant rules carefully if you plan to take part in the program. \emph{Note especially the deadlines, the form for abstracts of contributed papers, the forms for symposium proposals, and the proper persons to receive your correspondence.} The pertinent references have been collected into the box on this page for your convenience.
+\rowgroup{
 
-This year will begin with a plenary address by the President. Current plans allow for 2 individual reports and 1 symposium. The Board of Directors will meet in open session to hear proposals from the membership.
+\subsubsection{Introduction} \\}
+\label{introduction----}
 
-\subsubsection{Kinds of Programs and Sessions}
-\label{kindsofprogramsandsessions}
+\rowgroup{ I. The Program committee herein announces a Call of Papers and Symposia for the annual convention of the APA. Please read the relevant rules carefully if you plan to take part in the program. \emph{Note especially the deadlines, the form for abstracts of contributed papers, the forms for symposium proposals, and the proper persons to receive your correspondence.} The pertinent references have been collected into the box on this page for your convenience.} \\
 
-The meetings regularly contain many kinds of programs and sessions, including research papers, symposia, group discussions, addresses, business meetings, and film sessions, as well as other events, such as reunions, dinners, social hours and the like. In general, requests for information should be submitted to the Program Committee.
+\rowgroup{This year will begin with a plenary address by the President. Current plans allow for 2 individual reports and 1 symposium. The Board of Directors will meet in open session to hear proposals from the membership.} \\
+\rowgroup{ 
 
-The APA Program Committee has full responsibility for the conference program. Persons planning to submit proposals that fall outside the lines outlined herein should consult with the chairman of the APA Program Committee for special instructions.
+\subsubsection{Kinds of Programs and Sessions} \\}
+\label{kindsofprogramsandsessions----}
 
-The chairman of the APA Program Committee should also receive all requests for scheduling of nonsubstantive program activities such as reunions, dinners, social hours, headquarters space, luncheons, and the like. To insure publication in the program all requests must be received by the close of business on the Friday before a conference.
+\rowgroup{The meetings regularly contain many kinds of programs and sessions, including research papers, symposia, group discussions, addresses, business meetings, and film sessions, as well as other events, such as reunions, dinners, social hours and the like. In general, requests for information should be submitted to the Program Committee.} \\
 
-\subsubsection{Who may participate}
-\label{whomayparticipate}
+\rowgroup{The APA Program Committee has full responsibility for the conference program. Persons planning to submit proposals that fall outside the lines outlined herein should consult with the chairman of the APA Program Committee for special instructions.} \\
 
-\paragraph{Volunteered Papers}
-\label{volunteeredpapers}
+\rowgroup{The chairman of the APA Program Committee should also receive all requests for scheduling of nonsubstantive program activities such as reunions, dinners, social hours, headquarters space, luncheons, and the like. To insure publication in the program all requests must be received by the close of business on the Friday before a conference.} \\
+\rowgroup{ 
 
-Any member of the APA may read a paper, provided that it has been accepted by the program committee.
+\subsubsection{Who may participate} \\}
+\label{whomayparticipate----}
 
-\paragraph{A nonmember of the APA}
-\label{anonmemberoftheapa}
+\rowgroup{
 
-may read a paper provided that he is sponsored by a member of the APA and provided that his qualifications and the quality of his paper are acceptable to the program committee. The APA member who agrees to sponsor a nonmember must submit the abstract of the nonmember's paper to the chairman of the program committee with an accompanying description of the nonmember's scientific qualifications plus the names of recognized scientific societies in which the nonmember holds membership.
+\paragraph{Volunteered Papers} \\}
+\label{volunteeredpapers----}
 
-\paragraph{Symposia and invited addresses}
-\label{symposiaandinvitedaddresses}
+\rowgroup{Any member of the APA may read a paper, provided that it has been accepted by the program committee.} \\
 
-The program committee may invite distinguished nonmembers to contribute to the program as special speakers or as participants in symposia. Because symposia often involve topics extending beyond the competence of APA members, it is frequently desirable to include nonmembers as participants. Acceptance of a distinguished speaker or of a symposium proposal by the Program Committee constitutes the require sponsorship of nonmember participants.
+\rowgroup{
 
-\subsubsection{Limits of Individual Participation}
-\label{limitsofindividualparticipation}
+\paragraph{Non-members} \\}
+\label{non-members----}
 
-Over the past several years the APA's Board of Directors working with the program committee has developed several ground rules for the limits of individual participation in the annual convention program. These rules were designed to ensure the widest possible participation by APA members and also to prevent troublesome conflicts in the time schedule. Briefly, the rules have been that each member may present no more than one volunteered paper and that each member may, in addition, participate in no more than one additional session such as a symposium, discussion group, and the like. It is still strongly recommended that maximum participation be limited to one symposium or discussion group plus one paper.
+\rowgroup{ A non-member of the APA may read a paper provided that he is sponsored by a member of the APA and provided that his qualifications and the quality of his paper are acceptable to the program committee. The APA member who agrees to sponsor a nonmember must submit the abstract of the nonmember's paper to the chairman of the program committee with an accompanying description of the nonmember's scientific qualifications plus the names of recognized scientific societies in which the nonmember holds membership.} \\
 
-\subsubsection{Individual Reports}
-\label{individualreports}
+\rowgroup{
 
-Unless otherwise indicated, four ten-minute papers will be scheduled for each 50-minute session. In instances of multiple authorship the person whose name is listed first will be expected to present the paper.
+\paragraph{Symposia and invited addresses} \\}
+\label{symposiaandinvitedaddresses----}
 
-A paper previously read at the Annual APA Convention may not be read again, unless it is a substantial elaboration (additional findings, etc.). Two papers which report highly similar findings from a cooperative project may not be read at the convention.
+\rowgroup{The program committee may invite distinguished nonmembers to contribute to the program as special speakers or as participants in symposia. Because symposia often involve topics extending beyond the competence of APA members, it is frequently desirable to include nonmembers as participants. Acceptance of a distinguished speaker or of a symposium proposal by the Program Committee constitutes the require sponsorship of nonmember participants.} \\
+\rowgroup{
 
-The APA Board of Directors have voted that, for reasons of economy, this rule should be followed: Abstracts printed in the American Psychologist are limited to 100 words. However, it is recognized that more detailed information will be needed by the Program Committee for use in the selection of papers. The procedures for research reports and other individual reports are described below.
+\subsubsection{Limits of Individual Participation} \\}
+\label{limitsofindividualparticipation----}
 
-\paragraph{Research Reports}
-\label{researchreports}
+\rowgroup{Over the past several years the APA's Board of Directors working with the program committee has developed several ground rules for the limits of individual participation in the annual convention program. These rules were designed to ensure the widest possible participation by APA members and also to prevent troublesome conflicts in the time schedule. Briefly, the rules have been that each member may present no more than one volunteered paper and that each member may, in addition, participate in no more than one additional session such as a symposium, discussion group, and the like. It is still strongly recommended that maximum participation be limited to one symposium or discussion group plus one paper.} \\
 
-\emph{Each author of a research report must submit a 100-word abstract (1 copy) for publication if the paper is accepted, and also a 300-word summary (4 copies) for committee publication.} If the author desires, tables presenting results may be submitted with the 300-word summary. Not more than one page of tables should be submitted. This means that all the data should have been obtained and the analysis completed at the time the abstract and summary are submitted to the Program Committee.
+\rowgroup{
 
-\paragraph{Other individual reports}
-\label{otherindividualreports}
+\subsubsection{Individual Reports} \\}
+\label{individualreports----}
 
-Theoretical papers, case studies, and the like are perfectly acceptable for the program. \emph{The 100-word abstract of a non-experimental paper must, however, be accompanied by a manuscript of the complete paper in draft form.} The complete manuscript is required in order that the Program Committee may be in a better position to judge the contribution to the program.
+\rowgroup{Unless otherwise indicated, four ten-minute papers will be scheduled for each 50-minute session. In instances of multiple authorship the person whose name is listed first will be expected to present the paper.} \\
 
-\paragraph{Form of abstracts and summaries}
-\label{formofabstractsandsummaries}
+\rowgroup{A paper previously read at the Annual APA Convention may not be read again, unless it is a substantial elaboration (additional findings, etc.). Two papers which report highly similar findings from a cooperative project may not be read at the convention.} \\
 
-All abstracts and summaries must be typed on one side of the paper only, double-spaced throughout and on 8 1\slash 2” X 11” paper.
+\rowgroup{The APA Board of Directors have voted that, for reasons of economy, this rule should be followed: Abstracts printed in the American Psychologist are limited to 100 words. However, it is recognized that more detailed information will be needed by the Program Committee for use in the selection of papers. The procedures for research reports and other individual reports are described below.} \\
 
-\emph{The 100-word abstract}
+\rowgroup{
 
-The purpose of the published abstract is to provide information concerning the psychological relevance of the paper. .. primarily to justify its scientific validity. Hence abstracts should be concerned with content … rather than with method and technique unless the purpose of the paper is essentially methodological). Examples of good short abstracts from many different fields may be found in \emph{Psychological Abstracts}.
+\paragraph{Research Reports} \\}
+\label{researchreports----}
+
+\rowgroup{\emph{Each author of a research report must submit a 100-word abstract (1 copy) for publication if the paper is accepted, and also a 300-word summary (4 copies) for committee publication.} If the author desires, tables presenting results may be submitted with the 300-word summary. Not more than one page of tables should be submitted. This means that all the data should have been obtained and the analysis completed at the time the abstract and summary are submitted to the Program Committee.} \\
+
+\rowgroup{
+
+\paragraph{Other individual reports} \\}
+\label{otherindividualreports----}
+
+\rowgroup{Theoretical papers, case studies, and the like are perfectly acceptable for the program. \emph{The 100-word abstract of a non-experimental paper must, however, be accompanied by a manuscript of the complete paper in draft form.} The complete manuscript is required in order that the Program Committee may be in a better position to judge the contribution to the program.} \\
+
+\rowgroup{
+
+\paragraph{Form of abstracts and summaries} \\}
+\label{formofabstractsandsummaries----}
+
+\rowgroup{All abstracts and summaries must be typed on one side of the paper only, double-spaced throughout and on 8 1\slash 2” X 11” paper.} \\
+
+\rowgroup{
+
+\emph{The 100-word abstract}} \\
+
+\rowgroup{The purpose of the published abstract is to provide information concerning the psychological relevance of the paper. .. primarily to justify its scientific validity. Hence abstracts should be concerned with content … rather than with method and technique unless the purpose of the paper is essentially methodological). Examples of good short abstracts from many different fields may be found in \emph{Psychological Abstracts}.
 
 Abstracts must be limited in length to 100 words (not counting title, author and institution). Longer abstracts will not be printed but will be listed by title only. Abstracts should not contain tables, drawings, footnotes, or bibliographic entries, as such material will not be printed.
 
-The following outline should be followed in preparing the abstract:
+The following outline should be followed in preparing the abstract:} \\
 
-Title of Paper:
-Author(s): Sponsor (if any):
-Institution(s):
- \emph{Text of abstract} (not to exceed 100 words)
+\rowgroup{
+\begin{tabular}[!t]{ | L{6cm} | L{6cm} | }
+\hline
+\multicolumn{2}{| P{12cm} |}{Title of Paper: } \\ \hline
+Author(s): &Sponsor (if any):  \\ \hline
+\multicolumn{2}{| P{12cm} |}{Institution(s): } \\ \hline
+\multicolumn{2}{| P{12cm} |}{\rule{0pt}{50pt}\emph{Text of abstract} (not to exceed 100 words)} \\ \hline
+\end{tabular} 
+} \\
 
-Because the 100-word abstract will be sent to the printer, do not underline or type anything with all capital letters. The type written abstract should be checked and proofread carefully, since it will be printed in the form in which it is submitted. Authors are urged to give careful thought to the visual aides that will best facilitate presentations of their data. If slides are used, members are urged to consider presenting graphic and tabular material on paper. As a new procedure, authors of accepted papers will be asked to indicate their preference for audio-visual support.
+\rowgroup{Because the 100-word abstract will be sent to the printer, do not underline or type anything with all capital letters. The type written abstract should be checked and proofread carefully, since it will be printed in the form in which it is submitted. Authors are urged to give careful thought to the visual aides that will best facilitate presentations of their data. If slides are used, members are urged to consider presenting graphic and tabular material on paper. As a new procedure, authors of accepted papers will be asked to indicate their preference for audio-visual support.} \\
 
-\emph{The 300-word summary}
+\rowgroup{
 
-The text of the summary will normally include a statement of the problem, subjects used, procedure, results and conclusions.
+\emph{The 300-word summary}} \\
 
-Summaries must be limited in length to 300 words (not counting title, author, and institution). The 300-word summary may be accompanied by not more than one page of supplementary tables, drawings, footnotes, etc.
+\rowgroup{The text of the summary will normally include a statement of the problem, subjects used, procedure, results and conclusions.} \\
 
-The form for submitting the 300-word summary should be exactly the same as for the 100-word abstract except, of course, for the longer text.
+\rowgroup{Summaries must be limited in length to 300 words (not counting title, author, and institution). The 300-word summary may be accompanied by not more than one page of supplementary tables, drawings, footnotes, etc.} \\
 
-Four copies of the 300-word summary and the supplementary tables, etc. are required. \emph{Author, sponsor, and institution should appear on the first copy only.} The first copy is the one that will be used by the Program Committee Chair in the creation of the Conference Proceedings. The other three copies without identifying data will be used by the Program Committee for judging the acceptability of the paper.
+\rowgroup{The form for submitting the 300-word summary should be exactly the same as for the 100-word abstract except, of course, for the longer text.} \\
 
-\paragraph{Where to send abstracts and summaries}
-\label{wheretosendabstractsandsummaries}
+\rowgroup{Four copies of the 300-word summary and the supplementary tables, etc. are required. \emph{Author, sponsor, and institution should appear on the first copy only.} The first copy is the one that will be used by the Program Committee Chair in the creation of the Conference Proceedings. The other three copies without identifying data will be used by the Program Committee for judging the acceptability of the paper.} \\
 
-Copies of the abstract and summary of a volunteered paper should be sent to the chair of the Program Committee.
+\rowgroup{
 
-\subsubsection{Symposia}
-\label{symposia}
+\paragraph{Where to send abstracts and summaries} \\}
+\label{wheretosendabstractsandsummaries----}
 
-A symposium provides for several prepared papers on a single theme or problem. It is an excellent form of meeting if the aim is to bring to an audience several diverse or even contradictory views, presented by a number of “experts.” The expectation would be that all papers would first be read; then there would be a substantial period for interchanging of views among the speakers (and invited discussants, if desired); finally, a brief period for questions or points raised from the floor. It is important to plan the time so that there is real interaction among participants after the papers. In order to realize the unique value of the symposium the chairman should select speakers at an early date, arrange for the participants to exchange papers ell in advance of the session, and ensure that ample time is allotted for discussion among the participants and contributors from the audience
+\rowgroup{Copies of the abstract and summary of a volunteered paper should be sent to the chair of the Program Committee.} \\
 
-\paragraph{Initiation of symposia}
-\label{initiationofsymposia}
+\rowgroup{
 
-Any member of the APA may suggest a symposium topic to the chairman of the Program Committee. Such proposals must be made at an early date as a successful symposium requires much planning and correspondence. A member may also submit a fully organized symposium for the Program Committee's consideration.
+\subsubsection{Symposia} \\}
+\label{symposia----}
 
-\paragraph{Form of symposium proposals}
-\label{formofsymposiumproposals}
+\rowgroup{A symposium provides for several prepared papers on a single theme or problem. It is an excellent form of meeting if the aim is to bring to an audience several diverse or even contradictory views, presented by a number of “experts.” The expectation would be that all papers would first be read; then there would be a substantial period for interchanging of views among the speakers (and invited discussants, if desired); finally, a brief period for questions or points raised from the floor. It is important to plan the time so that there is real interaction among participants after the papers. In order to realize the unique value of the symposium the chairman should select speakers at an early date, arrange for the participants to exchange papers ell in advance of the session, and ensure that ample time is allotted for discussion among the participants and contributors from the audience} \\
 
-\emph{Suggestions to the Program Committee}
+\rowgroup{
 
-When a member only suggests but does not organize a symposium, he should indicate the title of the topic for discussion, comment on the significance of the topic, and list the names and addresses of the proposed chairman and other participants. Such suggestions should be sent to the appropriate divisional program chairman well in advance of the deadline to allow for ample time for planning.
+\paragraph{Initiation of symposia} \\}
+\label{initiationofsymposia----}
 
-\emph{Member-Organized symposia}
+\rowgroup{Any member of the APA may suggest a symposium topic to the chairman of the Program Committee. Such proposals must be made at an early date as a successful symposium requires much planning and correspondence. A member may also submit a fully organized symposium for the Program Committee's consideration.} \\
 
-A member may organize a proposed symposium in complete detail and present it for approval to the Program Committee. Each such proposal should indicate the title of the symposium and list the names of the chairman and participants, together with the titles of participants' contributions, if these titles are to be published. \emph{Five copies of the completed symposium plans must be submitted to the Program Committee by the deadline.}
+\rowgroup{
 
-\emph{Symposia organized by the Program Committee}
+\paragraph{Form of symposium proposals} \\}
+\label{formofsymposiumproposals----}
 
-Symposia may be organized independently by the Program Committee or in response to the requests of members.
+\rowgroup{
 
-\subsubsection{Special Programs}
-\label{specialprograms}
+\emph{Suggestions to the Program Committee}} \\
 
-The Program Committee should feel free to try new kinds of programs. Forums, discussion groups, panels, round tables, conferences, and workshops are often valuable alternatives to papers and symposia. Members are invited to send suggestions for new types of programs to the Program Committee. Special sessions should be suggested well in advance of the deadline to allow for ample time for planning. Procedures for initiating special programs should follow in general the procedures for initiating symposia.
+\rowgroup{When a member only suggests but does not organize a symposium, he should indicate the title of the topic for discussion, comment on the significance of the topic, and list the names and addresses of the proposed chairman and other participants. Such suggestions should be sent to the appropriate divisional program chairman well in advance of the deadline to allow for ample time for planning.} \\
 
-\subsubsection{Miscellaneous Meetings and Special Sessions}
-\label{miscellaneousmeetingsandspecialsessions}
+\rowgroup{
 
-APA boards, committees, etc. desiring business meetings must send to the Chairman of the APA Program Committee by the deadline a statement of estimated attendance, time required, time and day preferred and whether arrangements for luncheon and dinner are desired.
+\emph{Member-Organized symposia}} \\
 
-Luncheons, dinners and social hours may be scheduled for non-APA organizations if they send their request to the chairman of the APA Program Committee by the deadline. Such scheduled events will be listed in the condensed program.
+\rowgroup{A member may organize a proposed symposium in complete detail and present it for approval to the Program Committee. Each such proposal should indicate the title of the symposium and list the names of the chairman and participants, together with the titles of participants' contributions, if these titles are to be published. \emph{Five copies of the completed symposium plans must be submitted to the Program Committee by the deadline.}} \\
 
-\subsubsection{Audio-Visual Presentations}
-\label{audio-visualpresentations}
+\rowgroup{
 
-APA members, commercial film producers or distributors who wish to present new films, film strips, or other audio-visual aids (including sound recordings) should make the Program Committee aware of this fact at the deadline. The committee will review and select the audio-visual materials which are to be presented as part of the APA program.
+\emph{Symposia organized by the Program Committee}} \\
 
-\subsubsection{Exhibits}
-\label{exhibits}
+\rowgroup{Symposia may be organized independently by the Program Committee or in response to the requests of members.} \\
 
-APA members are encouraged to exhibit apparatus, teaching aids, and other materials of scientific and applied interest. Commercial agencies are invited to request arrangements for exhibits. All commercial exhibitors will be charged for space. Those wishing to arrange for exhibits must write to the chairman of the Program Committee.
+\rowgroup{
+
+\subsubsection{Special Programs} \\}
+\label{specialprograms----}
+
+\rowgroup{The Program Committee should feel free to try new kinds of programs. Forums, discussion groups, panels, round tables, conferences, and workshops are often valuable alternatives to papers and symposia. Members are invited to send suggestions for new types of programs to the Program Committee. Special sessions should be suggested well in advance of the deadline to allow for ample time for planning. Procedures for initiating special programs should follow in general the procedures for initiating symposia.} \\
+
+\rowgroup{
+
+\subsubsection{Miscellaneous Meetings and Special Sessions} \\}
+\label{miscellaneousmeetingsandspecialsessions----}
+
+\rowgroup{APA boards, committees, etc. desiring business meetings must send to the Chairman of the APA Program Committee by the deadline a statement of estimated attendance, time required, time and day preferred and whether arrangements for luncheon and dinner are desired.} \\
+
+\rowgroup{Luncheons, dinners and social hours may be scheduled for non-APA organizations if they send their request to the chairman of the APA Program Committee by the deadline. Such scheduled events will be listed in the condensed program.} \\
+
+\rowgroup{
+
+\subsubsection{Audio-Visual Presentations} \\}
+\label{audio-visualpresentations----}
+
+\rowgroup{APA members, commercial film producers or distributors who wish to present new films, film strips, or other audio-visual aids (including sound recordings) should make the Program Committee aware of this fact at the deadline. The committee will review and select the audio-visual materials which are to be presented as part of the APA program.} \\
+
+\rowgroup{
+
+\subsubsection{Exhibits} \\}
+\label{exhibits----}
+
+\rowgroup{APA members are encouraged to exhibit apparatus, teaching aids, and other materials of scientific and applied interest. Commercial agencies are invited to request arrangements for exhibits. All commercial exhibitors will be charged for space. Those wishing to arrange for exhibits must write to the chairman of the Program Committee.} \\
+
 \end{apatextbox}
  %\captionof{InfoBox}{Sample call for proposals for APA conference\label{sample:cfp}} 
+
+\newpage
 
 Sample call for research grants.\footnote{This section adapts language from the mission statements of the contemporary APA (http:\slash \slash www.apa.org\slash about\slash )}
 
 \begin{apatextbox}{Call for Research Grants} 
+\rowgroup{
 
-\subsection{Call for Research Grants}
-\label{callforresearchgrants}
+\subsection{Call for Research Grants} \\}
+\label{callforresearchgrants----}
 
-\subsubsection{Introduction}
-\label{introduction}
+\rowgroup{
 
-The Research Committee of the APA herein solicits proposals for research that will forward the disciplines of psychology and psychiatry. Note especially the deadlines, the form for abstracts of contributed papers, the forms for symposium proposals, and the proper persons to receive your correspondence. The pertinent references have been collected into the box on this page for your convenience.
+\subsubsection{Introduction} \\}
+\label{introduction----}
 
-Winners will be granted the support of the other members of the class for a period of one class session. The primary investigator must specify in the research proposal how the other students will participate: as subjects, participants, observers or confederates.
+\rowgroup{The Research Committee of the APA herein solicits proposals for research that will forward the disciplines of psychology and psychiatry. Note especially the deadlines, the form for abstracts of contributed papers, the forms for symposium proposals, and the proper persons to receive your correspondence. The pertinent references have been collected into the box on this page for your convenience.} \\
 
-Winning grants will be determined by the Research Committee, in accordance with the criteria specified herein. All proposals must be in line with the APA's ethical guidelines which are in force at the time of submission.
+\rowgroup{Winners will be granted the support of the other members of the class for a period of one class session. The primary investigator must specify in the research proposal how the other students will participate: as subjects, participants, observers or confederates.} \\
 
-\subsubsection{Research Supported}
-\label{researchsupported}
+\rowgroup{Winning grants will be determined by the Research Committee, in accordance with the criteria specified herein. All proposals must be in line with the APA's ethical guidelines which are in force at the time of submission.} \\
 
-The APA seeks to advance the creation, communication and application of knowledge of the mind and behavior to benefit society and improve people's lives. The APA embraces scientific inquiry into all aspects of the human experience — from the functions of the brain to the actions of nations, from child development to care for the aged. And in every conceivable setting from scientific research centers to mental health care services, ``the understanding of behavior'' is the enterprise of psychologists.
+\rowgroup{
 
-Additionally, the APA aspires to advance the understanding of psychology and psychiatry as scientific disciplines. To that end, it will support any research that follows the standards of scientific inquiry and contributes to the central goals of the association.
+\subsubsection{Research Supported} \\}
+\label{researchsupported----}
 
-It is imperative that all research supported by the APA must be accordance with the ethical guidelines published by the APA. 
+\rowgroup{The APA seeks to advance the creation, communication and application of knowledge of the mind and behavior to benefit society and improve people's lives. The APA embraces scientific inquiry into all aspects of the human experience — from the functions of the brain to the actions of nations, from child development to care for the aged. And in every conceivable setting from scientific research centers to mental health care services, ``the understanding of behavior'' is the enterprise of psychologists.} \\
 
-\subsubsection{Who May Submit Proposals}
-\label{whomaysubmitproposals}
+\rowgroup{Additionally, the APA aspires to advance the understanding of psychology and psychiatry as scientific disciplines. To that end, it will support any research that follows the standards of scientific inquiry and contributes to the central goals of the association.} \\
 
-\paragraph{Members of the APA}
-\label{membersoftheapa}
+\rowgroup{It is imperative that all research supported by the APA must be accordance with the ethical guidelines published by the APA. } \\
 
-Any member of the APA may submit a proposal for a research grant. APA membership is limited to those meeting the definition of `Psychologist' or `Psychiatrist' used by the APA (see p. 10 of the gamebook).
+\rowgroup{
 
-\paragraph{Nonmembers of the APA}
-\label{nonmembersoftheapa}
+\subsubsection{Who May Submit Proposals} \\}
+\label{whomaysubmitproposals----}
 
-As the APA Research committee seeks to further the disciplines of Psychology and Psychiatry wherever they are practiced, the primary investigator of a grant need ot be a member of the APA. The primary investigator, however, must be a Psychologist or Psychiatrist as defined by the APA (see p. 10 of the gamebook).
+\rowgroup{
 
-\paragraph{Confederates, Observers and Assistants}
-\label{confederatesobserversandassistants}
+\paragraph{Members of the APA} \\}
+\label{membersoftheapa----}
 
-Individuals working in psychological research should be engaged in some significant way with the academic pursuit of knowledge. Confederates, observers and assistants in research must therefore be students of psychology or psychiatry, if not psychologists or psychiatrists in their own right.
+\rowgroup{Any member of the APA may submit a proposal for a research grant. APA membership is limited to those meeting the definition of `Psychologist' or `Psychiatrist' used by the APA (see p. 10 of the gamebook).} \\
 
-\subsubsection{Limitations of Participation}
-\label{limitationsofparticipation}
+\rowgroup{
 
-A primary investigator may submit one (1) proposal annually. An individual may serve as a consultant, confederate, observer or assistant on any number of grant proposals in addition to proposing himself as a primary investigator. 
+\paragraph{Nonmembers of the APA} \\}
+\label{nonmembersoftheapa----}
 
-\subsubsection{Form of the Proposal}
-\label{formoftheproposal}
+\rowgroup{As the APA Research committee seeks to further the disciplines of Psychology and Psychiatry wherever they are practiced, the primary investigator of a grant need ot be a member of the APA. The primary investigator, however, must be a Psychologist or Psychiatrist as defined by the APA (see p. 10 of the gamebook).} \\
 
-\paragraph{Introduction}
-\label{introduction}
+\rowgroup{
 
-Limited to 100 words, the introduction should specify the phenomenon you wish to examine and why. Briefly describe the phenomenon in general, and discuss how it relates to the study of the human mind and behavior.
+\paragraph{Confederates, Observers and Assistants} \\}
+\label{confederatesobserversandassistants----}
 
-\paragraph{Background \slash  Review}
-\label{backgroundreview}
+\rowgroup{Individuals working in psychological research should be engaged in some significant way with the academic pursuit of knowledge. Confederates, observers and assistants in research must therefore be students of psychology or psychiatry, if not psychologists or psychiatrists in their own right.} \\
 
-Briefly describe the history of research into this phenomenon, and why that history is insufficient. Summarize what is already known about the phenomenon, including the background information you gleaned during your literature review.
+\rowgroup{
 
-\paragraph{Rationale}
-\label{rationale}
+\subsubsection{Limitations of Participation} \\}
+\label{limitationsofparticipation----}
 
-Describe the questions you are examining and explore any possible implications of your study. This includes listing the specific questions you are addressing, explaining how your research is related to the larger issues raised in the introduction. Specifically describe the claims, models or hypotheses you will evaluate with your research. Explain how your research will contribute to our understanding of the mind.
+\rowgroup{A primary investigator may submit one (1) proposal annually. An individual may serve as a consultant, confederate, observer or assistant on any number of grant proposals in addition to proposing himself as a primary investigator. } \\
 
-\paragraph{Method and Design}
-\label{methodanddesign}
+\rowgroup{
 
-Describe how you will go about collecting data and testing the questions you wish to examine. While novel methods are encouraged, the primary investigator must be able to specify the scientific validity of any methods proposed.
+\subsubsection{Form of the Proposal} \\}
+\label{formoftheproposal----}
 
-Method: How will you collect the data?
+\rowgroup{
 
-Describe the general methodology you choose for your study, i.e. observational, experimental, etc.
-* Explain why this method is the best method for this question.
-* Specify who will participate in your study, and why.
-* Describe the sample you would test and explain why you have chosen this sample. Include age, and language background and socio-economic information, if relevant to the design.
-*Are there any participants you would exclude? Why, why not?
+\paragraph{Introduction} \\}
+\label{introduction----}
 
-Design
-* Describe what kinds of manipulations\slash variations you would make or test for in order to test your hypothesis(es).
-* Describe the factors you would vary if you were presenting a person with stimulus sentences.
-* Explain how varying these factors would allow you to confirm or disconfirm your hypotheses.
-* Explain what significant differences you would need to find to confirm or disconfirm your hypothesis(es). In particular, how could your hypothesis(es) be disconfirmed by your data?
-* Controls: What kinds of factors would you need to control for in your study?
-* Describe what types of effects would be likely to occur which would make your results appear to confirm, or to disconfirm your hypothesis(es).
-* Describe how you can by your design rule out or control for apparent effects.
+\rowgroup{Limited to 100 words, the introduction should specify the phenomenon you wish to examine and why. Briefly describe the phenomenon in general, and discuss how it relates to the study of the human mind and behavior.} \\
 
-Procedure
-* How are you going to present the stimuli?
-* What is the participant in the experiment going to do?
+\rowgroup{
 
-Analysis
-* How will you analyze the results?
-* What kind of results would confirm your hypothesis?
-* What kind of results would disconfirm your hypothesis
+\paragraph{Background \slash  Review} \\}
+\label{backgroundreview----}
 
-\paragraph{Significance and Contribution}
-\label{significanceandcontribution}
+\rowgroup{Briefly describe the history of research into this phenomenon, and why that history is insufficient. Summarize what is already known about the phenomenon, including the background information you gleaned during your literature review.} \\
 
-\paragraph{References}
-\label{references}
+\rowgroup{
 
-\paragraph{Where to send your proposal}
-\label{wheretosendyourproposal}
+\paragraph{Rationale} \\}
+\label{rationale----}
 
-Three copies of the proposal should be sent to the chairman of the Research committee.
+\rowgroup{Describe the questions you are examining and explore any possible implications of your study. This includes listing the specific questions you are addressing, explaining how your research is related to the larger issues raised in the introduction. Specifically describe the claims, models or hypotheses you will evaluate with your research. Explain how your research will contribute to our understanding of the mind.} \\
 
-\subsubsection{Reports}
-\label{reports}
+\rowgroup{
 
-Research findings should be submitted to the conference committee for the annual national conference following the awarding of the grant. The primary investigator should follow the guidelines found under `Research Reports' (see \ref{researchreports} on page \pageref{researchreports}) in drafting his research report. Winning a grant in no way guarantees inclusion in the following year's conference program.
+\paragraph{Method and Design} \\}
+\label{methodanddesign----}
+
+\rowgroup{Describe how you will go about collecting data and testing the questions you wish to examine. While novel methods are encouraged, the primary investigator must be able to specify the scientific validity of any methods proposed.} \\
+
+\rowgroup{Method: How will you collect the data?}  \\
+
+\rowgroup{ Describe the general methodology you choose for your study, i.e. observational, experimental, etc. } \\
+
+\rowgroup{* Explain why this method is the best method for this question. } \\
+
+\rowgroup{* Specify who will participate in your study, and why.}  \\
+
+\rowgroup{* Describe the sample you would test and explain why you have chosen this sample. Include age, and language background and socio-economic information, if relevant to the design. } \\
+
+\rowgroup{*Are there any participants you would exclude? Why, why not?} \\
+
+\rowgroup{Design } \\
+
+\rowgroup{* Describe what kinds of manipulations\slash variations you would make or test for in order to test your hypothesis(es). } \\
+
+\rowgroup{* Describe the factors you would vary if you were presenting a person with stimulus sentences.}  \\
+
+\rowgroup{* Explain how varying these factors would allow you to confirm or disconfirm your hypotheses.}  \\
+
+\rowgroup{* Explain what significant differences you would need to find to confirm or disconfirm your hypothesis(es). In particular, how could your hypothesis(es) be disconfirmed by your data?}  \\
+
+\rowgroup{* Controls: What kinds of factors would you need to control for in your study? } \\
+
+\rowgroup{* Describe what types of effects would be likely to occur which would make your results appear to confirm, or to disconfirm your hypothesis(es). } \\
+
+\rowgroup{* Describe how you can by your design rule out or control for apparent effects.}  \\
+
+\rowgroup{Procedure } \\
+
+\rowgroup{* How are you going to present the stimuli?}  \\
+
+\rowgroup{* What is the participant in the experiment going to do?}  \\
+
+\rowgroup{Analysis } \\
+
+\rowgroup{* How will you analyze the results? } \\
+
+\rowgroup{* What kind of results would confirm your hypothesis? } \\
+
+\rowgroup{* What kind of results would disconfirm your hypothesis}  \\
+
+\rowgroup{
+
+\paragraph{Significance and Contribution} \\}
+\label{significanceandcontribution----}
+
+\rowgroup{
+
+\paragraph{References} \\}
+\label{references----}
+
+\rowgroup{
+
+\paragraph{Where to send your proposal} \\}
+\label{wheretosendyourproposal----}
+
+\rowgroup{Three copies of the proposal should be sent to the chairman of the Research committee.} \\
+
+\rowgroup{
+
+\subsubsection{Reports} \\}
+\label{reports----}
+
+\rowgroup{Research findings should be submitted to the conference committee for the annual national conference following the awarding of the grant. The primary investigator should follow the guidelines found under `Research Reports' (see \ref{researchreports} on page \pageref{researchreports}) in drafting his research report. Winning a grant in no way guarantees inclusion in the following year's conference program.} \\
 
 \end{apatextbox}
  %\captionof{InfoBox}{Sample call for research grants\label{sample:cfg}} 
@@ -2428,24 +2571,32 @@ Research Report\\
 
 The APA is overseen by a Board of Directors, which is responsible for maintaining the organization, and approving all official public proclamations and publications of the organization. The president, who opens the conference with his or her presidential address, also serves as chair of the Board of Directors during that conference. The secretary of the Board of Directors is responsible for maintaining the minutes for that meeting and implementing whatever policy decisions are required.
 
-In addition to the Board of Directors, there are currently three standing committees of the APA. All standing committees report directly to the Board of Directors annually. All standing committees have the right to request an open session at the general conference for whatever they wish. If they want to initiate a vote by membership, however, they must file a request with the Board of Directors. If the Board of Directors approves the request, the standing committee can administer a vote.\footnote{The gamemaster may choose, depending on the size of the class, to combine these committees, or assign these responsibilities to the Board of Directors.}
+In addition to the Board of Directors, there are currently three standing committees of the APA. All standing committees report directly to the Board of Directors annually at the Board meeting. All standing committees have the right to request an open session at the general conference for whatever they wish. If they want to initiate a vote by membership, however, they must file a request with the Board of Directors. If the Board of Directors approves the request, the standing committee can administer a vote.\footnote{The gamemaster may choose, depending on the size of the class, to combine these committees, or assign these responsibilities to the Board of Directors.}
 
-\subsubsection{Board of Directors:}
-\label{boardofdirectors:}
+\newpage
 
-\textbf{Responsibilities}
+\subsubsection{Board of Directors}
+\label{boardofdirectors}
+
+\textbf{Responsibilities:}
 * Hold open meetings each conference where topics can be discussed and voted upon.
 
 \textbf{Powers:}
 
 \begin{itemize}
-\item Issue public proclamations.
+\item Issue public proclamations on behalf of the membership.
 
 \item Maintain official publications, such as the DSM
 
 \item Create ad-hoc committees and task forces, as necessary.
 
 \item Oversee and receive reports from the standing committees.
+
+\item Censure---can strip any member of credibility at any time. Generally reserved for use of ad hominem attacks or other bad behavior. Any number of credibility points can be stripped.
+
+\item Banning---rarely used, but available if necessary. Can place a lifetime ban on any member at anytime.
+
+\item Confer 1--10 credibility points on retiring board members in recognition of their ‘distinguished service’
 
 \end{itemize}
 
@@ -2467,7 +2618,9 @@ Committee member elected at large&Serving 3-year term. \\ \hline
 \label{table: boardMembership}
 \end{longtable}
 
-The membership of the Board of Directors for the course of gameplay is contained in table \ref{table: boardMembership}.
+A sample agenda for a meeting of the Board is available on page \fullref{sample:bod}.
+
+The membership of the Board of Directors for the course of gameplay is contained in table \fullref{table: boardMembership}.
 
  \begin{longtable}[!t]{ | p{1cm} | p{2.5cm} | p{2.5cm} | p{2.5cm} | p{2.5cm} |  p{2.5cm} | }
 \hline
@@ -2491,6 +2644,33 @@ The Board of Directors represents the membership, it does not act in opposition.
 
 \newpage
 
+\begin{apatextbox}{Sample Schedule: Board of Directors}
+
+
+\begin{enumerate}
+
+\item Reports of the committees and task forces \newline
+\begin{enumerate}
+\item  Research \newline
+\item  Nomenclature \newline
+\item  Conference program \newline
+\end{enumerate}
+\item Old Business (any items that were tabled at previous meetings) \newline
+\item  New Business. \newline
+\begin{enumerate}
+    \item  Discussion of any proposals already circulated \newline
+    \item  Administer votes on any proposals already circulated) \newline
+    \item  Elections for vice-president and expiring member at large. \newline
+\end{enumerate}
+\end{enumerate}
+
+\label{sample:bod}
+\end{apatextbox}
+
+ 
+
+\newpage
+
 \subsubsection{Research Committee}
 \label{researchcommittee}
 
@@ -2510,15 +2690,17 @@ The research committee is charged with distributing grants to fund research as w
 
 \item Hearing and deciding on cases of research ethics, including punishments for violators up to and including removal from the APA for life.
 
+\item Confer 1--5 credibility points on retiring board members in recognition of their ‘distinguished service’
+
 \end{itemize}
 
-The Research committee should solicit proposals in the form of a `Call for Research Grants' that specifies both the deadline for submissions, as well as the time frame for reviewing submissions. The Research Committee should revise the enclosed `Call for Research Grants' on p. \pageref{callforresearchgrants} to suit their needs.
+The Research committee should solicit proposals in the form of a `Call for Research Grants' that specifies both the deadline for submissions, as well as the time frame for reviewing submissions. The Research Committee should revise the enclosed \fullref{callforresearchgrants} to suit their needs.
 
 In the context of the game, winning a grant entitles the bearer to access the student body for a period of one class session, during which time he or she can perform his or her approved research project. After that period, the grantee will be expected to present his or her findings to the membership as a conference paper \slash  report.
 
-The Research committee should take great care in considering the scientific value of each proposal. The APA does not want to be seen supporting poor or biased research! As such, members of the Research committee are strongly advised to carefully consult the ‘\ref{basicscientificresearch}’ on p. \pageref{basicscientificresearch}. as well as the '\ref{ethicsofhumanresearch}., on p. \pageref{ethicsofhumanresearch}. of the gamebook.
+The Research committee should take great care in considering the scientific value of each proposal. The APA does not want to be seen supporting poor or biased research! As such, members of the Research committee are strongly advised to carefully consult the ‘\fullref{basicscientificresearch} as well as the ‘\fullref{ethicsofhumanresearch}.
 
-The Research committee is also charged with hearing and ultimately ruling on charges of ethical transgression. It alone has the power to censure a member of the APA. And because these powers apply equally to all members, including those sitting on the Board of Directors, this power can be exercised without approval by the Board of Directors.
+The Research committee is also charged with hearing and ultimately ruling on charges of ethical transgression. The Board alone has the power of censure, but the Research committee can recommend censure to the Board. 
 
 The Board of Directors should hold an election each year for a new member of the Research committee. 
 
@@ -2553,6 +2735,8 @@ The Nomenclature committee is charged with maintaining the official terminology 
 
 \begin{itemize}
 \item Define what kind of behaviors qualify as ‘mental illnesses’, thereby (because of the rise of health insurance and managed care) defining what kind of behaviors psychologists and psychiatrists can get paid to treat.
+
+\item Confer 1--5 credibility points on retiring board members in recognition of their ‘distinguished service’
 
 \end{itemize}
 
@@ -2589,9 +2773,11 @@ The Program Committee is charged with scheduling the conferences.
 
 \item Create the schedule for each conference
 
+\item Confer 1--3 credibility points on retiring board members in recognition of their ‘distinguished service’
+
 \end{itemize}
 
-** Powers **
+\textbf{Powers}
 
 \begin{itemize}
 \item Decide who gets to speak at any conference, thereby determining who has the ability to gain credibility.
@@ -2618,33 +2804,6 @@ Program committee in 1971:
 \item P. Gebhard (expiring 1974)
 
 \end{itemize}
-
-A sample schedule is available on page \pageref{sample:bod}.
-
-\begin{apatextbox}{Sample Schedule: Board of Directors}
-
-
-\begin{enumerate}
-
-\item Reports of the committees and task forces \newline
-\begin{enumerate}
-\item  Research \newline
-\item  Nomenclature \newline
-\item  Conference program \newline
-\end{enumerate}
-\item Old Business (any items that were tabled at previous meetings) \newline
-\item  New Business. \newline
-\begin{enumerate}
-    \item  Discussion of any proposals already circulated \newline
-    \item  Administer votes on any proposals already circulated) \newline
-    \item  Elections for vice-president and expiring member at large. \newline
-\end{enumerate}
-\end{enumerate}
-
-\label{sample:bod}
-\end{apatextbox}
-
- 
 
 \newpage
 
@@ -2693,15 +2852,10 @@ Classical psychoanalysis can be summarized by five basic hypotheses:
 
 \item The \textbf{topographical hypothesis} is Freud's most well known: the mind composed of three basic kinds of thoughts: conscious thoughts, pre-conscious thoughts and unconscious thoughts. The term `thoughts' here is used broadly, to include wishes, desires, fears, emotions, etc. Conscious thoughts are those of which we are aware. Pre-conscious thoughts, are not currently conscious, but are readily available to consciousness. The memory of your last birthday, for example, is probably pre-conscious, not unconscious. Unconscious thoughts, which far outnumber the other two categories, are unavailable to consciousness. All these thoughts, however, originate in experience: there is nothing in the unconscious store that is not linked in some way to that individual's past experiences. (see, e.g. \emph{Introductory lectures}, p. 25)
 
-\item Fourth, the \textbf{genetic hypothesis} claims that human behavior is best explained in terms of the original conditions that cause it. In Freud's theory, the genetic hypothesis takes the form of his theory of infantile sexuality.
+\item The \textbf{genetic hypothesis} claims that human behavior is best explained in terms of the original conditions that cause it. In Freud's theory, the genetic hypothesis takes the form of his theory of infantile sexuality.\\
+For Freud, all behavior ultimately originates in sexual desire. To summarize briefly: Freud hypothesized that sexual drive, the main source of psychic energy, is present from birth. He is explicit in using the term `sexual' here, but it is sometimes easier to understand if we use a softer term like `using one's body for pleasure.' Freud repeated argues for infantile sexuality by pointing out the noncontroversial pleasure children take in tickling or cuddling, but we wouldn't necessarily call these `sexual' today. Freud himself, somewhat to his detriment, insisted on the term `sexual' even despite these kind of objections.\\
+This drive towards physical gratification takes various forms throughout our lives, moving through the oral phase to the anal phase to the phallic stage. If the internal drives are left unfulfilled, or the internal conflicts unresolved (which is really two ways of saying the same thing), neurotic behavior results.\footnote{`Neurotic' behavior results from continuing conflict between the libidinal desires and the ego's repression techniques. `Psychotic' behaviors result when the libidinal desires assert their reality on the ego. See the discussion of `neurosis' and `psychosis' in the History of the Classification of Mental Illness section below.}
 
-\end{enumerate}
-
-For Freud, all behavior ultimately originates in sexual desire. To summarize briefly: Freud hypothesized that sexual drive, the main source of psychic energy, is present from birth. He is explicit in using the term `sexual' here, but it is sometimes easier to understand if we use a softer term like `using one's body for pleasure.' Freud repeated argues for infantile sexuality by pointing out the noncontroversial pleasure children take in tickling or cuddling, but we wouldn't necessarily call these `sexual' today. Freud, somewhat to his determinate, insisted on the term `sexual' even despite these kind of objections.
-
-This drive towards physical gratification takes various forms throughout our lives, moving through the oral phase to the anal phase to the phallic stage. If the internal drives are left unfulfilled, or the internal conflicts unresolved (which is really two ways of saying the same thing), neurotic behavior results.\footnote{`Neurotic' behavior results from continuing conflict between the libinal desires and the ego's repression techniques. `Psychotic' behaviors result when the libinal desires assert their reality on the ego. See the discussion of `neurosis' and `psychosis' in the History of the Classification of Mental Illness section below.}
-
-\begin{enumerate}
 \item Psychoanalysts differ with respect to the entities that comprise the mind, but most recognize Freud's basic \textbf{structural hypothesis}: the mind is functionally divided between the id, the ego and the superego (see \emph{Introductory Lectures}, p. 365).\footnote{The Introductory Lectures were published before Freud solidified the structural hypothesis using this terminology. The beginnings of the idea, however, is present in the later chapters on neurosis: see, e.g. p. 437--438, where he describes the conflict between the `libido' and the `ego'.} The \emph{id}, which is totally unconscious, contains the representations of sexual and aggressive instinctual drives. The \emph{ego} regulates and controls the desires of the id in relation to the demands of the external world, which are internalized as the \emph{superego}. The ego follows the \textbf{economic hypothesis}, in seeking to maximize gratification of the instinctual desires while minimizing the amount of psychic energy spent in that process. It achieves this end through the use of various mechanisms of representation and repression (sometimes called `defense mechanisms'):\footnote{The Introductory Lectures mention only repression, subdivided into `condensation' and `displacement' as mechanisms of the ego, but promises further work on the topic (p. 364--366). He began to develop a taxonomy of ego mechanisms later in his life, but the full-fledged taxonomy we see here was developed his daughter Anna Freud (1936). The Ego and and the Mechanisms of Defense. C. Baines (trans). Connecticut: International University Press.}
 
 \item \textbf{Repression}: The first mechanism proposed by Freud (Breuer and Freud), the ego banishes or precludes an idea or feeling from conscious awareness.
@@ -2729,20 +2883,21 @@ This drive towards physical gratification takes various forms throughout our liv
 These conflicts can be discovered by studying the mechanisms of representation that are used to obfuscate and repress traumatic experiences and latent desires. The mechanisms of representation take the object represented (the `latent content') and replace it with a representation (the `manifest content'). The relationship between these two can be one of:
 
 \begin{itemize}
-\item \textbf{part to whole}: the latent content is fragmented and represented in isolation. (\emph{Introductory Lectures}, p. 147)
+\item \textbf{Part to whole}: the latent content is fragmented and represented in isolation. (~\citep[p. 147]{Freud:QdOvAgyZ})
 
-\item \textbf{Allusion}: the latent content is represented by, in Freud's words “a caption, as it were, or an abbreviation in telegraphic style.” (\emph{Introductory Lectures}, p. 148)
+\item \textbf{Allusion}: the latent content is represented by, in Freud's words “a caption, as it were, or an abbreviation in telegraphic style.” (~\citep[p. 148]{Freud:QdOvAgyZ})
 
-\item \textbf{plastic portrayal}: the latent content is replaced with a plastic, concrete portrayal of it, taking its cue from the superficial aspects of the latent content. For example, the editor of a `Survey' may be represented in a dream as a `surveyor'. (\emph{Introductory Lectures}, p.149)
+\item \textbf{Plastic portrayal}: the latent content is replaced with a plastic, concrete portrayal of it, taking its cue from the superficial aspects of the latent content. For example, the editor of a `Survey' may be represented in a dream as a `surveyor'. (~\citep[p.149]{Freud:QdOvAgyZ})
 
-\item \textbf{Symbolism}: symbols are stable translations of one object into another. The relation between the object symbolized (the latent content) and the object that does the symbolization (the manifest content) is stable in an individual, but may not be stable between individuals. But it is always true that the latent content and manifest content share something in common. It is the task of the psychoanalysts, through the techniques of free association and manipulating transference reactions, to discover the common factors between the latent and manifest content, and hence reveal the symbolic relationships.\footnote{In many works, including Psychopathology in Everyday Life, Introductory Lectures on Psychoanalysis and On the Interpretation of Dream, Freud provides the following outline of the kinds of commonality that underly symbolism: that of number (i.e. `3' and male genitalia), shape (i.e. long, straight objects such as sticks, umbrellas, posts, trees represent the male organ \slash  hollowness or enclosing space such as vessels, bottles, boxes, trunks and ships symbolize female genitals; apples, peaches and fruit symbolize breasts), function (i.e. penetrating the body: knives, daggers, spears, sabers, firearms, rifles, pistols etc.; producing liquids, such as water-taps, water-cans, etc.; and being capable of lengthening or shortening, such as pencils, hanging-lamps, etc.; defying gravity (i.e. balloons, flying machines and zeppelins also represent the male organ). More complicated representations depend on personal associations with or reactions to objects: the complicated nature of landscapes mean they represent female bodies, sweets represent sexual satisfaction. Activities such as playing games, playing piano, sliding, gliding or pulling stand for masturbation because of the similarity of action. On the same note, rhythmic actions such as dancing, riding and climbing stand in for the sex act itself. Simple associations may appear as well: neckties, which are only worn by men, can symbolize men. (Introductory Lectures, p. 188--204)} (\emph{Introductory Lectures}, p. 185)
-(see \emph{Introductory lectures on psychoanalysis}, Lecture VII-X)
+\item \textbf{Symbolism}: symbols are stable translations of one object into another. The relation between the object symbolized (the latent content) and the object that does the symbolization (the manifest content) is stable in an individual, but may not be stable between individuals. But it is always true that the latent content and manifest content share something in common. It is the task of the psychoanalysts, through the techniques of free association and manipulating transference reactions, to discover the common factors between the latent and manifest content, and hence reveal the symbolic relationships.\footnote{In many works, including Psychopathology in Everyday Life, Introductory Lectures on Psychoanalysis and On the Interpretation of Dream, Freud provides the following outline of the kinds of commonality that underly symbolism: that of number (i.e. `3' and male genitalia), shape (i.e. long, straight objects such as sticks, umbrellas, posts, trees represent the male organ \slash  hollowness or enclosing space such as vessels, bottles, boxes, trunks and ships symbolize female genitals; apples, peaches and fruit symbolize breasts), function (i.e. penetrating the body: knives, daggers, spears, sabers, firearms, rifles, pistols etc.; producing liquids, such as water-taps, water-cans, etc.; and being capable of lengthening or shortening, such as pencils, hanging-lamps, etc.; defying gravity (i.e. balloons, flying machines and zeppelins also represent the male organ). More complicated representations depend on personal associations with or reactions to objects: the complicated nature of landscapes mean they represent female bodies, sweets represent sexual satisfaction. Activities such as playing games, playing piano, sliding, gliding or pulling stand for masturbation because of the similarity of action. On the same note, rhythmic actions such as dancing, riding and climbing stand in for the sex act itself. Simple associations may appear as well: neckties, which are only worn by men, can symbolize men. (Introductory Lectures, p. 188--204)} (~\citep[p. 185]{Freud:QdOvAgyZ})
+
+(see [Lecture VII-X][~\citep{Freud:QdOvAgyZ})
 
 \end{itemize}
 
 By revealing these relationships to the subject of psychoanalysis, the ego becomes aware of latent trauma and hence can deal with it in healthy ways, removing the conflict and obviating the neurosis.
 
-Interpsychic conflict is a part of the normal maturation of a healthy adult mind. Neurosis and Psychosis occur, therefore, when this development goes wrong in some important way. Development can go awry through \emph{inhibition} or \emph{regression} (see \emph{Introductory Lectures}, Ch 22--23). In `inhibition', portions of function of the ego are held back from development, often because it becomes \emph{fixated} on a particular libidnal instinct. In `regression' an ego that has progressed further than a given developmental stage returns to that stage was a kind of defense mechanism.
+Interpsychic conflict is a part of the normal maturation of a healthy adult mind. Neurosis and Psychosis occur, therefore, when this development goes wrong in some important way. Development can go awry through \emph{inhibition} or \emph{regression} (see ~\citep[Ch 22--23]{Freud:QdOvAgyZ}). In `inhibition', portions of function of the ego are held back from development, often because it becomes \emph{fixated} on a particular libidnal instinct. In `regression' an ego that has progressed further than a given developmental stage returns to that stage was a kind of defense mechanism.
 
 The terms `neurosis' and `psychoneurosis':
 
@@ -2760,11 +2915,11 @@ As the id is the source of psychic energy, unacceptable drives using one of the 
 \begin{itemize}
 \item \textbf{Anxiety reaction}: a chronic, free-floating anxiety which may have periods of acute anxiety. Typified by feelings of helplessness; although symptoms include phobias, obsessions, compulsions and depression. It is caused by the failure of all the defenses to keep the unacceptable instinctual drives in stable control. (\emph{Introductory Lectures}, Ch. 25, p. 452)
 
-\item \textbf{phobic reaction}: typified by one or more prominent phobias: and extreme anxiety focused on an ordinary place, object or situation. The mechanism of displacement moves the anxiety associated with the unacceptable drive to a neutral place, object or situation, which then is allowed to flourish unchecked by the defense mechanisms of the ego. (\emph{Introductory Lectures}, p. 495--498)
+\item \textbf{Phobic reaction}: typified by one or more prominent phobias: and extreme anxiety focused on an ordinary place, object or situation. The mechanism of displacement moves the anxiety associated with the unacceptable drive to a neutral place, object or situation, which then is allowed to flourish unchecked by the defense mechanisms of the ego. (\emph{Introductory Lectures}, p. 495--498)
 
-\item \textbf{conversion reaction}: what used to be called `hysteria', it can manifest itself in many symptoms, including spasms, temporary paralysis, visual or auditory agnosia, weakness, shortness of breath, pains, etc. It results when the unacceptable instinctual drive is `converted' into apparently physical symptoms. (\emph{Introductory Lectures}, p. 485, 497--8)
+\item \textbf{Conversion reaction}: what used to be called `hysteria', it can manifest itself in many symptoms, including spasms, temporary paralysis, visual or auditory agnosia, weakness, shortness of breath, pains, etc. It results when the unacceptable instinctual drive is `converted' into apparently physical symptoms. (\emph{Introductory Lectures}, p. 485, 497--8)
 
-\item \textbf{obsessive-compulsive reaction}: the patient is troubled by persistent thoughts that are usually painful in nature. These obsessional thoughts interfere in some important way with the patient's ability to engage in a meaningful adult life: i.e. intellectually, sexually, socially or professionally. Anxiety at not following through on an obsessional thought, which often manifests as repeated actions regarding some mundane object, can be severe and often is only revealed by completion of the mundane task in question.\footnote{See item 300 in the DSM II for the full taxonomy of neurosis.} (\emph{Introductory Lectures}, Ch. 17)
+\item \textbf{Obsessive-compulsive reaction}: the patient is troubled by persistent thoughts that are usually painful in nature. These obsessional thoughts interfere in some important way with the patient's ability to engage in a meaningful adult life: i.e. intellectually, sexually, socially or professionally. Anxiety at not following through on an obsessional thought, which often manifests as repeated actions regarding some mundane object, can be severe and often is only revealed by completion of the mundane task in question.\footnote{See item 300 in the DSM II for the full taxonomy of neurosis.} (\emph{Introductory Lectures}, Ch. 17)
 
 \end{itemize}
 
@@ -2807,7 +2962,7 @@ When embarking on a new treatment, then, the psychoanalyst has three basic aims:
 
 \item The unconscious elements must be synthesized into meaningful insights. Fragments of past and present history, conscious and unconscious, must be connected so as to give a sense of continuity and coherence in terms of the patient's life.
 
-\item The insight so obtained must be communicable to the patient. As one listens one must ascertain what uncovered material will be constructively utilizable by the patient. (quoting from the \textbackslash{}emph\{American Handbook of Psychiatry\}, p. 779)
+\item The insight so obtained must be communicable to the patient. As one listens one must ascertain what uncovered material will be constructively utilizable by the patient. (Quoted from ~\citep[p. 779]{Arieti:1974tm})
 
 \end{enumerate}
 
@@ -2816,7 +2971,7 @@ When embarking on a new treatment, then, the psychoanalyst has three basic aims:
 
 Jungian psychoanalysis is distinguished from classical psychoanalysis by two major shifts in the basic theory.
 
-First, Jungian psychoanalysis holds that the subconscious contains psychical elements that do not originate in the experiences of the individual being psychoanalyzed. As mentioned previously, classical psychoanalysis is empirical about the mind (for an explanation of that tradition, see \ref{pre-historyofpsychology:empiricismaboutthemind}), holding that the mind comes into the world as a blank slate (tabla rasa), and is progressively filled by experiences. The contents of the unconscious must therefore be traceable to discrete experiences in the individual's life. And it is the task of psychoanalysis to discover those experiences. 
+First, Jungian psychoanalysis holds that the subconscious contains psychical elements that do not originate in the experiences of the individual being psychoanalyzed. As mentioned previously, classical psychoanalysis is empirical about the mind (for an explanation of that tradition, see \fullref{pre-historyofpsychology:empiricismaboutthemind}), holding that the mind comes into the world as a blank slate (tabla rasa), and is progressively filled by experiences. The contents of the unconscious must therefore be traceable to discrete experiences in the individual's life. And it is the task of psychoanalysis to discover those experiences. 
 
 Jungian psychoanalysts believe they have evidence of unconscious contents that are not explainable by the experiences of the individual. Thus, they hypothesize the existence of a deeper `collective unconscious' that is composed of `archetypes' that inform and structure the content of both the unconscious as well as our conscious lives.
 
@@ -2828,16 +2983,16 @@ For example, Freud originally posited that neurosis originated in traumatic expe
 
 ..the moment of the outbreak of neurosis is not just a matter of chance; as a rule it is most critical. It is usually \emph{the moment when a new psychological adjustment, that is, a new adaptation, is demanded}. Such moments facilitate the outbreak of a neurosis, as every experienced neurologist knows.
 
-This fact seems to me extremely significant. If the fixation were indeed real we should expect to find its influence constant: in other words, a neurosis lasting throughout life. This is obviously not the case. The psychological determination of a neurosis is only partly due to an early infantile predisposition; it must be due to some cause in the present as well. (\emph{The Essential Jung}, 49 “Psychoanalysis and Neurosis”)
+This fact seems to me extremely significant. If the fixation were indeed real we should expect to find its influence constant: in other words, a neurosis lasting throughout life. This is obviously not the case. The psychological determination of a neurosis is only partly due to an early infantile predisposition; it must be due to some cause in the present as well. (~\citep[p. 49]{Jung:ss-xAx6i} “Psychoanalysis and Neurosis”)
 \end{quote}
 
-That leads to the general proposition that Freud's identification of sexual desire as \emph{the} origin of neurosis was far too narrow. Sexual desire is one of the pleasurable instincts that shape our psychology, but for Jung, “psychoanalytic theory should be freed from the purely sexual standpoint. In place of it I should like to introduce an \emph{energetic viewpoint} into the psychology of neurosis” (ibid, p. 50).
+That leads to the general proposition that Freud's identification of sexual desire as \emph{the} origin of neurosis was far too narrow. Sexual desire is one of the pleasurable instincts that shape our psychology, but for Jung, “psychoanalytic theory should be freed from the purely sexual standpoint. In place of it I should like to introduce an \emph{energetic viewpoint} into the psychology of neurosis” (~\citep[p. 50]{Jung:ss-xAx6i}).
 
 Jung hypothesizes that the libidinal energies naturally increased when faced with an obstacle, in order to overcome it through adaptation. When that obstacle is too great, the libido retreats and regresses, and the patient reverts to a more primitive “mode of adaptation.” The practice of psychoanalysis is the same, however, as Jung theorizes that the energy that the patient needs to overcome the present obstacle and become healthy is attached to these sexual fixations. By bringing past frustrations and maladaptations to light through psychoanalysis, the libidinal energy is free to return to the present-day task: adaptation to overcome the current obstacle.
 
 The task of a psychoanalyst, then, is not only to discover the original traumatic cause of a neurosis, probably buried deep in childhood, but to discover the current obstacle that is perceived as being insurmountable. Jung agrees with Freud that the childhood fixations determine the \emph{form} of neurosis, but unlike Freud holds that they cannot be considered the \emph{immediate cause} of neurosis.\footnote{In Aristotlean metaphysics, the \emph{formal} cause of something is the form of the thing whereas the immediate cause are the events that immediately proceeded the thing in question. The \emph{form} is the pattern or type of thing something is. The immediate cause is what brings that thing into being. In this context, the \emph{form} distinguishes the type of neurosis, the immediate cause is what caused the neurosis to present at this moment.}
 
-The difference between practice among the psychoanalytic approaches is emphasis, not technique. As J.B. Wheelwright noted in 1963, “Freud focused on sexuality, Adler focused on power, and Jung focused on growth, which he called individuation.” (quoted in \emph{American Handbook of Psychiatry}, p. 817)
+The difference between practice among the psychoanalytic approaches is emphasis, not technique. As J.B. Wheelwright noted in 1963, “Freud focused on sexuality, Adler focused on power, and Jung focused on growth, which he called individuation.” (quoted in ~\citep[p. 817]{Arieti:1974tm})
 
 \subsubsection{For Further reading:}
 \label{forfurtherreading:}
@@ -2863,18 +3018,18 @@ The difference between practice among the psychoanalytic approaches is emphasis,
 \subsection{Behaviorists}
 \label{behaviorists}
 
-Behaviorism holds that psychology is properly limited to the observation, prediction and control of behavior.\footnote{As with most things in the history of ideas, even this definition is controversial. I've chosen this definition, which reflects Skinner's presentation of Behaviorism in his 1953 Science and Human Behavior, chapter 1 because it is the most explicit and radical. Watson defines that the goal of behaviorism as the “prediction and control of behavior,” (1913) leaving out observation. To understand the various different forms of behaviorism that have been posited since Watson's, please see \ref{psychoanalysts} on page \pageref{psychoanalysts}.} It typified by four hypotheses:
+Behaviorism holds that psychology is properly limited to the observation, prediction and control of behavior.\footnote{As with most things in the history of ideas, even this definition is controversial. I've chosen this definition, which reflects Skinner's presentation of Behaviorism in his 1953 Science and Human Behavior, chapter 1 because it is the most explicit and radical. Watson defines that the goal of behaviorism as the “prediction and control of behavior,” (1913) leaving out observation. To understand the various different forms of behaviorism that have been posited since Watson's, please see \fullref{psychoanalysts}.} It typified by four hypotheses:
 
 \begin{enumerate}
-\item \emph{Internal entities are neither the object of scientific study nor explanatorily relevant to psychology.\footnote{See, for further explication of this claim, Skinner 1953, p. 27--31. Watson does not use the term `inner state', but refers rather to `consciousness', which he (possibly fallaciously) equates with the object of introspection. Thus, after objecting to the unreliability of introspective reports in a laboratory setting he claims “The time seems to have come when psychology must discard all references to consciousness; when it need no longer delude itself into thinking that it is making mental states the object of observation.”}} Behaviorism begins with the deceptively simply insight that while psychoanalytic explanations are framed in terms of psychic entities (ego, id, etc.), quantities (psychic energy) and interactions (the mechanisms of repression), what all psychological theories seek to explain is behavior. These psychic entities, and the massive vocabulary that is required to discuss them, are all hypothetical, posited for the sake of explaining why people behave the way they do. Moreover, psychoanalytic hypotheses require a sharp dividing line between human behavior and animal behavior, which is not born out by empirical observation.\footnote{Animals do not have superegos or techniques of repression, so the behaviors explained in psychoanalytic terms should not generalize across species. But they do. Therefore, psychoanalytic explanations are insufficient.}
-To be scientific, then, psychology must limit itself to observable behavior. The discourse of psychology as a scientific discipline is restricted to those terms that denote observable variables: behavior and environmental conditions, not internal mental states. From characterizing the phenomenon to be studied to offering an explanation, the behaviorist is committed to avoiding all terms that denote entities, quantities or interactions that are internal or unobservable.\footnote{Watson seeks to eliminate the following misleading and unscientific terms from psychology: “consciousness, mental states, mind, content, introspectively verifiable, imagery, and the like.” (1913)}
-A corollary of the thesis, which is frequently highlighted as an independent claim, is that \emph{introspection is not a scientific form of observation}. One might argue (as historical figures like William James and William Wundt did–see \ref{americanpsychology:williamjamesandthefunctionofconsciousness} and \ref{introspection:wundt}) that internal states \emph{are} scientifically observable via introspection. Behaviorists, however, reject introspection as scientifically unreliable.\footnote{See, e.g. Watson 1913 “Introspection forms no essential part of its methods, nor is the scientific value of its data dependent upon the readiness with which they lend themselves to interpretation in terms of consciousness” and Skinner 1953 p. 30} Evidence from Wundt and James demonstrates, they argue, that introspective procedures produce different results for different practitioners, and scientific evidence should be replicable regardless of the practitioner.
+\item \emph{Internal entities are neither the object of scientific study nor explanatorily relevant to psychology.\footnote{See, for further explication of this claim ~\citep[p. 27--31]{Skinner:LehhdRQI}. Watson does not use the term `inner state', but refers rather to `consciousness', which he (possibly fallaciously) equates with the object of introspection. Thus, after objecting to the unreliability of introspective reports in a laboratory setting he claims “The time seems to have come when psychology must discard all references to consciousness; when it need no longer delude itself into thinking that it is making mental states the object of observation.”}} Behaviorism begins with the deceptively simply insight that while psychoanalytic explanations are framed in terms of psychic entities (ego, id, etc.), quantities (psychic energy) and interactions (the mechanisms of repression), what all psychological theories seek to explain is behavior. These psychic entities, and the massive vocabulary that is required to discuss them, are all hypothetical, posited for the sake of explaining why people behave the way they do. Moreover, psychoanalytic hypotheses require a sharp dividing line between human behavior and animal behavior, which is not born out by empirical observation.\footnote{Animals do not have superegos or techniques of repression, so the behaviors explained in psychoanalytic terms should not generalize across species. But they do. Therefore, psychoanalytic explanations are insufficient.}\\
+To be scientific, then, psychology must limit itself to observable behavior. The discourse of psychology as a scientific discipline is restricted to those terms that denote observable variables: behavior and environmental conditions, not internal mental states. From characterizing the phenomenon to be studied to offering an explanation, the behaviorist is committed to avoiding all terms that denote entities, quantities or interactions that are internal or unobservable.\footnote{Watson seeks to eliminate the following misleading and unscientific terms from psychology: “consciousness, mental states, mind, content, introspectively verifiable, imagery, and the like.” (~\citep{Watson:1913tq})}\\
+A corollary of the thesis, which is frequently highlighted as an independent claim, is that \emph{introspection is not a scientific form of observation}. One might argue (as historical figures like William James and William Wundt did–see \fullref{americanpsychology:williamjamesandthefunctionofconsciousness} and \fullref{introspection:wundt}) that internal states \emph{are} scientifically observable via introspection. Behaviorists, however, reject introspection as scientifically unreliable.\footnote{See, e.g. ~\citep{Watson:1913tq} “Introspection forms no essential part of its methods, nor is the scientific value of its data dependent upon the readiness with which they lend themselves to interpretation in terms of consciousness” and ~\citep[p. 30]{Skinner:LehhdRQI}} Evidence from Wundt and James demonstrates, they argue, that introspective procedures produce different results for different practitioners, and scientific evidence should be replicable regardless of the practitioner.\\
 Behaviorists disagree on whether internal mental states are non-existent fictions or merely unavailable to scientific inquiry; but that is not important here. What is important is that these putative internal mental states do not enter into the scientific study of behavior, or the scientific language that describes and explains behavior.
 
-\item \emph{The proper object of study for psychology is the organism and its environment}. As a corollary of this insight, Behaviorists see behavior as the activity of an \emph{organism}, not the activity of a \emph{mind}. Psychology, for the behaviorist, is not the study of \emph{parts} of an organism (such as the “ego,” “id,” and “superego”) and their relations, but rather the organism \emph{as a whole} and its relationships with its environments. And similarly, explanations offered by Behaviorists refer to organisms, behaviors and environmental conditions, not methods of repression and techniques of representation. Behaviorism restricts is object of study as well as its explanations to the macroscopic scale: things that can be directly observed by the naked eye. In the classical sense, Behaviorism rejects \emph{as non-scientific} explanations in terms of or investigations into things that are larger (societies, cultures)\footnote{Recall that Behaviorism was formed in the first half of the 20th century, when Hegelianism was a viable theory of social science. Behaviorists here are not rejecting the plausibility of modern social psychology, anthropology or sociology. They are rejecting the idea of a transcendent spirit that instantiates human culture.} or smaller (brains, neurons).
+\item \emph{The proper object of study for psychology is the organism and its environment}. As a corollary of this insight, Behaviorists see behavior as the activity of an \emph{organism}, not the activity of a \emph{mind}. Psychology, for the behaviorist, is not the study of \emph{parts} of an organism (such as the “ego,” “id,” and “superego”) and their relations, but rather the organism \emph{as a whole} and its relationships with its environments. And similarly, explanations offered by Behaviorists refer to organisms, behaviors and environmental conditions, not methods of repression and techniques of representation. Behaviorism restricts is object of study as well as its explanations to the macroscopic scale: things that can be directly observed by the naked eye. In the classical sense, Behaviorism rejects \emph{as non-scientific} explanations in terms of or investigations into things that are larger (societies, cultures)\footnote{Recall that Behaviorism was formed in the first half of the 20th century, when Hegelianism was a viable theory of social science. Behaviorists here are not rejecting the plausibility of modern social psychology, anthropology or sociology. They are rejecting the idea of a transcendent spirit that instantiates human culture.} or smaller (brains, neurons).\\
 This thesis unites behaviorism with classical psychoanalysis in opposition to Jung, because it holds that all present behavior is the result of discrete learning events in the individual's past. But unlike psychoanalytic explanations that posit unresolved psychic conflict to explain behavior, the behaviorist appeals only to previous learning experiences. To discover the reason for a given behavior then, is to discover the patterns of environmental reinforcement (called `conditioning') that have caused the organism to learn this behavior. To cure a behavior is to `extinguish' those conditioned responses in the organism or block those responses by substituting a new and novel response. Behaviorists hypothesize that learning can be physically realized in neurology, and hence, behaviorism is far more simple and plausible a theory than psychoanalysis, which cannot.
 
-\item \emph{The principles of learning are generalizable across species.\footnote{See, e.g. Watson 1913 “The behaviorist, in his efforts to get a unitary scheme of animal response, recognizes no dividing line between man and brute.”}} Behaviorists argue that given that animals are incapable of introspection—or, if they are, they cannot communicate it—psychological theories that make use of introspection are incapable of explaining animal psychology. Behaviorism, however, is not. Non-human animals are organisms living in environments that behave in certain regular ways. All of that is accessible to behavioristic science. And as it is an uncontroversial observation that at least some human behavior is the same as animal behavior (caring for the young, for example), it follows that behaviorism can explain regularities that introspective psychology cannot.
+\item \emph{The principles of learning are generalizable across species.\footnote{See, e.g. ~\citep{Watson:1913tq} “The behaviorist, in his efforts to get a unitary scheme of animal response, recognizes no dividing line between man and brute.”}} Behaviorists argue that given that animals are incapable of introspection—or, if they are, they cannot communicate it—psychological theories that make use of introspection are incapable of explaining animal psychology. Behaviorism, however, is not. Non-human animals are organisms living in environments that behave in certain regular ways. All of that is accessible to behavioristic science. And as it is an uncontroversial observation that at least some human behavior is the same as animal behavior (caring for the young, for example), it follows that behaviorism can explain regularities that introspective psychology cannot.
 
 \end{enumerate}
 
@@ -2901,7 +3056,9 @@ The mechanisms learning are:
 \paragraph{Behaviorism as a treatment in psychiatry}
 \label{behaviorismasatreatmentinpsychiatry}
 
-Behavioral treatments in psychiatry\footnote{For more on the complicated history of the relationship between psychoanalysis and behaviorism, see Hornstein 2002.}, like behaviorism in psychology, follows from a deceptively simple insight: that psychiatric treatment aims at the cessation of maladaptive behavior. Like psychoanalysis, behavioral therapies restrict themselves to neurosis, not psychosis.
+Behavioral treatments in psychiatry\footnote{For more on the complicated history of the relationship between psychoanalysis and behaviorism, see ~\citep{Hornstein:2002wq}.}, like behaviorism in psychology, follows from a simple insight: psychiatric treatment aims at the cessation of maladaptive behavior. Changing behaviors is accomplished through conditioning. Therefore, treatment for “mental illness” entails conditioning patients out of the behaviors that are deemed maladapted through the standard mechanisms of learning. 
+
+Like psychoanalysis, behavioral therapies restrict themselves to neurosis, not psychosis.
 
 There are two major kinds of inhibition therapies found in the literature:
 
@@ -2933,7 +3090,7 @@ Other inhibition therapies, such as `retroactive inhibition' are usually forms o
 
 ~\citep{Wolpe:1958vt}
 
-~\citep{Wozniak:1997vj} Available at http:\slash \slash www.brynmawr.edu\slash psychology\slash rwozniak\slash behaviorism.html
+~\citep{Wozniak:1997vj} Also available at http:\slash \slash www.brynmawr.edu\slash psychology\slash rwozniak\slash behaviorism.html
 
 \subsection{Cognitivists}
 \label{cognitivists}
@@ -2942,7 +3099,9 @@ Cognitivists reject the behaviorists' conjecture that scientific psychology is l
 
 Thus, cognitivism distinguishes itself from behaviorism in terms of a meta-theoretical thesis which rejects the half of the first behavioristic hypothesis that \emph{internal entities are explanatorily irrelevant to psychology.} It does not reject the other three, or the corollary of the first, \emph{that introspection is not a form of observation.}
 
-Cognitivism grew slowly between 1955 and 1965, in part because it was not an `intentional' revolution like Behaviorism. George Miller's 1956 paper “The magical number seven, plus or minus two: Some limits on our capacity for processing information,” is one of the classics of cognitive psychology, although the term `cognitive psychology' does not appear in it. Miller argues that human's short-term memory behavior is limited to seven items plus or minus two. These `items', however, need not be individual atomic units like Ebbinghaus' nonsense syllables. Miller hypothesized that brain could `chunking' information into groups, which then could be easily remembered. To borrow a classic example from Bechtel and Graham, the sequence A, B, C, B, B, C, N, B, C, C, B, S would be difficult to remember on its own, but if it is `chunked' into ABC, BBC, NBC, CBS, remembering it is simple. According to Miller, “There seems to be some limitation built into us either by learning or by design of our nervous system, al limit that keeps our channel capacities in this general range.” (1956, p. 86) (see \ref{thesecondrevolution:cognitivescience} for a historical introduction.) Miller's paper in included in the appendix.
+Cognitivism grew slowly between 1955 and 1965, in part because it was not an `intentional' revolution like Behaviorism. George Miller's 1956 paper “The magical number seven, plus or minus two: Some limits on our capacity for processing information,” is one of the classics of cognitive psychology, although the term `cognitive psychology' does not appear in it. The first use of ‘cognitivism’ belongs to Ulier Nessier who published a book of that title in 1967. (~\citep{Neisser:2014wn})
+
+Miller argues that human's short-term memory behavior is limited to seven items plus or minus two. These `items', however, need not be individual atomic units like Ebbinghaus' nonsense syllables. Miller hypothesized that brain could `chunking' information into groups, which then could be easily remembered. To borrow a classic example from Bechtel and Graham, the sequence A, B, C, B, B, C, N, B, C, C, B, S would be difficult to remember on its own, but if it is `chunked' into ABC, BBC, NBC, CBS, remembering it is simple. According to Miller, “There seems to be some limitation built into us either by learning or by design of our nervous system, al limit that keeps our channel capacities in this general range.” (1956, p. 86) (see \ref{thesecondrevolution:cognitivescience} for a historical introduction.) Miller's paper in included in the appendix.
 
 \subsubsection{Further Reading}
 \label{furtherreading}
@@ -2968,7 +3127,7 @@ Cognitivism grew slowly between 1955 and 1965, in part because it was not an `in
 \section{Brief Sketch of the Game Characters}
 \label{briefsketchofthegamecharacters}
 
-Characters with a `*' will only be included in large classes.
+Characters are listed alphabetically by faction. Characters with a `*' will only be included in large classes.
 
 \subsection{Psychoanalysts}
 \label{psychoanalysts}
@@ -3269,7 +3428,7 @@ Philip Zimbardo has a great deal of promise as a researcher, but has yet to gain
 
 This section is written for the contemporary reader, not the ‘character’ you’ll be playing. The standards of what makes a good experiment have not changed significantly since the mid 1970s, so there should be no historical anachronisms contained herein.\footnote{Parts of this section is based on work completed during my Post-Doc at Washington University in St. Louis 2002--2004, in collaboration with William Bechtel, Adele Abrahamson and Carl Craver.}
 
-The image to the right (figure \ref{fig: scientificreasoningexample}) is a clipping from the Washington Post published in 2004. It’s one of these succinct summations of scientific research that appear all the time in the media---there is even a website (http:\slash \slash kill-or-cure.herokuapp.com\slash ) that tracks all the things that the British Tabloid \emph{The Daily Mail} has said either causes or cures cancer.
+F igure \ref{fig: scientificreasoningexample}) is a clipping from the Washington Post published in 2004. It’s one of these succinct summations of scientific research that appear all the time in the media---there is even a website (http:\slash \slash kill-or-cure.herokuapp.com\slash ) that tracks all the things that the British Tabloid \emph{The Daily Mail} has said either causes or cures cancer.
 
 So what, exactly, is the claim being made here? What evidence is given in support of that claim? If we take the main headline
 
@@ -4399,8 +4558,14 @@ There are a number of other issues that will arise, including whether there can 
 
 The game culminates in the vote defining ‘mental illness.’ There should be at least 3 candidates proposed: by Spitzer, Szasz and the Psychoanalysts. In reality, no one definition ever passed, and the Psychiatric and Psychological community still operate without a formal definition. In the world of your game, it’s pretty much up in the air if anyone will succeed in getting their definition passed.
 
-\subsection{Major Events}
-\label{majorevents}
+\subsection{Concurrent conversations}
+\label{concurrentconversations}
+
+There are three main ‘tracks’ or ‘conversations’ happening concurrently in this game. The first---the dominate narrative---starts with the demedicalization of homosexuality, follows the Spitzer proposal to rewrite the DSM-III and ends with the definition of mental illness.
+
+The second regards research proposals, labs and ethics. Weekly proposals are reviewed by the research committee, and if approved, the experiment performed by the members of the class.
+
+The third regards the policies of the APA, specifically the role in the wider culture of the APA specifically and Psychology and Psychiatry broadly construed. The elections to the board as well as Presidential elections are included in this conversation, even as they impact the other two. This thread climaxes in the debate on the Leona Tyler principle and Chomsky and Clarke’s arguments against.
 
 The are three majors topics \slash  events that every game should address. The first, demedicalization, is really a sample question to set up the major issues of the game.
 
@@ -4741,6 +4906,13 @@ It is difficult to get them to feel the pressure to legitimize psychiatry and ps
 Many of the primary sources from this period---especially those from the members of the Spitzer task force---recall a time of great confusion. Spitzer is often characterized as acting almost singlehandedly, ignoring the hard work that others put into the classifications they proposed. If students feel confused and overwhelmed with all of the proposals being brought forward and the changes being made, that is partially intentional. 
 
 While I believe that the removal of homosexuality was the correct decision, both morally and scientifically, that does not mean that the dissenters who point out the political bullying that went into passing the resolutions do not have a point. I want the students to come away with the sense that this period in the history of psychology and psychiatry was an all out scramble for legitimacy. Creating a sense of confusion and chaos is a necessary part of that environment.
+
+\subsection{Credibility Points}
+\label{credibilitypoints}
+
+At the beginning of each conference (each ‘week’ on the standard schedule), distribute 1 credibility point to every student entering the game. Each student \emph{must} give this point to the individual that he or she believes gave the best speech, research report or research proposal by the end of the week. 
+
+Running of office ‘costs’ credibility. Table \fullref{table: credibilitymenu} shows the suggested costs of running for a seat. You are welcome to adjust this table for your own purposes, but if you do so, make sure to provide a copy to all the students. A blank version is included on page \pageref{sample: credibilitypointsmenu}.
 
 \subsection{Victory Objectives}
 \label{victoryobjectives}
@@ -5158,20 +5330,37 @@ At the same time, we should remember that Medicare and Medicaid were created in 
 \section{Items you might need}
 \label{itemsyoumightneed}
 
+\begin{landscape}
 \subsection{Credibility Points}
 \label{credibilitypoints}
-
-\begin{landscape}
-    \thispagestyle{empty}
-    \noindent
-    \begin{tabularx}{\linewidth}{|c|c|c|X|}
+    \begin{tabularx}{\linewidth}{|C{1.75in}|C{1.75in}|C{1.75in}|C{1.75in}|}
       \hline
-      Lorem & Lorem & Lorem & foo\\
-      \hline
+      \rule{0pt}{1.25in}1 Credibility point & 1 Credibility point & 1 Credibility point & 1 Credibility point \\ \hline
+       \rule{0pt}{1.25in}1 Credibility point & 1 Credibility point & 1 Credibility point & 1 Credibility point \\ \hline
+       \rule{0pt}{1.25in}1 Credibility point & 1 Credibility point & 1 Credibility point & 1 Credibility point \\ \hline
+       \rule{0pt}{1.25in}1 Credibility point & 1 Credibility point & 1 Credibility point & 1 Credibility point  \\ \hline
+\label{sample: credibilitypoints}
     \end{tabularx}
-  \end{landscape}
-  
+
   \pagebreak
+
+\subsection{APA positions menu}
+\label{apapositionsmenu}
+
+    \noindent
+  \begin{longtable}[!t]{ | P{7cm} | P{2cm}  | } \hline
+\tahead{Position}&\tahead{Cost} \\ \hline 
+Vice-President of the APA& \\ \hline
+Member of the Board &  \\ \hline
+Chair, Research Committee &  \\ \hline
+Chair, Nomenclature Committee &  \\ \hline
+Chair, Program Committee &  \\ \hline
+\caption{Credibility costs for service to the APA}
+\label{sample: credibilitypointsmenu}   
+\end{longtable}   
+\end{landscape}  
+  \pagebreak
+
 
 \subsection{Labs \slash  possible research proposals}
 \label{labspossibleresearchproposals}
