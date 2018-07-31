@@ -7,3 +7,13 @@ The documents are maintained in Scrivener, and published via LauLatex.  Changes 
 The Scrivener file 'GameBook2.0.scriv' contains the Game Book, the Instructor's Manual and the Role Sheets in 'RTTP2.0' format.  Previous versions will be archived once I get around to it.
 
 The file 'APA-Complete-2.X.pdf' is the complete build, including all three books. Each will be separated out when I get around to it.
+
+## Playtest Record
+
+(as of 2015):
+
+* 2015 Spring: Elizabeth Kirkland
+
+* 2014, Spring Michelle Beechler, Ph.D., Assistant Professor, Department of Psychology, Adrian College
+
+* 2014 RTTP Game Developer's conferece, Simpson College Iowa.

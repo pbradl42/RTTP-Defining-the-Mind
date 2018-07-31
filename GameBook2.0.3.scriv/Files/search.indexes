@@ -1,80 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="147">
-            <Title>KenClark</Title>
-            <Text>## Kenneth Clark, PhD
-### Your Biography
-You are Kenneth Clark, a psychologist, educator, and social reformer dedicated to understanding and eradicating racial injustice.  You grew up in Harlem, attending the integrated schools of NY City, but attended college at Howard University in D.C. There, you met Mamie Phipps, who eventually became your wife, and with whom you authored numerous studies on the psychological damage caused by segregation and racism. You were the first African American to receive a Doctorate in Psychology from Columbia, and the first black permanent professor at City College of New York, where you still teach.
+        <Document ID="38">
+            <Title>Psychoanalysts</Title>
+            <Text>#### Psychoanalysts
 
-In addition to your excellent academic collaboration with Mamie, together you founded Harlem's Northside Center for Child Development in 1946, with the mission to “fosters the healthy development of children and families and seeks to empower them to respond constructively to negative societal factors including racism and its related consequences. Through comprehensive, high quality mental health and educational services, coupled with research, children and families are aided in developing to their full potential.”
+Psychoanalysts are split in the classical (Freudian), Jungian and unspecified.  The game contains a number of independent psychiatrists who, while they are familiar with psychoanalysis, are not professed members of the faction.
 
-In your most famous study (co-authored with Mamie), you presented four identical plastic dolls that different only with respect to color to black children between the ages of three and seven. When asked which doll they preferred, the majority selected the white doll. When asked to color in a drawing 'the same color' as themselves, most of the black children choose yellow or white crayons.  You concluded that “prejudice, discrimination, and segregation” had caused the children to develop a sense of self-hatred and inferiority.
+##### Classical
 
-The study become something of a sensation, and it is still included in most introductory psychology textbooks. It's effects, however, were much more profound that that.
+Classical psychoanalysis can be summarized by five basic hypotheses:
 
-In 1950, You (Kenneth), wrote a summary of the paper for the Midcentury White House Conference on Children and Youth.  The summary was read, ultimately, by Robert Carter, who was one of the NAACP lawyers pushing the various cases challenging segregation that ultimately were consolidated into the pivotal 1954 Brown v. The Board of Education decision.  The NAACP contracted you as an expert witness for at least three cases: Briggs v. Elliot (South Carolina) , Davis v. County School Board of Prince Edward County and Belton v. Gebhart (Delaware). You co-authored the summation that was ultimately endorsed by leading social scientists at the time when it went before the Supreme court.
+1.	First, psychoanalysts hold that the mind is composed of entities in conflict, also known as the *hypothesis of intrapsychic conflict* or **dynamic hypothesis**. In classic Freudianism, the hypothesis followed “the discovery of the unconscious” by Breuer and Freud in 1895 (see &lt;!--\ref{hysteriaandhypnosis:freudbreueronannao.}--&gt;). Traumatic event or fantasies can leave a subject with memories that are unacceptable to the conscious awareness. The conscious awareness defends itself by suppressing the traumatic event in the unconscious by means of repression (see, e.g. *Introductory Lectures on Psychoanalysis*, p. 82, 94 also p. 438). This hypothesis is sometimes called the **psychodynamic hypothesis**.
+
+2.	Second, psychoanalysis posits that there is a finite amount of psychic energy available to any given individual. This forms the **Economic hypothesis** of classical psychoanalysis (See Freud, *Introductory Lectures*, p. 26 and 436-7 for the thesis that psychic energy is sexual; p. 340, 442-3 and 466for an explicit statement. It also appears in *On the Interpretation Dreams*, Ch7). The activities of the mind are “costly,” and hence the mind will optimize its function for the most efficient option.
+
+3.	The **topographical hypothesis** is Freud's most well known:  the mind composed of three basic kinds of thoughts: conscious thoughts, pre-conscious thoughts and unconscious thoughts. The term 'thoughts' here is used broadly, to include wishes, desires, fears, emotions, etc. Conscious thoughts are those of which we are aware. Pre-conscious thoughts, are not currently conscious, but are readily available to consciousness. The memory of your last birthday, for example, is probably pre-conscious, not unconscious. Unconscious thoughts, which far outnumber the other two categories, are unavailable to consciousness. All these thoughts, however, originate in experience: there is nothing in the unconscious store that is not linked in some way to that individual's past experiences. (see, e.g. *Introductory lectures*, p. 25)
+
+4.	The **genetic hypothesis** claims that human behavior is best explained in terms of the original conditions that cause it. In Freud's theory, the genetic hypothesis takes the form of his theory of infantile sexuality.  
+For Freud, all behavior ultimately originates in sexual desire. To summarize briefly: Freud hypothesized that sexual drive, the main source of psychic energy, is present from birth. He is explicit in using the term 'sexual' here, but it is sometimes easier to understand if we use a softer term like 'using one's body for pleasure.' Freud repeated argues for infantile sexuality by pointing out the noncontroversial pleasure children take in tickling or cuddling, but we wouldn't necessarily call these 'sexual' today. Freud himself, somewhat to his detriment, insisted on the term 'sexual' even despite these kind of objections.  
+This drive towards physical gratification takes various forms throughout our lives, moving through the oral phase to the anal phase to the phallic stage. If the internal drives are left unfulfilled, or the internal conflicts unresolved (which is really two ways of saying the same thing), neurotic behavior results.
+
+5.	Psychoanalysts differ with respect to the entities that comprise the mind, but most recognize Freud's basic **structural hypothesis**: the mind is functionally divided between the id, the ego and the superego (see *Introductory Lectures*, p. 365). The *id*, which is totally unconscious, contains the representations of sexual and aggressive instinctual drives. The *ego* regulates and controls the desires of the id in relation to the demands of the external world, which are internalized as the *superego*. The ego follows the **economic hypothesis**, in seeking to maximize gratification of the instinctual desires while minimizing the amount of psychic energy spent in that process. It achieves this end through the use of various mechanisms of representation and repression (sometimes called 'defense mechanisms'):
+
+ * **Repression**: The first mechanism proposed by Freud (Breuer and Freud), the ego banishes or precludes an idea or feeling from conscious awareness.
+
+ * **Isolation**: Ideas are split off from their associated feelings (affect) and  presented as alien or foreign in origin.
+
+ * **Reaction formation**: replacing the unacceptable desire with its symbolic opposite.
+
+ * **Displacement**: unacceptable wishes are removed from their original objects and moved to an acceptable, or at least not-unacceptable one.
+
+ * **Projection**: an unacceptable idea or desire is attributed to someone else.
+
+ * **Undoing**: painful or unacceptable ideas are minimized by overdoing some opposite action in some opposite arena.
+
+ * **Turning against the self**:  the original object of an unpleasant desire (usually hate) is replaced with the self.
+
+ * **Denial**: the individual remains unaware of certain aspects of reality that would be painful to recognize.
+
+ * **Rationalization**: the individual convinces himself or herself that their behavior has a logical, reasonable, or at least neutral, explanation in order to avoid the unacceptable cause.
+
+ * **Identification**: usually found during development, a child becomes like another person (usually a parent) in order to deal with separation or loss of a love-object.
+
+These conflicts can be discovered by studying the mechanisms of representation that are used to obfuscate and repress traumatic experiences and latent desires.  The mechanisms of representation take the object represented (the 'latent content') and replace it with a representation (the 'manifest content'). The relationship between these two can be one of:
+
+* **Part to whole**: the latent content is fragmented and represented in isolation. ([p. 147][#Freud:QdOvAgyZ])
+
+* **Allusion**: the latent content is represented by, in Freud's words “a caption, as it were, or an abbreviation in telegraphic style.” ([p. 148][#Freud:QdOvAgyZ])
+
+* **Plastic portrayal**: the latent content is replaced with a plastic, concrete portrayal of it, taking its cue from the superficial aspects of the latent content. For example, the editor of a 'Survey' may be represented in a dream as a 'surveyor'. ([p.149][#Freud:QdOvAgyZ])
+
+* **Symbolism**: symbols are stable translations of one object into another. The relation between the object symbolized (the latent content) and the object that does the symbolization (the manifest content) is stable in an individual, but may not be stable between individuals. But it is always true that the latent content and manifest content share something in common. It is the task of the psychoanalysts, through the techniques of free association and manipulating transference reactions, to discover the common factors between the latent and manifest content, and hence reveal the symbolic relationships.  ([p. 185][#Freud:QdOvAgyZ])
+
+	(see  [Lecture VII-X][[#Freud:QdOvAgyZ])
+
+By revealing these relationships to the subject of psychoanalysis, the ego becomes aware of latent trauma and hence can deal with it in healthy ways, removing the conflict and obviating the neurosis.
+
+Interpsychic conflict is a part of the normal maturation of a healthy adult mind. Neurosis and Psychosis occur, therefore, when this development goes wrong in some important way. Development can go awry through *inhibition* or *regression* (see [Ch 22-23][#Freud:QdOvAgyZ]).  In 'inhibition', portions of function of the ego are held back from development, often because it becomes *fixated* on a particular libidnal instinct.  In 'regression' an ego that has progressed further than a given developmental stage returns to that stage was a kind of defense mechanism.
+
+The terms 'neurosis' and 'psychoneurosis':
+
+&gt; “refer to a class of psychiatric illnesses characterized by prominent symptoms that have no significant somatic origin. The symptoms include disturbances of feelings (anxiety, depression, guilt), disturbances of thought (obsessions), and disturbances of behavior (compulsions and phobic inhibitions), all of which are experienced as alien to the comfort and well-being of the individual” (*American Handbook of Psychiatry*, p. 737-738)
+
+Neurosis, then, is explained when the conflict between the desires of the id and the defense mechanisms of the ego go awry: (1) the ego's defense mechanism leaves the drive unfulfilled, (2) the defense mechanism imposes a disguised or symbolic form onto the original drive in order to hide it from the consciousness, and (3) the superego imposes some suffering as punishment for the self-denial, such a guilt.
+
+Psychosis occurs when the id constructs its own reality and imposes it on the ego. The subject can no longer function in normal life—he or she may be beset by hallucinations, persistent delusions, wild mood swings, visual and auditory agnosia, amnesia, etc. It is worth noting that unlike *neuroses*, psychoses may be the result of organic brain syndromes or other physical conditions. Psychoses not associated with physical conditions include schizophrenia, affective disorders and other reactions.
+
+As the id is the source of psychic energy, unacceptable drives using one of the mechanisms above will not remain repressed forever. As unacceptable drives gain in strength and threaten to reveal themselves, a number of reactions are possible (see *Introductory Lectures*, Ch. 19):
+
+* **Anxiety reaction**: a chronic, free-floating anxiety which may have periods of acute anxiety. Typified by feelings of helplessness; although symptoms include phobias, obsessions, compulsions and depression. It is caused by the failure of all the defenses to keep the unacceptable instinctual drives in stable control. (*Introductory Lectures*, Ch. 25, p. 452)
+* **Phobic reaction**: typified by one or more prominent phobias: and extreme anxiety focused on an ordinary place, object or situation.  The mechanism of displacement moves the anxiety associated with the unacceptable drive to a neutral place, object or situation, which then is allowed to flourish unchecked by the defense mechanisms of the ego. (*Introductory Lectures*, p. 495-498)
+* **Conversion reaction**: what used to be called 'hysteria', it can manifest itself in many symptoms, including spasms, temporary paralysis, visual or auditory agnosia, weakness, shortness of breath, pains, etc. It results when the unacceptable instinctual drive is 'converted' into apparently physical symptoms. (*Introductory Lectures*, p. 485, 497-8)
+* **Obsessive-compulsive reaction**: the patient is troubled by persistent thoughts that are usually painful in nature. These obsessional thoughts interfere in some important way with the patient's ability to engage in a meaningful adult life: i.e. intellectually, sexually, socially or professionally. Anxiety at not following through on an obsessional thought, which often manifests as repeated actions regarding some mundane object, can be severe and often is only revealed by completion of the mundane task in question. (*Introductory Lectures*, Ch. 17)
+
+As an example, classical psychoanalysis holds that obsessive-compulsive reaction can be traced to unresolved conflicts in the anal stage of development, where frustration at potty-training is turned into rage towards one's mother. That rage, in turn, is found to be unacceptable by the ego and repressed through one of the standard mechanisms creating obsessions with objects or scenarios that are symbolically linked to the original frustration. The particular object of obsession is essentially random, as the subject latches onto some mundane object present at the time of the frustration. The choice of obsessional object, however, can provide clues as to the true cause of the frustration, as it is invariably linked, through one of the mechanisms of representation, to the true object. The compulsive aspect of this conditions is an 'acceptable' outlet for the unacceptable rage towards one's mother.  Psychoanalysts go on to hold that obsessive-compulsive is often unconsciously aware of his or her rage and may take extreme steps to avoid losing control when provoked.  
+
+###### Psychoanalytic Treatment
+
+Psychoanalysis—the process of psychoanalytic treatment—aims at resolving unresolved conflicts that cause neurosis. The psychoanalyst seeks to align the psychic forces within the individual so that they are no longer in conflict. A psychoanalyst must keep all five psychoanalytic hypotheses—the topographical, dynamic, economy, genetic and structural—in mind during treatment, but in practice, tends to focus on one or two at a time.  
+
+Classical psychoanalysis makes use of two basic techniques: free association and manipulating transference reactions. In **free association**, the psychoanalyst removes himself or herself from the patients line of sight (hence the standard couch with the psychoanalyst seated behind the patients' head), and asks the patient to say whatever comes to mind when prompted regardless of logic, order or social constraint. In a relaxed state, it is theorized, these free-associations will reveal the connections between ideas that, when analyzed, explain the relationships this particular patient uses to represent latent content with manifest content.
+
+Freud is often naively criticized for insisting on universal symbolic relationships: cigars always represent penises, for example. But this simply isn't true: classical psychoanalysis is 'empirical' in the sense that there is nothing in the mind that was not put there from experience.  The symbolic relationships found in a patient have built up by that patient, based on his or her unique experiences. Where commonalities occur between patients, they are at the level of the language (i.e. symbolic relationships that originate from homophones in German would not be found in an English-speaking patient) or culture (i.e. shared mythology). So while a cigar may represent a penis because of its shape to some, it may represent excrement because of its color to others.
+
+**Transference** reactions are inappropriate reactions in which the patient reacts to a person or object in the present as if it were a person or object from the past (see *Introductory Lectures*, Ch. 27). Transference is, in Freud's terms, a 'repetition,' a reliving of an event, relationship, emotion, attitude, etc. with a substitute person or object. Transference can be a very powerful tool for the psychoanalyst, especially when the object that is the source of the unresolved conflict can be projected onto a substitute, and the patient allowed to address the object directly. If a patient's neurosis originates in unresolved anger towards his dead father, substituting a inanimate object for that father can allow the patient to exorcise the anger and hence dissolve the neurosis. Since Freud's masterwork *Dora*, many psychoanalysts have held transference to be the primary tool of psychoanalysis.
+
+In order for transference to work, however, the patient must be willing and capable of suspending his or her 'ego' and regressing to the state where he or she really believes that the substitute is the original source of the conflict. As psychotics live in a state where experienced reality is formed by the psychic desire not reality itself; psychotics are not suitable candidates for treatment via transference.
+
+Throughout treatment, the psychoanalysts must be aware of **resistance**.  Resistance is the patient's opposition to treatment. It defends the status quo by maintaining the neurosis or psychosis. Resistance may be conscious, subconscious or pre-conscious. It may hinder or misdirect free association. It may distract via inappropriate and unhelpful transference reactions. It may adapt to novel situations and invent new strategies. As Freud himself said “The resistance accompanies the treatment step by step. Every single association, every act of the person under treatment must reckon with the resistance and represents a compromise between the forces that are striving towards recovery and the opposing ones.” (1912, p. 11).
+
+The psychoanalytic treatment can then be broken down into four basic steps:
+
+* **Confrontation**: The first step in psychoanalysis: the patient's conscious ego must be made aware that there is a problem.  
+
+* **Clarification**: The problem is put into sharp focus. Often, this process works with the previous, as minor conflicts give way to greater conflicts.
+
+* **Interpretation**: The process of bringing the unconscious conflict into consciousness.
+
+* **Working through**: the progressive elaboration of resistance mechanisms as they manifest.
+
+There are, of course, many more complications that occur in any single patient's psychoanalytic treatment, but these four basic steps are almost universally recognized.
+
+When embarking on a new treatment, then, the psychoanalyst has three basic aims:
+
+1. To translate the productions of the patient into their unconscious antecedents. The patient's thoughts, fantasies, feelings, behavior, and impulses have to be traced to their unconscious predecessors.
+
+2. The unconscious elements must be synthesized into meaningful insights. Fragments of past and present history, conscious and unconscious, must be connected so as to give a sense of continuity and coherence in terms of the patient's life.
+
+3. The insight so obtained must be communicable to the patient. As one listens one must ascertain what uncovered material will be constructively utilizable by the patient. (Quoted from  [p. 779][#Arieti:1974tm])
 
 
-Writing for a unanimous court, Chief Justice Warren stated
+###### Jung
 
-&gt;“Does segregation of children in public schools solely on the basis of race, even though the physical facilities and other "tangible" factors may be equal, deprive the children of the minority group of equal educational opportunities? We believe that it does.”
+Jungian psychoanalysis is distinguished from classical psychoanalysis by two major shifts in the basic theory.
 
-Quoting from the appellate court (which actually ruled against the NAACP), Chief Justice Warren argued:
+First, Jungian psychoanalysis holds that the subconscious contains psychical elements that do not originate in the experiences of the individual being psychoanalyzed.  As mentioned previously, classical psychoanalysis is empirical about the mind (for an explanation of that tradition, see &lt;!--\fullref{pre-historyofpsychology:empiricismaboutthemind}--&gt;), holding that the mind comes into the world as a blank slate (tabla rasa), and is progressively filled by experiences. The contents of the unconscious must therefore be traceable to discrete experiences in the individual's life. And it is the task of psychoanalysis to discover those experiences.  
 
-&gt; "Segregation of white and colored children in public schools has a detrimental effect upon the colored children. The impact is greater when it has the sanction of the law; for the policy of separating the races is usually interpreted as denoting the inferiority of the negro group. A sense of inferiority affects the motivation of a child to learn. Segregation with the sanction of law, therefore, has a tendency to [retard] the educational and mental development of negro children and to deprive them of some of the benefits they would receive in a racial[ly] integrated school system."  
+Jungian psychoanalysts believe they have evidence of unconscious contents that are not explainable by the experiences of the individual. Thus, they hypothesize the existence of a deeper 'collective unconscious' that is composed of 'archetypes' that inform and structure the content of both the unconscious as well as our conscious lives.
 
-Whatever may have been the extent of psychological knowledge at the time of Plessy v. Ferguson, this finding is amply supported by modern authority.11  Any language [347 U.S. 483, 495]   in Plessy v. Ferguson contrary to this finding is rejected.
+Second, on a related note, Jungian psychoanalysis extends the *genetic hypothesis* from Freud's insistence that all psychic energy was sexual energy to include sexual energy as just one of many sources of psychic energy.
 
-Footnote 11, which supports the central finding of Brown, cites your 1950 memo “Effect of Prejudice and Discrimination on Personality Development.”
+For example, Freud originally posited that neurosis originated in traumatic experience in childhood on the basis of self-reports of his case-study patients. He ultimately came to realize, however, that these self-reports were fictionalizations, theorizing that the  true cause of his patient's neurosis lay in their infantile fixations. Once again, Jung extends Freud's insight to allow for fixations throughout life. He argues that:
 
-In the 1896 case Plessy v. Ferguson, the Supreme court ruled that so long as railroad accommodations were 'separate but equal', the state of Louisiana was allowed to enforce racial segregation.  The court reasoned that laws which kept races separated did not necessarily entail the inferiority of one to the other. Your study was pivotal in the Warren's court rejection of that idea.
+&gt;	..the moment of the outbreak of neurosis is not just a matter of chance; as a rule it is most critical. It is usually *the moment when a new psychological adjustment, that is, a new adaptation, is demanded*. Such moments facilitate the outbreak of a neurosis, as every experienced neurologist knows.
 
-Brown v. Board of Education was not only a milestone in the modern civil rights movement, it also made you into something of an academic superstar. You went on to become the most influential black social scientist of your generation. You received honorary degrees from more than a dozen of the nation's finest colleges and universities, but your larger goal of integrated, adequate schooling for blacks had not become a reality even four decades after the announcement of the monumental court decision.
+ &gt; This fact seems to me extremely significant. If the fixation were indeed real we should expect to find its influence constant: in other words, a neurosis lasting throughout life. This is obviously not the case. The psychological determination of a neurosis is only partly due to an early infantile predisposition; it must be due to some cause in the present as well. ([p. 49][#Jung:ss-xAx6i] “Psychoanalysis and Neurosis”)
 
-In the 1960s, you helped establish the Harlem Youth Opportunities Unlimited, a project that influenced President Lyndon Johnson's War on Poverty program.
+That leads to the general proposition that Freud's identification of sexual desire as *the* origin of neurosis was far too narrow. Sexual desire is one of the pleasurable instincts that shape our psychology, but for Jung, “psychoanalytic theory should be freed from the purely sexual standpoint. In place of it I should like to introduce an *energetic viewpoint* into the psychology of neurosis” ([p. 50][#Jung:ss-xAx6i]).
 
-Your many books include Prejudice and Your Child (1955), Dark Ghetto: Dilemmas of Social Power (1965), and The Negro American (1966).  
+Jung hypothesizes that the libidinal energies naturally increased when faced with an obstacle, in order to overcome it through adaptation. When that obstacle is too great, the libido retreats and regresses, and the patient reverts to a more primitive “mode of adaptation.” The practice of psychoanalysis is the same, however, as Jung theorizes that the energy that the patient needs to overcome the present obstacle and become healthy is attached to these sexual fixations. By bringing past frustrations and maladaptations to light through psychoanalysis, the libidinal energy is free to return to the present-day task: adaptation to overcome the current obstacle.
 
-### Game Objectives
+The task of a psychoanalyst, then, is not only to discover the original traumatic cause of a neurosis, probably buried deep in childhood, but to discover the current obstacle that is perceived as being insurmountable. Jung agrees with Freud that the childhood fixations determine the *form* of neurosis, but unlike Freud holds that they cannot be considered the *immediate cause* of neurosis.
 
-As an initial member of the Research committee, you'll be called upon to judge the scientific legitimacy and ethical acceptability of proposed research programs.  You should make yourself familiar with the sections of the game book titled 'A Primer on Research Methods' and 'Ethics of Human Research'.  Your gamemaster will give you an additional sheet outlining the responsibilities of members of the research committee in evaluating proposals.  In the first year, you are likely to get a proposal to the research committee that proposes an experiment on a child. It is vital that you prompt the committee as a whole to seriously consider the nature of 'consent' in the context of  power dynamics and social inequality.
+The difference between practice among the psychoanalytic approaches is emphasis, not technique. As J.B. Wheelwright noted in 1963, “Freud focused on sexuality, Adler focused on power, and Jung focused on growth, which he called individuation.” (quoted in [p. 817][#Arieti:1974tm])
 
-Oppose the passing of the 'Leona Tyler principle', which states:
+##### For Further reading:
 
-&gt;“As citizens, members of the APA have the right to advocate for any cause through the myriad of political advocacy organizations, but when psychologists and psychiatrists speak for the profession through APA public stances and proclamations, it should be from science and professional experience.  
-
-On occasion psychiatrists are asked for an opinion about an individual who is in the light of public attention or who has disclosed information about himself/herself through public media. In such circumstances, a psychiatrist may share with the public his or her expertise about psychiatric issues in general. However, it is unethical for a psychiatrist to offer a professional opinion unless he or she has conducted an examination and has been granted proper authorization for such a statement.”
-
-Get elected president.  That can be before or after your symposium.
-
-You are neutral on the definition of mental illness. 
-
-#### Specific Assignments
-Organize, propose and participate in a symposium on the role of psychology as a mechanism of social change or more generally, on the social responsibilities of scientists, preferably in 1973.  Chomsky and Marmor may be a good choices as a co-panelists. You should present a paper on psychology's role for social good. If you are elected president, it should be your presidential address. If not, it can be a part of the symposium.
-
-In 1975, propose an affirmative action plan for psychology and psychiatry. Here's the real language. You should adapt it to your needs:
-
-&gt; THERE IS a continuous need to increase the number of minority psychiatrists; the American Psychiatric Association has consistently demonstrated its commitment to the principle of affirmative action as reflected in its efforts of recruitment and training of minority psychiatrists. APA has previously developed and instituted policies recognizing and supporting the special mental health issues of minority populations; however, there are serious threats to affirmative action programs that have facilitated the following endeavors: APA reaffirms these commitments and policies by 1) issuing a public statement drawing attention to the potential deleterious effects that such threats pose to the delivery of health services to minority groups; 2) actively participating with other professional and educational groups to assure continued recruitment and training of minority candidates in medical disciplines; and 3) further exploring and developing, through its appropriate components, mechanisms to assure continued implementation of these commitments.
-
-### Must Read
-
-Phillips, L. “Recontextualizing Kenneth B. Clark: An Afrocentric Perspective on the Paradoxial Legacy of a Model Psychologist-Activist” from Evolving Perspectives on the History of Psychology, Pinkren, W &amp; Dewsbury, D.
-
-Clark, K. (1971) “The pathos of power: A psychological perspective” American Psychologist 26(12) 1047-1057
-
-#### Further Reading
-
-Clark, Kenneth B. &amp; Clark, Mamie K. (1939). The development of consciousness of self and the emergence of racial identification in negro preschool children. Journal of Social Psychology, S.P.S.S.I. Bulletin, 10, 591-599. [Available at psychclassics: http://psychclassics.yorku.ca/Clark/Self-cons/]
-
-Clark, Kenneth B. &amp; Clark, Mamie K. (1940). Skin color as a factor in racial identification of negro preschool children. Journal of Social Psychology, S.P.S.S.I. Bulletin, 11, 159-169. [Available at psychclassics: http://psychclassics.yorku.ca/Clark/Skin-color/]
-
-Cook, S. W. (1957). "Desegregation: A Psychological Analysis." The American Psychologist 12: 1-13. [Presidential address at the Annual Meeting of the New York State Psychological Association, 1956]
+###### Primary Sources:
 
 
+[#Freud:QdOvAgyZ]
+
+[#Freud:vJ1P2PRd]
+
+[#Freud:1994wo]
+
+[#Jung:cpLzoBjv]
+
+[#Jung:1953uoa]
+
+###### Secondary Sources:
+
+[#Arieti:1974tm]
 </Text>
-            <Comments>Quoted from http://www.northsidecenter.org/v4/ourmission.php
-See http://www.will.uiuc.edu/community/beyondbrown/brown5cases.htm</Comments>
+            <Comments>'Neurotic' behavior results from continuing conflict between the libidinal desires and the ego's repression techniques. 'Psychotic' behaviors result when the libidinal desires assert their reality on the ego. See the discussion of 'neurosis' and 'psychosis' in the History of the Classification of Mental Illness section below.
+The Introductory Lectures were published before Freud solidified the structural hypothesis using this terminology.  The beginnings of the idea, however, is present in the later chapters on neurosis: see, e.g. p. 437-438, where he describes the conflict between the 'libido' and the 'ego'.
+The Introductory Lectures mention only repression, subdivided into 'condensation' and 'displacement' as mechanisms of the ego, but promises further work on the topic (p. 364-366). He began to develop a taxonomy of ego mechanisms later in his life, but the full-fledged taxonomy we see here was developed his daughter Anna Freud (1936). The Ego and and the Mechanisms of Defense. C. Baines (trans). Connecticut: International University Press.
+In many works, including Psychopathology in Everyday Life, Introductory Lectures on Psychoanalysis and On the Interpretation of Dream, Freud provides the following outline of the kinds of commonality that underly symbolism: that of number (i.e. '3' and male genitalia), shape (i.e. long, straight objects such as sticks, umbrellas, posts, trees represent the male organ / hollowness or enclosing space such as vessels, bottles, boxes, trunks and ships symbolize female genitals; apples, peaches and fruit symbolize breasts), function (i.e. penetrating the body: knives, daggers, spears, sabers, firearms, rifles, pistols etc.; producing liquids, such as water-taps, water-cans, etc.; and being capable of lengthening or shortening, such as pencils, hanging-lamps, etc.; defying gravity (i.e. balloons, flying machines and zeppelins also represent the male organ). More complicated representations depend on personal associations with or reactions to objects: the complicated nature of landscapes mean they represent female bodies, sweets represent sexual satisfaction. Activities such as playing games, playing piano, sliding, gliding or pulling stand for masturbation because of the similarity of action. On the same note, rhythmic actions such as dancing, riding and climbing stand in for the sex act itself. Simple associations may appear as well: neckties, which are only worn by men, can symbolize men. (Introductory Lectures, p. 188-204)
+see 290-294 of the DSM II, which is included in Appendix &lt;!--\fullref{app: DSMII}--&gt;.
+see 295-299 of the DSM II
+See item 300 in the DSM II for the full taxonomy of neurosis.
+There is something of a controversy over whether psychoanalysis can be used to treat psychosis. While many psychoanalysts believe psychosis and neurosis to be on a single spectrum of mental dysfunction, the psychotic patient's connection to reality is so tenuous that the techniques of free-association and transference threaten to develop the psychosis further, rather than dissolve it.
+In Aristotlean metaphysics, the *formal* cause of something is the form of the thing whereas the immediate cause are the events that immediately proceeded the thing in question.  The *form* is the pattern or type of thing something is. The immediate cause is what brings that thing into being. In this context, the *form* distinguishes the type of neurosis, the immediate cause is what caused the neurosis to present at this moment.</Comments>
         </Document>
         <Document ID="162">
             <Title>CSocarides</Title>
@@ -324,229 +412,6 @@ See 315 of 'Discovering the History of Psychiatry' (in Google Books).
 Actually, this is historically inaccurate. Popper did, in fact, use Freud and Adler, along with Marx, as his primary examples of pseudoscientific research in Conjectures and Refutations (1962), which was published after Szasz' The Myth of Mental Illness. Popper's work before 1960 includes his The Logic of Scientific Discovery (1959), which lays out the theory of falsifiability as demarcation criterion, but does not illustrate it with Freudianism. In the same way, his 1945 The Open Society and Its Enemies—which Szasz cites as influential—contains a few off-hand comparisons between Freud and Marx, but does not articulate the connection in a systematic way.
 The historian of ideas may notice that this view is Kantian in nature: human language, which is the essential, identifying ability of humanity, is itself uncaused and spontaneous.</Comments>
         </Document>
-        <Document ID="56">
-            <Title>Modelling</Title>
-            <Text>One way to explain why something happens is to demonstrate a cause for it. But causes typically do not operate in isolation. Encountering a virus may explain why you developed the flu, but the condition of having the flu only arises when a number of other things happen. In particular, a virus must invade a particular cell (flu viruses invade cells lining a person’s respiratory or digestive track). 
-
-Except for the fact that some viruses break out of their generous hosts by breaking the host cell open and killing it, this all sounds harmless enough. But the consequences are what debilitate you:
-
-* When the cells lining the respiratory track are killed, fluid can flow into your nasal passages; this is what you experience as a runny nose.
-
-* This nasal fluid contains more viruses and as they drip down your throat they attack the cells lining it. You experience this as a sore throat.
-
-* The virus particles that get into your bloodstream attack muscle cells, which you experience as muscle ache.
-
-* Finally, you body is designed to resist this assault. One thing it does is produce pyrogens, chemicals that cause your body temperature to increase. The higher temperature reduces the capacity of cells to carry out their operations, including hosting the creation of new viruses.
-
-Although it was the virus that caused the flu, a lot of other operations were going on. The virus had to rely on a complex bit of machinery to carry out its task of reproducing itself, and in the process laying you low with the flu.
-
-&lt;!--\begin{marginfigure}
- \begin{center}
-
-     \includegraphics{../images/phrenology.jpg}
-\caption{Mechanistic explanation is not new to science. In the 19th century, Franz Joseph Gall suggested phrenology, which sought to identify particular mechanisms of intelligence with particular bumps on the skull. The mechanism posited held that personality traits were localized in the brain, and the brain would be enlarged in specific areas for those traits. The enlargements could then be detected by the structure of the skull. We still accept the idea of localization, but unlike muscles, excess activity does not make the brain enlarge. Image from Wikimedia Commons}
-\end{center}
-\label{fig:phrenology}
-\end{marginfigure}--&gt;
-
-The explanatory scenario just outlined, in which we invoke a mechanism to explain a causal effect, is extremely common in science.
-
-* To explain the reproduction of cells, scientists describe the *mechanism* of cell reproduction.
-
-* To explain how blood carries nutrients to tissues in the body, they describe the *mechanism* of circulation of the blood.
-
-* To explain how people can remember events in their lives and new factual information, they describe the mechanisms of memory encoding, storage, and retrieval.
-
-&lt;!--\begin{thesis}[Mechanism definition]
-Mechanism: entities and activities organized so that a phenomenon occurs or entities and activities organized in such a way as to realize a function.
-\end{thesis} --&gt;
-Explaining the occurrence of a phenomenon by identifying the mechanism that produces it is perhaps the most common explanatory strategy in science. Accordingly, we need to consider in detail
-
-* what a mechanism is
-
-* how mechanisms are described
-
-* how mechanisms are discovered
-
-* how mechanisms are modeled
-
-* how accounts of mechanism are tested.
-
-	
-</Text>
-        </Document>
-        <Document ID="114">
-            <Title>Depends on elections</Title>
-            <Text>#### Other topics that may come up according to game play
-
-&lt;!--\begin{apatextbox}{Leona Tyler Principle (L Tyler, when president)}--&gt;
-
-&gt; As citizens, members of the APA have the right to advocate for any cause through the myriad of political advocacy organizations, but when psychologists and psychiatrists speak for the profession through APA public stances and proclamations, it should be from science and professional experience. 
-
-&gt; On occasion psychiatrists are asked for an opinion about an individual who is in the light of public attention or who has disclosed information about himself/herself through public media. In such circumstances, a psychiatrist may share with the public his or her expertise about psychiatric issues in general. However, it is unethical for a psychiatrist to offer a professional opinion unless he or she has conducted an examination and has been granted proper authorization for such a statement.
-
-&lt;!--\end{apatextbox}--&gt;
-
-&lt;!--\begin{apatextbox}{Position Statement: Hospital Privileges for Psychologists}--&gt;
-
-&gt;POSITION STATEMENT  (1974)
-
-&gt;&gt;Approved by the Board of Trustees, December 1970
-
-&gt;&gt;This statement was prepared by the Committee on Psychiatry and Psychology.
-
-&gt;Because of professional and legal considerations, the ultimate medical responsibility for patients admitted to hospitals should remain with licensed physicians. Psychologists, like other nonmedical professionals, should be eligible for some type of hospital appointment
-
-&lt;!--\end{apatextbox}--&gt;
-
-&lt;!--\begin{apatextbox}{Position Statement: Affirmative Action}--&gt;
-
-&gt;POSITION STATEMENT
-
-&gt;&gt;Approved by the Board of Trustees, December 1977
-
-&gt;&gt;Approved by the Assembly of District Branches, October 1977
-
-&gt; This statement was prepared by the Committee of Black Psychiatrists1 and recommended by the Council on National Affairs 
-
-&gt;THERE IS a continuous need to increase the number of minority psychiatrists; the American Psychiatric Association has consistently demonstrated its commitment to the principle of affirmative action as reflected in its efforts of recruitment and training of minority psychiatrists. APA has previously developed and instituted policies recognizing and supporting the special mental health issues of minority populations; however, there are serious threats to affirmative action programs that have facilitated the following endeavors: APA reaffirms these commitments and policies by 1) issuing a public statement drawing attention to the potential deleterious effects that such threats pose to the delivery of health services to minority groups; 2) actively participating with other professional and educational groups to assure continued recruitment and training of minority candidates in medical disciplines; and 3) further exploring and developing, through its appropriate components, mechanisms to assure continued implementation of these commitments. 
-
-&lt;!--\end{apatextbox}--&gt;
-
-##### Optional
-
-If the gamemaster wishes to make a point about the influence of psychopharmacology and health insurance companies in the development of the DSM-III, he or she may wish to make use of the 'Exhibits' included in the “Call for papers and symposia” and hang up posters advertising Miltown, Tofranil, Librium and Valium. There are a great number of blogs and websites dedicated to storing and distributing these historical images. Here are a few:
-
-* Miltown: http://www.homeeverafter.com/miltown-a-piece-of-1950s-homemaker-history/
-
-* Tofranil: https://www.biopsychiatry.com/imipramine/350x525xtofranil.jpg.pagespeed.ic.xDYlzJklSs.webp
-
-https://www.biopsychiatry.com/imipramine/tofranil.html
-
-* Librium: &lt;!--\begin{marginfigure}
- \begin{center}
-
-
-     \includegraphics{../images/librium_75651.jpg}
-\end{center}
- \caption{Advertisement for Librium, 1962. From https://www.mmm-online.com/channel/med-ad-hall-of-fame-to-induct-lerner-girgenti-and-rubin/article/155796/
-}
-\label{fig: valium65}
-\end{marginfigure}--&gt; 
-
-* Valium: 
-&lt;!--\begin{marginfigure}
- \begin{center}
-
-
-     \includegraphics{../images/valium65.jpg}
-\end{center}
- \caption{Advertisement for Valium, 1965.  }
-\label{fig: valium65}
-\end{marginfigure}
---&gt;
-From http://faculty.weber.edu/ewalker/Medicinal_Chemistry/topics/Psycho/psycho.htm
-
-
-At the same time,  we should remember that Medicare and Medicaid were created in 1965, and the health insurance industry was undergoing a simultaneous revolution:  
-
-* BlueCross 1960: 
-
-&lt;!--\begin{marginfigure}
- \begin{center}
-
-
-     \includegraphics[scale=0.25]{../images/md28530.jpg}
-\end{center}
- \caption{Advertisement for Blue Cross, 1960. From http://www.decodog.com/inven/MD/md28530.jpg }
-\label{fig: BlueCross}
-\end{marginfigure}
---&gt;
- 	</Text>
-        </Document>
-        <Document ID="49">
-            <Title>Observation</Title>
-            <Text>#### Observational research
-
-We acquire knowledge of the world primarily through our senses. As humans, we rely most heavily, but clearly not exclusively, on vision. Seeing the world seems very straight-forward. We open our eyes and the world impresses itself upon our consciousness. 
-&lt;!--\begin{marginfigure}
- \begin{center}
-
-
-     \includegraphics[scale=0.50]{../images/AmbigCheeta.jpg}
-\end{center}
- \caption{Ambiguous Cheetahs, from --&gt; [#Pitts:2007km]&lt;!--}
-\label{fig: ambiguouscheetahs}
-\end{marginfigure}--&gt;
-
-Take a look at the image to the right.  Which head goes with which cheetah?  Can you flip your interpretation to see it the ‘other way’?  There are *tons* of created images like this, from the Necker cube to Salvador Dali paintings, the way you see the image can change dramatically, depending on the environmental conditions or what you had experienced just before seeing the image.
-
-Our ability to see is, in part, learned. One aspect of 'successful' seeing is the ability to recognize things when one encounters them again. Recognition requires the ability to categorize. Seeing, in this robust sense, also implies the ability to organize the categories into a taxonomy or classification system.
-
-Although much scientific research goes beyond mere observation to posit causal processes and mechanisms behind what is observed, observational research plays a vital role in the development of scientific knowledge— both in delineating the phenomenon of study and in validating hypothesis and predictions. When conducting observational research, the question of how we organize observations into categories, as well as how we organize categories into taxonomies, plays a central role. In addition, we must pay careful attention to the notion of a 'variable', and how we measure and estimate the values of variables.
-
-Observational research is an important part of the scientific toolkit. Here we’ll present two paradigmatic observational studies that were hugely influential in the 1970s.
-
-##### Margaret Mead
-
-Margaret Mead was an extraordinarily talented student at Barnard college, completing here Bachelors in 1924.  She earned her Masters’ under the supervision of the famous Anthropologist Franz Boas a year later in 1925. In 1926, at the age of 23, she set off for nine months on the Manu’an Islands of American Samoa. 
-
-She was inspired in the trip by Boas, and his concern that problems in the mental life of adolescents, was the result of western culture---specifically our prohibitions on sex---not any individual dysfunction. 
-
-But how can one test such a hypothesis?  One cannot, because of basic human ethics, separate a bunch of children at birth to raise them outside of western culture. Nor would it be helpful to find groups of children in western culture and follow them, because there are two many variables at play to isolate the influence of sexual repression on mental health. As she argues:
-
-&gt; The only method is that of the anthropologist, to go to a different civilization and make a study of human beings under different cultural conditions in some other part of the world.  For such studies the anthropologist chooses quite simple peoples, primitive peoples, whose society has never attained the complexity of our own. 
-
-This last point is important: the anthropologist has to become ‘embedded’ int the culture to understand it enough to communicate with its people on their terms.  Western societies, even those sometimes found on the outskirts, are simply too complex to allow a quick study. Their language alone would take years to master, and their social structures too complex to understand quickly. As “she could hope for great intimacy in working with girls rather than with boys”, [p. 9][#Mead:1928uk] she choose to study adolescent girls in Samoa.
-
-As her professor Boas writes in the preface to *Coming of Age in Samoa*, 
-
-&gt; In our own civilization, the individual is beset with difficulties which we are likely to ascribe to fundamental human traits. When we speak about the difficulties of childhood and of adolescence, we are thinking of them as unavoidable periods of adjustment through which everyone has to pass. The whole psycho-analytic approach is largely based on this supposition. 
-&gt; The anthropologist doubts the correctness of these views, but up to this time hardly any one has taken pains to identify himself sufficiently with a primitive population to obtain an insight into these problems. We fell, therefore, grateful to Miss Mead for having undertaken to identify herself so completely with Samoan youth that she gives us a lucid and clear picture of the joys and difficulties encountered by the young individual in a culture so entirely different from our own. [#Mead:1928uk]
-
-Mead describes society which has very different sexual mores: 
-
-&gt; “Masturbation is an all but universal hair, beginning at the age of six or seven. There were only three little girls in my group ho did not masturbate... Boys masturbate in groups but among little girls it is a more individualistic, secretive practice.” [p. 136][#Mead:1928uk] 
-
-The girls, she writes “deter marriage through as many years of casual love-making as possible” [p. 195][#Mead:1928uk]
-
-And as a result, there are few conflicts or troubles in the mental life of adolescent girls.  Thus, adolescence is not a difficult time period for *all* girls. As it is a major problem in the west, it must then follow that the ‘storm and stress’ of girls’ adolescence is due to the culture they inhabit, not their biology or process of maturation.
-
-##### Roger Brown
-
-Roger Brown and his research team at Harvard University in the 1960s visited the homes of “Adam,” “Eve,” and “Sarah” every two weeks during the period they were first acquiring English. The team audiotaped and transcribed everything the children and their mothers said, resulting in three corpora of such high quality that they are still in use. (Although teenagers talk somewhat differently today than in the 1960s, 2-year-olds then and now talk about juice, dogs, hats, more, allgone, etc.) 
-
-Especially in the earliest stages, children omit a lot and parents sometimes fill in what is missing. Here is one of Brown’s examples:
-
-&lt;!--\begin{apatextbox}{Brown’s first example}
-Child- Throw Daddy \\
-Mother- Throw it to Daddy
-\end{apatextbox}--&gt;
-The grammars that Brown’s group wrote to account for such simplified language were far more complex than you might imagine. Even more intriguing, though, were child utterances that had to be changed, not just expanded, to get an adult utterance. For example:
-
-&lt;!--\begin{apatextbox}{Brown’s second example}
-Child- What John will read? \\
-Mother- What will John read? 
-\end{apatextbox}--&gt;[#Brown:1968df]
-
-Notice that there is *no* attempt by the researchers to intervene in these situations. Parents are not coached to speak to their children in a certain way, nor were they asked to fill in the sentences or avoid making corrections. There is no ‘control’ group, no independent variables, no dependent variables.  Brown and his colleagues are simply observing speech of children as it occurs.
-
- An understanding of how children acquire language begins with extensive observation and careful records, focused especially on ages 1-3 years. The key product is a child language corpus, which is a written transcription of all utterances by a particular child and, usually, at least one adult who is present and interacting with the child during one or more periods of observation. As technology has progressed, researchers have gained choices. In the earliest studies (and still occasionally by choice today) observations were recorded in handwritten diaries (motion picture film and soundtracks existed but were not practical in this context). By the 1960s, audio recordings were made at the time of observation — sometimes supplemented by handwritten notes — and then transcribed into written form. 
-
-So what are we observing here?  At first pass, it may appear that the child just mixed up the word order a bit, and was corrected by a parent. Brown’s group proposed a much deeper analysis in terms of what would become know as a “generative grammar.” 
-&lt;!--\newthought{The earliest versions of generative grammar}--&gt; emphasized the idea (adapted from Chomsky’s mentor, Zellig Harris) that a sentence should be viewed as the product of a series of transformations. Consider the following sentences:
-
-&lt;!--\begin{apatextbox}{Generative Grammar}
-\rowgroup{John will read what? BASE QUESTION (atypical word order for a question)} \\ \rowgroup{What John will read? PREPOSING TRANSFORMATION: moves wh-word (what) to the front.} \\ \rowgroup{What will John read? TRANSPOSING TRANSFORMATION: reverses the subject (\emph{John}) and the auxiliary verb (\emph{will}).}
-\end{apatextbox}--&gt;
-The final form in the sequence is what an adult would typically say. The transformations and the intermediate form are not directly observed, but Chomsky claimed that they can be inferred and are part of the speaker’s linguistic competence.
-
-&lt;!--\newthought{Brown and his colleagues suggested}--&gt; that the child was in the process of acquiring transformations, and at this point (about 3 years of age) had acquired preposing but not transposing. As a result, the “hypothetical intermediate” became an actual, observed form. Not only did this give a neat explanation of what the child said, but in the other direction it lent support to Chomsky’s theory. [#Brown:1972to] [#Chomsky:1965uu]
-
-
-</Text>
-            <Comments>I hope the reader recognizes that I am speaking here as Mead did, and as one would in the 1970s’. I don’t believe a word of this, as you might expect. To contemporary thinking, Mead’s presumption of simplicity of the Somoan culture and language is the core failing of her study.</Comments>
-        </Document>
         <Document ID="163">
             <Title>IBieber-bio</Title>
             <Text>## Irving Bieber, MD
@@ -646,6 +511,229 @@ Socarides, C.W. (1970). “Homosexuality and Medicine” Journal of the American
 </Text>
             <Comments>Freud's discussion of the fixation of perversion as distinct from neurosis on p. 446-448 of the Introductory Lectures may be helpful here.
 See also Ch 12, ph. 304-306</Comments>
+        </Document>
+        <Document ID="56">
+            <Title>Modelling</Title>
+            <Text>One way to explain why something happens is to demonstrate a cause for it. But causes typically do not operate in isolation. Encountering a virus may explain why you developed the flu, but the condition of having the flu only arises when a number of other things happen. In particular, a virus must invade a particular cell (flu viruses invade cells lining a person’s respiratory or digestive track). 
+
+Except for the fact that some viruses break out of their generous hosts by breaking the host cell open and killing it, this all sounds harmless enough. But the consequences are what debilitate you:
+
+* When the cells lining the respiratory track are killed, fluid can flow into your nasal passages; this is what you experience as a runny nose.
+
+* This nasal fluid contains more viruses and as they drip down your throat they attack the cells lining it. You experience this as a sore throat.
+
+* The virus particles that get into your bloodstream attack muscle cells, which you experience as muscle ache.
+
+* Finally, you body is designed to resist this assault. One thing it does is produce pyrogens, chemicals that cause your body temperature to increase. The higher temperature reduces the capacity of cells to carry out their operations, including hosting the creation of new viruses.
+
+Although it was the virus that caused the flu, a lot of other operations were going on. The virus had to rely on a complex bit of machinery to carry out its task of reproducing itself, and in the process laying you low with the flu.
+
+&lt;!--\begin{marginfigure}
+ \begin{center}
+
+     \includegraphics{../images/phrenology.jpg}
+\caption{Mechanistic explanation is not new to science. In the 19th century, Franz Joseph Gall suggested phrenology, which sought to identify particular mechanisms of intelligence with particular bumps on the skull. The mechanism posited held that personality traits were localized in the brain, and the brain would be enlarged in specific areas for those traits. The enlargements could then be detected by the structure of the skull. We still accept the idea of localization, but unlike muscles, excess activity does not make the brain enlarge. Image from Wikimedia Commons}
+\end{center}
+\label{fig:phrenology}
+\end{marginfigure}--&gt;
+
+The explanatory scenario just outlined, in which we invoke a mechanism to explain a causal effect, is extremely common in science.
+
+* To explain the reproduction of cells, scientists describe the *mechanism* of cell reproduction.
+
+* To explain how blood carries nutrients to tissues in the body, they describe the *mechanism* of circulation of the blood.
+
+* To explain how people can remember events in their lives and new factual information, they describe the mechanisms of memory encoding, storage, and retrieval.
+
+&lt;!--\begin{thesis}[Mechanism definition]
+Mechanism: entities and activities organized so that a phenomenon occurs or entities and activities organized in such a way as to realize a function.
+\end{thesis} --&gt;
+Explaining the occurrence of a phenomenon by identifying the mechanism that produces it is perhaps the most common explanatory strategy in science. Accordingly, we need to consider in detail
+
+* what a mechanism is
+
+* how mechanisms are described
+
+* how mechanisms are discovered
+
+* how mechanisms are modeled
+
+* how accounts of mechanism are tested.
+
+	
+</Text>
+        </Document>
+        <Document ID="49">
+            <Title>Observation</Title>
+            <Text>#### Observational research
+
+We acquire knowledge of the world primarily through our senses. As humans, we rely most heavily, but clearly not exclusively, on vision. Seeing the world seems very straight-forward. We open our eyes and the world impresses itself upon our consciousness. 
+&lt;!--\begin{marginfigure}
+ \begin{center}
+
+
+     \includegraphics[scale=0.50]{../images/AmbigCheeta.jpg}
+\end{center}
+ \caption{Ambiguous Cheetahs, from --&gt; [#Pitts:2007km]&lt;!--}
+\label{fig: ambiguouscheetahs}
+\end{marginfigure}--&gt;
+
+Take a look at the image to the right.  Which head goes with which cheetah?  Can you flip your interpretation to see it the ‘other way’?  There are *tons* of created images like this, from the Necker cube to Salvador Dali paintings, the way you see the image can change dramatically, depending on the environmental conditions or what you had experienced just before seeing the image.
+
+Our ability to see is, in part, learned. One aspect of 'successful' seeing is the ability to recognize things when one encounters them again. Recognition requires the ability to categorize. Seeing, in this robust sense, also implies the ability to organize the categories into a taxonomy or classification system.
+
+Although much scientific research goes beyond mere observation to posit causal processes and mechanisms behind what is observed, observational research plays a vital role in the development of scientific knowledge— both in delineating the phenomenon of study and in validating hypothesis and predictions. When conducting observational research, the question of how we organize observations into categories, as well as how we organize categories into taxonomies, plays a central role. In addition, we must pay careful attention to the notion of a 'variable', and how we measure and estimate the values of variables.
+
+Observational research is an important part of the scientific toolkit. Here we’ll present two paradigmatic observational studies that were hugely influential in the 1970s.
+
+##### Margaret Mead
+
+Margaret Mead was an extraordinarily talented student at Barnard college, completing here Bachelors in 1924.  She earned her Masters’ under the supervision of the famous Anthropologist Franz Boas a year later in 1925. In 1926, at the age of 23, she set off for nine months on the Manu’an Islands of American Samoa. 
+
+She was inspired in the trip by Boas, and his concern that problems in the mental life of adolescents, was the result of western culture---specifically our prohibitions on sex---not any individual dysfunction. 
+
+But how can one test such a hypothesis?  One cannot, because of basic human ethics, separate a bunch of children at birth to raise them outside of western culture. Nor would it be helpful to find groups of children in western culture and follow them, because there are two many variables at play to isolate the influence of sexual repression on mental health. As she argues:
+
+&gt; The only method is that of the anthropologist, to go to a different civilization and make a study of human beings under different cultural conditions in some other part of the world.  For such studies the anthropologist chooses quite simple peoples, primitive peoples, whose society has never attained the complexity of our own. 
+
+This last point is important: the anthropologist has to become ‘embedded’ int the culture to understand it enough to communicate with its people on their terms.  Western societies, even those sometimes found on the outskirts, are simply too complex to allow a quick study. Their language alone would take years to master, and their social structures too complex to understand quickly. As “she could hope for great intimacy in working with girls rather than with boys”, [p. 9][#Mead:1928uk] she choose to study adolescent girls in Samoa.
+
+As her professor Boas writes in the preface to *Coming of Age in Samoa*, 
+
+&gt; In our own civilization, the individual is beset with difficulties which we are likely to ascribe to fundamental human traits. When we speak about the difficulties of childhood and of adolescence, we are thinking of them as unavoidable periods of adjustment through which everyone has to pass. The whole psycho-analytic approach is largely based on this supposition. 
+&gt; The anthropologist doubts the correctness of these views, but up to this time hardly any one has taken pains to identify himself sufficiently with a primitive population to obtain an insight into these problems. We fell, therefore, grateful to Miss Mead for having undertaken to identify herself so completely with Samoan youth that she gives us a lucid and clear picture of the joys and difficulties encountered by the young individual in a culture so entirely different from our own. [#Mead:1928uk]
+
+Mead describes society which has very different sexual mores: 
+
+&gt; “Masturbation is an all but universal hair, beginning at the age of six or seven. There were only three little girls in my group ho did not masturbate... Boys masturbate in groups but among little girls it is a more individualistic, secretive practice.” [p. 136][#Mead:1928uk] 
+
+The girls, she writes “deter marriage through as many years of casual love-making as possible” [p. 195][#Mead:1928uk]
+
+And as a result, there are few conflicts or troubles in the mental life of adolescent girls.  Thus, adolescence is not a difficult time period for *all* girls. As it is a major problem in the west, it must then follow that the ‘storm and stress’ of girls’ adolescence is due to the culture they inhabit, not their biology or process of maturation.
+
+##### Roger Brown
+
+Roger Brown and his research team at Harvard University in the 1960s visited the homes of “Adam,” “Eve,” and “Sarah” every two weeks during the period they were first acquiring English. The team audiotaped and transcribed everything the children and their mothers said, resulting in three corpora of such high quality that they are still in use. (Although teenagers talk somewhat differently today than in the 1960s, 2-year-olds then and now talk about juice, dogs, hats, more, allgone, etc.) 
+
+Especially in the earliest stages, children omit a lot and parents sometimes fill in what is missing. Here is one of Brown’s examples:
+
+&lt;!--\begin{apatextbox}{Brown’s first example}
+Child- Throw Daddy \\
+Mother- Throw it to Daddy
+\end{apatextbox}--&gt;
+The grammars that Brown’s group wrote to account for such simplified language were far more complex than you might imagine. Even more intriguing, though, were child utterances that had to be changed, not just expanded, to get an adult utterance. For example:
+
+&lt;!--\begin{apatextbox}{Brown’s second example}
+Child- What John will read? \\
+Mother- What will John read? 
+\end{apatextbox}--&gt;[#Brown:1968df]
+
+Notice that there is *no* attempt by the researchers to intervene in these situations. Parents are not coached to speak to their children in a certain way, nor were they asked to fill in the sentences or avoid making corrections. There is no ‘control’ group, no independent variables, no dependent variables.  Brown and his colleagues are simply observing speech of children as it occurs.
+
+ An understanding of how children acquire language begins with extensive observation and careful records, focused especially on ages 1-3 years. The key product is a child language corpus, which is a written transcription of all utterances by a particular child and, usually, at least one adult who is present and interacting with the child during one or more periods of observation. As technology has progressed, researchers have gained choices. In the earliest studies (and still occasionally by choice today) observations were recorded in handwritten diaries (motion picture film and soundtracks existed but were not practical in this context). By the 1960s, audio recordings were made at the time of observation — sometimes supplemented by handwritten notes — and then transcribed into written form. 
+
+So what are we observing here?  At first pass, it may appear that the child just mixed up the word order a bit, and was corrected by a parent. Brown’s group proposed a much deeper analysis in terms of what would become know as a “generative grammar.” 
+&lt;!--\newthought{The earliest versions of generative grammar}--&gt; emphasized the idea (adapted from Chomsky’s mentor, Zellig Harris) that a sentence should be viewed as the product of a series of transformations. Consider the following sentences:
+
+&lt;!--\begin{apatextbox}{Generative Grammar}
+\rowgroup{John will read what? BASE QUESTION (atypical word order for a question)} \\ \rowgroup{What John will read? PREPOSING TRANSFORMATION: moves wh-word (what) to the front.} \\ \rowgroup{What will John read? TRANSPOSING TRANSFORMATION: reverses the subject (\emph{John}) and the auxiliary verb (\emph{will}).}
+\end{apatextbox}--&gt;
+The final form in the sequence is what an adult would typically say. The transformations and the intermediate form are not directly observed, but Chomsky claimed that they can be inferred and are part of the speaker’s linguistic competence.
+
+&lt;!--\newthought{Brown and his colleagues suggested}--&gt; that the child was in the process of acquiring transformations, and at this point (about 3 years of age) had acquired preposing but not transposing. As a result, the “hypothetical intermediate” became an actual, observed form. Not only did this give a neat explanation of what the child said, but in the other direction it lent support to Chomsky’s theory. [#Brown:1972to] [#Chomsky:1965uu]
+
+
+</Text>
+            <Comments>I hope the reader recognizes that I am speaking here as Mead did, and as one would in the 1970s’. I don’t believe a word of this, as you might expect. To contemporary thinking, Mead’s presumption of simplicity of the Somoan culture and language is the core failing of her study.</Comments>
+        </Document>
+        <Document ID="114">
+            <Title>Depends on elections</Title>
+            <Text>#### Other topics that may come up according to game play
+
+&lt;!--\begin{apatextbox}{Leona Tyler Principle (L Tyler, when president)}--&gt;
+
+&gt; As citizens, members of the APA have the right to advocate for any cause through the myriad of political advocacy organizations, but when psychologists and psychiatrists speak for the profession through APA public stances and proclamations, it should be from science and professional experience. 
+
+&gt; On occasion psychiatrists are asked for an opinion about an individual who is in the light of public attention or who has disclosed information about himself/herself through public media. In such circumstances, a psychiatrist may share with the public his or her expertise about psychiatric issues in general. However, it is unethical for a psychiatrist to offer a professional opinion unless he or she has conducted an examination and has been granted proper authorization for such a statement.
+
+&lt;!--\end{apatextbox}--&gt;
+
+&lt;!--\begin{apatextbox}{Position Statement: Hospital Privileges for Psychologists}--&gt;
+
+&gt;POSITION STATEMENT  (1974)
+
+&gt;&gt;Approved by the Board of Trustees, December 1970
+
+&gt;&gt;This statement was prepared by the Committee on Psychiatry and Psychology.
+
+&gt;Because of professional and legal considerations, the ultimate medical responsibility for patients admitted to hospitals should remain with licensed physicians. Psychologists, like other nonmedical professionals, should be eligible for some type of hospital appointment
+
+&lt;!--\end{apatextbox}--&gt;
+
+&lt;!--\begin{apatextbox}{Position Statement: Affirmative Action}--&gt;
+
+&gt;POSITION STATEMENT
+
+&gt;&gt;Approved by the Board of Trustees, December 1977
+
+&gt;&gt;Approved by the Assembly of District Branches, October 1977
+
+&gt; This statement was prepared by the Committee of Black Psychiatrists1 and recommended by the Council on National Affairs 
+
+&gt;THERE IS a continuous need to increase the number of minority psychiatrists; the American Psychiatric Association has consistently demonstrated its commitment to the principle of affirmative action as reflected in its efforts of recruitment and training of minority psychiatrists. APA has previously developed and instituted policies recognizing and supporting the special mental health issues of minority populations; however, there are serious threats to affirmative action programs that have facilitated the following endeavors: APA reaffirms these commitments and policies by 1) issuing a public statement drawing attention to the potential deleterious effects that such threats pose to the delivery of health services to minority groups; 2) actively participating with other professional and educational groups to assure continued recruitment and training of minority candidates in medical disciplines; and 3) further exploring and developing, through its appropriate components, mechanisms to assure continued implementation of these commitments. 
+
+&lt;!--\end{apatextbox}--&gt;
+
+##### Optional
+
+If the gamemaster wishes to make a point about the influence of psychopharmacology and health insurance companies in the development of the DSM-III, he or she may wish to make use of the 'Exhibits' included in the “Call for papers and symposia” and hang up posters advertising Miltown, Tofranil, Librium and Valium. There are a great number of blogs and websites dedicated to storing and distributing these historical images. Here are a few:
+
+* Miltown: http://www.homeeverafter.com/miltown-a-piece-of-1950s-homemaker-history/
+
+* Tofranil: https://www.biopsychiatry.com/imipramine/350x525xtofranil.jpg.pagespeed.ic.xDYlzJklSs.webp
+
+https://www.biopsychiatry.com/imipramine/tofranil.html
+
+* Librium: &lt;!--\begin{marginfigure}
+ \begin{center}
+
+
+     \includegraphics{../images/librium_75651.jpg}
+\end{center}
+ \caption{Advertisement for Librium, 1962. From https://www.mmm-online.com/channel/med-ad-hall-of-fame-to-induct-lerner-girgenti-and-rubin/article/155796/
+}
+\label{fig: valium65}
+\end{marginfigure}--&gt; 
+
+* Valium: 
+&lt;!--\begin{marginfigure}
+ \begin{center}
+
+
+     \includegraphics{../images/valium65.jpg}
+\end{center}
+ \caption{Advertisement for Valium, 1965.  }
+\label{fig: valium65}
+\end{marginfigure}
+--&gt;
+From http://faculty.weber.edu/ewalker/Medicinal_Chemistry/topics/Psycho/psycho.htm
+
+
+At the same time,  we should remember that Medicare and Medicaid were created in 1965, and the health insurance industry was undergoing a simultaneous revolution:  
+
+* BlueCross 1960: 
+
+&lt;!--\begin{marginfigure}
+ \begin{center}
+
+
+     \includegraphics[scale=0.25]{../images/md28530.jpg}
+\end{center}
+ \caption{Advertisement for Blue Cross, 1960. From http://www.decodog.com/inven/MD/md28530.jpg }
+\label{fig: BlueCross}
+\end{marginfigure}
+--&gt;
+ 	</Text>
         </Document>
         <Document ID="57">
             <Title>Decomposing</Title>
@@ -805,22 +893,6 @@ Milar, K. S. (2011) “The Myth Buster: Evelyn Hooker's Groundbreaking Research 
 </Text>
             <Comments>See Muenzinger, K. (1942). *Psychology: the science of behavior* Harper, New York. Muenzinger is the only President of the APA to hold BOTH an MD and a PhD.  He often argued that *both* degrees were the best for a psychologist.</Comments>
         </Document>
-        <Document ID="108">
-            <Title>Narrative</Title>
-            <Text>
-Each week represents one annual conference.  At each conference, there are a number of things that need to happen, although the order in which they happen is up to you.  These are:
-
-* President addresses the whole.
-* Board meeting considers any proposals, votes.
-* Committees meet, and report to the Board if necessary.
-* Research papers presented.
-
-### Narrative
-
-Add stuff here
-&lt;!--\newpage--&gt;</Text>
-            <Comments>Peter Bradley, 7/27/18, 3:58 PM</Comments>
-        </Document>
         <Document ID="115">
             <Title>Items you will neee</Title>
             <Text>### Items you might need
@@ -857,6 +929,22 @@ Chair, Program Committee &amp;  \\ \hline
 \end{landscape}  
   \pagebreak
 --&gt;</Text>
+        </Document>
+        <Document ID="108">
+            <Title>Narrative</Title>
+            <Text>
+Each week represents one annual conference.  At each conference, there are a number of things that need to happen, although the order in which they happen is up to you.  These are:
+
+* President addresses the whole.
+* Board meeting considers any proposals, votes.
+* Committees meet, and report to the Board if necessary.
+* Research papers presented.
+
+### Narrative
+
+Add stuff here
+&lt;!--\newpage--&gt;</Text>
+            <Comments>Peter Bradley, 7/27/18, 3:58 PM</Comments>
         </Document>
         <Document ID="109">
             <Title>1971</Title>
@@ -2188,8 +2276,177 @@ For the most part, the historical events with which a character interacts occurr
 </Text>
             <Comments>The instructor’s manual for the game has the full list, if you are interested.</Comments>
         </Document>
+        <Document ID="176">
+            <Title>GMiller-bio</Title>
+            <Text>## George Miller, PhD
+### Your Biography
+
+You are George Miller, PhD, Professor of Psychology at MIT, founder of cognitive psychology and (with Noam Chomsky (MIT-Linguistics), Herbert Simon and Newell (Carnegie Mellon –Computer Science)) cognitive science.
+
+You were born in 1920 in Charleston, West Virginia, where you lived until you enrolled in George Washington University in 1937. You transferred to the University of Alabama in 1938, where you completed your BA and were appointed Instructor of Psychology in 1941. You started Graduate school at Harvard in 1943.
+
+While at Harvard, you joined the Psycho-Acoustical Laboratory where you worked on speech communication over static on radios.  At that time you met and befriended a brilliant young linguist named Noam Chomsky.
+
+You were elected to the position of Vice President of the APA in 1970, and take the role of President for the meeting of the APA in 1971, the first year of game play. You were 50 at the time of your election, which is young by professional standards.
+
+You made your research ‘name’ with your famous paper “The magic number seven plus or minus two” (Miller, 1956). It is a must-read for all psychologists today. In 1960, you published Plans and the structure of behavior, which sets out your vision of psychology as a cognitive science (Miller, 1960). In fact, you founded the Center for Cognitive Studies at Harvard in 1960.
+
+You are also a student of the history of Psychology. In 1958, you were approached by the historian of Psychology E.G. Boring, whose tomes *A History of Experimental Psychology* and *Sensation and Perception in the History of Experimental Psychology* adorn the desks of many psychologists and philosophers. You were brought to the project by Boring himself, who had been scheduled to produce an update to his histories, but was unable to do so. At the time, you had been planning a new set of introductory psych courses at Harvard at the time, so you thought that this might be an opportunity for sympathetic research.
+
+You took a leave of absence for the academic year 1958-1959 and spent the time at the Center for Advanced Study in Behavioral Sciences at Stanford. When you returned to Harvard, you worked with your colleague Jerome S. Bruner to create an introductory course titled “Psychological Conceptions of Man.” By 1961, you had finished the book which was published as Psychology: The Science of Mentality (Miller, 1962).
+
+### Game Objectives
+
+Promote your vision of cognitive psychology as an alternative to behaviorism. You should actively work to funnel funding to projects that attempt to make inferences about underlying mental mechanisms, and away from those that deny the existence of such mechanisms (i.e. radical behaviorists).
+
+As a student of the history of psychology, you are also very keen to place yourself in the narrative arc of psychology –which means that you will keep a close eye on those who are characterizing historical figures in inaccurate ways, or ignoring historical achievements that are often forgotten. Both the behaviorists and the psychoanalysts have a tendency to dismiss aspects of the history of psychology as 'non-scientific.' You are not so sure.
+
+There is much in the work done by early experimentalists like William James that anticipates your work. And while you're wary of being labeled an 'introspectivist' and dismissed as a neo-Wundtian, it is important to point out that cognitivism has historical antecedents, and it may be behaviorism that is the historical anomaly. Watson and Pavlov are clearly important psychologists, but the history of psychology has not always been behavioristic, and you are keen to ensure that it is not portrayed as such.
+
+You are neutral on **the issue of the definition of mental illness**, but be ready to oppose any definition that is clearly behaviorist or psychoanalytic in nature.
+### Game Strategy
+
+Your position as first president gives you great power, but also great responsibility. Your first speech sets the tone of the entire game, not just the first session. So while there will be a great temptation to spend your time beating up behaviorism and promoting cognitivism, you should work hard to reconcile the warring factions.  You are the first president from the cognitivist side – the behaviorists are worried that your election signifies a massive shift in the kind of research that will be valued and funded.  You need to allay those worries, and work for understanding of the mind, not petty disciplinary politics.
+
+Much can be done towards this end by maintaining a good, highly visible working relationship with your elected successor Anthony Bandura.  Remember that like him, you were ‘raised’ a behaviorist. The people in that faction are your friends and colleagues. What’s more, some commentators have pointed out that Bandura’s theory of ‘social learning’ in the bobo doll experiment can be interpreted to support a cognitivist position, rather than a behaviorist one. If you changed your mind, perhaps Bandura can as well? The same holds for Evelyn Hooker, who was schooled in the 'Tolman' tradition of behaviorism.
+
+### Specific Assignments
+
+You chair the Board of Directors during the first APA.
+
+You will open the game with a presidential address based on George Miller's actual speech “Psychology as a means of promoting human welfare.”
+
+Look up Miller’s actual presidential speech (Miller, 1969). You’ll notice that it is actually not about the conflict between behaviorism and cognitivism. It is about what the psychological community can agree upon, not about what you disagree. Take a cue from the actual history here, and follow in his lead.
+
+In the first week, the gamemaster will introduce a 'mental rotation' experiment based in Shepard &amp; Metzler 1971. You should be prepared to present the data – if your class is using the online psychology laboratory, report your classes' data. If not, report the data from the original.
+
+Advocate for the role of psychology in social issues, supporting both Chomsky and others in their efforts.
+
+When Bieber and Socarides submit their report on sexual deviation in 1972, you should reject it as assuming too strict a Freudian perspective.
+
+**Fission**: Found the Cognitive Science Society with Noam Chomsky and David Marr (if he is a character).
+
+#### Must Read
+
+Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63, 81-97.
+
+Miller, G. A. (1960). Plans and the structure of behavior. New York,: Holt.
+
+Miller, G. A. (1962). Psychology, the science of mental life ([1st ed.). New York,: Harper &amp; Row.
+
+Miller, G. A. (1969). Psychology as a means of promoting human welfare. American Psychologist, 24(12), 1063-1075.
+
+Shepard, R. N. &amp; Metzler, J. (1971) “Mental Rotation of Three-Dimensional Objects” Science 171(3972) p. 701-703
+</Text>
+            <Comments>See the history of the definitions of 'psychology' in the gamebook.</Comments>
+        </Document>
         <Document ID="365">
             <Title>Committees</Title>
+            <Text>#### Committees
+
+Getting the committees to function well can be challenging---in the game as in real life.  In the ideal form, the committees would do their work outside of class, and report in class to the Board at the end of each conference.  In reality, you may have to give time at the start of class to allow committees to meet and hash out their decisions.
+
+##### Board of Directors
+**Responsibilities:**
+* Hold open meetings each conference where topics can be discussed and voted upon.
+
+**Powers:**
+
+* Issue public proclamations on behalf of the membership.
+* Maintain official publications, such as the DSM
+* Create ad-hoc committees and task forces, as necessary.
+* Oversee and receive reports from the standing committees.
+* Censure---can strip any member of credibility at any time. Generally reserved for use of ad hominem attacks or other bad behavior.  Any number of credibility points can be stripped.
+* Banning---rarely used, but available if necessary. Can place a lifetime ban on any member at anytime.
+* Confer 1-10 credibility points on retiring board members in recognition of their ‘distinguished service’
+
+##### Research Committee
+
+The research committee is charged with distributing grants to fund research as well as enforcing the APA's Ethical Standards in the practice of Psychology and Psychiatry (see &lt;!--\ref{app: APAEthics}--&gt;). **The ‘research’ thread of the game depends entirely on the research committee functioning well**.  
+
+**Responsibilites**
+
+* Solicit proposals in the form of a 'call for research grants'
+
+
+**Powers** 
+
+* Award grants to those proposals it deems excellent
+
+* Hearing and deciding on cases of research ethics, including punishments for violators up to and including removal from the APA for life.
+
+* Confer 1-5 credibility points on retiring board members in recognition of their ‘distinguished service’
+
+**Potential Pitfalls**
+
+*</Text>
+        </Document>
+        <Document ID="88">
+            <Title>Key concepts</Title>
+            <Text>#### Conceptual issues at stake
+
+Many of the issues raised in the course of the game are appropriately philosophical.  While we've instructed the students to focus on the evidence, and its relationship with the claims asserted, one is often forced to notice how few of the great conflicts in the history of psychology and psychiatry are actually about the quality of the evidence presented. The conflicts are, most frequently, actually about whether the evidence in question can be considered 'scientific.' 
+
+The APA guidelines cited above do not report *what* the key terminology, concepts and theories are---but they do cite a three instruments to assess whether or not students are meeting these goals.  The Psychology Area Concentration Achievement Test has 12 content areas:
+
+* Abnormal
+
+* Animal Learning and Motivation
+
+* Clinical and Counseling
+
+* Developmental
+
+* Experimental Design
+
+* History and Systems
+
+* Human learning and cognition
+
+* Personality
+
+* Physiological
+
+* Sensation and Perception
+
+* Social
+
+* Statistics
+
+I've noted where in the games these issues arise.
+
+Some of these issues that will make an appearance in the game are:
+
+* Is mental illness a disorder of an individual or a society? (i.e. are the entities studied in psychology individual humans or human societies?) -Clark, Albee, Szasz
+
+* Is medical model an appropriate model for the classification, diagnostic criteria and treatment of mental disorders? Szasz, Albee v. Spitzer
+
+* Related: Should mental disorders be classified in terms of their causes (etiology), or their symptoms? (psychoanalysts v. Spitzer)
+
+* Are mental health norms defined in terms of statistical frequency of a given behavior in the population, or ideals of human behavior? (Anastasi v. Bieber)
+
+* Is modeling / abductive reasoning a scientific method, or is science limited to explanations of observable behavior in terms of observable behavior? (cognitivists v. behaviorists)
+
+* What are the responsibilities of scientists who study humans and human societies for social advocacy? (Chomsky, Skinner, Albee, Clark v. Tyler, Bieber)
+
+##### Philosophy of Science rearing its ugly head
+
+Well, not ‘ugly’ per se. But still...
+
+
+##### Research design
+
+I’ve included a ‘textbook’ style section (&lt;!--\fullref{testingcausalclaimsexperimentally}--&gt;) in the game book that introduces the standard independent variable - dependent variable - controls logic that is included in most research methods in psychology courses. I prefer, of course, to introduce these ideas with real historical examples, as I did in section &lt;!--\fullref{theparadigmaticexperiments}--&gt;.
+
+I included the digested ‘textbook’ section to give the research committee a quick and dirty heuristic for judging the validity of proposed experiments. But this simplistic approach is largely misguided.  There are famous examples from this period that simply don’t fit the model:
+
+* We know that the IV in  Zimbardo’s prison ‘experiment’ is assignment to either ‘prisoner’ or ‘guard’ role, but what is his DV?
+
+* Milgrim measured the number of hops a letter would take in his ‘small world’ experiment, but what is his manipulation of the IV?
+
+* Similarly, we know that Rosehan measured the time spent inside a mental health institution, but what was the IV?
+
+We want the research committee to raise these kind of questions when these proposals come before the committee.  If we taught solely from historical examples, these concerns might not be raised.  </Text>
         </Document>
         <Document ID="20">
             <Title>historyOfMentalIllness</Title>
@@ -2901,137 +3158,6 @@ See, e..g. [p. 474][#Hornstein:2002wq]
 See Chapter 1 of [#Menninger:3tUbEPj8] for an interesting discussion of this history.
 For a particularly fascinating example, see https://prescriptiondrugs.procon.org/view.resource.php?resourceID=005707 </Comments>
         </Document>
-        <Document ID="88">
-            <Title>Key concepts</Title>
-            <Text>#### Conceptual issues at stake
-
-Many of the issues raised in the course of the game are appropriately philosophical.  While we've instructed the students to focus on the evidence, and its relationship with the claims asserted, one is often forced to notice how few of the great conflicts in the history of psychology and psychiatry are actually about the quality of the evidence presented. The conflicts are, most frequently, actually about whether the evidence in question can be considered 'scientific.' 
-
-The APA guidelines cited above do not report *what* the key terminology, concepts and theories are---but they do cite a three instruments to assess whether or not students are meeting these goals.  The Psychology Area Concentration Achievement Test has 12 content areas:
-
-* Abnormal
-
-* Animal Learning and Motivation
-
-* Clinical and Counseling
-
-* Developmental
-
-* Experimental Design
-
-* History and Systems
-
-* Human learning and cognition
-
-* Personality
-
-* Physiological
-
-* Sensation and Perception
-
-* Social
-
-* Statistics
-
-I've noted where in the games these issues arise.
-
-Some of these issues that will make an appearance in the game are:
-
-* Is mental illness a disorder of an individual or a society? (i.e. are the entities studied in psychology individual humans or human societies?) -Clark, Albee, Szasz
-
-* Is medical model an appropriate model for the classification, diagnostic criteria and treatment of mental disorders? Szasz, Albee v. Spitzer
-
-* Related: Should mental disorders be classified in terms of their causes (etiology), or their symptoms? (psychoanalysts v. Spitzer)
-
-* Are mental health norms defined in terms of statistical frequency of a given behavior in the population, or ideals of human behavior? (Anastasi v. Bieber)
-
-* Is modeling / abductive reasoning a scientific method, or is science limited to explanations of observable behavior in terms of observable behavior? (cognitivists v. behaviorists)
-
-* What are the responsibilities of scientists who study humans and human societies for social advocacy? (Chomsky, Skinner, Albee, Clark v. Tyler, Bieber)
-
-##### Philosophy of Science rearing its ugly head
-
-Well, not ‘ugly’ per se. But still...
-
-
-##### Research design
-
-I’ve included a ‘textbook’ style section (&lt;!--\fullref{testingcausalclaimsexperimentally}--&gt;) in the game book that introduces the standard independent variable - dependent variable - controls logic that is included in most research methods in psychology courses. I prefer, of course, to introduce these ideas with real historical examples, as I did in section &lt;!--\fullref{theparadigmaticexperiments}--&gt;.
-
-I included the digested ‘textbook’ section to give the research committee a quick and dirty heuristic for judging the validity of proposed experiments. But this simplistic approach is largely misguided.  There are famous examples from this period that simply don’t fit the model:
-
-* We know that the IV in  Zimbardo’s prison ‘experiment’ is assignment to either ‘prisoner’ or ‘guard’ role, but what is his DV?
-
-* Milgrim measured the number of hops a letter would take in his ‘small world’ experiment, but what is his manipulation of the IV?
-
-* Similarly, we know that Rosehan measured the time spent inside a mental health institution, but what was the IV?
-
-We want the research committee to raise these kind of questions when these proposals come before the committee.  If we taught solely from historical examples, these concerns might not be raised.  </Text>
-        </Document>
-        <Document ID="176">
-            <Title>GMiller-bio</Title>
-            <Text>## George Miller, PhD
-### Your Biography
-
-You are George Miller, PhD, Professor of Psychology at MIT, founder of cognitive psychology and (with Noam Chomsky (MIT-Linguistics), Herbert Simon and Newell (Carnegie Mellon –Computer Science)) cognitive science.
-
-You were born in 1920 in Charleston, West Virginia, where you lived until you enrolled in George Washington University in 1937. You transferred to the University of Alabama in 1938, where you completed your BA and were appointed Instructor of Psychology in 1941. You started Graduate school at Harvard in 1943.
-
-While at Harvard, you joined the Psycho-Acoustical Laboratory where you worked on speech communication over static on radios.  At that time you met and befriended a brilliant young linguist named Noam Chomsky.
-
-You were elected to the position of Vice President of the APA in 1970, and take the role of President for the meeting of the APA in 1971, the first year of game play. You were 50 at the time of your election, which is young by professional standards.
-
-You made your research ‘name’ with your famous paper “The magic number seven plus or minus two” (Miller, 1956). It is a must-read for all psychologists today. In 1960, you published Plans and the structure of behavior, which sets out your vision of psychology as a cognitive science (Miller, 1960). In fact, you founded the Center for Cognitive Studies at Harvard in 1960.
-
-You are also a student of the history of Psychology. In 1958, you were approached by the historian of Psychology E.G. Boring, whose tomes *A History of Experimental Psychology* and *Sensation and Perception in the History of Experimental Psychology* adorn the desks of many psychologists and philosophers. You were brought to the project by Boring himself, who had been scheduled to produce an update to his histories, but was unable to do so. At the time, you had been planning a new set of introductory psych courses at Harvard at the time, so you thought that this might be an opportunity for sympathetic research.
-
-You took a leave of absence for the academic year 1958-1959 and spent the time at the Center for Advanced Study in Behavioral Sciences at Stanford. When you returned to Harvard, you worked with your colleague Jerome S. Bruner to create an introductory course titled “Psychological Conceptions of Man.” By 1961, you had finished the book which was published as Psychology: The Science of Mentality (Miller, 1962).
-
-### Game Objectives
-
-Promote your vision of cognitive psychology as an alternative to behaviorism. You should actively work to funnel funding to projects that attempt to make inferences about underlying mental mechanisms, and away from those that deny the existence of such mechanisms (i.e. radical behaviorists).
-
-As a student of the history of psychology, you are also very keen to place yourself in the narrative arc of psychology –which means that you will keep a close eye on those who are characterizing historical figures in inaccurate ways, or ignoring historical achievements that are often forgotten. Both the behaviorists and the psychoanalysts have a tendency to dismiss aspects of the history of psychology as 'non-scientific.' You are not so sure.
-
-There is much in the work done by early experimentalists like William James that anticipates your work. And while you're wary of being labeled an 'introspectivist' and dismissed as a neo-Wundtian, it is important to point out that cognitivism has historical antecedents, and it may be behaviorism that is the historical anomaly. Watson and Pavlov are clearly important psychologists, but the history of psychology has not always been behavioristic, and you are keen to ensure that it is not portrayed as such.
-
-You are neutral on **the issue of the definition of mental illness**, but be ready to oppose any definition that is clearly behaviorist or psychoanalytic in nature.
-### Game Strategy
-
-Your position as first president gives you great power, but also great responsibility. Your first speech sets the tone of the entire game, not just the first session. So while there will be a great temptation to spend your time beating up behaviorism and promoting cognitivism, you should work hard to reconcile the warring factions.  You are the first president from the cognitivist side – the behaviorists are worried that your election signifies a massive shift in the kind of research that will be valued and funded.  You need to allay those worries, and work for understanding of the mind, not petty disciplinary politics.
-
-Much can be done towards this end by maintaining a good, highly visible working relationship with your elected successor Anthony Bandura.  Remember that like him, you were ‘raised’ a behaviorist. The people in that faction are your friends and colleagues. What’s more, some commentators have pointed out that Bandura’s theory of ‘social learning’ in the bobo doll experiment can be interpreted to support a cognitivist position, rather than a behaviorist one. If you changed your mind, perhaps Bandura can as well? The same holds for Evelyn Hooker, who was schooled in the 'Tolman' tradition of behaviorism.
-
-### Specific Assignments
-
-You chair the Board of Directors during the first APA.
-
-You will open the game with a presidential address based on George Miller's actual speech “Psychology as a means of promoting human welfare.”
-
-Look up Miller’s actual presidential speech (Miller, 1969). You’ll notice that it is actually not about the conflict between behaviorism and cognitivism. It is about what the psychological community can agree upon, not about what you disagree. Take a cue from the actual history here, and follow in his lead.
-
-In the first week, the gamemaster will introduce a 'mental rotation' experiment based in Shepard &amp; Metzler 1971. You should be prepared to present the data – if your class is using the online psychology laboratory, report your classes' data. If not, report the data from the original.
-
-Advocate for the role of psychology in social issues, supporting both Chomsky and others in their efforts.
-
-When Bieber and Socarides submit their report on sexual deviation in 1972, you should reject it as assuming too strict a Freudian perspective.
-
-**Fission**: Found the Cognitive Science Society with Noam Chomsky and David Marr (if he is a character).
-
-#### Must Read
-
-Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63, 81-97.
-
-Miller, G. A. (1960). Plans and the structure of behavior. New York,: Holt.
-
-Miller, G. A. (1962). Psychology, the science of mental life ([1st ed.). New York,: Harper &amp; Row.
-
-Miller, G. A. (1969). Psychology as a means of promoting human welfare. American Psychologist, 24(12), 1063-1075.
-
-Shepard, R. N. &amp; Metzler, J. (1971) “Mental Rotation of Three-Dimensional Objects” Science 171(3972) p. 701-703
-</Text>
-            <Comments>See the history of the definitions of 'psychology' in the gamebook.</Comments>
-        </Document>
         <Document ID="366">
             <Title>Credibility Points</Title>
             <Text>#### Credibility Points
@@ -3165,6 +3291,48 @@ Note that while these questions overlap, none of them ought to determine any of 
 In my experience, and perhaps it is because I'm a philosopher teaching philosophy students, students tend towards the radical positions of Albee and Szasz in a way no real, practicing psychologist or psychiatrist would.  If this occurs, the game master ought to intervene to help students understand that with the advent of health insurance, if it can't be labeled, you probably won't get paid to treat it.
 
 #### Failed Research cycle</Text>
+        </Document>
+        <Document ID="24">
+            <Title>Rules and Procedures</Title>
+            <Text>
+### Basic game play
+
+Each week (two or three sessions, depending on your schedule) of game play reenacts one annual conference of the APA in the early 1970s. The five weeks of game play cover the years 1971-1975. In reality, these conferences are huge events. There are presentations on current research, symposia on issues facing the discipline, administrative meetings for various committees, public discussions and votes on proclamations, and publishers promoting their products. In game play, players will present papers, propose research projects, vote on resolutions and grants, and hold committee meetings.
+
+Each conference opens with a presidential address. The position of President is both an honorific and administrative position. The President is often elected based on his or her reputation as a researcher, but he or she also must have keen leadership skills and knowledge of the policies and procedures of the organization's committee structure. Since these two areas of expertise do not always appear in the same person, an individual is **not** elected directly to the Presidency by the membership. Rather, the membership holds an annual election for the **Vice-President,** who is then promoted to President after a year of sitting on the Board of Directors and observing the inner workings of the political system. After a President’s year in office, he or she becomes the **Former President** and continues to serve on the Board.
+ 
+The Board of Directors is composed of the President, the Vice president, the Former President and *two* members elected at large each of whom serving three year terms. For classes smaller than 16, the Board of Directors will be limited to the current President, the Vice President and the Former President. The executive secretary, who serves without vote, is responsible for maintaining the minutes of the Board of Directors and taking whatever actions the committee approves during its meetings.
+
+At each year's conference, the following events occur:
+
+&lt;!--
+
+
+\begin{enumerate}
+
+\item Presidential Address \newline
+\item  Board of Directors circulates proposals to be considered by the membership. \newline
+\item Symposia on topics proposed by membership, as scheduled by the program committee \newline
+\item  Open sessions for presenting current research (papers or plenary addresses), as scheduled by the program committee. \newline
+\item  Board of Directors meets in open session. \newline
+\begin{enumerate}
+	\item  All committees and task forces report \newline
+	\item  Old Business (tabled from previous meeting) \newline
+	\item  New Business \newline
+\end{enumerate}
+\item  Discussion of any proposals circulated in step (2) \newline
+\item  Create and administer ballots for proposals. \newline
+\item  Election for vice president, who assumes that position at the close of that conference \newline
+\item  Election for member-at-large on the executive committee (if necessary) \newline
+\item  Executive committee meet in closed session, if necessary. \newline
+\end{enumerate}
+
+ %\captionof{InfoBox}{Sample schedule of events for APA conference\label{sample:conference}}
+
+
+ --&gt;
+
+Game play may take many forms in the classroom. You may be questioning  the President about his or her vision for future directions in psychological or psychiatric research, engaging with or participating in a symposium with two or three of your colleagues on a contentious issue of the day, participating in research, evaluating research results, discussing proposals in committee, or even arguing about reports from task forces.  The schedule of events will be left to the Program Committee, so it is very important that they distribute the schedule early and widely. See Section ‘&lt;!--\fullref{programcommittee}--&gt;’ for more on the potential forms of conference activities.</Text>
         </Document>
         <Document ID="17">
             <Title>historyOfAPA</Title>
@@ -3489,6 +3657,15 @@ See the section on behaviorism in the 'Public Character info' section for more o
 See, e.g. interview with Skinner, p. 39 pf Baars.
 You can read more about the life of Alan Turing, who is one of the greatest, yet least well known, scientists of the 20th century, in the section Brief History of Homosexuality.</Comments>
         </Document>
+        <Document ID="99">
+            <Title>Overview</Title>
+            <Text> While there is a great deal to prepare for this game, my experience has taught me that the largest challenge the students will face is understanding that psychology and psychiatry were not always as they are now presented.  
+
+Most students come to the game believing that (a) psychology is a science and (b) psychiatry is a medical practice.  Both of those claims were not settled in the public mind in 1970.  In fact, most of the tension in this game revolves around the efforts to make psychiatry conform to 'the medical model' and psychology conform to the model of the natural sciences, thereby legitimizing them as worthwhile endeavors.
+
+Psychology, on the other hand, had been suffering a crisis of legitimacy since its inception, which is why so many of their arguments are really metatheoretical arguments on the nature of science.  The behaviorists believe that introducing new methodologies, like the cognitivists propose, would further weaken their claims to be a scientific discipline. </Text>
+            <Comments>As noted in the introduction to the Instructor’s manual.</Comments>
+        </Document>
         <Document ID="150">
             <Title>FKameny</Title>
             <Text>## Frank Kameny and/or Barbara Gittings, Activists
@@ -3576,57 +3753,6 @@ Moran, M. (2006) “Activists Forced Psychiatsts to Look Behind Closet Door” P
 Tobin, Kay and Wicker, Randy. (1975) The Gay Crusaders. Arno Press.
 </Text>
             <Comments>Quoted in Bullough, V.L. (2002). Before Stonewall, p. 210</Comments>
-        </Document>
-        <Document ID="99">
-            <Title>Overview</Title>
-            <Text> While there is a great deal to prepare for this game, my experience has taught me that the largest challenge the students will face is understanding that psychology and psychiatry were not always as they are now presented.  
-
-Most students come to the game believing that (a) psychology is a science and (b) psychiatry is a medical practice.  Both of those claims were not settled in the public mind in 1970.  In fact, most of the tension in this game revolves around the efforts to make psychiatry conform to 'the medical model' and psychology conform to the model of the natural sciences, thereby legitimizing them as worthwhile endeavors.
-
-Psychology, on the other hand, had been suffering a crisis of legitimacy since its inception, which is why so many of their arguments are really metatheoretical arguments on the nature of science.  The behaviorists believe that introducing new methodologies, like the cognitivists propose, would further weaken their claims to be a scientific discipline. </Text>
-            <Comments>As noted in the introduction to the Instructor’s manual.</Comments>
-        </Document>
-        <Document ID="24">
-            <Title>Rules and Procedures</Title>
-            <Text>
-### Basic game play
-
-Each week (two or three sessions, depending on your schedule) of game play reenacts one annual conference of the APA in the early 1970s. The five weeks of game play cover the years 1971-1975. In reality, these conferences are huge events. There are presentations on current research, symposia on issues facing the discipline, administrative meetings for various committees, public discussions and votes on proclamations, and publishers promoting their products. In game play, players will present papers, propose research projects, vote on resolutions and grants, and hold committee meetings.
-
-Each conference opens with a presidential address. The position of President is both an honorific and administrative position. The President is often elected based on his or her reputation as a researcher, but he or she also must have keen leadership skills and knowledge of the policies and procedures of the organization's committee structure. Since these two areas of expertise do not always appear in the same person, an individual is **not** elected directly to the Presidency by the membership. Rather, the membership holds an annual election for the **Vice-President,** who is then promoted to President after a year of sitting on the Board of Directors and observing the inner workings of the political system. After a President’s year in office, he or she becomes the **Former President** and continues to serve on the Board.
- 
-The Board of Directors is composed of the President, the Vice president, the Former President and *two* members elected at large each of whom serving three year terms. For classes smaller than 16, the Board of Directors will be limited to the current President, the Vice President and the Former President. The executive secretary, who serves without vote, is responsible for maintaining the minutes of the Board of Directors and taking whatever actions the committee approves during its meetings.
-
-At each year's conference, the following events occur:
-
-&lt;!--
-
-
-\begin{enumerate}
-
-\item Presidential Address \newline
-\item  Board of Directors circulates proposals to be considered by the membership. \newline
-\item Symposia on topics proposed by membership, as scheduled by the program committee \newline
-\item  Open sessions for presenting current research (papers or plenary addresses), as scheduled by the program committee. \newline
-\item  Board of Directors meets in open session. \newline
-\begin{enumerate}
-	\item  All committees and task forces report \newline
-	\item  Old Business (tabled from previous meeting) \newline
-	\item  New Business \newline
-\end{enumerate}
-\item  Discussion of any proposals circulated in step (2) \newline
-\item  Create and administer ballots for proposals. \newline
-\item  Election for vice president, who assumes that position at the close of that conference \newline
-\item  Election for member-at-large on the executive committee (if necessary) \newline
-\item  Executive committee meet in closed session, if necessary. \newline
-\end{enumerate}
-
- %\captionof{InfoBox}{Sample schedule of events for APA conference\label{sample:conference}}
-
-
- --&gt;
-
-Game play may take many forms in the classroom. You may be questioning  the President about his or her vision for future directions in psychological or psychiatric research, engaging with or participating in a symposium with two or three of your colleagues on a contentious issue of the day, participating in research, evaluating research results, discussing proposals in committee, or even arguing about reports from task forces.  The schedule of events will be left to the Program Committee, so it is very important that they distribute the schedule early and widely. See Section ‘&lt;!--\fullref{programcommittee}--&gt;’ for more on the potential forms of conference activities.</Text>
         </Document>
         <Document ID="25">
             <Title>Basic Principles</Title>
@@ -3882,6 +4008,39 @@ Tobin, Kay and Wicker, Randy. (1975) The Gay Crusaders. Arno Press.
             <Comments>For more on the early development of the Daughters of Bilitis and its magazine, check out: http://www.buzzfeed.com/h2/pulse/skarlan/the-ladder-the-first-lesbian-magazine-established-in-the-195
 For more on the early development of the Daughters of Bilitis and its magazine, check out: http://www.buzzfeed.com/h2/pulse/skarlan/the-ladder-the-first-lesbian-magazine-established-in-the-195</Comments>
         </Document>
+        <Document ID="40">
+            <Title>Cognitivists</Title>
+            <Text>
+#### Cognitivists
+
+Cognitivists reject the behaviorists' conjecture that scientific psychology is limited—as *scientific* psychology—to observable behavior. But neither do they seek to reestablish introspection as a valid observational method.  Cognitivists agree that scientific evidence must be observable. But they disagree that the explanations of behavior must necessarily be in terms of observable macro-objects like organisms and environments.  Cognitivists see the mind/brain as an information-processing system; therefore an adequate scientific explanations would take form of the specifying the mechanisms by which information is processed—including positing algorithms or modeling neural mechanisms that would generate the behavior in question. The difference between the Cognitivists and the Behaviorists is not about the experimental methods they follow, but rather about the structure of a scientific explanation.
+
+Thus, cognitivism distinguishes itself from behaviorism in terms of a meta-theoretical thesis which rejects the half of the first behavioristic hypothesis that *internal entities are explanatorily irrelevant to psychology.* It does not reject the other three, or the corollary of the first, *that introspection is not a form of observation.*
+
+Cognitivism grew slowly between 1955 and 1965, in part because it was not an 'intentional' revolution like Behaviorism. George Miller's 1956 paper “The magical number seven, plus or minus two: Some limits on our capacity for processing information,” is one of the classics of cognitive psychology, although the term 'cognitive psychology' does not appear in it. The first use of ‘cognitivism’ belongs to Ulier Nessier who published a book of that title in 1967. ([#Neisser:2014wn])
+
+Miller argues that  human's short-term memory behavior is limited to seven items plus or minus two.  These 'items', however, need not be individual atomic units like Ebbinghaus' nonsense syllables.  Miller hypothesized that brain could 'chunking' information into groups, which then could be easily remembered. To borrow a classic example from Bechtel and Graham, the sequence A, B, C, B, B, C, N, B, C, C, B, S would be difficult to remember on its own, but if it is 'chunked' into ABC, BBC, NBC, CBS, remembering it is simple. According to Miller, “There seems to be some limitation built into us either by learning or by design of our nervous system, al limit that keeps our channel capacities in this general range.” (1956, p. 86)  (see &lt;!--\ref{thesecondrevolution:cognitivescience}--&gt; for a historical introduction.) Miller's paper in included in the appendix.
+
+##### Further Reading
+
+###### Primary Sources:
+
+[#Miller:1956trb]
+
+[#Miller:1962vk]
+
+
+###### Secondary Sources:
+
+[#Bechtel:1999vr]
+
+[#Baars:i5QbNrcs]
+
+[#Leahey:2002tt]
+
+[#Stillings:1995to]
+</Text>
+        </Document>
         <Document ID="33">
             <Title>Committee Structure</Title>
             <Text>#### Committee structure
@@ -4077,39 +4236,6 @@ Program committee in 1971:
 
 </Text>
             <Comments>The gamemaster may choose, depending on the size of the class, to combine these committees, or assign these responsibilities to the Board of Directors.</Comments>
-        </Document>
-        <Document ID="40">
-            <Title>Cognitivists</Title>
-            <Text>
-#### Cognitivists
-
-Cognitivists reject the behaviorists' conjecture that scientific psychology is limited—as *scientific* psychology—to observable behavior. But neither do they seek to reestablish introspection as a valid observational method.  Cognitivists agree that scientific evidence must be observable. But they disagree that the explanations of behavior must necessarily be in terms of observable macro-objects like organisms and environments.  Cognitivists see the mind/brain as an information-processing system; therefore an adequate scientific explanations would take form of the specifying the mechanisms by which information is processed—including positing algorithms or modeling neural mechanisms that would generate the behavior in question. The difference between the Cognitivists and the Behaviorists is not about the experimental methods they follow, but rather about the structure of a scientific explanation.
-
-Thus, cognitivism distinguishes itself from behaviorism in terms of a meta-theoretical thesis which rejects the half of the first behavioristic hypothesis that *internal entities are explanatorily irrelevant to psychology.* It does not reject the other three, or the corollary of the first, *that introspection is not a form of observation.*
-
-Cognitivism grew slowly between 1955 and 1965, in part because it was not an 'intentional' revolution like Behaviorism. George Miller's 1956 paper “The magical number seven, plus or minus two: Some limits on our capacity for processing information,” is one of the classics of cognitive psychology, although the term 'cognitive psychology' does not appear in it. The first use of ‘cognitivism’ belongs to Ulier Nessier who published a book of that title in 1967. ([#Neisser:2014wn])
-
-Miller argues that  human's short-term memory behavior is limited to seven items plus or minus two.  These 'items', however, need not be individual atomic units like Ebbinghaus' nonsense syllables.  Miller hypothesized that brain could 'chunking' information into groups, which then could be easily remembered. To borrow a classic example from Bechtel and Graham, the sequence A, B, C, B, B, C, N, B, C, C, B, S would be difficult to remember on its own, but if it is 'chunked' into ABC, BBC, NBC, CBS, remembering it is simple. According to Miller, “There seems to be some limitation built into us either by learning or by design of our nervous system, al limit that keeps our channel capacities in this general range.” (1956, p. 86)  (see &lt;!--\ref{thesecondrevolution:cognitivescience}--&gt; for a historical introduction.) Miller's paper in included in the appendix.
-
-##### Further Reading
-
-###### Primary Sources:
-
-[#Miller:1956trb]
-
-[#Miller:1962vk]
-
-
-###### Secondary Sources:
-
-[#Bechtel:1999vr]
-
-[#Baars:i5QbNrcs]
-
-[#Leahey:2002tt]
-
-[#Stillings:1995to]
-</Text>
         </Document>
         <Document ID="41">
             <Title>Overview of Characters</Title>
@@ -4384,7 +4510,7 @@ Tyler, L.E. (1969). The Work of the Counselor, Prentice Hall
 
 ##### Philip Zimbardo, PhD Professor of Social Psychology at Stanford (Social psychologist)*
 
-Philip Zimbardo has a great deal of promise as a researcher, but has yet to gain national prominence.
+Philip Zimbardo has a great deal of promise as a researcher in social psychology, but has yet to gain national prominence.
 </Text>
             <Comments>For the purposes of the game, 1970. In reality, 1958-1959.</Comments>
         </Document>
@@ -5075,6 +5201,81 @@ http://www.apa.org/about/division/div35.aspx In reality, Florence Denmark is cre
         <Document ID="266">
             <Title>psymajor-guidelines-v2</Title>
         </Document>
+        <Document ID="147">
+            <Title>KenClark</Title>
+            <Text>## Kenneth Clark, PhD
+### Your Biography
+You are Kenneth Clark, a psychologist, educator, and social reformer dedicated to understanding and eradicating racial injustice.  You grew up in Harlem, attending the integrated schools of NY City, but attended college at Howard University in D.C. There, you met Mamie Phipps, who eventually became your wife, and with whom you authored numerous studies on the psychological damage caused by segregation and racism. You were the first African American to receive a Doctorate in Psychology from Columbia, and the first black permanent professor at City College of New York, where you still teach.
+
+In addition to your excellent academic collaboration with Mamie, together you founded Harlem's Northside Center for Child Development in 1946, with the mission to “fosters the healthy development of children and families and seeks to empower them to respond constructively to negative societal factors including racism and its related consequences. Through comprehensive, high quality mental health and educational services, coupled with research, children and families are aided in developing to their full potential.”
+
+In your most famous study (co-authored with Mamie), you presented four identical plastic dolls that different only with respect to color to black children between the ages of three and seven. When asked which doll they preferred, the majority selected the white doll. When asked to color in a drawing 'the same color' as themselves, most of the black children choose yellow or white crayons.  You concluded that “prejudice, discrimination, and segregation” had caused the children to develop a sense of self-hatred and inferiority.
+
+The study become something of a sensation, and it is still included in most introductory psychology textbooks. It's effects, however, were much more profound that that.
+
+In 1950, You (Kenneth), wrote a summary of the paper for the Midcentury White House Conference on Children and Youth.  The summary was read, ultimately, by Robert Carter, who was one of the NAACP lawyers pushing the various cases challenging segregation that ultimately were consolidated into the pivotal 1954 Brown v. The Board of Education decision.  The NAACP contracted you as an expert witness for at least three cases: Briggs v. Elliot (South Carolina) , Davis v. County School Board of Prince Edward County and Belton v. Gebhart (Delaware). You co-authored the summation that was ultimately endorsed by leading social scientists at the time when it went before the Supreme court.
+
+
+Writing for a unanimous court, Chief Justice Warren stated
+
+&gt;“Does segregation of children in public schools solely on the basis of race, even though the physical facilities and other "tangible" factors may be equal, deprive the children of the minority group of equal educational opportunities? We believe that it does.”
+
+Quoting from the appellate court (which actually ruled against the NAACP), Chief Justice Warren argued:
+
+&gt; "Segregation of white and colored children in public schools has a detrimental effect upon the colored children. The impact is greater when it has the sanction of the law; for the policy of separating the races is usually interpreted as denoting the inferiority of the negro group. A sense of inferiority affects the motivation of a child to learn. Segregation with the sanction of law, therefore, has a tendency to [retard] the educational and mental development of negro children and to deprive them of some of the benefits they would receive in a racial[ly] integrated school system."  
+
+Whatever may have been the extent of psychological knowledge at the time of Plessy v. Ferguson, this finding is amply supported by modern authority.11  Any language [347 U.S. 483, 495]   in Plessy v. Ferguson contrary to this finding is rejected.
+
+Footnote 11, which supports the central finding of Brown, cites your 1950 memo “Effect of Prejudice and Discrimination on Personality Development.”
+
+In the 1896 case Plessy v. Ferguson, the Supreme court ruled that so long as railroad accommodations were 'separate but equal', the state of Louisiana was allowed to enforce racial segregation.  The court reasoned that laws which kept races separated did not necessarily entail the inferiority of one to the other. Your study was pivotal in the Warren's court rejection of that idea.
+
+Brown v. Board of Education was not only a milestone in the modern civil rights movement, it also made you into something of an academic superstar. You went on to become the most influential black social scientist of your generation. You received honorary degrees from more than a dozen of the nation's finest colleges and universities, but your larger goal of integrated, adequate schooling for blacks had not become a reality even four decades after the announcement of the monumental court decision.
+
+In the 1960s, you helped establish the Harlem Youth Opportunities Unlimited, a project that influenced President Lyndon Johnson's War on Poverty program.
+
+Your many books include Prejudice and Your Child (1955), Dark Ghetto: Dilemmas of Social Power (1965), and The Negro American (1966).  
+
+### Game Objectives
+
+As an initial member of the Research committee, you'll be called upon to judge the scientific legitimacy and ethical acceptability of proposed research programs.  You should make yourself familiar with the sections of the game book titled 'A Primer on Research Methods' and 'Ethics of Human Research'.  Your gamemaster will give you an additional sheet outlining the responsibilities of members of the research committee in evaluating proposals.  In the first year, you are likely to get a proposal to the research committee that proposes an experiment on a child. It is vital that you prompt the committee as a whole to seriously consider the nature of 'consent' in the context of  power dynamics and social inequality.
+
+Oppose the passing of the 'Leona Tyler principle', which states:
+
+&gt;“As citizens, members of the APA have the right to advocate for any cause through the myriad of political advocacy organizations, but when psychologists and psychiatrists speak for the profession through APA public stances and proclamations, it should be from science and professional experience.  
+
+On occasion psychiatrists are asked for an opinion about an individual who is in the light of public attention or who has disclosed information about himself/herself through public media. In such circumstances, a psychiatrist may share with the public his or her expertise about psychiatric issues in general. However, it is unethical for a psychiatrist to offer a professional opinion unless he or she has conducted an examination and has been granted proper authorization for such a statement.”
+
+Get elected president.  That can be before or after your symposium.
+
+You are neutral on the definition of mental illness. 
+
+#### Specific Assignments
+Organize, propose and participate in a symposium on the role of psychology as a mechanism of social change or more generally, on the social responsibilities of scientists, preferably in 1973.  Chomsky and Marmor may be a good choices as a co-panelists. You should present a paper on psychology's role for social good. If you are elected president, it should be your presidential address. If not, it can be a part of the symposium.
+
+In 1975, propose an affirmative action plan for psychology and psychiatry. Here's the real language. You should adapt it to your needs:
+
+&gt; THERE IS a continuous need to increase the number of minority psychiatrists; the American Psychiatric Association has consistently demonstrated its commitment to the principle of affirmative action as reflected in its efforts of recruitment and training of minority psychiatrists. APA has previously developed and instituted policies recognizing and supporting the special mental health issues of minority populations; however, there are serious threats to affirmative action programs that have facilitated the following endeavors: APA reaffirms these commitments and policies by 1) issuing a public statement drawing attention to the potential deleterious effects that such threats pose to the delivery of health services to minority groups; 2) actively participating with other professional and educational groups to assure continued recruitment and training of minority candidates in medical disciplines; and 3) further exploring and developing, through its appropriate components, mechanisms to assure continued implementation of these commitments.
+
+### Must Read
+
+Phillips, L. “Recontextualizing Kenneth B. Clark: An Afrocentric Perspective on the Paradoxial Legacy of a Model Psychologist-Activist” from Evolving Perspectives on the History of Psychology, Pinkren, W &amp; Dewsbury, D.
+
+Clark, K. (1971) “The pathos of power: A psychological perspective” American Psychologist 26(12) 1047-1057
+
+#### Further Reading
+
+Clark, Kenneth B. &amp; Clark, Mamie K. (1939). The development of consciousness of self and the emergence of racial identification in negro preschool children. Journal of Social Psychology, S.P.S.S.I. Bulletin, 10, 591-599. [Available at psychclassics: http://psychclassics.yorku.ca/Clark/Self-cons/]
+
+Clark, Kenneth B. &amp; Clark, Mamie K. (1940). Skin color as a factor in racial identification of negro preschool children. Journal of Social Psychology, S.P.S.S.I. Bulletin, 11, 159-169. [Available at psychclassics: http://psychclassics.yorku.ca/Clark/Skin-color/]
+
+Cook, S. W. (1957). "Desegregation: A Psychological Analysis." The American Psychologist 12: 1-13. [Presidential address at the Annual Meeting of the New York State Psychological Association, 1956]
+
+
+</Text>
+            <Comments>Quoted from http://www.northsidecenter.org/v4/ourmission.php
+See http://www.will.uiuc.edu/community/beyondbrown/brown5cases.htm</Comments>
+        </Document>
         <Document ID="154">
             <Title>LTyler</Title>
             <Text>## Leona Tyler, PhD
@@ -5337,6 +5538,77 @@ This experiment---and this reasoning---comes to be *the* standard for a good exp
 &gt; To determine by Experiments these and such like Queries which involve the propounded theory, seems the most proper and direct way to a conclusion. And therefore I could with all objects were suspended, taken from Hypotheses or any other heads other than these two; of showing the insufficiency of Experiments to determine these Queries or prove any other parts of my theory, but assigning the flaws ad defects in my conclusions drawn from them; or of producing other Experiments which directly contradict me, if any such may seem to occur. For if the Experiments, which I urge, be defective, it cannot e difficult to show the defects. But if value, then by proving the theory they must render all Objections invalid. [p. 5005][#Newton:1672tm]
 In contemporary academic English, the word ‘paradigm’ is used to mean, roughly ‘word-view’.  That usage descends from this use of the term, as the modern use can be traced back to Thomas Kuhn’s *Structure of Scienctific revolutions* ([#Kuhn:1996fi]). In it, he describes scientific progress as changing eras in which scientists look to a particular experiment as the best model of scientific reasoning, and seek to replicate that experiment in their own work. That experiment is the ‘paradigm’ for that era of scientific inquiry.  Over time, people started using the word ‘paradigm’ to refer to the era, and the people in it, rather than the experiment they valued. </Comments>
         </Document>
+        <Document ID="39">
+            <Title>Behaviorists</Title>
+            <Text>#### Behaviorists
+
+Behaviorism holds that psychology is properly limited to the observation, prediction and control of behavior. It  typified by four hypotheses:
+
+1. *Internal entities are neither the object of scientific study nor explanatorily relevant to psychology.* Behaviorism begins with the deceptively simply insight that while psychoanalytic explanations are framed in terms of psychic entities (ego, id, etc.), quantities (psychic energy) and interactions (the mechanisms of repression), what all psychological theories seek to explain is behavior. These psychic entities, and the massive vocabulary that is required to discuss them, are all hypothetical, posited for the sake of explaining why people behave the way they do. Moreover, psychoanalytic hypotheses require a sharp dividing line between human behavior and animal behavior, which is not born out by empirical observation.  
+To be scientific, then, psychology must limit itself to observable behavior. The discourse of psychology as a scientific discipline is restricted to those terms that denote observable variables: behavior and environmental conditions, not internal mental states. From characterizing the phenomenon to be studied to offering an explanation, the behaviorist is committed to avoiding all terms that denote entities, quantities or interactions that are internal or unobservable.  
+A corollary of the thesis, which is frequently highlighted as an independent claim, is that *introspection is not a scientific form of observation*. One might argue (as historical figures like William James and William Wundt did–see &lt;!--\fullref{americanpsychology:williamjamesandthefunctionofconsciousness} and \fullref{introspection:wundt}--&gt;) that internal states *are* scientifically observable via introspection.  Behaviorists, however, reject introspection as scientifically unreliable. Evidence from Wundt and James demonstrates, they argue, that introspective procedures produce different results for different practitioners, and scientific evidence should be replicable regardless of the practitioner.  
+Behaviorists disagree on whether internal mental states are non-existent fictions or merely unavailable to scientific inquiry; but that is not important here. What is important is that these putative internal mental states do not enter into the scientific study of behavior, or the scientific language that describes and explains behavior.
+
+2.	*The proper object of study for psychology is the organism and its environment*. As a corollary of this insight, Behaviorists see behavior as the activity of an *organism*, not the activity of a *mind*. Psychology, for the behaviorist, is not the study of *parts* of an organism (such as the “ego,” “id,” and “superego”) and their relations, but rather the organism *as a whole* and its relationships with its environments.  And similarly, explanations offered by Behaviorists refer to organisms, behaviors and environmental conditions, not methods of repression and techniques of representation. Behaviorism restricts is object of study as well as its explanations to the macroscopic scale: things that can be directly observed by the naked eye. In the classical sense, Behaviorism rejects *as non-scientific* explanations in terms of or investigations into things that are larger (societies, cultures) or smaller (brains, neurons).  
+This thesis unites behaviorism with classical psychoanalysis in opposition to Jung, because it holds that all present behavior is the result of discrete learning events in the individual's past.   But unlike psychoanalytic explanations that posit unresolved psychic conflict to explain behavior, the behaviorist appeals only to previous learning experiences. To discover the reason for a given behavior then, is to discover the patterns of environmental reinforcement (called 'conditioning') that have caused the organism to learn this behavior. To cure a behavior is to 'extinguish' those conditioned responses in the organism or block those responses by substituting a new and novel response. Behaviorists hypothesize that learning can be physically realized in neurology, and hence, behaviorism is far more simple and plausible a theory than psychoanalysis, which cannot.
+
+3.	*The principles of learning are generalizable across species.* Behaviorists argue that given that animals are incapable of introspection—or, if they are, they cannot communicate it—psychological theories that make use of introspection are incapable of explaining animal psychology.  Behaviorism, however, is not. Non-human animals are organisms living in environments that behave in certain regular ways. All of that is accessible to behavioristic science. And as it is an uncontroversial observation that at least some human behavior is the same as animal behavior (caring for the young, for example), it follows that behaviorism can explain regularities that introspective psychology cannot.
+
+##### Learning
+
+A behavioristic explanation of a given behavior takes the form of specifying the mechanism of learning that caused this behavior.  A behavioristic treatment seeks to 'extinguish' that behavior through providing an antithetical mechanism.
+
+Learning mechanisms in behaviorism are built on the principles of reinforcement and extinction. Explanation of reinforcement and extinction are always specified in terms of stimulus and response. According to Watson, by 'stimulus' behaviorists “mean any object in the general environment or any change in the physiological condition of the animal, such as the change we get when we keep an animal from sex activity, when we keep it from feeding, when we keep it from building a nest.”  By 'response' behaviorists “mean that system of organized activity that we see emphasized anywhere in any kind of animal, as building a skyscraper, drawing plans, having babies, writing books, and the like.” (1929)
+
+In recent years, B.F. Skinner has popularize operant conditioning and the idea of 'reinforcing' a behavior. Anything that increases the likelihood of a response given a stimulus is a *reinforcement*.  Positive reinforcement takes the form of adding some “rewarding” object to the environment when the desired response occurs.  “Negative” reinforcement usually means the removal of such objects.  Reinforcing objects need not be physical, tangible objects, but can something as intangible as the attention of a parent. “Punishment” is a negative condition applied to the organism following a behavior.
+
+A decrease in the probability of a response given a stimulus over time is called *extinction*. In classical conditioning models of learning, the lack of repetitive exposure to reinforcement will result in progressive extinction of the conditioned response.
+
+The mechanisms learning are:
+
+* **Classical conditioning**, which is sometimes called 'past reinforcement,' occurs when an unconditioned stimulus, such as the presentation of food, causes an unconditioned ('natural') response, such as salivation. These 'natural' stimulus-response patterns are called “embryologic responses,” and they are raw material of a classical conditioning paradigm. In classical conditioning, the conditioning intervention in the embryological response occurs by pairing a 'conditioned stimulus' (such as the ringing of a bell) with the unconditioned stimulus. After repeated exposures, the original unconditioned response can be removed, and the response (now 'conditioned') will occur when the subject is presented with the conditioned stimulus. These basic pairings between conditioned stimuli and responses can be generalized over time, so that any loud noise, for example, may cause salivation.  
+
+* **Operant conditioning** differs from classical conditioning insofar as the conditioning intervention occurs after the response, rather than concurrent with the unconditioned stimulus. Operant condition introduces the possibility of promised reinforcement, which would occur when the promise of future reinforcement causes behavior.
+
+###### Behaviorism as a treatment in psychiatry
+
+Behavioral treatments in psychiatry, like behaviorism in psychology, follows from a simple insight: psychiatric treatment aims at the cessation of maladaptive behavior. Changing behaviors is accomplished through conditioning. Therefore, treatment for “mental illness” entails conditioning patients out of the behaviors that are deemed maladapted through the standard mechanisms of learning. 
+
+Like psychoanalysis, behavioral therapies restrict themselves to neurosis, not psychosis.
+
+There are two major kinds of inhibition therapies found in the literature:
+
+* **Reciprocal inhibition**, developed by Wolpe, involves diminishing the maladaptive behavior by conditioning a new behavior in response to a given stimulus that is incompatible with the undesired behavior. For reciprocal inhibition to work, the maladaptive behavior *must be* incompatible with the new conditioned behavior. Aversion therapy, which exposes the subject to the object of desire and conditions a new negative response, is a form of reciprocal inhibition.
+* **Transmarginal inhibition**, also known as *flooding*, involves exposing the patient to strong examples of the stimuli for prolonged periods.
+
+Other inhibition therapies, such as 'retroactive inhibition' are usually forms of reciprocal inhibition.
+
+##### Further Reading:
+
+###### Primary Sources:
+
+[#Skinner:2005wr]
+
+[#Watson:1913tq]. Also available at: http://psychclassics.asu.edu/Watson/views.htm
+
+[#Watson:iMwU-3B8]
+
+###### Secondary Sources:
+
+[#Hornstein:2002wq]
+
+[#Wolpe:1958vt]
+
+[#Wozniak:1997vj] Also available at http://www.brynmawr.edu/psychology/rwozniak/behaviorism.html</Text>
+            <Comments>As with most things in the history of ideas, even this definition is controversial.  I've chosen this definition, which reflects Skinner's presentation of Behaviorism in his 1953 Science and Human Behavior, chapter 1 because it is the most explicit and radical.  Watson defines that the goal of behaviorism as the “prediction and control of behavior,” (1913) leaving out observation. To understand the various different forms of behaviorism that have been posited since Watson's, please see &lt;!--\fullref{psychoanalysts}--&gt;.
+See, for further explication of this claim [p. 27-31][#Skinner:LehhdRQI]. Watson does not use the term 'inner state', but refers rather to 'consciousness', which he (possibly fallaciously) equates with the object of introspection. Thus, after objecting to the unreliability of introspective reports in a laboratory setting he claims “The time seems to have come when psychology must discard all references to consciousness; when it need no longer delude itself into thinking that it is making mental states the object of observation.”
+Animals do not have superegos or techniques of repression, so the behaviors explained in psychoanalytic terms should not generalize across species. But they do. Therefore, psychoanalytic explanations are insufficient.
+Watson seeks to eliminate the following misleading and unscientific terms from psychology: “consciousness, mental states, mind, content, introspectively verifiable, imagery, and the like.” ([#Watson:1913tq])
+See, e.g. [#Watson:1913tq] “Introspection forms no essential part of its methods, nor is the scientific value of its data dependent upon the readiness with which they lend themselves to interpretation in terms of consciousness” and [p. 30][#Skinner:LehhdRQI]
+Recall that Behaviorism was formed in the first half of the 20th century, when Hegelianism was a viable theory of social science. Behaviorists here are not rejecting the plausibility of modern social psychology, anthropology or sociology. They are rejecting the idea of a transcendent spirit that instantiates human culture.
+See, e.g. [#Watson:1913tq] “The behaviorist, in his efforts to get a unitary scheme of animal response, recognizes no dividing line between man and brute.”
+For more on the complicated history of the relationship between psychoanalysis and behaviorism, see [#Hornstein:2002wq].</Comments>
+        </Document>
         <Document ID="112">
             <Title>1974</Title>
             <Text>#### 1974
@@ -5435,240 +5707,6 @@ Ebbinghaus’ paradigm is not having a control group, blinding reviewers, or ran
  
 Indeed, in reading *Memory*, one cannot help but be impressed by Ebbinghaus’ thoroughness and dedication to the transparency of his research. The book is only 117 pages of text, yet it covers 5 years of experimentation and thousands of trials. This, I suspect, is the true paradigm of Ebbinghaus: that psychological measurement must be carried out extraordinarily carefully, with all due attention to potential confounds.</Text>
             <Comments>George Miller will be presenting his update to this famous result ‘The Magic Number Seven plus or minus 2’ at the first conference.</Comments>
-        </Document>
-        <Document ID="38">
-            <Title>Psychoanalysts</Title>
-            <Text>#### Psychoanalysts
-
-Psychoanalysts are split in the classical (Freudian), Jungian and unspecified.  The game contains a number of independent psychiatrists who, while they are familiar with psychoanalysis, are not professed members of the faction.
-
-##### Classical
-
-Classical psychoanalysis can be summarized by five basic hypotheses:
-
-1.	First, psychoanalysts hold that the mind is composed of entities in conflict, also known as the *hypothesis of intrapsychic conflict* or **dynamic hypothesis**. In classic Freudianism, the hypothesis followed “the discovery of the unconscious” by Breuer and Freud in 1895 (see &lt;!--\ref{hysteriaandhypnosis:freudbreueronannao.}--&gt;). Traumatic event or fantasies can leave a subject with memories that are unacceptable to the conscious awareness. The conscious awareness defends itself by suppressing the traumatic event in the unconscious by means of repression (see, e.g. *Introductory Lectures on Psychoanalysis*, p. 82, 94 also p. 438). This hypothesis is sometimes called the **psychodynamic hypothesis**.
-
-2.	Second, psychoanalysis posits that there is a finite amount of psychic energy available to any given individual. This forms the **Economic hypothesis** of classical psychoanalysis (See Freud, *Introductory Lectures*, p. 26 and 436-7 for the thesis that psychic energy is sexual; p. 340, 442-3 and 466for an explicit statement. It also appears in *On the Interpretation Dreams*, Ch7). The activities of the mind are “costly,” and hence the mind will optimize its function for the most efficient option.
-
-3.	The **topographical hypothesis** is Freud's most well known:  the mind composed of three basic kinds of thoughts: conscious thoughts, pre-conscious thoughts and unconscious thoughts. The term 'thoughts' here is used broadly, to include wishes, desires, fears, emotions, etc. Conscious thoughts are those of which we are aware. Pre-conscious thoughts, are not currently conscious, but are readily available to consciousness. The memory of your last birthday, for example, is probably pre-conscious, not unconscious. Unconscious thoughts, which far outnumber the other two categories, are unavailable to consciousness. All these thoughts, however, originate in experience: there is nothing in the unconscious store that is not linked in some way to that individual's past experiences. (see, e.g. *Introductory lectures*, p. 25)
-
-4.	The **genetic hypothesis** claims that human behavior is best explained in terms of the original conditions that cause it. In Freud's theory, the genetic hypothesis takes the form of his theory of infantile sexuality.  
-For Freud, all behavior ultimately originates in sexual desire. To summarize briefly: Freud hypothesized that sexual drive, the main source of psychic energy, is present from birth. He is explicit in using the term 'sexual' here, but it is sometimes easier to understand if we use a softer term like 'using one's body for pleasure.' Freud repeated argues for infantile sexuality by pointing out the noncontroversial pleasure children take in tickling or cuddling, but we wouldn't necessarily call these 'sexual' today. Freud himself, somewhat to his detriment, insisted on the term 'sexual' even despite these kind of objections.  
-This drive towards physical gratification takes various forms throughout our lives, moving through the oral phase to the anal phase to the phallic stage. If the internal drives are left unfulfilled, or the internal conflicts unresolved (which is really two ways of saying the same thing), neurotic behavior results.
-
-5.	Psychoanalysts differ with respect to the entities that comprise the mind, but most recognize Freud's basic **structural hypothesis**: the mind is functionally divided between the id, the ego and the superego (see *Introductory Lectures*, p. 365). The *id*, which is totally unconscious, contains the representations of sexual and aggressive instinctual drives. The *ego* regulates and controls the desires of the id in relation to the demands of the external world, which are internalized as the *superego*. The ego follows the **economic hypothesis**, in seeking to maximize gratification of the instinctual desires while minimizing the amount of psychic energy spent in that process. It achieves this end through the use of various mechanisms of representation and repression (sometimes called 'defense mechanisms'):
-
- * **Repression**: The first mechanism proposed by Freud (Breuer and Freud), the ego banishes or precludes an idea or feeling from conscious awareness.
-
- * **Isolation**: Ideas are split off from their associated feelings (affect) and  presented as alien or foreign in origin.
-
- * **Reaction formation**: replacing the unacceptable desire with its symbolic opposite.
-
- * **Displacement**: unacceptable wishes are removed from their original objects and moved to an acceptable, or at least not-unacceptable one.
-
- * **Projection**: an unacceptable idea or desire is attributed to someone else.
-
- * **Undoing**: painful or unacceptable ideas are minimized by overdoing some opposite action in some opposite arena.
-
- * **Turning against the self**:  the original object of an unpleasant desire (usually hate) is replaced with the self.
-
- * **Denial**: the individual remains unaware of certain aspects of reality that would be painful to recognize.
-
- * **Rationalization**: the individual convinces himself or herself that their behavior has a logical, reasonable, or at least neutral, explanation in order to avoid the unacceptable cause.
-
- * **Identification**: usually found during development, a child becomes like another person (usually a parent) in order to deal with separation or loss of a love-object.
-
-These conflicts can be discovered by studying the mechanisms of representation that are used to obfuscate and repress traumatic experiences and latent desires.  The mechanisms of representation take the object represented (the 'latent content') and replace it with a representation (the 'manifest content'). The relationship between these two can be one of:
-
-* **Part to whole**: the latent content is fragmented and represented in isolation. ([p. 147][#Freud:QdOvAgyZ])
-
-* **Allusion**: the latent content is represented by, in Freud's words “a caption, as it were, or an abbreviation in telegraphic style.” ([p. 148][#Freud:QdOvAgyZ])
-
-* **Plastic portrayal**: the latent content is replaced with a plastic, concrete portrayal of it, taking its cue from the superficial aspects of the latent content. For example, the editor of a 'Survey' may be represented in a dream as a 'surveyor'. ([p.149][#Freud:QdOvAgyZ])
-
-* **Symbolism**: symbols are stable translations of one object into another. The relation between the object symbolized (the latent content) and the object that does the symbolization (the manifest content) is stable in an individual, but may not be stable between individuals. But it is always true that the latent content and manifest content share something in common. It is the task of the psychoanalysts, through the techniques of free association and manipulating transference reactions, to discover the common factors between the latent and manifest content, and hence reveal the symbolic relationships.  ([p. 185][#Freud:QdOvAgyZ])
-
-	(see  [Lecture VII-X][[#Freud:QdOvAgyZ])
-
-By revealing these relationships to the subject of psychoanalysis, the ego becomes aware of latent trauma and hence can deal with it in healthy ways, removing the conflict and obviating the neurosis.
-
-Interpsychic conflict is a part of the normal maturation of a healthy adult mind. Neurosis and Psychosis occur, therefore, when this development goes wrong in some important way. Development can go awry through *inhibition* or *regression* (see [Ch 22-23][#Freud:QdOvAgyZ]).  In 'inhibition', portions of function of the ego are held back from development, often because it becomes *fixated* on a particular libidnal instinct.  In 'regression' an ego that has progressed further than a given developmental stage returns to that stage was a kind of defense mechanism.
-
-The terms 'neurosis' and 'psychoneurosis':
-
-&gt; “refer to a class of psychiatric illnesses characterized by prominent symptoms that have no significant somatic origin. The symptoms include disturbances of feelings (anxiety, depression, guilt), disturbances of thought (obsessions), and disturbances of behavior (compulsions and phobic inhibitions), all of which are experienced as alien to the comfort and well-being of the individual” (*American Handbook of Psychiatry*, p. 737-738)
-
-Neurosis, then, is explained when the conflict between the desires of the id and the defense mechanisms of the ego go awry: (1) the ego's defense mechanism leaves the drive unfulfilled, (2) the defense mechanism imposes a disguised or symbolic form onto the original drive in order to hide it from the consciousness, and (3) the superego imposes some suffering as punishment for the self-denial, such a guilt.
-
-Psychosis occurs when the id constructs its own reality and imposes it on the ego. The subject can no longer function in normal life—he or she may be beset by hallucinations, persistent delusions, wild mood swings, visual and auditory agnosia, amnesia, etc. It is worth noting that unlike *neuroses*, psychoses may be the result of organic brain syndromes or other physical conditions. Psychoses not associated with physical conditions include schizophrenia, affective disorders and other reactions.
-
-As the id is the source of psychic energy, unacceptable drives using one of the mechanisms above will not remain repressed forever. As unacceptable drives gain in strength and threaten to reveal themselves, a number of reactions are possible (see *Introductory Lectures*, Ch. 19):
-
-* **Anxiety reaction**: a chronic, free-floating anxiety which may have periods of acute anxiety. Typified by feelings of helplessness; although symptoms include phobias, obsessions, compulsions and depression. It is caused by the failure of all the defenses to keep the unacceptable instinctual drives in stable control. (*Introductory Lectures*, Ch. 25, p. 452)
-* **Phobic reaction**: typified by one or more prominent phobias: and extreme anxiety focused on an ordinary place, object or situation.  The mechanism of displacement moves the anxiety associated with the unacceptable drive to a neutral place, object or situation, which then is allowed to flourish unchecked by the defense mechanisms of the ego. (*Introductory Lectures*, p. 495-498)
-* **Conversion reaction**: what used to be called 'hysteria', it can manifest itself in many symptoms, including spasms, temporary paralysis, visual or auditory agnosia, weakness, shortness of breath, pains, etc. It results when the unacceptable instinctual drive is 'converted' into apparently physical symptoms. (*Introductory Lectures*, p. 485, 497-8)
-* **Obsessive-compulsive reaction**: the patient is troubled by persistent thoughts that are usually painful in nature. These obsessional thoughts interfere in some important way with the patient's ability to engage in a meaningful adult life: i.e. intellectually, sexually, socially or professionally. Anxiety at not following through on an obsessional thought, which often manifests as repeated actions regarding some mundane object, can be severe and often is only revealed by completion of the mundane task in question. (*Introductory Lectures*, Ch. 17)
-
-As an example, classical psychoanalysis holds that obsessive-compulsive reaction can be traced to unresolved conflicts in the anal stage of development, where frustration at potty-training is turned into rage towards one's mother. That rage, in turn, is found to be unacceptable by the ego and repressed through one of the standard mechanisms creating obsessions with objects or scenarios that are symbolically linked to the original frustration. The particular object of obsession is essentially random, as the subject latches onto some mundane object present at the time of the frustration. The choice of obsessional object, however, can provide clues as to the true cause of the frustration, as it is invariably linked, through one of the mechanisms of representation, to the true object. The compulsive aspect of this conditions is an 'acceptable' outlet for the unacceptable rage towards one's mother.  Psychoanalysts go on to hold that obsessive-compulsive is often unconsciously aware of his or her rage and may take extreme steps to avoid losing control when provoked.  
-
-###### Psychoanalytic Treatment
-
-Psychoanalysis—the process of psychoanalytic treatment—aims at resolving unresolved conflicts that cause neurosis. The psychoanalyst seeks to align the psychic forces within the individual so that they are no longer in conflict. A psychoanalyst must keep all five psychoanalytic hypotheses—the topographical, dynamic, economy, genetic and structural—in mind during treatment, but in practice, tends to focus on one or two at a time.  
-
-Classical psychoanalysis makes use of two basic techniques: free association and manipulating transference reactions. In **free association**, the psychoanalyst removes himself or herself from the patients line of sight (hence the standard couch with the psychoanalyst seated behind the patients' head), and asks the patient to say whatever comes to mind when prompted regardless of logic, order or social constraint. In a relaxed state, it is theorized, these free-associations will reveal the connections between ideas that, when analyzed, explain the relationships this particular patient uses to represent latent content with manifest content.
-
-Freud is often naively criticized for insisting on universal symbolic relationships: cigars always represent penises, for example. But this simply isn't true: classical psychoanalysis is 'empirical' in the sense that there is nothing in the mind that was not put there from experience.  The symbolic relationships found in a patient have built up by that patient, based on his or her unique experiences. Where commonalities occur between patients, they are at the level of the language (i.e. symbolic relationships that originate from homophones in German would not be found in an English-speaking patient) or culture (i.e. shared mythology). So while a cigar may represent a penis because of its shape to some, it may represent excrement because of its color to others.
-
-**Transference** reactions are inappropriate reactions in which the patient reacts to a person or object in the present as if it were a person or object from the past (see *Introductory Lectures*, Ch. 27). Transference is, in Freud's terms, a 'repetition,' a reliving of an event, relationship, emotion, attitude, etc. with a substitute person or object. Transference can be a very powerful tool for the psychoanalyst, especially when the object that is the source of the unresolved conflict can be projected onto a substitute, and the patient allowed to address the object directly. If a patient's neurosis originates in unresolved anger towards his dead father, substituting a inanimate object for that father can allow the patient to exorcise the anger and hence dissolve the neurosis. Since Freud's masterwork *Dora*, many psychoanalysts have held transference to be the primary tool of psychoanalysis.
-
-In order for transference to work, however, the patient must be willing and capable of suspending his or her 'ego' and regressing to the state where he or she really believes that the substitute is the original source of the conflict. As psychotics live in a state where experienced reality is formed by the psychic desire not reality itself; psychotics are not suitable candidates for treatment via transference.
-
-Throughout treatment, the psychoanalysts must be aware of **resistance**.  Resistance is the patient's opposition to treatment. It defends the status quo by maintaining the neurosis or psychosis. Resistance may be conscious, subconscious or pre-conscious. It may hinder or misdirect free association. It may distract via inappropriate and unhelpful transference reactions. It may adapt to novel situations and invent new strategies. As Freud himself said “The resistance accompanies the treatment step by step. Every single association, every act of the person under treatment must reckon with the resistance and represents a compromise between the forces that are striving towards recovery and the opposing ones.” (1912, p. 11).
-
-The psychoanalytic treatment can then be broken down into four basic steps:
-
-* **Confrontation**: The first step in psychoanalysis: the patient's conscious ego must be made aware that there is a problem.  
-
-* **Clarification**: The problem is put into sharp focus. Often, this process works with the previous, as minor conflicts give way to greater conflicts.
-
-* **Interpretation**: The process of bringing the unconscious conflict into consciousness.
-
-* **Working through**: the progressive elaboration of resistance mechanisms as they manifest.
-
-There are, of course, many more complications that occur in any single patient's psychoanalytic treatment, but these four basic steps are almost universally recognized.
-
-When embarking on a new treatment, then, the psychoanalyst has three basic aims:
-
-1. To translate the productions of the patient into their unconscious antecedents. The patient's thoughts, fantasies, feelings, behavior, and impulses have to be traced to their unconscious predecessors.
-
-2. The unconscious elements must be synthesized into meaningful insights. Fragments of past and present history, conscious and unconscious, must be connected so as to give a sense of continuity and coherence in terms of the patient's life.
-
-3. The insight so obtained must be communicable to the patient. As one listens one must ascertain what uncovered material will be constructively utilizable by the patient. (Quoted from  [p. 779][#Arieti:1974tm])
-
-
-###### Jung
-
-Jungian psychoanalysis is distinguished from classical psychoanalysis by two major shifts in the basic theory.
-
-First, Jungian psychoanalysis holds that the subconscious contains psychical elements that do not originate in the experiences of the individual being psychoanalyzed.  As mentioned previously, classical psychoanalysis is empirical about the mind (for an explanation of that tradition, see &lt;!--\fullref{pre-historyofpsychology:empiricismaboutthemind}--&gt;), holding that the mind comes into the world as a blank slate (tabla rasa), and is progressively filled by experiences. The contents of the unconscious must therefore be traceable to discrete experiences in the individual's life. And it is the task of psychoanalysis to discover those experiences.  
-
-Jungian psychoanalysts believe they have evidence of unconscious contents that are not explainable by the experiences of the individual. Thus, they hypothesize the existence of a deeper 'collective unconscious' that is composed of 'archetypes' that inform and structure the content of both the unconscious as well as our conscious lives.
-
-Second, on a related note, Jungian psychoanalysis extends the *genetic hypothesis* from Freud's insistence that all psychic energy was sexual energy to include sexual energy as just one of many sources of psychic energy.
-
-For example, Freud originally posited that neurosis originated in traumatic experience in childhood on the basis of self-reports of his case-study patients. He ultimately came to realize, however, that these self-reports were fictionalizations, theorizing that the  true cause of his patient's neurosis lay in their infantile fixations. Once again, Jung extends Freud's insight to allow for fixations throughout life. He argues that:
-
-&gt;	..the moment of the outbreak of neurosis is not just a matter of chance; as a rule it is most critical. It is usually *the moment when a new psychological adjustment, that is, a new adaptation, is demanded*. Such moments facilitate the outbreak of a neurosis, as every experienced neurologist knows.
-
- &gt; This fact seems to me extremely significant. If the fixation were indeed real we should expect to find its influence constant: in other words, a neurosis lasting throughout life. This is obviously not the case. The psychological determination of a neurosis is only partly due to an early infantile predisposition; it must be due to some cause in the present as well. ([p. 49][#Jung:ss-xAx6i] “Psychoanalysis and Neurosis”)
-
-That leads to the general proposition that Freud's identification of sexual desire as *the* origin of neurosis was far too narrow. Sexual desire is one of the pleasurable instincts that shape our psychology, but for Jung, “psychoanalytic theory should be freed from the purely sexual standpoint. In place of it I should like to introduce an *energetic viewpoint* into the psychology of neurosis” ([p. 50][#Jung:ss-xAx6i]).
-
-Jung hypothesizes that the libidinal energies naturally increased when faced with an obstacle, in order to overcome it through adaptation. When that obstacle is too great, the libido retreats and regresses, and the patient reverts to a more primitive “mode of adaptation.” The practice of psychoanalysis is the same, however, as Jung theorizes that the energy that the patient needs to overcome the present obstacle and become healthy is attached to these sexual fixations. By bringing past frustrations and maladaptations to light through psychoanalysis, the libidinal energy is free to return to the present-day task: adaptation to overcome the current obstacle.
-
-The task of a psychoanalyst, then, is not only to discover the original traumatic cause of a neurosis, probably buried deep in childhood, but to discover the current obstacle that is perceived as being insurmountable. Jung agrees with Freud that the childhood fixations determine the *form* of neurosis, but unlike Freud holds that they cannot be considered the *immediate cause* of neurosis.
-
-The difference between practice among the psychoanalytic approaches is emphasis, not technique. As J.B. Wheelwright noted in 1963, “Freud focused on sexuality, Adler focused on power, and Jung focused on growth, which he called individuation.” (quoted in [p. 817][#Arieti:1974tm])
-
-##### For Further reading:
-
-###### Primary Sources:
-
-
-[#Freud:QdOvAgyZ]
-
-[#Freud:vJ1P2PRd]
-
-[#Freud:1994wo]
-
-[#Jung:cpLzoBjv]
-
-[#Jung:1953uoa]
-
-###### Secondary Sources:
-
-[#Arieti:1974tm]
-</Text>
-            <Comments>'Neurotic' behavior results from continuing conflict between the libidinal desires and the ego's repression techniques. 'Psychotic' behaviors result when the libidinal desires assert their reality on the ego. See the discussion of 'neurosis' and 'psychosis' in the History of the Classification of Mental Illness section below.
-The Introductory Lectures were published before Freud solidified the structural hypothesis using this terminology.  The beginnings of the idea, however, is present in the later chapters on neurosis: see, e.g. p. 437-438, where he describes the conflict between the 'libido' and the 'ego'.
-The Introductory Lectures mention only repression, subdivided into 'condensation' and 'displacement' as mechanisms of the ego, but promises further work on the topic (p. 364-366). He began to develop a taxonomy of ego mechanisms later in his life, but the full-fledged taxonomy we see here was developed his daughter Anna Freud (1936). The Ego and and the Mechanisms of Defense. C. Baines (trans). Connecticut: International University Press.
-In many works, including Psychopathology in Everyday Life, Introductory Lectures on Psychoanalysis and On the Interpretation of Dream, Freud provides the following outline of the kinds of commonality that underly symbolism: that of number (i.e. '3' and male genitalia), shape (i.e. long, straight objects such as sticks, umbrellas, posts, trees represent the male organ / hollowness or enclosing space such as vessels, bottles, boxes, trunks and ships symbolize female genitals; apples, peaches and fruit symbolize breasts), function (i.e. penetrating the body: knives, daggers, spears, sabers, firearms, rifles, pistols etc.; producing liquids, such as water-taps, water-cans, etc.; and being capable of lengthening or shortening, such as pencils, hanging-lamps, etc.; defying gravity (i.e. balloons, flying machines and zeppelins also represent the male organ). More complicated representations depend on personal associations with or reactions to objects: the complicated nature of landscapes mean they represent female bodies, sweets represent sexual satisfaction. Activities such as playing games, playing piano, sliding, gliding or pulling stand for masturbation because of the similarity of action. On the same note, rhythmic actions such as dancing, riding and climbing stand in for the sex act itself. Simple associations may appear as well: neckties, which are only worn by men, can symbolize men. (Introductory Lectures, p. 188-204)
-see 290-294 of the DSM II, which is included in Appendix &lt;!--\fullref{app: DSMII}--&gt;.
-see 295-299 of the DSM II
-See item 300 in the DSM II for the full taxonomy of neurosis.
-There is something of a controversy over whether psychoanalysis can be used to treat psychosis. While many psychoanalysts believe psychosis and neurosis to be on a single spectrum of mental dysfunction, the psychotic patient's connection to reality is so tenuous that the techniques of free-association and transference threaten to develop the psychosis further, rather than dissolve it.
-In Aristotlean metaphysics, the *formal* cause of something is the form of the thing whereas the immediate cause are the events that immediately proceeded the thing in question.  The *form* is the pattern or type of thing something is. The immediate cause is what brings that thing into being. In this context, the *form* distinguishes the type of neurosis, the immediate cause is what caused the neurosis to present at this moment.</Comments>
-        </Document>
-        <Document ID="39">
-            <Title>Behaviorists</Title>
-            <Text>#### Behaviorists
-
-Behaviorism holds that psychology is properly limited to the observation, prediction and control of behavior. It  typified by four hypotheses:
-
-1. *Internal entities are neither the object of scientific study nor explanatorily relevant to psychology.* Behaviorism begins with the deceptively simply insight that while psychoanalytic explanations are framed in terms of psychic entities (ego, id, etc.), quantities (psychic energy) and interactions (the mechanisms of repression), what all psychological theories seek to explain is behavior. These psychic entities, and the massive vocabulary that is required to discuss them, are all hypothetical, posited for the sake of explaining why people behave the way they do. Moreover, psychoanalytic hypotheses require a sharp dividing line between human behavior and animal behavior, which is not born out by empirical observation.  
-To be scientific, then, psychology must limit itself to observable behavior. The discourse of psychology as a scientific discipline is restricted to those terms that denote observable variables: behavior and environmental conditions, not internal mental states. From characterizing the phenomenon to be studied to offering an explanation, the behaviorist is committed to avoiding all terms that denote entities, quantities or interactions that are internal or unobservable.  
-A corollary of the thesis, which is frequently highlighted as an independent claim, is that *introspection is not a scientific form of observation*. One might argue (as historical figures like William James and William Wundt did–see &lt;!--\fullref{americanpsychology:williamjamesandthefunctionofconsciousness} and \fullref{introspection:wundt}--&gt;) that internal states *are* scientifically observable via introspection.  Behaviorists, however, reject introspection as scientifically unreliable. Evidence from Wundt and James demonstrates, they argue, that introspective procedures produce different results for different practitioners, and scientific evidence should be replicable regardless of the practitioner.  
-Behaviorists disagree on whether internal mental states are non-existent fictions or merely unavailable to scientific inquiry; but that is not important here. What is important is that these putative internal mental states do not enter into the scientific study of behavior, or the scientific language that describes and explains behavior.
-
-2.	*The proper object of study for psychology is the organism and its environment*. As a corollary of this insight, Behaviorists see behavior as the activity of an *organism*, not the activity of a *mind*. Psychology, for the behaviorist, is not the study of *parts* of an organism (such as the “ego,” “id,” and “superego”) and their relations, but rather the organism *as a whole* and its relationships with its environments.  And similarly, explanations offered by Behaviorists refer to organisms, behaviors and environmental conditions, not methods of repression and techniques of representation. Behaviorism restricts is object of study as well as its explanations to the macroscopic scale: things that can be directly observed by the naked eye. In the classical sense, Behaviorism rejects *as non-scientific* explanations in terms of or investigations into things that are larger (societies, cultures) or smaller (brains, neurons).  
-This thesis unites behaviorism with classical psychoanalysis in opposition to Jung, because it holds that all present behavior is the result of discrete learning events in the individual's past.   But unlike psychoanalytic explanations that posit unresolved psychic conflict to explain behavior, the behaviorist appeals only to previous learning experiences. To discover the reason for a given behavior then, is to discover the patterns of environmental reinforcement (called 'conditioning') that have caused the organism to learn this behavior. To cure a behavior is to 'extinguish' those conditioned responses in the organism or block those responses by substituting a new and novel response. Behaviorists hypothesize that learning can be physically realized in neurology, and hence, behaviorism is far more simple and plausible a theory than psychoanalysis, which cannot.
-
-3.	*The principles of learning are generalizable across species.* Behaviorists argue that given that animals are incapable of introspection—or, if they are, they cannot communicate it—psychological theories that make use of introspection are incapable of explaining animal psychology.  Behaviorism, however, is not. Non-human animals are organisms living in environments that behave in certain regular ways. All of that is accessible to behavioristic science. And as it is an uncontroversial observation that at least some human behavior is the same as animal behavior (caring for the young, for example), it follows that behaviorism can explain regularities that introspective psychology cannot.
-
-##### Learning
-
-A behavioristic explanation of a given behavior takes the form of specifying the mechanism of learning that caused this behavior.  A behavioristic treatment seeks to 'extinguish' that behavior through providing an antithetical mechanism.
-
-Learning mechanisms in behaviorism are built on the principles of reinforcement and extinction. Explanation of reinforcement and extinction are always specified in terms of stimulus and response. According to Watson, by 'stimulus' behaviorists “mean any object in the general environment or any change in the physiological condition of the animal, such as the change we get when we keep an animal from sex activity, when we keep it from feeding, when we keep it from building a nest.”  By 'response' behaviorists “mean that system of organized activity that we see emphasized anywhere in any kind of animal, as building a skyscraper, drawing plans, having babies, writing books, and the like.” (1929)
-
-In recent years, B.F. Skinner has popularize operant conditioning and the idea of 'reinforcing' a behavior. Anything that increases the likelihood of a response given a stimulus is a *reinforcement*.  Positive reinforcement takes the form of adding some “rewarding” object to the environment when the desired response occurs.  “Negative” reinforcement usually means the removal of such objects.  Reinforcing objects need not be physical, tangible objects, but can something as intangible as the attention of a parent. “Punishment” is a negative condition applied to the organism following a behavior.
-
-A decrease in the probability of a response given a stimulus over time is called *extinction*. In classical conditioning models of learning, the lack of repetitive exposure to reinforcement will result in progressive extinction of the conditioned response.
-
-The mechanisms learning are:
-
-* **Classical conditioning**, which is sometimes called 'past reinforcement,' occurs when an unconditioned stimulus, such as the presentation of food, causes an unconditioned ('natural') response, such as salivation. These 'natural' stimulus-response patterns are called “embryologic responses,” and they are raw material of a classical conditioning paradigm. In classical conditioning, the conditioning intervention in the embryological response occurs by pairing a 'conditioned stimulus' (such as the ringing of a bell) with the unconditioned stimulus. After repeated exposures, the original unconditioned response can be removed, and the response (now 'conditioned') will occur when the subject is presented with the conditioned stimulus. These basic pairings between conditioned stimuli and responses can be generalized over time, so that any loud noise, for example, may cause salivation.  
-
-* **Operant conditioning** differs from classical conditioning insofar as the conditioning intervention occurs after the response, rather than concurrent with the unconditioned stimulus. Operant condition introduces the possibility of promised reinforcement, which would occur when the promise of future reinforcement causes behavior.
-
-###### Behaviorism as a treatment in psychiatry
-
-Behavioral treatments in psychiatry, like behaviorism in psychology, follows from a simple insight: psychiatric treatment aims at the cessation of maladaptive behavior. Changing behaviors is accomplished through conditioning. Therefore, treatment for “mental illness” entails conditioning patients out of the behaviors that are deemed maladapted through the standard mechanisms of learning. 
-
-Like psychoanalysis, behavioral therapies restrict themselves to neurosis, not psychosis.
-
-There are two major kinds of inhibition therapies found in the literature:
-
-* **Reciprocal inhibition**, developed by Wolpe, involves diminishing the maladaptive behavior by conditioning a new behavior in response to a given stimulus that is incompatible with the undesired behavior. For reciprocal inhibition to work, the maladaptive behavior *must be* incompatible with the new conditioned behavior. Aversion therapy, which exposes the subject to the object of desire and conditions a new negative response, is a form of reciprocal inhibition.
-* **Transmarginal inhibition**, also known as *flooding*, involves exposing the patient to strong examples of the stimuli for prolonged periods.
-
-Other inhibition therapies, such as 'retroactive inhibition' are usually forms of reciprocal inhibition.
-
-##### Further Reading:
-
-###### Primary Sources:
-
-[#Skinner:2005wr]
-
-[#Watson:1913tq]. Also available at: http://psychclassics.asu.edu/Watson/views.htm
-
-[#Watson:iMwU-3B8]
-
-###### Secondary Sources:
-
-[#Hornstein:2002wq]
-
-[#Wolpe:1958vt]
-
-[#Wozniak:1997vj] Also available at http://www.brynmawr.edu/psychology/rwozniak/behaviorism.html</Text>
-            <Comments>As with most things in the history of ideas, even this definition is controversial.  I've chosen this definition, which reflects Skinner's presentation of Behaviorism in his 1953 Science and Human Behavior, chapter 1 because it is the most explicit and radical.  Watson defines that the goal of behaviorism as the “prediction and control of behavior,” (1913) leaving out observation. To understand the various different forms of behaviorism that have been posited since Watson's, please see &lt;!--\fullref{psychoanalysts}--&gt;.
-See, for further explication of this claim [p. 27-31][#Skinner:LehhdRQI]. Watson does not use the term 'inner state', but refers rather to 'consciousness', which he (possibly fallaciously) equates with the object of introspection. Thus, after objecting to the unreliability of introspective reports in a laboratory setting he claims “The time seems to have come when psychology must discard all references to consciousness; when it need no longer delude itself into thinking that it is making mental states the object of observation.”
-Animals do not have superegos or techniques of repression, so the behaviors explained in psychoanalytic terms should not generalize across species. But they do. Therefore, psychoanalytic explanations are insufficient.
-Watson seeks to eliminate the following misleading and unscientific terms from psychology: “consciousness, mental states, mind, content, introspectively verifiable, imagery, and the like.” ([#Watson:1913tq])
-See, e.g. [#Watson:1913tq] “Introspection forms no essential part of its methods, nor is the scientific value of its data dependent upon the readiness with which they lend themselves to interpretation in terms of consciousness” and [p. 30][#Skinner:LehhdRQI]
-Recall that Behaviorism was formed in the first half of the 20th century, when Hegelianism was a viable theory of social science. Behaviorists here are not rejecting the plausibility of modern social psychology, anthropology or sociology. They are rejecting the idea of a transcendent spirit that instantiates human culture.
-See, e.g. [#Watson:1913tq] “The behaviorist, in his efforts to get a unitary scheme of animal response, recognizes no dividing line between man and brute.”
-For more on the complicated history of the relationship between psychoanalysis and behaviorism, see [#Hornstein:2002wq].</Comments>
         </Document>
     </Documents>
 </SearchIndexes>
