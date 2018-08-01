@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
+        <Document ID="102">
+            <Title>Voting</Title>
+            <Text>#### Possible Mod: Voting
+
+I've left the issue of membership in the APA, and the right to vote on many of the main issues, intentionally vague. This is to allow for some flexibility for the instructor. The issue of who can practice mental health treatment is a game issue, realized in competing proposals in 1973.  As a corollary then, the issue of membership in the APA may be brought forward. This can also play out as one of the causes of the APA’s ‘fission' that may occur starting in 1975.
+
+**Kameny**, **Gittings** and **Gold** are not members of the APA at the beginning of the game.  If the gamemaster wants everyone to vote, he or she should make clear from the beginning that they are considered to be members of the APA with full rights to vote. 
+
+A character does *NOT* need to be a member of the APA to earn credibility.  He or she *MUST* be a member of the APA to 'spend' that credibility in the final vote.  It follows that non-members must entrust their credibility with a member of the APA so that it can be counted. 
+</Text>
+        </Document>
         <Document ID="11">
             <Title>Brief overview of the game</Title>
             <Text>## Introducing The Game
@@ -98,13 +109,15 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1971 
 
 
 **Other papers to expect**
-Paper by Spitzer on Feighner Criteria\newline
-Paper by Gebhard on the Kinsey report.\newline
-Paper by Harlow “Lust, latency and love”
+
+* Paper by Spitzer on Feighner Criteria 
+* Paper by Gebhard on the Kinsey report.
+* Paper by Harlow “Lust, latency and love”
 
 **Other possible proposals**
-Hopcke -- limit medical care of mentally distressed individuals in hospitals to licensed medical doctors
-Albee - limit the role of psychiatrists to the administration of drugs.
+
+* Hopcke -- limit medical care of mentally distressed individuals in hospitals to licensed medical doctors&lt;!--\newline--&gt;
+* Albee - limit the role of psychiatrists to the administration of drugs.
 
 **Research committee Issues**
 
@@ -184,7 +197,10 @@ While there is a great deal to prepare for this game, my experience has taught m
 
 Most students come to the game believing that (a) psychology is a science and (b) psychiatry is a medical practice.  Neither of those claims were settled in the public mind in 1970.  In fact, most of the tension in this game revolves around the efforts to make psychiatry conform to 'the medical model' and psychology conform to the model of the natural sciences, thereby legitimizing them as worthwhile endeavors.
 
-Psychology, on the other hand, had been suffering a crisis of legitimacy since its inception, which is why so many of their arguments are really metatheoretical arguments on the nature of science.  The behaviorists believe that introducing new methodologies, like the cognitivists propose, would further weaken their claims to be a scientific discipline. </Text>
+Psychology, on the other hand, had been suffering a crisis of legitimacy since its inception, which is why so many of their arguments are really metatheoretical arguments on the nature of science.  The behaviorists believe that introducing new methodologies, like the cognitivists propose, would further weaken their claims to be a scientific discipline. 
+
+
+</Text>
             <Comments>As noted in the introduction to the Instructor’s manual.</Comments>
         </Document>
         <Document ID="56">
@@ -272,7 +288,7 @@ Symposia&amp;“Psychiatry: Friend or Foe to Homosexuals: A Dialogue,” Fryer, 
 Proposals for the Board&amp;Removal of homosexuality immediately (Spitzer '73)\newline
 Spitzer task force, dissolution of nomenclature committee (Spitzer, 1973)&amp; (likely / possible):  Creation of the Society for the Psychology of Women (Anastasi, 1973) and Creation of the committee on Women in Psychology (Anastasi, 1973) \\ \hline
 Proposals for Research Committee&amp;\multicolumn{2}{| P{14cm} | }{Prison study (See \fullref{interpersonaldynamicsinasimulatedprison},  \textbf{(propsed by Zimbardo, if in game, if not, gamemaster)} \newline
-“A re-analysis of the reliability of psychiatric diagnosis” (proposed by Spitzer) See \fullref{areanalysisofthereliabilityofpsychiatricdiagnosis}).}\\ \hline
+“A re-analysis of the reliability of psychiatric diagnosis” (proposed by Spitzer) See \fullref{are-analysisofthereliabilityofpsychiatricdiagnosis}).}\\ \hline
 Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1972 proposals, one (or both) of “On being sane in insane places” and Fordney-Settlage “Sexual experience of younger teenage girls seeking contraceptive assistance for the first time.”} \\ \hline
 \caption{Major events of 1973}
 \end{longtable}--&gt;
@@ -280,22 +296,23 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1972 
 
 **Other papers to expect**
 
-Paper by Tyler on individual differences and their importance for counseling. \Newline
+* Paper by Tyler on individual differences and their importance for counseling. 
+* Symposium on “Should Homosexuality be in the APA Nomenclature” by the Nomenclature committee, with special power \newline
+* Bieber and Socarides report, challenged by Gold, Spitzer.
 
-Symposium on “Should Homosexuality be in the APA Nomenclature” by the Nomenclature committee, with special power \newline
-
-Bieber and Socarides report, challenged by Gold, Spitzer.\newline
 
 **Other possible proposals**
 
-Marmor - official condemnation / censure of Socarides JAMA paper as nonscientific and a “Monstorous attach on homosexuality.”\Newline
+* Marmor - official condemnation / censure of Socarides JAMA paper as nonscientific and a “Monstorous attach on homosexuality."
 
-Leona Tyler principle (See &lt;!--\fullref{leonatylerprinciple}--&gt;).
+* Leona Tyler principle (See &lt;!--\fullref{leonatylerprinciple}--&gt;).
 
-Gold
+* Gold symposium on "Stop! You're making me sick"
 
 
 **Papers to be distributed (if activities are approved)**
+
+On Gay Pride day in 1973, someone firebombed the 'UpStairs Lounge', a gay club in New Orleans, killing 32 people, 3 of whom were never identified.  The Game Master should  distribute the news prior to the APA conference. See http://www.patheos.com/blogs/friendlyatheist/2013/06/24/remembering-the-upstairs-lounge-the-u-s-a-s-largest-lgbt-massacre-happened-40-years-ago-today/  for a blog-length history, or “Let the Faggots Burn: The UpStairs Lounge Fire” by Johnny Towsend for a book-length history.
 
 1973: Rosehan 'On being sane in Insane places' Science  v.. 179 (Jan. 1973), 250-258
 
@@ -354,13 +371,15 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1973 
 \end{longtable}--&gt;
 
 **Other papers to expect**
-Symposium on “Social responsibility of Intellectuals” Chomsky Clark and maybe Marmor
-Milgram - Obedience
-Lief - genetic ghypothesis and diagnostic taxa.
+
+* Symposium on “Social responsibility of Intellectuals” Chomsky, Clark and maybe Marmor
+* Milgram - Obedience
+* Lief - genetic hypothesis and diagnostic taxa.
 
 Open hearings / symposium on the Spitzer def of ‘mental illness’.
 
 **Other possible proposals**
+
 Fryer - deem aversion therapy to treat homosexuality immoral.
 
 **Papers to be distributed (if activities are approved)**
@@ -370,6 +389,31 @@ Fryer - deem aversion therapy to treat homosexuality immoral.
 Spitzer, R. and Fleiss, J. (1974). “A Re-analysis of the Reliability of Psychiatric Diagnosis” Brit. J. Psychiat. 125, 341-7
 &lt;!--\newpage--&gt;</Text>
         </Document>
+        <Document ID="82">
+            <Title>Front matter</Title>
+            <Text>&lt;!--
+\frontmatter --&gt;
+# Instructor’s Manual: 
+&lt;!-- \begin{refsection}
+\def\mysubtitle{The struggle for legitimacy of psychology and psychiatry in the 1970’s\\ \large Instructor’s Manual}
+
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+\listoftables
+\newpage
+\listoffigures
+\newpage
+
+\renewcommand*{\thechapter}{\arabic{chapter}}
+
+
+\setcounter{chapter}{0}
+\mainmatter--&gt;
+
+</Text>
+        </Document>
         <Document ID="83">
             <Title>Introduction</Title>
             <Text>## Introduction
@@ -378,11 +422,11 @@ Welcome to “Defining the Mind.”  This game is set around the creation of the
 
 This is not a game about the accumulation and use of power in the ordinary way. This is a game about academic credibility and evidence.  In the ideal of academic life towards which we strive, these are one and the same.  In reality, of course, they are not. 
 
-But there are moments---Kuhn used the political metaphor of a revolution---where known anomalies in the dominant paradigm become to great to ignore, and shifts happen. In these moments, academic credibility takes on a new form. And like political revolutions, new movements in science gain credibility by appeal to external entities and ideologies.
+But there are moments---Kuhn used the political metaphor of a revolution---where known anomalies in the dominant paradigm become to great to ignore, and shifts happen. In these moments, academic credibility takes on a new form. And like political revolutions, new movements in science gain credibility by appeal to external entities and ideologies. Indeed, most of the debates between factions regards the Philosophy of Science, not evidence *per se*.
 
-The DSMIII marks a significant revolution in Psychiatry. The DSM I’s “Revised Nomenclature” is 39 pages long &lt;!--\fullref{app: DSMI}--&gt;. The DSMII’s is 40 pages &lt;!--\fullref{app: DSMII}--&gt;. The equivalent section (2) of the DSMIII is 300 pages long.  The DSMIII-R added another 250 pages or so and the DSMIV another 100. Since then, the DSM IV-TR  and the DSM V have continued to grow.
+The writing of the DSMIII marks one of these moments of revolution in Psychiatry. The DSM I’s “Revised Nomenclature” is 39 pages long &lt;!--\fullref{app: DSMI}--&gt;. The DSMII’s is 40 pages &lt;!--\fullref{app: DSMII}--&gt;. The equivalent section (2) of the DSMIII is 300 pages long.  The DSMIII-R added another 250 pages or so and the DSMIV another 100. Since then, the DSM IV-TR  and the DSM V have continued to grow. There is, simply put, a difference in *kind* between the taxonomy used in early DSMs and III.  And while that taxonomy has grown since the III, it has not changed in nature.
 
-We do not expect that undergraduate students will be able to produce a diagnostic taxonomy in this game. Rather, we are expecting students to determine upon what basis such a diagnostic taxonomy should be based: observable symptoms or hypothetical causes.  Of course, we throw in Thomas Szasz and his sympathizers to drive home the importance of having a definition in the first place.
+We do not expect that undergraduate students to produce a diagnostic taxonomy in this game. Rather, we are expecting students to determine upon what basis such a diagnostic taxonomy should be based: observable symptoms or hypothetical causes. These are questions of Philosophy, not necessarily questions of Psychology or Psychiatry. Of course, we throw in Thomas Szasz and his sympathizers to drive home the importance of having a definition in the first place.
 </Text>
         </Document>
         <Document ID="113">
@@ -407,18 +451,21 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1974 
 
 **Other papers to expect**
 
-Clark / Anastasia / Spiegel on statistical structures of ‘normal’ in the the DSM-III taxa.
-Open forum on definition of mental illness (called by Nomenclature / Spitzer Task Force)
-Zimbardo on the 1968 code of ethics
-Fordney-Settlage on the disparity between psychanalytic theories of male and female sexuality.
-Hopcke on Jungianism and homosexuality.
-Marr on levels of explanation in Psychology
-Symposium on ‘innateness’ between Piaget and Chomsky, with implications for social responsibility and homosexuality.
+* Clark / Anastasia / Spiegel on statistical structures of ‘normal’ in the the DSM-III taxa.
+* Open forum on definition of mental illness (called by Nomenclature / Spitzer Task Force)
+* Zimbardo on the 1968 code of ethics
+* Fordney-Settlage on the disparity between psychanalytic theories of male and female sexuality.
+* Hopcke on Jungianism and homosexuality.
+* Marr on levels of explanation in Psychology
+* Symposium on ‘innateness’ between Piaget and Chomsky, with implications for social responsibility and homosexuality.
 
 **Other possible proposals**
-Clark - affirmative action (See &lt;!--\fullref{affirmativeaction}--&gt;
-Zimbardo / Research committee - revisions to the 1968 code of ethics.
 
+*Clark, Milgram in opposition --- affirmative action (See &lt;!--\fullref{affirmativeaction}--&gt;)
+
+* Zimbardo / Research committee - revisions to the 1968 code of ethics.
+
+**Papers to be distributed (if activities are approved)**
 
 An Experimental Study of the Small World Problem. (1969). An Experimental Study of the Small World Problem, 32(4), 425–443. http://doi.org/10.2307/2786545?refreqid=search-gateway:a88fe1dd7db6336d575e302c0c15221e
 &lt;!--\newpage--&gt;</Text>
@@ -1225,31 +1272,37 @@ Philip Zimbardo has a great deal of promise as a researcher in social psychology
             <Title>Major events</Title>
             <Text>#### Concurrent conversations
 
-There are three main ‘tracks’ or ‘conversations’ happening concurrently in this game. The first---the dominate narrative---starts with the demedicalization of homosexuality, follows the Spitzer proposal to rewrite the DSM-III and ends with the definition of mental illness.
+There are three main ‘tracks’ or ‘conversations’ happening concurrently in this game. 
 
-The second regards research proposals, labs and ethics. Weekly proposals are reviewed by the  research committee, and if approved, the experiment performed by the members of the class.
+* The first---the dominate narrative---starts with the demedicalization of homosexuality, follows the Spitzer proposal to rewrite the DSM-III and ends with the definition of mental illness.
 
-The third regards the policies of the APA, specifically the role in the wider culture of the APA specifically and Psychology and Psychiatry broadly construed. The elections to the board as well as  Presidential elections are included in this conversation, even as they impact the other two. This thread climaxes in the debate on the Leona Tyler principle and Chomsky and Clarke’s arguments against.
+* The second regards research proposals, labs and ethics. Proposals are reviewed weekly by the Research Committee, and if approved, the experiment performed by the members of the class in the next class session.
 
-The are three majors topics / events that every game should address. The first, demedicalization, is really a sample question to set up the major issues of the game.
+* The third regards the policies of the APA, specifically the role in the wider culture of the APA and Psychology and Psychiatry broadly construed. The elections to the board as well as  Presidential elections are included in this conversation, even as they impact the other two. This thread climaxes in the debate on the Leona Tyler principle and Chomsky and Clarke’s arguments against.
+
+These are three majors topics / events that every conference should should address. The first, demedicalization, is really a sample question to set up the major issues of the game.
 
 1. **Demedicalization of Homosexuality (week 1)** 
-The demedlication of homosexuality is almost totally assured.  The only characters who argue against it are Bieber and Socarides. Their reliance on psychoanalytic techniques will not sway Marmor or Hopcke, who are committed to demedicalization.  This may be frustrating to your students.  It is wise to remind them that the main question of the game--the legitimacy of psychoanalysis as a scientific enterprise--is very much in play, and if they strategize correctly, they can win the game even though they lost the first battle.  
-The NY Times obituary of Socarides quotes Gilbert Herdt of National Sexuality Resource Center in San Francisco as saying “Socarides outlived his time.” That is roughly correct. Many psychiatrists in 1971 may not have noticed that the medicalization of homosexuality was a problem for the homosexual community, but once it was pointed out, the opinion swung dramatically: 58% of the population approved of the demedicalization in 1973.  And today,  there is great embarrassment about that era.   
+The demedicalization of homosexuality is almost totally assured.  The only characters who argue against it are Bieber and Socarides. Their reliance on psychoanalytic techniques will not sway Marmor or Hopcke, who are committed to demedicalization.  This may be frustrating to your students.  It is wise to remind them that the main question of the game--the legitimacy of psychoanalysis as a scientific enterprise--is very much in play, and if they strategize correctly, they can win the game even though they lost the first battle.  
+The NY Times obituary of Socarides quotes Gilbert Herdt of National Sexuality Resource Center in San Francisco as saying “Socarides outlived his time.” That is roughly correct. Many psychiatrists in 1971 may not have noticed that the medicalization of homosexuality was a problem for the homosexual community, but once it was pointed out, the opinion swung dramatically: 58% of the population approved of the demedicalization in 1973. And today there is great embarrassment about that era.   
 As such, the main debate here is about the procedure by which homosexuality will be removed. Green and Marmor will be tempted to just ram it through the board of directors without consulting the population.  That should be avoided.  I've set up the game so that Marmor's original proposal should be remanded to the nomenclature committee, which will report in 1972, requiring a final vote of the membership in 1973.  While the result is not in doubt, without that process, Socarides' rhetoric that the decision was political, not scientific, will be bolstered.
 
 2. **Normal Business (throughout)** 
-The ‘normal business’ of the APA should continue throughout.  Research proposals should be brought forward, the best one approved and the study conducted (that is, as much as is practical). We’ve included a fair number of class-room experiments in section &lt;!--\fullref{labspossibleresearchproposals}--&gt;, most of which are from the APA’s (Psychological) *Activities Handbook for the Teaching of Psychology*. I’ve selected experiments that reflect the major issues in the game.
+The ‘normal business’ of the APA should continue throughout.  Research proposals should be brought forward, the best one approved and the study conducted (that is, as much as is practical). There are two types of proposals that can be brought to the Research committee: real, historical experiments that I have 'anonymized' for use in the game, and in class-room experiments from the APA’s (Psychological) *Activities Handbook for the Teaching of Psychology*. I’ve selected experiments that reflect the major issues in the game. They are available in Section &lt;!--\fullref{labsandpossibleresearchproposals}--&gt;
 
 3. **DSM-III (week 2-4)** 
 The second section of the game addresses the central question of the legitimacy of psychoanalysis. It does so, once again, tangentially by asking students to debate the evidence that should be used to form the taxonomy of mental illness as contained in the DSM-III. Students shouldn’t be debating whether this or that criteria is include, but rather, whether the DSM-III ought to be structured around the psychodynamic hypothesis or the study of observable symptoms. You could say the debate is whether mental illness is classified by its causes or its effects.  
 At the same time, the Spitzer taskforce should propose a covering definition of 'mental illness' that will directly challenge the views of Szasz and Albee.  It should fail (it did, in reality). 
 
-4. **Definition of ‘mental illness’ / Fission (week 5)**. 
+4. **The social responsibilities of social scientists. (Week 3-5)**  
+Leona Tyler is prompted to propose the 'Leona Tyler Principle' to the board in week 3.  That should spark Ken Clark and Noam Chomsky to object, and propose a symposium in the following year. Of course, these can come at any time, but they are vital to the end game.  
+
+5. **End Game: Definition of ‘mental illness’ and Fission of the APA (week 5)**. 
 Members of the factions have the option to form splinter associations. In reality:  
 &gt;**Behaviorists** found the “Society for the Experimental Analysis of Behavior” (actual founding 1957), and found two journals: *Journal of the Experimental Analysis of Behavior* and *Journal of Applied Behavioral Analysis*.   
 &gt;**Psychoanalysts** form the American Psychoanalytic Association (actual founding in 1911, but grew rapidly in this era) and the journal *Journal of the American Psychoanalytic Association (JAPA)*, and  
 &gt;**Cognitivists** form the Cognitive Science Society (1979) and its associated journals.  
+
 No students are given direct instruction on whether the fission requires withdrawal from the APA. Some, esp. those playing Beiber and Socarides, may feel stronger about the fission than the cognitivists Miller and Chomsky.  This is historically appropriate–by the mid-1980s, cognitivism generally dominated the APA.  And contemporary behaviorism has adapted to resemble cognitivism in many ways, by include talk of 'motivations' and of the 'function of behavior' in their explanations.
 </Text>
         </Document>
@@ -1257,15 +1310,15 @@ No students are given direct instruction on whether the fission requires withdra
             <Title>Readings</Title>
             <Text>#### Readings
 
-Psychology is a heterogeneous field, and including Psychiatry in the game makes it even more complex. This game is intentionally designed to embody the kind of interdisciplinary dialogue that occurred in the 1970’s and gave rise to cognitivism and our contemporary understanding of sexuality and human behavior in general.  
+Psychology is a heterogeneous field, and including Psychiatry in the game makes it even more complex. This game is intentionally designed to embody the kind of interdisciplinary dialogue that occurred in the 1970’s and gave rise to cognitivism and our theoretically-pluralistic understanding of sexuality and human behavior in general.  
 
 ##### Common reading
 
-As such, each student ought to read the readings contained on his or her role sheet, a full summary of which is included in table &lt;!--\fullref{table:readingsbycharacter}--&gt;.
+As such, each student ought to read the readings contained on his or her role sheet, a full summary of which is included in table &lt;!--\fullref{table: readingsbycharacter}--&gt;.
 
-The challenge of this game is to ensure that there is a common base amoung the various approaches to ensure discussion.  I’ve chosen Freud’s *Introductory Lectures on Psychoanalysis* because everyone---friend and foe---would have needed to understand and respond to Freud in this period. 
+The challenge of this game is to ensure that there is a common base among the various approaches to the mind to ensure productive discussion.  I’ve chosen Freud’s *Introductory Lectures on Psychoanalysis* because everyone---friend and foe---would have needed to understand and respond to Freud during this period. 
 
-The *Lectures* are not difficult, but they are long. I would suggest the following reading schedule with points to highlight as follows:
+The *Lectures* are not difficult, but they are long. I use the the reading schedule laid out in Box &lt;!--\fullref{coretextreadinglist}--&gt; over three class sessions, and focus on the points listed therein. Of course, you are welcome to adjust this to your needs.
 
 &lt;!--\begin{apatextbox}{Core text reading list}--&gt;
 
@@ -1308,8 +1361,11 @@ The *Lectures* are not difficult, but they are long. I would suggest the followi
 
 &lt;!--\end{apatextbox}--&gt;
 
-I’ve included Bacon’s *Novum Organon* and Ebbinghaus ‘Memory’ as supplemental texts. I enjoy both, and believe students would be better off having read them, but they are not necessary for game play.
+I have also included Bacon’s *Novum Organon* and Ebbinghaus *Memory* as supplemental core texts. I enjoy both, and believe students would be better off having read them, but they are not necessary for game play.
 
+##### Weekly readings
+
+There will be primary source readings attached to each conference, depending on the actions of the Research Committee. See Section &lt;!--\fullref{labactivities}--&gt; for more.
 </Text>
         </Document>
         <Document ID="86">
@@ -1319,7 +1375,7 @@ I’ve included Bacon’s *Novum Organon* and Ebbinghaus ‘Memory’ as supplem
 
 #### Learning Objectives
 
-In many ways, this is not a game about Psychology or Psychiatry, it is a game about the Philosophy of Science. This shouldn't really be surprising, as the history of the Psychology and Psychiatry is intimately linked to the history of the Philosophy of Science. Arguments made by Wundt, Freud, Watson, Hull Skinner and Miller all rely heavily on claims regarding what is or is not a legitimate scientific claim. This issues has not disappeared from undergraduate Psychological classroom either.  The APA's guidelines for the Undergraduate Major in Psychology, published 2007, lists 10 learning outcomes for a major. The first is:
+In many ways, this is not a game about Psychology or Psychiatry, it is a game about the Philosophy of Science. This shouldn't really be surprising, as the history of the Psychology and Psychiatry is intimately linked to the history of the Philosophy of Science. Arguments made by Wundt, Freud, Watson, Hull Skinner and Miller all rely heavily on claims regarding what is or is not a legitimate scientific claim. This issues has not disappeared from undergraduate Psychological classroom either.  The APA's guidelines for the Undergraduate Major in Psychology, published 2007, lists 10 learning outcomes for a major. The first is in box &lt;!--\fullref{excerptfromapaguidelinesforanundergraduatemajorinpsychology2007}--&gt;, and the second in &lt;!--\fullref{excerptfromapaguidelinesforanundergraduatemajorinpsychology2.02013}--&gt;.
 
 
 &lt;!--\begin{apatextbox}{Excerpt from APA Guidelines for an Undergraduate Major in Psychology, 2007}--&gt;
@@ -1365,33 +1421,33 @@ Version 2.0 instrumentalizes the ‘nature of psychology as a discipline’ into
 
  My main for quoting this document is, however, 2007 (a) and 2013 (1.1b).
 
-The question *if* psychology is a science is a question of demarcation – the classic issue in the Philosophy of Science. But answering *why* psychology is a science assumes a affirmative answer to the demarcation problem, and hence, a particular view in the Philosophy of Science.  
+The question *if* psychology is a science is a question of demarcation – the classic issue in the Philosophy of Science. But answering *why* psychology is a science assumes a affirmative answer to the demarcation problem, and hence, a particular view in the Philosophy of Science.  This has not been a settled issue until recently.
 
 For example, Wundt charged Hebart with non-scientific investigations into introspection, because Hebart did not adequately control the environment. Watson charged that McDougall's notion of behaviors having a 'purpose' was non-scientific, because McDougall did not follow strict verificationism in the philosophy of science. When Hull charged that Tolman's explanations were unscientific because they positing internal entities, he did so by citing Newton (1935). Miller and Chomsky rejected Skinner's arguments by citing Philosophers of Science such as Patrick Suppes, who contend that the history of science shows that scientists do posit internal entities, if they can modeled mathematically.
 
 
-##### Textbooks: A brief review of introductory textbooks in psychology demonstrates that the current crop of answers here is not good-
+##### Textbooks
 
 Most *Introduction to Psychology* textbooks address Goal 1 in Chapter 1. The all include a brief historical overview, and all note Wundt, James, Freud and Pavlov.  
 
-&lt;!--\begin{longtable}[!t]{ | P{2cm} | P{3cm} | P{6cm} | P{3cm} | }
+&lt;!--\begin{longtable}[!t]{ | P{2cm} | P{5cm} | P{7cm} }
 \hline
-\tahead{Book} &amp; \tahead{Def. Of ‘Science’} &amp; \tahead{Historical highlights (I.e. Section heads)} &amp; \tahead{other notable items}  \\ \hline
---&gt;[#Lilienfeld:2014ws]&lt;!--&amp;”A systematic \emph{approach} to evidence” (p.8)&amp;Early History (27-29), Structuralism (30), Functionalism (30), Behaviorism (30-31), Cognitivism(31) and Psychoanalysis (31-32)&amp;Significant section on pseudoscience (p. 12-26) \\ \hline
---&gt;[#Cacioppo:2018we]&lt;!--&amp;”a special way of learning about reality through systematic observation and experimentation.” (p. 36) &amp;Greek philosophers, British empiricists, ancient physicians, 17th and 18th century natural scientists, Helmholtz (all 6-10), Wundt (11-12), Gestalt (12), James, (12-14), Freud (14) \&amp; Humanistic Psychology (15), Behaviorists and Cognitive Revolution (16-21)  &amp; Defines ‘psychology’ as ‘science of mind’ rather than ‘science of behavior and mental processes’ (p. 5)\\ \hline
---&gt;[#Cervone:2015ud]&lt;!--&amp; ‘scientific methods refers to a broad array of procedures through which scientists obtain information about the world’ (p. 9)---Collect evidence, record observations systematically, record how observations were made.&amp; Aristotle \&amp; Buddha (20-22) Locke \&amp; Kant (22-24), Wundt (24-25), James (25-26), Structuralism \&amp; Functionalism (27), Psychoanalysis, Behaviorism (28), Humanistic (28-29), Information Processing and the Cognitive Revolution (29-30)&amp; \\ \hline
---&gt;[#Gazzaniga:2018tq]&lt;!--&amp; ‘psychology: the study through research of mind, brain and behavior’--“gain accurate knowledge about behavior and mental processes only by observing the world and measuring aspects of it” (p. 30)&amp;Descartes (p. 10-11), Wundt (11-12), Structuralism (12), Functionalism (12), Evolution, Adaptation and Behavior (13), Psychoanalytic Approach (14), Behaviorism (15), Gestalt (15-16), Humanistic (16), Cognitivism (16)&amp; Additional definition of ‘scientific method’ that combines method with goals. \\ \hline
---&gt;[#Hockenbury:2014ws]&lt;!--&amp;The scientific method is a set of assumptions, attitudes , and procedures that guides all scientists, including psychologists, in conducting research (16) -- empirical evidence: “Verifiable evidence that is based upon objective observation, measurement and/or experimentation.” (16)&amp;Influence of Philosophy and Physiology (3-4), Wundt (4), Titchener (4-5), James (5-6), Freud (7-8), Watson (8), Rogers (9)&amp; \\ \hline
---&gt;[#Myers:2015ws]&lt;!--&amp;”less a set of finding than a way of asking and answering questions” (5)&amp;Wundt (2), Structuralism and Functionalism (2-3), First Women in Psychology (3-4),Behaviorism (4), Freudian Psychology (5), Humanistic Psychology (5), Cognitive Revolution (5)&amp; \\ \hline
---&gt;[#Zimbardo:2012uz]&lt;!--&amp;”based on objective, verifiable evidence---not just the opinions of experts and authorities, as we often find in non-scientific fields” (4) &amp;Separation of Mind and Body and the Modern Biological Perspective (Descartes (12-13)), The Founding of Scientific Psychology and the Modern Cognitive Perspective (Wundt (13-14), Structuralism (Titchener) (14), James (14-15), Cognitive (15-16)), The Behavioral Perspective (16-17), The Whole-Person Perspective (17-19), The Developmental Perspective, The Sociocultural Perspective&amp; “Perspective” approach is unique in the set of textbooks reviewed.\\ \hline
---&gt;[#Rathus:2012uz]&lt;!--&amp;”Psychology, like other sciences, seeks to describe, explain, predict, and control the events it studies... ...behavior and mental processes.” (4)&amp; Aristotle(8-9), Structuralism - Wundt (9), Functionalism - James (9-10), Behaviorism (10), Gestalt (10-11), Psychoanalysis (11-12)&amp; \\ \hline
+\tahead{Book} &amp; \tahead{Def. Of ‘Science’} &amp; \tahead{Historical highlights (I.e. Section heads)} \\ \hline
+--&gt;[#Lilienfeld:2014ws]&lt;!--&amp;”A systematic \emph{approach} to evidence” (p.8)&amp;Early History (27-29), Structuralism (30), Functionalism (30), Behaviorism (30-31), Cognitivism(31) and Psychoanalysis (31-32)\newline Significant section on pseudoscience (p. 12-26) \\ \hline
+--&gt;[#Cacioppo:2018we]&lt;!--&amp;”a special way of learning about reality through systematic observation and experimentation.” (p. 36) &amp;Greek philosophers, British empiricists, ancient physicians, 17th and 18th century natural scientists, Helmholtz (all 6-10), Wundt (11-12), Gestalt (12), James, (12-14), Freud (14) \&amp; Humanistic Psychology (15), Behaviorists and Cognitive Revolution (16-21) \newline Defines ‘psychology’ as ‘science of mind’ rather than ‘science of behavior and mental processes’ (p. 5) \\ \hline
+--&gt;[#Cervone:2015ud]&lt;!--&amp; ‘scientific methods refers to a broad array of procedures through which scientists obtain information about the world’ (p. 9)---Collect evidence, record observations systematically, record how observations were made.&amp; Aristotle \&amp; Buddha (20-22) Locke \&amp; Kant (22-24), Wundt (24-25), James (25-26), Structuralism \&amp; Functionalism (27), Psychoanalysis, Behaviorism (28), Humanistic (28-29), Information Processing and the Cognitive Revolution (29-30) \\ \hline
+--&gt;[#Gazzaniga:2018tq]&lt;!--&amp; ‘psychology: the study through research of mind, brain and behavior’--“gain accurate knowledge about behavior and mental processes only by observing the world and measuring aspects of it” (p. 30)&amp;Descartes (p. 10-11), Wundt (11-12), Structuralism (12), Functionalism (12), Evolution, Adaptation and Behavior (13), Psychoanalytic Approach (14), Behaviorism (15), Gestalt (15-16), Humanistic (16), Cognitivism (16) \newline Additional definition of ‘scientific method’ that combines method with goals. \\ \hline
+--&gt;[#Hockenbury:2014ws]&lt;!--&amp;The scientific method is a set of assumptions, attitudes , and procedures that guides all scientists, including psychologists, in conducting research (16) -- empirical evidence: “Verifiable evidence that is based upon objective observation, measurement and/or experimentation.” (16)&amp;Influence of Philosophy and Physiology (3-4), Wundt (4), Titchener (4-5), James (5-6), Freud (7-8), Watson (8), Rogers (9) \\ \hline
+--&gt;[#Myers:2015ws]&lt;!--&amp;”less a set of finding than a way of asking and answering questions” (5)&amp;Wundt (2), Structuralism and Functionalism (2-3), First Women in Psychology (3-4),Behaviorism (4), Freudian Psychology (5), Humanistic Psychology (5), Cognitive Revolution (5) \\ \hline
+--&gt;[#Zimbardo:2012uz]&lt;!--&amp;”based on objective, verifiable evidence---not just the opinions of experts and authorities, as we often find in non-scientific fields” (4) &amp;Separation of Mind and Body and the Modern Biological Perspective (Descartes (12-13)), The Founding of Scientific Psychology and the Modern Cognitive Perspective (Wundt (13-14), Structuralism (Titchener) (14), James (14-15), Cognitive (15-16)), The Behavioral Perspective (16-17), The Whole-Person Perspective (17-19), The Developmental Perspective, The Sociocultural Perspective \newline “Perspective” approach is unique in the set of textbooks reviewed.\\ \hline
+--&gt;[#Rathus:2012uz]&lt;!--&amp;”Psychology, like other sciences, seeks to describe, explain, predict, and control the events it studies... ...behavior and mental processes.” (4)&amp; Aristotle(8-9), Structuralism - Wundt (9), Functionalism - James (9-10), Behaviorism (10), Gestalt (10-11), Psychoanalysis (11-12) \\ \hline
 \caption{Timeline of critical events}
 \label{table: timeline}
 \end{longtable}--&gt;
 
-When one reviews these offerings, one is struct by the lack of variation. All cite the same historical movements---including, somewhat surprisingly, humanistic psychology. They *all* define science as a method or procedure, and all reject the notion that science is a body of knowledge to be memorized.  This cannot be random.
+When one reviews these offerings, one is struct by the lack of variation. All cite the same historical movements---including, somewhat surprisingly, humanistic psychology. They *all* define science as a method or procedure, and all reject the notion that science is a body of knowledge to be memorized.  This cannot be random. No equivalent set of texts in Philosophy would be as uniform.
 
-Moreover, the idea that science can be distinguished from non-science or pseudoscience based on method alone is highly questionable. Ptolemic astronomy based its work on careful observation, and applied the rigorous methods of mathematics in order to describe and predict the movements of the heavens.  So does astrology.  On the other side of the dialectic, there is little in relativistic physics or quantum mechanics that is observable or was subject to experiment *before* it was accepted as scientific.  
+Moreover, the idea that science can be distinguished from non-science or pseudoscience based on method alone is highly questionable. Ptolemaic astronomy based its work on careful observation, and applied the rigorous methods of mathematics in order to describe and predict the movements of the heavens.  So does astrology.  On the other side of the dialectic, there is little in relativistic physics or quantum mechanics that is observable or was subject to experiment *before* it was accepted as scientific.  
 
 So neither way is the view articulated by these textbooks correct---there are non-scientific endeavors that fit the methodology-based demarcation, and there are scientific endeavors that do not. Simply speaking, one cannot demarcate science from non-science using methodology alone. 
 
@@ -1473,8 +1529,16 @@ The journalist in question here is Shakar Vendantam, who went on to host the “
             <Title>Items you will need</Title>
             <Text>### Items you might need
 
+Access to Mental Rotation Task
 
-&lt;!--\begin{landscape}
+Hard copies of:
+
+* Sample conference schedule (Section &lt;!--\fullref{scheduleforfirstconference}--&gt; of the instructor's manual).
+* Sample Call for Papers and Symposia (Section &lt;!--\fullref{callforpapersandsymposia}--&gt; of the game book).
+* Sample call for research grants (Section &lt;!--\fullref{callforresearchgrants}--&gt; of the game book).
+* Papers to be distributed (see table &lt;!--\fullref{table: possiblelabactivities}--&gt; of the instructor's manual)
+
+&lt;!--  \pagebreak
 \subsection{Credibility Points}
 \label{credibilitypoints}
     \begin{tabularx}{\linewidth}{|C{1.75in}|C{1.75in}|C{1.75in}|C{1.75in}|}
@@ -1502,11 +1566,13 @@ Chair, Program Committee &amp;  \\ \hline
 \caption{Credibility costs for service to the APA}
 \label{sample: credibilitypointsmenu}   
 \end{longtable}   
-\end{landscape}  
+
   \pagebreak
 --&gt;
 
-#### Ads for Psychopharmaceuticals
+#### Establishing Liminality
+
+##### Ads for Psychopharmaceuticals and Health Insurance
 
 To set the stage, and, to the observant student, to note that most of these drugs are marketed for use on women by men---all the while being tested almost exclusively on men.
 
@@ -1514,9 +1580,54 @@ Many such can be found here: https://prescriptiondrugs.procon.org/view.resource.
 
 It might also be worth putting up some ads for health insurance, as this is important to understanding the drive to standardize treatment. These are not too difficult to find on line, but here’s a link to a few: http://www.vintageadbrowser.com/money-ads-1970s/8 
 
-#### 1973--Copy of “UpStairs Lounge” Story
 
-On Gay Pride day in 1973, someone firebombed the 'UpStairs Lounge', a gay club in New Orleans, killing 32 people, 3 of whom were never identified.  The Game Master may wish to distribute the news prior to the APA conference, if he or she wishes to drive home the threat faced by LGBT people in 1973.  See http://www.patheos.com/blogs/friendlyatheist/2013/06/24/remembering-the-upstairs-lounge-the-u-s-a-s-largest-lgbt-massacre-happened-40-years-ago-today/  for a blog-length history, or “Let the Faggots Burn: The UpStairs Lounge Fire” by Johnny Towsend for a book-length history.</Text>
+ There are a great number of blogs and websites dedicated to storing and distributing these historical images. Here are a few:
+
+* Miltown: http://www.homeeverafter.com/miltown-a-piece-of-1950s-homemaker-history/
+
+* Tofranil: https://www.biopsychiatry.com/imipramine/350x525xtofranil.jpg.pagespeed.ic.xDYlzJklSs.webp
+
+https://www.biopsychiatry.com/imipramine/tofranil.html
+
+* Librium: &lt;!--\begin{marginfigure}
+ \begin{center}
+
+
+     \includegraphics{../images/librium_75651.jpg}
+\end{center}
+ \caption{Advertisement for Librium, 1962. From https://www.mmm-online.com/channel/med-ad-hall-of-fame-to-induct-lerner-girgenti-and-rubin/article/155796/
+}
+\label{fig: valium65}
+\end{marginfigure}--&gt; 
+
+* Valium: 
+&lt;!--\begin{marginfigure}
+ \begin{center}
+
+
+     \includegraphics{../images/valium65.jpg}
+\end{center}
+ \caption{Advertisement for Valium, 1965.  }
+\label{fig: valium65}
+\end{marginfigure}
+--&gt;
+From http://faculty.weber.edu/ewalker/Medicinal_Chemistry/topics/Psycho/psycho.htm
+
+
+At the same time,  we should remember that Medicare and Medicaid were created in 1965, and the health insurance industry was undergoing a simultaneous revolution:  
+
+* BlueCross 1960: 
+
+&lt;!--\begin{marginfigure}
+ \begin{center}
+
+
+     \includegraphics[scale=0.25]{../images/md28530.jpg}
+\end{center}
+ \caption{Advertisement for Blue Cross, 1960. From http://www.decodog.com/inven/MD/md28530.jpg }
+\label{fig: BlueCross}
+\end{marginfigure}
+--&gt;</Text>
         </Document>
         <Document ID="87">
             <Title>Learning Objectives</Title>
@@ -1568,9 +1679,11 @@ Each week represents one annual conference.  At each conference, there are a num
 
 For each week, you will need to prep and bring with you:
 
-* &lt;!--\fullref{sample: credibilitypoints}--&gt;
-* &lt;!--\fullref{labandpossibleresearchproposals}--&gt; for the research committee, if there are no proposals from students.
-* &lt;!--\fullref{weeklyreadings}--&gt; of experiment “approved” in the week prior.
+* Credibility points: print Table &lt;!--\fullref{sample: credibilitypoints}--&gt; of the Instructor's Manual
+* Proposals for the research committee (&lt;!--\fullref{labandpossibleresearchproposals}--&gt;), if there are no proposals from students.
+* The primary source of any &lt;!--\fullref{weeklyreadings}--&gt; of experiment “approved” in the week prior.
+
+Specific items needed for each conference are listed on the individual conference pages: Page &lt;!--\pageref{1971}--&gt;-&lt;!--\pageref{1975}--&gt;.
 
 When and if the Research Committee approves labs that can actually be carried out, you will need to work with the student to ensure that required materials are available.
 
@@ -1595,23 +1708,23 @@ Many of the issues raised in the course of the game are appropriately philosophi
 
 The APA guidelines cited above do not report *what* the key terminology, concepts and theories are---we cannot claim to cover all that a traditional Introduction to Psychology class would, but we can point out where a number of these key concepts appear:
 
-Conditioning: classical, operant and vicarious: &lt;!--\fullref{behavioists}--&gt;, articulated by Bandura, Harlow and Hooker. Specific experiments to be considered include &lt;!--\fullref{emotionalresponsesinachild}--&gt;
+* Conditioning: classical, operant and vicarious: Section &lt;!--\fullref{behaviorists}--&gt;, articulated by Bandura, Harlow and Hooker. Specific experiments to be considered include Lab &lt;!--\fullref{emotionalresponsesinachild}--&gt;
 
-Social Psychology: Zimbardo (submission of &lt;!--\fullref{interpersonaldynamicsinasimulatedprison}--&gt; to Research committee and, if time allows, &lt;!--\fullref{smallworld}--&gt; from Milgrim.
+* Social Psychology: Zimbardo (Lab: Zimbardo proposes &lt;!--\fullref{interpersonaldynamicsinasimulatedprison}--&gt; to Research committee and, if time allows, &lt;!--\fullref{smallworld}--&gt; from Milgrim.)
 
-Statistical concepts: Hooker’s paper ([#Psychology:tf]) sets the stage, but it will reappear in the game play of Anastasi and Spitzer. Spitzer’s presentation on the Feighner Criteria should cover statistical concepts. Anastasi should present a paper about ‘norms’ and whether ‘normal’ is a statistical function of a population, or an ideal. Lab includes &lt;!--\fullref{areanalysisofthereliabilityofpsychiatricdiagnosis}--&gt;
+* Statistical concepts: Hooker’s paper ([#Psychology:tf]) sets the stage, but it will reappear in the game play of Anastasi and Spitzer. Spitzer’s presentation on the Feighner Criteria should cover statistical concepts. Anastasi should present a paper about ‘norms’ and whether ‘normal’ is a statistical function of a population, or an ideal. Lab includes &lt;!--\fullref{are-analysisofthereliabilityofpsychiatricdiagnosis}--&gt;
 
-Experimental Design: Research committee should have a number of distinct research designs to consider. See &lt;!--\fullref{basicscientificresearch}--&gt; in the game book as well as &lt;!--\fullref{ethicsofhumanresearch}--&gt;.
+* Experimental Design: Research committee should have a number of distinct research designs to consider. See Section &lt;!--\fullref{basicscientificresearch}--&gt; in the game book as well as Section &lt;!--\fullref{ethicsofhumanresearch}--&gt;.
 
-History and Systems: The &lt;!--\fullref{briefhistoryoftheconceptofpsychology}--&gt; covers most of what common textbooks cover in this section, including the rise of empirical psychology from the 19th century ‘natural philosophers’, early experimentalism, psychoanalysis, behaviorism and cognitivism.  We do not cover ‘positive psychology’ or ‘humanistic psychology’ (I.e. Maslow).
+* History and Systems: Section &lt;!--\fullref{briefhistoryoftheconceptofpsychology}--&gt; covers most of what common textbooks cover in this section, including the rise of empirical psychology from the 19th century ‘natural philosophers’, early experimentalism, psychoanalysis, behaviorism and cognitivism.  We do not cover ‘positive psychology’ or ‘humanistic psychology’ (I.e. Maslow).
 
 The Philosophy of Science concepts and theories that arise are:
 
-* Paradigms, and the transitions between them. &lt;!--\fullref{theparadigmaticexperiments}--&gt;
+* The logic of paradigms ('normal' science), and the revolution periods of transition between them. (Section &lt;!--\fullref{theparadigmaticexperiments}--&gt;)
 
 * Hypothetical-Deductive model of scientific reasoning, including verificationism and falsificationism. &lt;!--\fullref{thelogicofevidence}--&gt;, Research committee discussions.
 
-* Modeling in scientific inquiry---Section &lt;!--\fullref{modelsinscience}--&gt;. Lab includes &lt;!--\fullref{mentalrotationofthreedimensionalobjects}--&gt;.
+* Modeling in scientific inquiry---Section &lt;!--\fullref{modelsinscience}--&gt;. Lab includes &lt;!--\fullref{mentalrotationofthree-dimensionalobjects}--&gt;.
 
 * Complications of observation ---  Section &lt;!--\fullref{observationalresearch}--&gt;. Lab includes &lt;!--\fullref{onbeingsaneininsaneplaces}--&gt;.
 
@@ -1643,24 +1756,24 @@ What is the proper role of an intellectual---specifically a social scientist---i
 
 ##### Research design
 
-I’ve included a ‘textbook’ style section (&lt;!--\fullref{testingcausalclaimsexperimentally}--&gt;) in the game book that introduces the standard independent variable - dependent variable - controls logic that is included in most research methods in psychology courses. I prefer, of course, to introduce these ideas with real historical examples, as I did in section &lt;!--\fullref{theparadigmaticexperiments}--&gt;.
+I’ve included a ‘textbook’ style section (&lt;!--\fullref{testingcausalclaimsexperimentally}--&gt;) of the game book that introduces the standard independent variable-dependent variable-controlled variable logic that is included in most research methods in psychology courses. I prefer, of course, to introduce these ideas with real historical examples, as I do in Section &lt;!--\fullref{theparadigmaticexperiments}--&gt;.
 
-I included the digested ‘textbook’ section to give the research committee a quick and dirty heuristic for judging the validity of proposed experiments. But this simplistic approach is largely misguided.  There are famous examples from this period that simply don’t fit the model:
+I included the ‘textbook’ section to give the research committee a quick and dirty heuristic for judging the validity of proposed experiments. But this simplistic approach is largely misguided and the research committee may stumble as a result. For example, they will encounter these real, historical examples that simply don’t fit the model:
+
+* We know that Rosehan measured the time spent inside a mental health institution as a dependent variable, but what was the IV? Was there a control group?
 
 * We know that the IV in  Zimbardo’s prison ‘experiment’ is assignment to either ‘prisoner’ or ‘guard’ role, but what is his DV?
 
 * Milgrim measured the number of hops a letter would take in his ‘small world’ experiment, but what is his manipulation of the IV?
 
-* Similarly, we know that Rosehan measured the time spent inside a mental health institution, but what was the IV?
-
-We want the research committee to raise these kind of questions when these proposals come before the committee.  If we taught solely from historical examples, these concerns might not be raised.  </Text>
+We want the research committee to raise these kind of questions when these proposals come before the committee. </Text>
         </Document>
         <Document ID="116">
             <Title>Lab Activities</Title>
             <Text>	
 #### Labs and possible research proposals
 
-Various students should be tasked with presenting proposals for research to the research committee, conducting that research if it is chosen, and presenting the findings at the following conference.  Not everything proposed can be carried out in an undergraduate classroom. Where it is impossible, the instructor should distribute the actual paper for evaluation *as if* it had been carried out. The instructors is, of course, encouraged to use classroom activities with which he or she is familiar. 
+As shown in Table &lt;!--\fullref{table: labs}--&gt;, various roles are tasked with proposing research studies to the research committee, conducting that research if it is chosen, and presenting the findings at the following conference.  Not everything proposed can be carried out in an undergraduate classroom. When the proposal is impossible, the instructor should distribute the actual paper for evaluation *as if* it had been carried out. The instructors is, of course, encouraged to use classroom activities with which he or she is familiar. 
 
 I've pulled a number of experiments from the APA's *Activities Handbook for the Teaching of Psychology* v. 1-4 that correspond to many of the topics the class will be discussing. They are listed here, and attached as PDFs at the end of this document, if you do not have access to the *Handbooks*. The characters listed here are *suggestions*.  The instructor should distribute these as he or she sees fit.
 
@@ -1761,6 +1874,7 @@ Getting the committees to function well can be challenging---in the game as in r
 
 ##### Board of Directors
 **Responsibilities:**
+
 * Hold open meetings each conference where topics can be discussed and voted upon.
 
 **Powers:**
@@ -1776,30 +1890,34 @@ Getting the committees to function well can be challenging---in the game as in r
 
 **Potential Pitfalls**
 
-* 
+* The election process of VP's has confused many students.  It is not an uncommon practice in higher ed, but in my experience, the students find it very strange to elect VPs, not Presidents.  It is probably worthwhile explaining it in person before game play begins.
+
+* The game is setup to require a 'built in' 48-hour rule, where proposals to the board cannot be voted on in the same class period where they were presented.  If that does not work for your class schedule, make sure everyone on the board and the membership understands it before the first open meeting.
+
+* The boards I have worked with are tentative about using their powers, and are naturally conservative in taking actions.  This, again, isn't that surprising.  For example, I've never had a board that was ready to act on Marmor's proposal in 1971.  They *always* want to come to consensus, and hence, turf it to a committee that comes back in 1973. If the board decides to act immediately, that's fine---you can flip the 1973 symposium on its head and have Socarides and Bieber present a panel on why they believe the demedicalization was incorrect, and have Gold as a critic.
 
 ##### Research Committee
 
-The research committee is charged with distributing grants to fund research as well as enforcing the APA's Ethical Standards in the practice of Psychology and Psychiatry (see &lt;!--\ref{app: APAEthics}--&gt;). **The ‘research’ thread of the game depends entirely on the research committee functioning well**.  
+The research committee is charged with distributing grants to fund research as well as enforcing the APA's Ethical Standards in the practice of Psychology and Psychiatry (see Appendix &lt;!--\ref{app: APAEthics}--&gt;). **The ‘research’ thread of the game depends entirely on the research committee functioning well**.  
 
 **Responsibilites**
 
-* Solicit proposals in the form of a 'call for research grants'
+* Solicit proposals in the form of a 'call for research grants' --- an example is included in &lt;!--\fullref{callforesearchgrants}--&gt; in the Game Book.
 
 
 **Powers** 
 
-* Award grants to those proposals it deems excellent
+* Award grants to those proposals it deems excellent. Grants give the grantee the right to 'use' the class for their experiment for no more than 1 class session.
 
-* Hearing and deciding on cases of research ethics, including punishments for violators up to and including removal from the APA for life.
+* Hearing and deciding on cases of research ethics, including recommending punishments to the Board for violators up to and including banning from the APA for life.
 
 * Confer 1-5 credibility points on retiring board members in recognition of their ‘distinguished service’
 
 **Potential Pitfalls**
 
-* No one submits research proposals: we have included a number of sample proposals that are summaries of famous experiments from this error in section &lt;!--\fullref{researchcommitteeproposals}--&gt;. We’ve also included a handful of classroom ‘experiments’ from the APA Handbooks on teaching that are consistent with the game and time period in the appendix. See &lt;!--\fullref{table: labs}--&gt; for a list of labs and who might submit them as proposals for what purpose. Feel free to submit one or two of these to the research committee ‘anonymously’, each week, and if approved, assign one of the committee members to lead the study.
+* No one submits research proposals: we have included a number of sample proposals that are summaries of famous experiments from this error in section &lt;!--\fullref{researchcommitteeproposals}--&gt;. We’ve also included a handful of classroom ‘experiments’ from the APA Handbooks on teaching that are consistent with the game and time period in the appendix. Table &lt;!--\fullref{table: labs}--&gt; lists labs and who might submit them as proposals for what purpose. Feel free to submit one or two of these to the research committee ‘anonymously’, each week, and if approved, assign one of the committee members to lead the study.
 
-* Research committee fails to recognize ethical violations: This is especially important when Zimbardo submits his proposal. According to the 1968 guidelines, the proposal should be approved---as it was at Stanford. But there are obvious problems.  If they approve it, the game master can intervene as “an outraged public” and demand a correction to the 1968 guidelines.
+* Research committee fails to recognize ethical violations: This is especially important if Zimbardo submits his proposal. According to the 1968 guidelines, the proposal should be approved---as it was at Stanford. But there are obvious problems.  If they approve it, the game master can intervene as “an outraged public” and demand a correction to the 1968 guidelines.
 
 ##### Nomenclature Committee
 
@@ -1817,7 +1935,7 @@ The Nomenclature committee is charged with maintaining the official terminology 
 
 **Potential Pitfalls**
 
-* Spitzer will push the board to dissolve the Nomenclature committee and replace with with a task force.  If unsuccessful, all attempts to define ‘mental illness’ will be brought to the Nomenclature committee instead of the Board.  That will require that the Nomenclature committee exercise it’s power to add a session at an upcoming conference.  The Game master will be required to ensure there is adequate time for discussion and voting on these contentious issues.  If Spitzer is successful, that debate will occur during the schedule Board meeting.
+* Spitzer will push the board to dissolve the Nomenclature committee and replace with with a task force.  If unsuccessful, all attempts to define ‘mental illness’ will be brought to the Nomenclature committee instead of the Board.  That will require that the Nomenclature committee exercise it’s power to add a session at an upcoming conference.  The Game master will be required to ensure there is adequate time for discussion and voting on these contentious issues.  If Spitzer is successful in his proposal to dissolve the Nomenclature committee, that debate will occur during the Board meeting where the Task Force reports.
 
 ##### Program Committee
 
@@ -1838,7 +1956,7 @@ The Program Committee is charged with scheduling the conferences.
 
 * Disengaged committee- in my experience, this committee has been the most difficult. It is hard for them to see that their power is probably the most significant in the game, as they control who is eligible to earn credibility, and hence, who is eligible to hold any of the positions in the APA. Students are often inclined, as they probably should be, to simply allow anyone who wants to talk to do so.  You may wish to restrict the number of presentations per session, in order to help them understand the importance of the committee’s decision-making.
 
-* Overly strict committee- I’ve never had this happen, but every student is required to present at least once in the course of the game. A Program committee could, in theory, ‘black-list’ a player, thereby making it impossible for that student to complete his or her goals. The game master needs to balance our principles of academic respect with the politics of the game. If this were to happen, the best solution would be for the blacklisted to student to use the game mechanisms to fix his or her problem: run for the committee, or recruit an ally to do so, and allow his or her paper at the next conference.  If that is impossible---say the black-listed student waited until the final week to recognize the problem---you’ll need to use your own discretion.</Text>
+* Overly strict committee- I’ve never had this happen, but it is worth noting it as a possibility.  Every student is required to present at least once in the course of the game. A Program committee could, in theory, ‘black-list’ a player, thereby making it impossible for that student to complete his or her goals. The game master needs to balance the principles of academic respect with the politics of the game. If this were to happen, the best solution would be for the blacklisted to student to use the game mechanisms to fix his or her problem: run for the committee, or recruit an ally to do so, and allow his or her paper at the next conference.  If that is impossible---say the black-listed student waited until the final week to recognize the problem---you’ll need to use your own discretion.</Text>
         </Document>
         <Document ID="46">
             <Title>Ebbinghaus</Title>
@@ -1945,13 +2063,13 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Miller, presenting Shepard, R
 
 Of course, the Little Albert experiment and Rosehan cannot be completed by actual students. If the research committee approves those experiments, the instructor should charge a student with presenting the original papers during the follow years' conference.
 
-Students may recognize this experiment, although I don't use the name 'little albert' in the description. They will also probably find the experiment unethical.  Many people do.  My version of the proposed experiment contains no plan for deconditioning Albert. See the 'Actual History' section below for a discussion of the history of this famous experiment.
+Students may recognize the "little albert" experiment, although I don't use the name 'little albert' in the proposal. They will also probably find the experiment unethical.  Many people do.  My version of the proposed experiment contains no plan for deconditioning Albert. See the 'Actual History' section below for a discussion of the history of this famous experiment.
 
 ##### Research committee proposals
 
 Unless otherwise noted, these should be brought to the research committee for discussion **by the gamemaster.**  If Milgram and Zimbardo are not in the game, those will need to be brought as well. The actual papers should be made available to the students who will be presenting the data, if the activities are not actually performed.
 
-* Shepard &amp; Metzler's 'mental rotation of three-dimensional objects' task was approved “in 1970”, so the task should be presented to the students, and Miller prepped on presenting the data (See &lt;!--\fullref{mentalrotationofthreedimensionalobjects}--&gt;. )You will need to register for an account here: http://opl.apa.org/Experiments/About/AboutMentalRotation.aspx to use the APA’s version.
+* Shepard &amp; Metzler's 'mental rotation of three-dimensional objects' task was approved “in 1970”, so the task should be presented to the students, and Miller prepped on presenting the data (See &lt;!--\fullref{mentalrotationofthree-dimensionalobjects}--&gt;. )You will need to register for an account here: http://opl.apa.org/Experiments/About/AboutMentalRotation.aspx to use the APA’s version.
 
 
 **Papers to be distributed for next week:**
@@ -1969,30 +2087,45 @@ Unless otherwise noted, these should be brought to the research committee for di
             <Title>ConferenceSchedule-1971</Title>
             <Text>&lt;!--
 \begin{apatextbox}{Schedule for first conference}--&gt;
-#### Conference Schedule for 1971
+#### Conference Schedule for 1971 
+&lt;!--\\--&gt;
+##### Presidential Address: 
+&lt;!--\\--&gt;
 
-Presidential Address: Dr. G. Miller “The Future of Psychology”
+Dr. G. Miller “The Future of Psychology”&lt;!--\\--&gt;
 
-Distribution of proposals to be considered this year:
+##### Distribution of proposals to be considered this year:  
+&lt;!--\\--&gt;
 
 * J. Marmor: proposal to remove 'homosexuality' from the DSM-II (302.0)
 * C. Socarides &amp; I. Beiber: proposal to create taskforce on sexual deviation
 * J. Spiegel and/or R. Green: proposal to create task force of historical study and literature review of homosexuality in psychology and psychiatry.
-Symposium “Psychiatry: Friend or Foe to Homosexuals: A Dialogue”  
 
-* Dr. E. Hooker “The mental health of non-patient male homosexuals.”
-* Dr. H. Anonymous, “I am a homosexual and a psychiatrist.”
-* F. Kameny and/or B. Gittings “Gay, Proud and Healthy”*
+&lt;!--\\--&gt;
+##### Symposia  
+&lt;!--\\--&gt;
 
-Papers:
+1. “Psychiatry: Friend or Foe to Homosexuals: A Dialogue”  
+
+ * Dr. E. Hooker “The mental health of non-patient male homosexuals.”
+ * Dr. H. Anonymous, “I am a homosexual and a psychiatrist.”
+ * F. Kameny and/or B. Gittings “Gay, Proud and Healthy” 
+
+&lt;!--\\--&gt;
+##### Research Papers  
+&lt;!--\\--&gt;
 
 * Dr. T. Szasz “The Myth of Mental Illness”
 * Dr. J Marmor “Limitations of Free Association”
 
 
-General business meeting agenda:
+&lt;!--\\--&gt;
+##### Open Board Meeting  
+&lt;!--\\--&gt;
 
-Committee Reports	
+**General business meeting agenda:**  &lt;!--\\--&gt;
+
+Committee Reports	&lt;!--\\--&gt;
 
 * Dr. Tyler (Research)
 
@@ -2000,17 +2133,25 @@ Committee Reports
 
 * Dr. Hooker (Conference)
 
-Old Business
+&lt;!--\\--&gt;
+###### Old Business  
+&lt;!--\\--&gt;
 
-New Business:
+###### New Business  
+&lt;!--\\--&gt;
+
+Discussion and vote on:  &lt;!--\\--&gt;
+
 * Proposal from J. Marmor
-	* Proposal from C. Socaridies / I. Beiber
-	* Proposal from G. Albee.
+* Proposal from C. Socaridies / I. Beiber
+* Proposal from G. Albee.
 
-Nominations and elections for:
+&lt;!--\\--&gt;Nominations and elections for:&lt;!--\\--&gt;
 
 * Vice President 1972.
-* Replacement for Milgram, member at large on the Board of Directors.*
+* Replacement for Milgram, member at large on the Board of Directors.
+
+&lt;!--\\--&gt;
 
 &lt;!-- \end{apatextbox}
 % \captionof{InfoBox}{Schedule for first conference\label{sample:firstconference}}
@@ -2042,9 +2183,9 @@ Nominations and elections for:
             <Title>Credibility Points</Title>
             <Text>#### Credibility Points
 
-At the beginning of each conference (each ‘week’ on the standard schedule), distribute 1 credibility point to every student entering the game.  Each student *must* give this point to the individual that he or she believes gave the best speech, research report or research proposal by the end of the week.  
+At the beginning of each conference (each ‘week’ on the standard schedule), distribute 1 credibility point to every student entering the game.  Each student *must* give this point to the individual that he or she believes gave the best speech, research report or symposium presentation by the end of the week.  
 
-Running of office ‘costs’ credibility.  Table &lt;!--\fullref{table: credibilitymenu}--&gt; shows the suggested costs of running for a seat. You are welcome to adjust this table for your own purposes, but if you do so, make sure to provide a copy to all the students.  A blank version is included on page &lt;!--\pageref{sample: credibilitypointsmenu}--&gt;.</Text>
+Running for office ‘costs’ credibility.  Table &lt;!--\fullref{table: credibilitymenu}--&gt; in the Game Book shows the suggested costs of running for a seat. You are welcome to adjust this table for your own purposes, but if you do so, make sure to provide a copy to all the students.  A blank version is included on page &lt;!--\pageref{sample: credibilitypointsmenu}--&gt; of the Instructor's Manual.</Text>
         </Document>
         <Document ID="48">
             <Title>The Logic of evidence</Title>
@@ -2119,6 +2260,7 @@ Received PhD at youngest age (21) of any APA President \\
 \caption{Real APA (psychological) Presidents}
 \label{table: realprez}
 \end{longtable}--&gt;
+
 
 [#Hogan:1994wi]
 
@@ -2210,8 +2352,10 @@ The final form in the sequence is what an adult would typically say. The transfo
         <Document ID="126">
             <Title>Written assignments</Title>
             <Text> 	
-### Overview of events and assignments in the game, by character
- 	#### Overview of assignments, by character
+#### Overview of events and assignments in the game, by character
+
+ 	##### Overview of assignments, by character
+
 &lt;!-- \begin{longtable}[!t]{ | p{6cm} |  p{5cm} |  p{5cm} | }
 \hline
 
@@ -2316,7 +2460,8 @@ Symposium on nomenclature '73&amp;
 Propose 'homosexuality' be removed from category 302. '71\newline
 Propose a condemnation of Socarides' JAMA paper. '73&amp;
 APA v. 4 \#80 '73 (Dream Analysis)\\ \hline
-\multicolumn{3}{P{16cm}}{D. Marr*} \\
+
+\multicolumn{3}{| P{16cm} |}{\tahead{D. Marr*}} \\
 'Levels' of explanation paper '75&amp;
 &amp;
 Propose APA v. 4 \#43 '72 (Magic number 7)\\ \hline
@@ -2468,63 +2613,15 @@ There were a number of blog posts that followed, including: http://mindhacks.com
 
 The dates I used in the introduction are not exact, although I've tried to remain faithful where I could. Part of the problem here is that many of the stories that are circulated, even by eyewitnesses, vary.  Ron Gold, for example, dates the events in Hawaii to 1972, but the APA records the 1972 conference in Dallas, and the Hawaii conference to 1973.  
 
-The Dr. H. Anonymous speech actually happened in 1972 during a symposium titled “Psychiatry: Friend or Foe to Homosexuals: A Dialogue”. It also featured Kameny and Gittings in addition to John Fryer. In 1971, Kameny, Gittings and   The panel titled “Lifestyles of non-patient homosexuals,” which the participants joking referred to as “Lifestyles of impatient homosexuals.” It featured Larry Littlejohn of the Society for Individual Rights in San Francisco, Del Martin, a founder the Lesbian activist organization Daughters of Bilitis, Lilli Vincenz, another lesbian activists, and Jack Baker, the gay president-elect of the student body of the University of Minnesota.1 I've found a number of websites and personal stories that get these two distinct events confused. At the risk of perpetuating these confusions, I've combined them into a single event in 1971.
+The Dr. H. Anonymous speech actually happened in 1972 during a symposium titled “Psychiatry: Friend or Foe to Homosexuals: A Dialogue”. It also featured Kameny and Gittings in addition to John Fryer.
 
-Socarides petitioned the New York District branch for hist task force on sexual deviation. It was granted, and his report filed in 1972.  The leadership rejected the report, on the grounds that its basis in psychoanalytic theory was unacceptable. 
+ In 1971, Kameny, and Gittings held a panel titled “Lifestyles of non-patient homosexuals,” which the participants joking referred to as “Lifestyles of impatient homosexuals.” It featured Larry Littlejohn of the Society for Individual Rights in San Francisco, Del Martin, a founder the Lesbian activist organization Daughters of Bilitis, Lilli Vincenz, another lesbian activists, and Jack Baker, the gay president-elect of the student body of the University of Minnesota. I've found a number of websites and personal stories that get these two distinct events confused. At the risk of perpetuating these confusions, I've combined them into a single event in 1971.
 
-Complicating matters is the existence of NARTH, which has been adopted by many on the religious right in recent years.  In 1995, Socarides gave an interview to the NY Times, promoting his book “Homosexuality: A Freedom Too Far - A Psychoanalyst Answers 1,000 Questions About Causes and Cure and the Impact of the Gay Rights Movement on American Society”, in which he claimed that the declassification occurred because of political pressure and not scientific evidence.  The themes of the interview will be familiar to anyone with even tangential knowledge of the rhetoric of the far right: persecution of conservatives, liberal media bias, gay agendas and conspiracies, etc.  His son, Richard Socarides, who is gay, became a gay activist, advised President Clinton on LGBT issues, and ultimately was elected to the presidency of the activist organization 'Equality Matters.'  That fact has lead many defenders of Socarides to accuse any press figure who mentions it of making an 'ad hominem' attacks against Socarides. 
+Socarides petitioned the New York District branch  of the APA for his task force on sexual deviation---*NOT* the national organization. It was granted, and his report filed in 1972.  The leadership then rejected his report, on the grounds that its basis in psychoanalytic theory was unacceptable. 
 
-NARTH continues today under the directorship of Socarides' student Nicolosi.
+Complicating matters was the existence of NARTH---the National Association for Research and Treatment of Homosexuality---, which has been adopted by many on the religious right in recent years.  In 1995, Socarides gave an interview to the NY Times, promoting his book *Homosexuality: A Freedom Too Far - A Psychoanalyst Answers 1,000 Questions About Causes and Cure and the Impact of the Gay Rights Movement on American Society*, in which he claimed that the declassification occurred because of political pressure and not scientific evidence.  The themes of the interview will be familiar to anyone with even tangential knowledge of the rhetoric of the far right: persecution of conservatives, liberal media bias, gay agendas and conspiracies, etc. Charles Socarides' son, Richard Socarides, who is gay, became a gay activist, advised President Clinton on LGBT issues, and ultimately was elected to the presidency of the activist organization 'Equality Matters.'  That fact has lead many defenders of Socarides to accuse any press figure who mentions it of making an 'ad hominem' attacks against Socarides. 
 
-The UK Newspaper 'The Independent' ran a story in January 2010 by Patrick Strudwick about his experience in gay-to-straight conversion program inspired by Nicolosi. The story created a national concern about psychiatrists in the UK who still may be offering psychotherapy to 'treat' or 'cure' homosexuality. The story is available here: http://www.independent.co.uk/life-style/health-and-families/features/the-exgay-files-the-bizarre-world-of-gaytostraight-conversion-1884947.html
-
-##### Leona Tyler Principle / Goldwater Rule
-
-Following the Goldwater affair, the American Psychiatric Association added  section7.3 to their The Principles of Medical Ethics With Annotations Especially Applicable to Psychiatry, which states:
-
-On occasion psychiatrists are asked for an opinion about an individual who is in the light of public attention or who has disclosed information about himself/herself through public media. In such circumstances, a psychiatrist may share with the public his or her expertise about psychiatric issues in general. However, it is unethical for a psychiatrist to offer a professional opinion unless he or she has conducted an examination and has been granted proper authorization for such a statement.
-
-This section has become known as 'The Goldwater Rule.' For a full history, see Mayer, John D. (2010) “The Goldwater Rule: The rationale of the Goldwater Rule” Psychology Today Blog (http://www.psychologytoday.com/blog/the-personality-analyst/201005/the-goldwater-rule)
-
-The American Psychological Association adopted  'Leona Tyler principle' was adopted in 1973 by the American Psychological Association, and still holds today. It states:
-
-&gt; As citizens, members of the APA have the right to advocate for any cause through the myriad of political advocacy organizations, but when psychologists and psychiatrists speak for the profession through APA public stances and proclamations, it should be from science and professional experience.  
-
-The principle was named for Leona Tyler simply because she was president at the time, not necessarily because she advocated for it, as she does in this game. 
-
-##### Marr
-
-David Marr joins Miller and Chomsky at MIT in 1977 and then dies in 1980 of Leukemia. His posthumously published book *Vision* is still standard reading in cognitive science courses.
-
-##### Demedicalization
-
-The story of the demedicalization of homosexuality as a mental illness has been retold a couple of times in recent years.  Famously, Alix Spiegel, grandson of John P. Spiegel, produced a version of the story for NPR's show 'This American Life'. The episode, named '81 words' is available online at http://www.thisamericanlife.org/radio-archives/episode/204/81-words. It is an excellent retelling of these events, and partially inspired this game. Ron Gold's retelling of the event is available here: http://www.queerstories.org/custom.html.
-
-In the character sheet for Spitzer, I express some doubts about the standard story told by Spiegel, because Spitzer's timing and motivation for inserting himself into the controversy doesn't seem to match up for normal person. But, in a 2005 issue of The New Yorker Magazine, Spiegel writes that:
-
-&gt; Despite Spitzer’s genius at describing the particulars of emotional behavior, he didn’t seem to grasp other people very well. Jean Endicott, his collaborator of many years, says, “He got very inv.ved with issues, with ideas, and with questions. At times he was unaware of how people were responding to him or to the issue. He was surprised when he learned that someone was annoyed. He’d say, ‘Why was he annoyed? What’d I do?’” After years of confrontations, Spitzer is now aware of this shortcoming, and says that he struggles with it in his everyday life. “I find it very hard to give presents,” he says. “I never know what to give. A lot of people, they can see something and say, ‘Oh, that person would like that.’ But that just doesn’t happen to me. It’s not that I’m stingy. I’m just not able to project what they would like.” Frances argues that Spitzer’s emotional myopia has benefitted him in his chosen career: “He doesn’t understand people’s emotions. He knows he doesn’t. But that’s actually helpful in labeling symptoms. It provides less noise.”
-
-If this is correct, my argument about the implausibility of the Chair of the Nomenclature Committee attending Socarides' speech in New York without expectation of a demonstration may be wrong. I leave it in the role sheet, because a student playing the part needs to think himself or herself into Spitzer's position, not his particular characteristics—and whatever unique mind Robert Spitzer has, it is probably uncommon in undergraduates.
-
-##### Spitzer Task force
-
- See ch 3 of  [#Kutchins:9eEZL39p].  
-
-Homdysphilia was proposed by Spitzer without consultation with the subcommittee on human sexuality.  Green sent Spitzer a strongly worded criticism of both the classification and the method Sptizer used to introduce it and resigns in protest.  Spitzer constructs a 'survey' instrument that he sends out to the entire taskforce and finds that there isn't enough agreement on the issue to leave it with the subcommittee, and presents the idea to the entire taskforce, thus outmaneuvering Green. The committee narrowly approves 'ego-dystonic homosexuality', but isn't thrilled. Judd Marmor, who voted in favor, writes later that he would have preferred no mention of homosexuality, but politics required it.
-
-##### Aversion Therapy
-
-(from wikipedia) Since 1994, the American Psychological Association has declared that aversion therapy is a dangerous practice that does not work.[citation needed] Since 2006, the use of aversion therapy to treat homosexuality has been in violation of the codes of conduct and professional guidelines of the American Psychological Association and American Psychiatric Association. The use of aversion therapy to treat homosexuality is illegal in some countries. The standard in psychotherapy in America and Europe is currently Gay Affirmative Psychotherapy. Guidelines for Gay Affirmative Psychotherapy can be found by APA. [4]
-
-From Issues in Psychotherapy with Lesbian and Gay Men: A Survey of Psychologists. Linda Garnets, Los Angeles, CA Kristin A. Hancock, Berkeley, CA Susan D. Cochran, California State University, Northridge Jacqueline Goodchilds, University of California, Los Angeles Letitia Anne Peplau, University of California, Los Angeles. Report of the APA. http://search.apa.org/search?facet=classification%3aSexuality||classification%3aTherapy&amp;query=Aversion%20Therapy
-
-In 1975, the American Psychological Association (APA) took a strong stance regarding bias toward lesbians and gay men, resolving that homosexuality per se implies no impairment in judgment, reliability or general social and vocational abilities (see Appendix A for the full text of the resolution). The APA urged psychologists to take the lead in removing the stigma of mental illness long associated with homosexual orientations (Conger, 1975). In recent years, attention has been drawn to ways in which a client's ethnicity, gender, sexual orientation, or physical disability can affect clinical judgment and treatment strategies. There has been a corresponding effort to develop guidelines to help practitioners avoid bias in psychotherapy (APA, 1975). Recognizing that practice does not spontaneously or quickly follow policy changes, the Committee on Lesbian and Gay Concerns (CLGC), sponsored jointly by the Board of Social and Ethical Responsibility in Psychology (BSERP) and the Board of Professional Affairs (BPA), formed a task force in 1984 to investigate the range of bias that may occur in psychotherapy with lesbians and gay men. This article is an abridged report of the task force's research, findings, and recommendations.
-
-##### Reparative therapy
-
-The American Psychological Association rejected reparative therapy most recently in 2009. The American Psychiatric Association in 2000, and the American Psychoanalytic Association in 2012. For the full list, see the Human Rights Campaign’s list: https://www.hrc.org/resources/policy-and-position-statements-on-conversion-therapy
-
-The last advocate for “Reparative Therapy”, Joseph Nicolosi and head of NARTH---the National Association for Research and Treatment of Homosexuality---passed away in 2017. NARTH shut down as a consequence.
+NARTH continued until 2017 under the directorship of Socarides' student Joseph Nicolosi. Nicolosi passed away on March 8th, 2017, and NARTH shut down as a consequence.
 
 &lt;!--\begin{figure*}
  \begin{center}
@@ -2538,6 +2635,63 @@ The last advocate for “Reparative Therapy”, Joseph Nicolosi and head of NART
 --&gt;
 
 
+The UK Newspaper 'The Independent' ran a story in January 2010 by Patrick Strudwick about his experience in gay-to-straight conversion program inspired by Nicolosi. The story created a national concern about psychiatrists in the UK who still may be offering psychotherapy to 'treat' or 'cure' homosexuality. The story is available here: http://www.independent.co.uk/life-style/health-and-families/features/the-exgay-files-the-bizarre-world-of-gaytostraight-conversion-1884947.html
+
+##### Leona Tyler Principle / Goldwater Rule
+
+Following the Goldwater affair, the American Psychiatric Association added  section7.3 to their "The Principles of Medical Ethics With Annotations Especially Applicable to Psychiatry," which states:
+
+&gt; On occasion psychiatrists are asked for an opinion about an individual who is in the light of public attention or who has disclosed information about himself/herself through public media. In such circumstances, a psychiatrist may share with the public his or her expertise about psychiatric issues in general. However, it is unethical for a psychiatrist to offer a professional opinion unless he or she has conducted an examination and has been granted proper authorization for such a statement.
+
+This section has become known as 'The Goldwater Rule.' For a full history, see Mayer, John D. (2010) “The Goldwater Rule: The rationale of the Goldwater Rule” Psychology Today Blog (http://www.psychologytoday.com/blog/the-personality-analyst/201005/the-goldwater-rule)
+
+The American Psychological Association adopted  'Leona Tyler principle' was adopted in 1973 by the American Psychological Association, and still holds today. It states:
+
+&gt; As citizens, members of the APA have the right to advocate for any cause through the myriad of political advocacy organizations, but when psychologists and psychiatrists speak for the profession through APA public stances and proclamations, it should be from science and professional experience.  
+
+The principle was named for Leona Tyler simply because she was president at the time, not necessarily because she advocated for it, as she does in this game. 
+
+There was a flurry of discussion about the Goldwater rule and the Leona Tyler Principle during and after the 2016 Presidential Election of Donald Trump. Notably, the American Psychoanalysts Association lifted it's equivalent rule so the membership could speak about Trump's mental health (https://gizmodo.com/american-psychoanalytic-association-says-its-members-ar-1797247879)
+ 
+##### Marr
+
+David Marr joins Miller and Chomsky at MIT in 1977 and died in 1980 of Leukemia. His posthumously published book *Vision* is still standard reading in Cognitive Science courses.
+
+##### Demedicalization
+
+The story of the demedicalization of homosexuality as a mental illness has been retold a couple of times in recent years.  Famously, Alix Spiegel, grandson of the actual John P. Spiegel, produced a version of the story for NPR's show 'This American Life'. The episode, named '81 words' is available online at http://www.thisamericanlife.org/radio-archives/episode/204/81-words. It is an excellent retelling of these events, and partially inspired this game. Ron Gold's retelling of the event is available here: http://www.queerstories.org/custom.html.
+
+In the character sheet for Spitzer, I express some doubts about the standard story told by Spiegel, because Spitzer's timing and motivation for inserting himself into the controversy doesn't seem to match up for normal person. However, as I was to learn, Spitzer is not a 'normal' person.
+
+In a 2005 issue of The New Yorker Magazine, Spiegel writes that:
+
+&gt;Despite Spitzer’s genius at describing the particulars of emotional behavior, he didn’t seem to grasp other people very well. Jean Endicott, his collaborator of many years, says, “He got very involved with issues, with ideas, and with questions. At times he was unaware of how people were responding to him or to the issue. He was surprised when he learned that someone was annoyed. He’d say, ‘Why was he annoyed? What’d I do?’” After years of confrontations, Spitzer is now aware of this shortcoming, and says that he struggles with it in his everyday life. “I find it very hard to give presents,” he says. “I never know what to give. A lot of people, they can see something and say, ‘Oh, that person would like that.’ But that just doesn’t happen to me. It’s not that I’m stingy. I’m just not able to project what they would like.” Frances argues that Spitzer’s emotional myopia has benefitted him in his chosen career: “He doesn’t understand people’s emotions. He knows he doesn’t. But that’s actually helpful in labeling symptoms. It provides less noise.”
+
+If this is correct, I am wrong in my assertion that it was implausible for the Chair of the Nomenclature Committee to attend a speech in New York by Socarides' without expectating of a demonstration. If Spitzer, by his own account, can't imagine what someone else would like as a gift, how can we expect him to imagine how much anger there was in the Gay community towards Socarides?
+
+After much thought, I decided to leave my assertion in the role sheet, because this is 'Reacting' to the past, not "Recreating" the past. A student playing the part needs to think himself or herself into Spitzer's *position*, not his *mind*---and whatever unique mind Robert Spitzer has, it is probably uncommon in undergraduates.
+
+##### Spitzer Task force
+
+ See ch 3 of  [#Kutchins:9eEZL39p].  
+
+&gt;Homodysphilia was proposed by Spitzer without consultation with the subcommittee on human sexuality.  Green sent Spitzer a strongly worded criticism of both the classification and the method Spitzer used to introduce it and resigns in protest.  Spitzer constructs a 'survey' instrument that he sends out to the entire taskforce and finds that there isn't enough agreement on the issue to leave it with the subcommittee, and presents the idea to the entire taskforce, thus outmaneuvering Green. The committee narrowly approves 'ego-dystonic homosexuality', but isn't thrilled. Judd Marmor, who voted in favor, writes later that he would have preferred no mention of homosexuality, but politics required it.
+
+##### Aversion Therapy
+
+&gt; (from wikipedia) Since 1994, the American Psychological Association has declared that aversion therapy is a dangerous practice that does not work.[citation needed] Since 2006, the use of aversion therapy to treat homosexuality has been in violation of the codes of conduct and professional guidelines of the American Psychological Association and American Psychiatric Association. The use of aversion therapy to treat homosexuality is illegal in some countries. The standard in psychotherapy in America and Europe is currently Gay Affirmative Psychotherapy. Guidelines for Gay Affirmative Psychotherapy can be found by APA. [4]
+
+From Issues in Psychotherapy with Lesbian and Gay Men: A Survey of Psychologists. Linda Garnets, Los Angeles, CA Kristin A. Hancock, Berkeley, CA Susan D. Cochran, California State University, Northridge Jacqueline Goodchilds, University of California, Los Angeles Letitia Anne Peplau, University of California, Los Angeles. Report of the APA. http://search.apa.org/search?facet=classification%3aSexuality||classification%3aTherapy&amp;query=Aversion%20Therapy
+
+&gt; In 1975, the American Psychological Association (APA) took a strong stance regarding bias toward lesbians and gay men, resolving that homosexuality per se implies no impairment in judgment, reliability or general social and vocational abilities (see Appendix A for the full text of the resolution). The APA urged psychologists to take the lead in removing the stigma of mental illness long associated with homosexual orientations (Conger, 1975). In recent years, attention has been drawn to ways in which a client's ethnicity, gender, sexual orientation, or physical disability can affect clinical judgment and treatment strategies. There has been a corresponding effort to develop guidelines to help practitioners avoid bias in psychotherapy (APA, 1975). Recognizing that practice does not spontaneously or quickly follow policy changes, the Committee on Lesbian and Gay Concerns (CLGC), sponsored jointly by the Board of Social and Ethical Responsibility in Psychology (BSERP) and the Board of Professional Affairs (BPA), formed a task force in 1984 to investigate the range of bias that may occur in psychotherapy with lesbians and gay men. This article is an abridged report of the task force's research, findings, and recommendations.
+
+##### Reparative therapy
+
+See discussion of NARTH in &lt;!--\fullref{demedicalization}--&gt; above.
+
+The American Psychological Association rejected reparative therapy most recently in 2009. The American Psychiatric Association in 2000, and the American Psychoanalytic Association in 2012. For the full list, see the Human Rights Campaign’s list: https://www.hrc.org/resources/policy-and-position-statements-on-conversion-therapy
+
+
 ##### Evelyn Hooker
 
 E. Hooker was given 1991 Award for Distinguished Contribution to Psychology in the Public Interest, presented by the American Psychological Association. The citation read:
@@ -2547,54 +2701,23 @@ E. Hooker was given 1991 Award for Distinguished Contribution to Psychology in t
 She reflects on the award here: http://psychology.ucdavis.edu/rainbow/html/hooker_address.html I relied heavily on this reflection in the writing the role sheet
 
 1997 resolution: http://psychology.ucdavis.edu/rainbow/HTML/resolution97.html</Text>
+            <Comments>He is also an alumni of my undergraduate college, Antioch.</Comments>
         </Document>
         <Document ID="127">
             <Title>Overview of elections, by year</Title>
             <Text> 	
 ##### Overview of elections, by year
 
-&lt;!-- \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{1cm} |  p{2cm} | p{2cm} | p{2cm} |}
+&lt;!-- \begin{longtable}[!t]{ | p{1cm} | p{2cm} | p{2cm} | p{2cm} | p{2cm} |  p{2cm} | }
 \hline
-Year&amp;
-VP&amp;
-Board-at-large*&amp;
-Research (replacing)&amp;
-Nomenclature
-(replacing)&amp;
-Program
-(replacing)\\ \hline
-1971&amp;
-1972 (Bandura)&amp;
-A (Milgram)&amp;
-&amp;
-&amp;
-\\
-1972&amp;
-1973 &amp;
-B (Albee)&amp;
-(Tyler)&amp;
-(Albee)&amp;
-(Hooker)\\
-1973&amp;
-1974&amp;
-&amp;
-(Clark)&amp;
-&amp;
-(Anastasi)\\
-1974&amp;
-1975&amp;
-A&amp;
-(Marmor)&amp;
-(Spiegel)&amp;
-(Gebhard)\\
-1975&amp;
-1976&amp;
-B&amp;
-(elected 1972)&amp;
-
-(elected 1972)\\ \hline
+\tahead{Year}&amp;\tahead{VP}&amp;\tahead{Board at large}&amp;\tahead{Research (replacing)}&amp;\tahead{Nomenclature (replacing)}&amp;\tahead{Program (replacing)} \\ \hline
+\tahead{1971}&amp; 1972: (Bandura)&amp;A (Milgram)&amp; &amp; &amp; \\
+\tahead{1972}&amp;1973&amp;B (Albee)&amp;(Tyler)&amp;(Albee)&amp;(Hooker) \\
+\tahead{1973}&amp;1974&amp; &amp;(Clark)&amp; &amp;(Anastasi)\\
+\tahead{1974}&amp;1975&amp;A&amp;(Marmor)&amp;(Spiegel)&amp;(Gebhard) \\
+\tahead{1975}&amp;1976&amp;B&amp;(elected 1972)&amp; &amp;(elected 1972) \\ \hline
 \caption{Elections to be held each year}
-\label{table: elections}
+\label{table: boardMembership}
 \end{longtable}--&gt;
  	
 #### Committees, Publications and Exhibits
@@ -2628,31 +2751,31 @@ Approve taskforces for Green and Bieber &amp;
 Administer Shepard &amp; Metzler\newline
 Approve Seigelman, reject Watson&amp;
 Accept charge to consider removing 302.0
-Washington, DC\\
+Prepare Dallas Conference schedule, distribute at the end of this conference\\
 1972&amp;
 
 Recognize Hooker\newline
 Limit drugs to psychiatric, but recognize psychology access in hospital&amp;
 Approve Rosehan. Fordney Settlage*&amp;
 Propose observation, not theory-based DSM&amp;
-Dallas\\
+Prepare Honolulu Conference schedule, distribute at the end of this conference\\
 1973&amp;Consider condemnation of Socarides \newline
 Nomenclature report, send to general vote\newline
 LT Principle&amp;
 Approve Zimbardo, Spitzer&amp;
 Propose dissolution in favor of Spitzer task force&amp;
-Honolulu\\
+Prepare Philadelphia Conference schedule, distribute at the end of this conference\\
 1974&amp;
 Create Psy. Of Women, Women in Psy.\newline
 Bar Aversion therapy&amp;
 Approve Milgram&amp;
 [dissolved]&amp;
-Philadelphia\\
+Prepare Chicago Conference schedule, distribute at the end of this conference\\
 1975&amp;
 Create Affirmative Action plan&amp;
 Propose rewritten Ethics guidelines&amp;
  &amp;
-Chicago\\
+\\
 \hline
 
 \caption{Likely Actions}
@@ -2755,20 +2878,16 @@ Tobin, Kay and Wicker, Randy. (1975) The Gay Crusaders. Arno Press.
         </Document>
         <Document ID="368">
             <Title>Weeklies</Title>
-            <Text>##### Weekly readings
+            <Text>##### Historical studies 
 
 When and if the Research Committee approves experiments that are based on historical realities, the game master ought to distribute the primary source report of said experiment for discussion in the following week.  These are available under ‘Primary Source Materials’ on the GitHub site, and included in the Appendix.
 
 
- 1971: Lab: &lt;!--\fullref{mentalrotationofthreedimensionalobjects}--&gt;. Citation: Shepard, R. N., &amp; Metzler, J. (1971). Mental rotation of three-dimensional objects. Science, 171, 701-703.
-
-1972: Siegelman, “Adjustment of Homosexual and Heterosexual Women” The British Journal of Psychiatry (1972) 120: 477-481.
-
-1973: Rosehan 'On being sane in Insane places' Science  v.. 179 (Jan. 1973), 250-258
-
-1974: Haney, C. Banks, C. &amp; Zimbardo, P. (1973). “Interpersonal Dynamics in a Simulated Prison” International Journal of Criminology and Penology 1, p. 69-97 
-
-Spitzer, R. and Fleiss, J. (1974). “A Re-analysis of the Reliability of Psychiatric Diagnosis” Brit. J. Psychiat. 125, 341-7
+* 1971: Lab: &lt;!--\fullref{mentalrotationofthree-dimensionalobjects}--&gt;. Citation: Shepard, R. N., &amp; Metzler, J. (1971). Mental rotation of three-dimensional objects. Science, 171, 701-703.
+*  1972: Siegelman, “Adjustment of Homosexual and Heterosexual Women” The British Journal of Psychiatry (1972) 120: 477-481.
+* 1973: Rosehan 'On being sane in Insane places' Science  v.. 179 (Jan. 1973), 250-258
+* 1974: Haney, C. Banks, C. &amp; Zimbardo, P. (1973). “Interpersonal Dynamics in a Simulated Prison” International Journal of Criminology and Penology 1, p. 69-97 
+* Spitzer, R. and Fleiss, J. (1974). “A Re-analysis of the Reliability of Psychiatric Diagnosis” Brit. J. Psychiat. 125, 341-7
 </Text>
         </Document>
         <Document ID="135">
@@ -2835,6 +2954,10 @@ Satinover, J. (?). "The "Trojan Couch": How the Mental Health Associations Misre
 
 Zucker, K. and J. Drescher, Eds. (2006). Ex-Gay Research: Analyzing the Spitzer Study and Its Relation to Science, Religion, Politics, and Culture. New York, Routledge.
 </Text>
+        </Document>
+        <Document ID="128">
+            <Title>Managing Discussion</Title>
+            <Text>#### Managing Discussion</Text>
         </Document>
         <Document ID="151">
             <Title>BGittings</Title>
@@ -2913,35 +3036,6 @@ Tobin, Kay and Wicker, Randy. (1975) The Gay Crusaders. Arno Press.
 </Text>
             <Comments>For more on the early development of the Daughters of Bilitis and its magazine, check out: http://www.buzzfeed.com/h2/pulse/skarlan/the-ladder-the-first-lesbian-magazine-established-in-the-195
 For more on the early development of the Daughters of Bilitis and its magazine, check out: http://www.buzzfeed.com/h2/pulse/skarlan/the-ladder-the-first-lesbian-magazine-established-in-the-195</Comments>
-        </Document>
-        <Document ID="369">
-            <Title>### Real-world papers</Title>
-            <Text>### Real-world papers
-
-#### Mental rotation
-
-&lt;!--\label{paper: mentalrotation}
-\includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1971_Science_Shepard.pdf}--&gt;
-
-#### Adjustment of Homosexual and Heterosexual Women
-
-&lt;!--\label{paper: observation}
-\includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1972-Siegelman-AdjustmentofHomosexualWomen.pdf}--&gt;
-
-#### On being sane in insane places
-&lt;!--\label{paper: rosehan}
-\includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1973-Rosenhan-OnBeingSaneInInsanePlaces.pdf}--&gt;
-
-#### Interpersonal Dynamics in a Simulated Prison
-
-&lt;!--\label{paper: zimbardo}
-\includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1973-Zimbardo-InternationalJournalofCriminologyandPenology1973Haney.pdf}--&gt;
-
-#### A Re-analysis of the Reliability of Psychiatric Diagnosis
-
-&lt;!--\label{paper: spitzer}
-\includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1974-SpitzerAndFleiss341.pdf}--&gt;
-</Text>
         </Document>
         <Document ID="33">
             <Title>Committee Structure</Title>
@@ -3148,6 +3242,55 @@ Program committee in 1971:
 
 --&gt;</Text>
         </Document>
+        <Document ID="369">
+            <Title>### Real-world papers</Title>
+            <Text>### Real-world papers
+
+#### Mental rotation
+
+&lt;!--\label{paper: mentalrotation}
+\includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1971_Science_Shepard.pdf}--&gt;
+
+#### Adjustment of Homosexual and Heterosexual Women
+
+&lt;!--\label{paper: observation}
+\includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1972-Siegelman-AdjustmentofHomosexualWomen.pdf}--&gt;
+
+#### On being sane in insane places
+&lt;!--\label{paper: rosehan}
+\includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1973-Rosenhan-OnBeingSaneInInsanePlaces.pdf}--&gt;
+
+#### Interpersonal Dynamics in a Simulated Prison
+
+&lt;!--\label{paper: zimbardo}
+\includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1973-Zimbardo-InternationalJournalofCriminologyandPenology1973Haney.pdf}--&gt;
+
+#### A Re-analysis of the Reliability of Psychiatric Diagnosis
+
+&lt;!--\label{paper: spitzer}
+\includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1974-SpitzerAndFleiss341.pdf}--&gt;
+</Text>
+        </Document>
+        <Document ID="144">
+            <Title>Front Matter</Title>
+            <Text>&lt;!--
+\frontmatter --&gt;
+# Role Sheets: 
+&lt;!-- \begin{refsection}
+\def\mysubtitle{The struggle for legitimacy of psychology and psychiatry in the 1970’s\\ \large Role Sheets}
+
+\tableofcontents
+\newpage
+\listoftables
+\newpage
+\listoffigures
+\newpage
+
+\renewcommand*{\thechapter}{\arabic{chapter}}
+\setcounter{chapter}{0}
+\mainmatter--&gt;
+</Text>
+        </Document>
         <Document ID="34">
             <Title>Election schedule</Title>
             <Text>&lt;!--\newpage--&gt;
@@ -3180,74 +3323,27 @@ If the game master chooses, he or she may introduce or encourage the development
 
 &gt;… although this manual provides a classification of mental disorders, it must be admitted that no definition adequately specifies precise boundaries for the concept of ‘mental disorder.’ The concept of mental disorder, like many other concepts in medicine and science, lacks a consistent operational definition that covers all situations. All medical conditions are defined on various levels of abstraction--for example, structural pathology (e.g., ulcerative colitis), symptom presentation (e.g., migraine), deviance from a physiological norm (e.g., hypertension), and etiology (e.g., pneumococcal pneumonia). Mental disorders have also been defined by a variety of concepts (e.g., distress, dyscontrol, disadvantage, disability, inflexibility, irrationality, syndromal pattern, etiology, and statistical deviation). Each is a useful indicator for a mental disorder, but none is equivalent to the concept, and different situations call for different definitions.” 
 
-With something like the 7 part definition included there in:
+With something like the 7 part definition included therein:
 
 *Features*
-&gt;A a clinically significant behavioral or psychological syndrome or pattern that occurs in an individual
+&gt;&gt;A a clinically significant behavioral or psychological syndrome or pattern that occurs in an individual
 
-&gt;B is associated with present distress (e.g., a painful symptom) or disability (i.e., impairment in one or more important areas of functioning) or with a significantly increased risk of suffering death, pain, disability, or an important loss of freedom
+&gt;&gt;B is associated with present distress (e.g., a painful symptom) or disability (i.e., impairment in one or more important areas of functioning) or with a significantly increased risk of suffering death, pain, disability, or an important loss of freedom
 
-&gt;C must not be merely an expectable and culturally sanctioned response to a particular event, for example, the death of a loved one
+&gt;&gt;C must not be merely an expectable and culturally sanctioned response to a particular event, for example, the death of a loved one
 
-&gt;D a manifestation of a behavioral, psychological, or biological dysfunction in the individual
+&gt;&gt;D a manifestation of a behavioral, psychological, or biological dysfunction in the individual
 
-&gt;E neither deviant behavior (e.g., political, religious, or sexual) nor conflicts that are primarily between the individual and society are mental disorders unless the deviance or conflict is a symptom of a dysfunction in the individual
+&gt;&gt;E neither deviant behavior (e.g., political, religious, or sexual) nor conflicts that are primarily between the individual and society are mental disorders unless the deviance or conflict is a symptom of a dysfunction in the individual
 
 
 *Other Considerations*
-&gt;F no definition adequately specifies precise boundaries for the concept of “mental disorder”
 
-&gt;G the concept of mental disorder (like many other concepts in medicine and science) lacks a consistent operational definition that covers all situations
+&gt;&gt;F no definition adequately specifies precise boundaries for the concept of “mental disorder”
 
-##### Optional
-
-If the gamemaster wishes to make a point about the influence of psychopharmacology and health insurance companies in the development of the DSM-III, he or she may wish to make use of the 'Exhibits' included in the “Call for papers and symposia” and hang up posters advertising Miltown, Tofranil, Librium and Valium. There are a great number of blogs and websites dedicated to storing and distributing these historical images. Here are a few:
-
-* Miltown: http://www.homeeverafter.com/miltown-a-piece-of-1950s-homemaker-history/
-
-* Tofranil: https://www.biopsychiatry.com/imipramine/350x525xtofranil.jpg.pagespeed.ic.xDYlzJklSs.webp
-
-https://www.biopsychiatry.com/imipramine/tofranil.html
-
-* Librium: &lt;!--\begin{marginfigure}
- \begin{center}
+&gt;&gt;G the concept of mental disorder (like many other concepts in medicine and science) lacks a consistent operational definition that covers all situations
 
 
-     \includegraphics{../images/librium_75651.jpg}
-\end{center}
- \caption{Advertisement for Librium, 1962. From https://www.mmm-online.com/channel/med-ad-hall-of-fame-to-induct-lerner-girgenti-and-rubin/article/155796/
-}
-\label{fig: valium65}
-\end{marginfigure}--&gt; 
-
-* Valium: 
-&lt;!--\begin{marginfigure}
- \begin{center}
-
-
-     \includegraphics{../images/valium65.jpg}
-\end{center}
- \caption{Advertisement for Valium, 1965.  }
-\label{fig: valium65}
-\end{marginfigure}
---&gt;
-From http://faculty.weber.edu/ewalker/Medicinal_Chemistry/topics/Psycho/psycho.htm
-
-
-At the same time,  we should remember that Medicare and Medicaid were created in 1965, and the health insurance industry was undergoing a simultaneous revolution:  
-
-* BlueCross 1960: 
-
-&lt;!--\begin{marginfigure}
- \begin{center}
-
-
-     \includegraphics[scale=0.25]{../images/md28530.jpg}
-\end{center}
- \caption{Advertisement for Blue Cross, 1960. From http://www.decodog.com/inven/MD/md28530.jpg }
-\label{fig: BlueCross}
-\end{marginfigure}
---&gt;
  	
 
 #### Poor Presidential tone
@@ -5115,6 +5211,8 @@ Note that while these questions overlap, none of them ought to determine any of 
         <Document ID="90">
             <Title>Standard schedule</Title>
             <Text>### Standard Schedule
+I've always taught 'Defining the Mind' as a Tuesday-Thursday 1.5 hour per class section.  That gave me the structure to require proposals be distributed on Tuesday for discussion on Thursday.  
+The schedule I have used is represented in table &lt;!--\fullref{table: outlineGameSessionsInstructors}--&gt;.
 Replicated here from Section &lt;!--\ref{table: outlineGameSessions}--&gt; on page &lt;!--\pageref{table: outlineGameSessions}--&gt;.
 
 &lt;!-- \begin{longtable}[!t]{ | p{2cm} | p{1cm} | p{11cm} | }
@@ -5610,6 +5708,7 @@ shaded={rulecolor=black, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}}
    \renewcommand\citet{\cite}
 \fi
 
+
 --&gt;
 </Text>
         </Document>
@@ -5739,6 +5838,31 @@ See, e.g. K MacCorquodale (1970) “On Chomsky's Review of Skinner's Verbal Beha
 \numberwithin{figure}{chapter}
 \numberwithin{table}{chapter}
 
+% no 'partitle', so create one
+\newcommand*\parttitle{}
+\let\origpart\part
+\renewcommand*{\part}[2][]{%
+   \ifx\\#1\\% optional argument not present?
+      \origpart{#2}%
+      \renewcommand*\parttitle{#2}%
+   \else
+      \origpart[#1]{#2}%
+      \renewcommand*\parttitle{#1}%
+   \fi
+}
+
+
+  \makeatletter% so we can use @ symbols in macro names
+  \newcommand{\myfancyhf}{%
+    \fancyhf{}% clear previous contents of running heads/feet
+    \fancyhead[LE]{\thepage\quad\smallcaps{\newlinetospace{\mytitle\textemdash\parttitle}}}%
+    \fancyhead[RO]{\smallcaps{\newlinetospace{\leftmark}}\quad\thepage}
+  % \fancyfoot{...your code goes here...}%
+  }
+  \g@addto@macro{\frontmatter}{\myfancyhf}% calls \myfancyhf any time \frontmatter is called
+  \g@addto@macro{\mainmatter}{\myfancyhf}% likewise for \mainmatter
+  \makeatother% restores the original meaning of @
+
 
 \makeatother
 
@@ -5768,7 +5892,6 @@ See, e.g. K MacCorquodale (1970) “On Chomsky's Review of Skinner's Verbal Beha
 
 \setcounter{tocdepth}{1}
 
-% Set numbering system to sub subsection
 
 % Generates the index
 
@@ -5939,19 +6062,26 @@ Symposia and presentations to the committees, however, must be delivered without
 
 Generally speaking, our students come to psychology and psychiatry through textbooks. And as a result, they are primed to believe, unreflectively, that contemporary narrative of these disciplines is settled fact. Furthermore, these students know nothing of the rise and regularization of health insurance companies and billing procedures following the inception of Medicare and Medicaid in 1965. For them, managed care, billable hours and check-box diagnoses have always been a part of their medical experience. It was not in 1970. 
 
-Since the 1970s, the psychiatrists and clinical psychologists have been under extraordinary pressure to create a system of diagnosis that will allow them to be compensated for their work under this system. Spitzer's shift from etiological psychiatry to descriptive psychiatry was a major step in that struggle. 
+Since the 1970s, the psychiatrists and clinical psychologists have been under extraordinary pressure to create a system of diagnosis that will allow them to be compensated for their work under the system of managed care. Spitzer's shift from etiological psychiatry to descriptive psychiatry was a major step in that struggle. 
 
-It is difficult to get them to feel the pressure to legitimize psychiatry and psychology that drove much of the work in this era. But one can make progress by explicitly emphasizing the crisis of legitimacy before beginning the game.
+It is difficult to get them to feel the pressure to legitimize psychiatry and psychology that drove much of the work in this era. You can help set the stage by hanging posters of advertising for pharmaceuticals and health insurance policies from the era. I've highlighted a few examples in Section &lt;!--\fullref{advertising}--&gt; of the Instructor's manual.  
 
 Many of the primary sources from this period---especially those from the members of the Spitzer task force---recall a time of great confusion. Spitzer is often characterized as acting almost singlehandedly, ignoring the hard work that others put into the classifications they proposed. If students feel confused and overwhelmed with all of the proposals being brought forward and the changes being made, that is partially intentional. 
 
-While I believe that the removal of homosexuality was the correct decision, both morally and scientifically, that does not mean that the dissenters who point out the political bullying that went into passing the resolutions do not have a point. I want the students to come away with the sense that this period in the history of psychology and psychiatry was an all out scramble for legitimacy. Creating a sense of confusion and chaos is a necessary part of that environment.
+While the removal of homosexuality from the DSM was the correct decision, both morally and scientifically, that does not mean that the dissenters who point out the political bullying that went into passing the resolutions do not have a point. Everything was up for grabs, and legitimacy had to be established by extra-scientific methods.  Spitzer (the real Spitzer) use the power of Robert's rules and the unlimited mandate of his task force. 
+
+We want the students to use things more sophisticated, like evidence and reason.  But it is probably enough if they come away from the game with the sense that this period in the history of psychology and psychiatry was an all out scramble for legitimacy. Having a sense of confusion and chaos is a may be a part of that experience.
 </Text>
         </Document>
         <Document ID="95">
             <Title>List of roles and factions</Title>
             <Text>### List of roles and factions
+Factions in this game are relative 'loose.'  The basic theoretical frameworks in place have factional alignment, but there are plenty of independents who 'lean' towards one or more factions.
+
+More importantly, there is a large set of topics upon which the factions are neutral.  Some factional members, such as Marmor and Bieber will find themselves as opponents on major issues.
+
 #### Factions
+
 &lt;!-- \begin{longtable}[!t]{ | P{2.75cm} | P{3cm} | P{3cm} | P{4.25cm} | }
 \hline
 \tahead{Psychoanalysts} &amp; \tahead{Cognitivists} &amp; \tahead{Behaviorists} &amp; \tahead{Independents} \\ \hline
@@ -5985,6 +6115,13 @@ P. Zimbardo, PhD*\newline \\ \hline
 \label{table: factions}
 \end{longtable}
 --&gt;
+
+#### Secret societies
+
+The 'secret societies' ought to meet outside of class, to maintain their anonymity.  They have no objectives other than their own, but they should orchestrate their actions so they help eachother out where necessary.
+
+For example, Ron Gold is charged with 'helping' Spitzer draft the proposal to demedicalize homosexuality. I encourage the whole GayPA to have a version drafted *prior* to needing it in 1973.
+
 &lt;!-- \begin{longtable}[!t]{ | P{2.75cm} | P{3cm} | P{4.25cm} | }
 \hline
 \tahead{GayPA (secret)} &amp; \tahead{Young Turks (secret)} &amp; \tahead{Sexual Research (informal) } \\ \hline
@@ -6330,7 +6467,7 @@ This section adapts language from the mission statements of the contemporary APA
             <Title>Victory Objectives</Title>
             <Text>#### Victory Objectives
 
-The final vote---and consequently ‘victory’ in the game---is regarding the definition of ‘mental illness.’ See &lt;!--\ref{table: definitions}--&gt; on page &lt;!--\pageref{table: definitions}--&gt;
+The final vote---and consequently ‘victory’ in the game---is regarding the definition of ‘mental illness.’ Table &lt;!--\fullref{table: definitions}--&gt; of the Game Book lists the possible definitions and likely supporters.
 
 &lt;!-- \begin{longtable}[!t]{ | P{3cm} | P{8cm} |  }
 \hline
@@ -6366,7 +6503,9 @@ A mental disorder is a medical disorder whose manifestations are primarily signs
 
 &gt; There is no 'thing' called 'mental illness,' only  sets of behaviors that may be destructive to an individual and his or her society.
 
-The victory objectives can be modded to a compromise. See Section &lt;!--\fullref{possiblemod:dsmivcompromise}--&gt;.</Text>
+The final vote is tallied in credibility, not 'votes'.  To win, a definition *must* have more than 50% of the credibility available.  If no definition surpasses this value, the APA can more forward without a definition, or it can change the rules for voting and vote again---for example, hold a run-off between the top-two vote getters.  
+
+The victory objectives can also be "modded" to a compromise. See Section &lt;!--\fullref{possiblemod:dsmivcompromise}--&gt; of the Instructor's Manual.</Text>
         </Document>
         <Document ID="176">
             <Title>GMiller-bio</Title>
@@ -6544,6 +6683,103 @@ If the difference is between the procedures followed for the two groups, the var
 Under these conditions, Hans dropped from scoring 9 out of 10 to 1 out of 10. This suggested that Hans was picking up a subtle, inadvertent cue from one of the humans and using that to decide when to stop tapping his foot.
 
 Once it became clear that there was some other cue Hans was using, interest in him diminished. But if you were interested in discovering just what cue Hans was responding to, more experiments would be needed. 
+</Text>
+        </Document>
+        <Document ID="96">
+            <Title>Role allocation table</Title>
+            <Text>#### Players 
+
+Between 16 and 26. Every character has specific assignments in writing, politics and research.  Table &lt;!--\fullref{table: charactersmall}--&gt;” summarizes these assignments.  
+ 	
+Well-known publications by each character are included in the &lt;!--\fullref{briefsketchofthegamecharacters}--&gt; section of the gamebook.
+
+##### Cast of 16
+
+&lt;!-- \begin{longtable}[!t]{ | p{0.6cm} | P{3.4cm} | P{5cm} | P{6.5cm} | }
+\hline 
+\tahead{Row}&amp;\tahead{Name}&amp;\tahead{Area}&amp;\tahead{Game Play} \\ \hline
+1&amp; 
+Robert Spitzer&amp;
+Independent - Psychiatrist&amp;
+Nomenclature committee chair in 1971, petitions for task force in 1973. \\
+2&amp;
+George Miller&amp;
+Cognitivist&amp;
+President in 1971, leader of cognitivists\\
+3&amp;
+Anthony Bandura&amp;
+Behaviorist&amp;
+Vice-president in 1971, behaviorist, but may join cognitivists\\
+4&amp;
+Harry Harlow&amp;
+Behaviorist&amp;
+Former Pres. of APA, leader of behaviorists, defend aversion therapy '74\\
+5&amp;
+Noam Chomsky&amp;
+Cognitivist&amp;
+Critic of behaviorism, founder of cognitivism, social activist. Symposium '74, debate with Piaget '75.\\
+6&amp;
+Leona Tyler&amp;
+Independent -  psychologist: counseling&amp;
+(run for) Vice President in 1972, install the 'Leona Tyler Principle' as president '73\\
+7&amp;
+Anne Anastasi&amp;
+Independent -  psychologist: psychometrics&amp;
+Run for VP in 1973, form the committee on women in Psych, and the committee on the Psych of Women. Neuralize the gender-biased language of the official APA calls for papers, '71\\
+8&amp;
+John P. Spiegel&amp;
+Psychoanalyst&amp;
+Run for VP in 1975, reliable partner of Spitzer, straight advocate for the GayPA. Propose ('71) and complete a report ('72)on homosexuality in psych and psychiat. \\
+9&amp;
+Evelyn Hooker&amp;
+Behaviorist&amp;
+Early studies of homosexuality (1953), the intellectual 'grandmother' of the current movement. Calming influence on the Gay-PA, and scientifically reliable source for their arguments.\\
+10&amp;
+George Albee&amp;
+Independent  - clinical psychologist&amp;
+Medical model symposium '72, propose clinical psych health care system \\
+11&amp;
+Ken Clark&amp;
+Independent - psychologist&amp;
+Run for VP in 1974, expert testimony in Brown v. Board of education. Symposium '74\\
+12&amp;
+Judd Marmor&amp;
+Psychoanalyst - Freudian&amp;
+Propose removal of homosexuality '71, condemn Socarides JAMA paper '72\\
+13&amp;
+Thomas Szasz&amp;
+Independent - psychiatrist&amp;
+Critic of Psychoanalysis, and more broadly, the medicalization of psychiatry. Paper '71.\\
+14&amp;
+Irving Beiber / Charles Socarides&amp;
+\emph{can be split} \newline
+Psychoanalyst – Freudian&amp;
+Classical psychoanalyst, specializing in 'treatment' of homosexuality. God-father of 'reparative therapy' movement, as he is the mentor of contemporary Nicolosi (NARTH) \\
+15&amp;
+John Fryer&amp;
+Independent - psychiatrist&amp;
+Dr. H. Anonymous, propose rejection of aversion therapy '74\\
+16&amp;
+Paul Gebhard / H. Lief&amp;
+\emph{can be split}\newline
+Independent - Anthropologist / Psychoanalyst - Jungian&amp;
+Anthropologist representative on Spitzer Task Force / Jungian psychiatrist\\ \hline
+
+\caption{Character assignments for small class}
+\label{table: charactersmall}
+\end{longtable}--&gt;
+
+##### Cast of 20
+
+To add additional characters to the game:
+
+*	add Richard Green, MD, expert in transgenderism, student of John Money, who was also on the actual Spitzer task force (Money may be added to future versions of the game).
+
+*	then Ron Gold, Journalist, Activist. Convinces Spitzer that classification is doing more harm than good. Should also participate in a Symposium in 1973 giving a talk titled “Stop it, you're making me sick."
+
+*	Split Socarides/ Bieber into two roles.
+
+*	Split Gebhard/ Lief into two roles.
 </Text>
         </Document>
     </Documents>
