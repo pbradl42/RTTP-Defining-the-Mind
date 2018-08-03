@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="PIC-142B-Desktop" Modified="2018-08-01 16:24:23 -0400" ModID="F845B799-4F1A-4689-B2D6-72BB8832A2D0">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-2" Modified="2018-08-02 21:04:05 -0400" ModID="1D8BD55D-41B0-40DA-88D4-9412E355AB69">
     <Binder>
         <BinderItem ID="0" UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -216,14 +216,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="23" UUID="2B1C5FEC-A206-4920-BA05-01696D0E74B5" Type="Text" Created="2014-07-21 03:43:55 -0400" Modified="2018-07-31 11:41:18 -0400">
+                                <BinderItem ID="23" UUID="2B1C5FEC-A206-4920-BA05-01696D0E74B5" Type="Text" Created="2014-07-21 03:43:55 -0400" Modified="2018-08-02 21:04:05 -0400">
                                     <Title>Major issues for debate</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4659,0</TextSelection>
+                                        <TextSelection>1536,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="24" UUID="FB894A93-4A31-4087-AB63-F2CF60E1BCE6" Type="Text" Created="2014-07-21 03:44:05 -0400" Modified="2018-07-30 11:37:04 -0400">
@@ -1180,14 +1180,14 @@
                                         <TextSelection>2657,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem ID="86" UUID="5CA8569A-711B-4066-8A72-A57A7FB5EA95" Type="Text" Created="2014-07-21 03:48:31 -0400" Modified="2018-08-01 15:22:42 -0400">
+                                        <BinderItem ID="86" UUID="5CA8569A-711B-4066-8A72-A57A7FB5EA95" Type="Text" Created="2014-07-21 03:48:31 -0400" Modified="2018-08-02 20:55:36 -0400">
                                             <Title>Learning objectives</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>8745,19</TextSelection>
+                                                <TextSelection>8382,11</TextSelection>
                                             </TextSettings>
                                             <Children>
                                                 <BinderItem ID="87" UUID="BBE0EB60-B6D8-4AA2-BA30-626590C0160A" Type="Text" Created="2016-09-22 16:55:38 -0400" Modified="2018-07-31 15:52:43 -0400">
@@ -1377,7 +1377,7 @@
                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1034,0</TextSelection>
+                                                <TextSelection>430,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -3990,7 +3990,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="CADF5D6E-EF6B-400A-8C7F-CFF850A380D1" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">liminality</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">electricity</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
@@ -4024,7 +4024,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1219" Characters="8446" Date="2018-08-01 16:24:18 -0400"></PreviousSession>
+        <PreviousSession Words="20" Characters="149" Date="2018-08-02 20:52:17 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
     <UserProjectData>
