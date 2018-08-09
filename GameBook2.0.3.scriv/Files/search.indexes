@@ -406,12 +406,174 @@ Spitzer, R. and Fleiss, J. (1974). “A Re-analysis of the Reliability of Psychi
 \listoffigures
 \newpage
 
+
 \renewcommand*{\thechapter}{\arabic{chapter}}
 
 
 \setcounter{chapter}{0}
 \mainmatter--&gt;
 
+</Text>
+        </Document>
+        <Document ID="59">
+            <Title>ethicsOfHumanReserach</Title>
+            <Text>#### Ethics of human research
+
+Ethical codes of research have generally followed the discovery or publication of horrifically unethical experiments.  The most famous of these is probably the Nuremberg Code, adopted by the international medical community after the discovery of the Nazi 'experiments' performed on Jews, Homosexuals and Gypsies during the Holocaust.  The Nuremberg code is available online, and should be reviewed by anyone proposing an experiment or sitting on the Research Committee. 
+
+##### The Nuremberg Code
+
+The Nuremberg code ([#TheNationalInstitutesofHeath:2009vr]) lays out ten simple principles for design experiments on humans. They are:
+
+
+&lt;!--\begin{apatextbox}{The Nuremberg Code} 
+
+\rowgroup{1.	The voluntary consent of the human subject is absolutely essential. This means that the person involved should have legal capacity to give consent; should be so situated as to be able to exercise free power of choice, without the intervention of any element of force, fraud, deceit, duress, overreaching, or other ulterior form of constraint or coercion; and should have sufficient knowledge and comprehension of the elements of the subject matter involved as to enable him to make an understanding and enlightened decision. This latter element requires that before the acceptance of an affirmative decision by the experimental subject there should be made known to him the nature, duration, and purpose of the experiment; the method and means by which it is to be conducted; all inconveniences and hazards reasonably to be expected; and the effects upon his health or person which may possibly come from his participation in the experiment.\newline
+
+The duty and responsibility for ascertaining the quality of the consent rests upon each individual who initiates, directs, or engages in the experiment. It is a personal duty and responsibility which may not be delegated to another with impunity.}\\
+
+\rowgroup{2.	The experiment should be such as to yield fruitful results for the good of society, unprocurable by other methods of means of study, and not random and unnecessary in nature.}\\
+
+\rowgroup{3.	The experiment should be so designed and based on the results of animal experimentation and a knowledge of the natural history of the disease or other problem under study that the anticipated results will justify the performance of the experiment. }\\
+
+\rowgroup{4.	The experiment should be so conducted as to avoid all unnecessary physical and mental suffering and injury.}\\
+
+\rowgroup{5.	No experiment should be conducted where there is an a priori reason to believe that death or disabling injury will occur; except, perhaps, in those experiments where the experimental physicians also serve as subjects.}\\
+
+\rowgroup{6.	The degree of risk to be taken should never exceed that determined by the humanitarian importance of the problem to be solved by the experiment. }\\
+
+\rowgroup{7.	Proper preparations should be made and adequate facilities provided to protect the experimental subject against even remote possibilities of injury, disability or death.}\\
+
+\rowgroup{8.	The experiment should be conducted only by scientifically qualified persons. The highest degree of skill and care should be required though all stages of the experiment of those who conduct or engage in the experiment. }\\
+
+\rowgroup{9.	During the course of the experiment the human subject should be at liberty to bring the experiment to an end if he has reached the physical or mental state where continuation of the experiment seems to him to be impossible.}\\
+
+\rowgroup{10.	During the course of the experiment the scientist in charge must be prepared to terminate the experiment at any stage, if he has probable cause to believe, in the exercise of the good faith, superior skill and careful judgment required of him that a continuation of the experiment is likely to result in injury, disability or death to the experimental subject. }\\
+
+\end{apatextbox}
+ --&gt;
+
+##### The Declaration of Helsinki
+
+In 1964, the medical community through the World Medical Association adopted the 'Declaration of Helsinki', which replaced the Nuremberg code as the standard for ethical experimentation on humans by the medical community. ([#Association:1975wh]) The World Medical Association still maintains the Declaration, adopting the most recent revisions in 2004. Current versions are available online.
+
+Psychiatrists, as practicing medical doctors, are bound by the Declaration of Helsinki. While it is far more complete than the Nuremberg code, the same basic ideas appear:
+
+&lt;!--\begin{apatextbox}{The Declaration of Helsinki}
+\label{sample:helsinki} 
+
+
+I. Basic Principles \\
+
+\rowgroup{1. Biomedical research involving human subjects must conform to generally accepted scientific principles and should be based on adequately performed laboratory and animal experimentation and on a thorough knowledge of the scientific literature. }\\
+
+\rowgroup{2. The design and performance of each experimental procedure involving human subjects should be clearly formulated in an experimental protocol which should be transmitted to a specially appointed independent committee for consideration, comment and guidance. }\\
+
+\rowgroup{3. Biomedical research involving human subjects should be conducted only by scientifically qualified persons and under the supervision of a clinically competent medical person. The responsibility for the human subject must always rest with a medically qualified person and never rest on the subject of the research, even though the subject has given his or her consent. }\\
+
+\rowgroup{4. Biomedical research involving human subjects cannot legitimately be carried out unless the importance of the objective is in proportion to the inherent risk to the subject. }\\
+
+\rowgroup{5. Every biomedical research project involving human subjects should be preceded by careful assessment of predictable risks in comparison with foreseeable benefits to the subject or to others. Concern for the interests of the subject must always prevail over the interests of science and society. }\\
+
+\rowgroup{6. The right of the research subject to safeguard his or her integrity must always be respected. Every precaution should be taken to respect the privacy of the subject and to minimize the impact of the study on the subject's physical and mental integrity and on the personality of the subject. }\\
+
+\rowgroup{7. Physicians should abstain from engaging in research projects involving human subjects unless they are satisfied that the hazards involved are believed to be predictable. Physicians should cease any investigation if the hazards are found to outweigh the potential benefits. }\\
+
+\rowgroup{8. In publication of the results of his or her research, the physician is obliged to preserve the accuracy of the results. Reports of experimentation not in accordance with the principles laid down in this Declaration should not be accepted for publication. }\\
+
+\rowgroup{9. In any research on human beings, each potential subject must be adequately informed of the aims, methods, anticipated benefits and potential hazards of the study and the discomfort it may entail. He or she should be informed that he or she is at liberty to abstain from participation in the study and that he or she is free to withdraw visor her consent to participation at any time. The physician should then obtain the subject's freely given informed consent, preferably inheriting.} \\
+
+\rowgroup{10. When obtaining informed consent for the research project the physician should be particularly cautious if the subject is in dependent relationship to him or her or may consent under duress. In that case the informed consent should be obtained by a physician who isn't engaged in the investigation and who is completely independent of this official relationship. }\\
+
+\rowgroup{11. In case of legal incompetence, informed consent should be obtained from the legal guardian in accordance with national legislation. Where physical or mental incapacity makes it impossible to obtain informed consent, or when the subject is a minor, permission from the responsible relative replaces that of the subject in accordance with national legislation. Whenever the minor child is in fact able to give a consent, the minor's consent must be obtained in addition to the consent of the minor's legal guardian. }\\
+
+\rowgroup{12. The research protocol should always contain a statement of the ethical considerations involved and should indicate that the principles enunciated in the present declaration are complied with. }\\
+
+II. Medical Research Combined with Professional Care (Clinical Research) \\
+
+\rowgroup{1. In the treatment of the sick person, the physician must be free to use a new diagnostic and therapeutic measure, if in his or her judgement it offers hope of saving life, re-establishing health or alleviating suffering. }\\
+
+\rowgroup{2. The potential benefits, hazards and discomfort of a new method should be weighed against the advantages of the best current diagnostic and therapeutic methods. }\\
+
+\rowgroup{3. In any medical study, every patient- including those of a control group, if any- should be assured of the best proven diagnostic and therapeutic method. }\\
+
+\rowgroup{4. The refusal of the patient to participate in a study must never interfere with the physician-patient relationship. }\\
+
+\rowgroup{5. If the physician considers it essential not to obtain informed consent, the specific reasons for this proposal should be stated in the experimental protocol for transmission to the independent committee (1, 2). }\\
+
+\rowgroup{6. The physician can combine medical research with professional care, the objective being the acquisition of new medical knowledge, only to the extent that medical research is justified by its potential diagnostic or therapeutic  value for the patient. }\\
+
+III. Non-Therapeutic Biomedical Research Involving Human Subjects (Non-Clinical Biomedical Research) \\
+
+\rowgroup{1. In the purely scientific application of medical research carried out on a human being, it is the duty of the physician to remain the protector of the life and health of that person on whom biomedical research is being carried out. }\\
+
+\rowgroup{2. The subjects should be volunteers- either healthy persons or patients for whom the experimental design is not related to the patient's illness. }\\
+
+\rowgroup{3. The investigator or the investigating team should discontinue the research if in his/her or their judgment it may, if continued, be harmful to the individual. }\\
+
+\rowgroup{4.	In research on man, the interest of science and society should never take precedence over considerations related to the well-being of the subject. }\\
+
+ \end{apatextbox}--&gt; 
+
+
+
+In the context of psychiatry, of course, the distinction made between therapeutic research and non-therapeutic research is crucially important.  If a psychiatric patient were to be deemed incapable of making an informed decision, and there is an experiment therapy that the psychiatrist believes may help, there are few ethical checks and balances to constrain the psychiatrist from performing unwarranted experiments.
+
+##### The APA Ethical Standards for Psychologists
+
+The APA Standards were first published in 1953. ([#Association:71thM4UP]) They were revised in 1958 ([#Association:1958tg]), 1963 ([#Association:1963uu])  and 1968. ([#Association:1968uu]) The 1968 standards, which should guide the research committee in determining which research programs should be allowed to move forward, are attached in Appendix &lt;!--\fullref{app: APAEthics}--&gt;.
+
+Most of the APA standards outline the responsibilities of psychologists who practice counseling and patient care.  While those are incredibly important, we're most concerned here with Principle 16: Research Precautions.  In 1958, section 16 was titled 'Harmful Aftereffect.' It read:
+
+&lt;!--\begin{apatextbox}{APA Ethical Standards: 1959}\label{sample:APAEthics1959}
+\newthought{Principle 16. Harmful Aftereffects}. Only when a problem is significant and can be investigated in no other way is the psychologist justified in giving misinformation to research subjects or exposing research subjects to physical or emotional stress.\\
+
+\rowgroup{a. When the possibility of serious aftereffects exists, research is conducted only when the subjects or the responsible agents are fully informed of this possibility and volunteer nevertheless.}\\
+
+\rowgroup{b. The psychologist seriously considers the possibility harmful aftereffects and removes them as soon as permitted by the design of the experiment.}\\
+
+\rowgroup{c. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.}\\
+\end{apatextbox}--&gt;
+
+Four years later, in 1963, ([#Association:1963uu]) the committee responsible for the Ethical guidelines:
+
+a. Changed the title to 'Research Precautions,’ moved the ‘preamble’ to point (a) and added a new preamble. It also changed the phrase 'is significant' to 'is of scientific significance'; ' can be investigated in no other way' became ' it is not practicable to investigate it in any other way'; ' giving misinformation to research subjects' was dropped; and the phrase 'whether children or adults' added to the new point (a).
+
+b. Added the qualification of  'reasonable' to 'possibility'; changed 'harmful' to 'injurious' and 'volunteer' became 'agree to participate'. 
+
+c. Changed 'removes' to 'avoids or removes'; and 
+
+d. Unchanged.
+
+&lt;!--\begin{apatextbox}{APA Ethical standards 1963}
+\label{sample: APAEthics1963}
+\newthought{Principle 16. Research Precautions.} The psychologist assumes obligations for the welfare of his research subjects, both animal and human.\\
+
+\rowgroup{a. Only when a problem is of scientific significance and it is not practicable to investigate it in any other way is the psychologist justified in exposing research subjects research subjects, whether children or adults, to physical or emotional stress.}\\
+
+\rowgroup{b. When the possibility of injurious aftereffects exists, research is conducted only when the subjects or the responsible agents are fully informed of this possibility and agree to participate nevertheless.}\\
+
+\rowgroup{c. The psychologist seriously considers the possibility harmful aftereffects and avoids or removes them as soon as permitted by the design of the experiment.}\\
+
+\rowgroup{d. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.} \\
+\end{apatextbox}--&gt;
+
+ These changed little between 1963 and 1968 ([#Association:1968uu]), except for the addition of  the qualifying phrase 'as part of the investigation' to (a) and adding provision (e) governing the use of psychoactive drugs:
+
+&lt;!--
+\begin{apatextbox}{APA Ethical standards 1968}
+\label{sample: APAEthics1968}
+\newthought{Principle 16. Research Precautions.} The psychologist assumes obligations for the welfare of his research subjects, both animal and human.\\
+
+\rowgroup{a. Only when a problem is of scientific significance and it is not practicable to investigate it in any other way is the psychologist justified in exposing research subjects research subjects, whether children or adults, to physical or emotional stress as part of an investigation.}\\
+\rowgroup{b. When the possibility of injurious aftereffects exists, research is conducted only when the subjects or the responsible agents are fully informed of this possibility and agree to participate nevertheless.}\\
+\rowgroup{c. The psychologist seriously considers the possibility harmful aftereffects and avoids, or removes them as soon as permitted by the design of the experiment.}\\
+\rowgroup{d. A psychologist using animals in research adheres to the provisions of the Rules Regarding Animals, drawn up by the Committee on Precautions in Animal Experimentation and adopted by the American Psychological Association.}\\
+\rowgroup{e. Investigations of human subjects using experimental drugs (for example, hallucinogenic, psychotomimetic, psychedelic, or similar substances) should be conducted only in such settings as clinics, hospitals, or research facilities maintaining appropriate safeguards for the subjects.}\\
+\end{apatextbox}
+\setlength{\leftskip}{0cm} --&gt;
+
+For a historical overview, see [#Fisher:uAWUHvuo] and [#Fisher:2003tg].
 </Text>
         </Document>
         <Document ID="83">
@@ -2355,8 +2517,8 @@ The final form in the sequence is what an adult would typically say. The transfo
             <Text> 	
 #### Overview of events and assignments in the game, by character
 
- 	##### Overview of assignments, by character
 
+ 	##### Overview of assignments, by character
 &lt;!-- \begin{longtable}[!t]{ | p{6cm} |  p{5cm} |  p{5cm} | }
 \hline
 
@@ -2598,17 +2760,19 @@ Propose Zimbardo '73 (if character is not used, the proposal should come from th
 
 Contrary to most textbooks that repeat the myth that 'Little Albert' was successfully deconditioned by Watson, was adopted by a family in North Baltimore and went on to live a long, happy, normal life; there is recent evidence to suggest that Little Albert died as a child. 
 
-Using photographs from the family and FBI forensics experts, Beck et al. (2009) argue  that 'Little Albert' was likely Douglas Merritte, who died at age 6 of acquired hydrocephalus, after his mother had left Hopkins.  Watson never deconditioned Little Albert, and we simply have no evidence to determine if his conditioned fears remained until his death.  
+Using photographs from the family and FBI forensics experts, Beck et al. (2009) argue  that 'Little Albert' was likely Douglas Merritte, who died at age 6 of acquired hydrocephalus, after his mother had left Hopkins.  Watson never deconditioned Little Albert, and we simply have no evidence to determine if his conditioned fears remained until his death.  [#Beck:wk]
 
-See Beck, H. P., Levinson, S., &amp; Irons, G. (2009).  “Finding Little Albert: A Journey to John B. Watson’s Infant Laboratory.” American Psychologist, 64, 605-614. doi: 10.1037/a0017234. The authors conclude:
+The authors conclude:
 
-None of the folktales we encountered during our inquiry had a factual basis. There is no evidence that the baby's mother was 'outraged‚' at her son's treatment or that Douglas's phobia proved resistant to extinction. Douglas was never deconditioned, and he was not adopted by a family north of Baltimore.
+&gt; None of the folktales we encountered during our inquiry had a factual basis. There is no evidence that the baby's mother was 'outraged‚' at her son's treatment or that Douglas's phobia proved resistant to extinction. Douglas was never deconditioned, and he was not adopted by a family north of Baltimore.
 
-Nor was he ever an old man. Our search of seven years was longer than the little boy's life. I laid flowers on the grave of my longtime 'companion' turned, and simultaneously felt a great peace and profound loneliness.
+&gt; Nor was he ever an old man. Our search of seven years was longer than the little boy's life. I laid flowers on the grave of my longtime 'companion' turned, and simultaneously felt a great peace and profound loneliness. [#Beck:wk]
 
-The APA's Monitor carried the story January 2010, 41(1): http://www.apa.org/monitor/2010/01/little-albert.aspx.
+The APA's Monitor carried the story January 2010 ([#LittleAlbertrega:2010ig])
 
-There were a number of blog posts that followed, including: http://mindhacks.com/2009/10/22/little-albert-lost-and-found. 
+There were a number of blog posts that followed, including: http://mindhacks.com/2009/10/22/little-albert-lost-and-found. And a BBC special: https://www.youtube.com/watch?v=KJnJ1Q8PAJk
+
+In 2012, however, a study by Nancy Digdon and Russell Powell called Beck’s findings into doubt.  Hey found that there was another child at Hopkins at the time named William Albert Barger who fits the description of Little Albert---and he went on to have a normal adult life. [#Powell:vw]
 
 ##### Socarides &amp; Bieber
 
@@ -2702,7 +2866,8 @@ E. Hooker was given 1991 Award for Distinguished Contribution to Psychology in t
 She reflects on the award here: http://psychology.ucdavis.edu/rainbow/html/hooker_address.html I relied heavily on this reflection in the writing the role sheet
 
 1997 resolution: http://psychology.ucdavis.edu/rainbow/HTML/resolution97.html</Text>
-            <Comments>He is also an alumni of my undergraduate college, Antioch.</Comments>
+            <Comments>See https://www.chronicle.com/interactives/littlealbert.
+He is also an alumni of my undergraduate college, Antioch.</Comments>
         </Document>
         <Document ID="127">
             <Title>Overview of elections, by year</Title>
@@ -3282,9 +3447,8 @@ Program committee in 1971:
 
 \tableofcontents
 \newpage
-\listoftables
-\newpage
-\listoffigures
+\listoftheorems[ignoreall,show={myassign}]
+
 \newpage
 
 \renewcommand*{\thechapter}{\arabic{chapter}}
@@ -3379,38 +3543,77 @@ Every character has at least one writing assignment included in their role sheet
         <Document ID="145">
             <Title>GAlbee</Title>
             <Text>## George W. Albee, PhD
+
 ### Your Biography
+
 You are George W. Albee, Clinical Psychologist and thorn in the side of Psychiatry. You were born in St. Mary's PA, but attended Bethany College in WV as an undergraduate.  You served in the Air Force from 1943-1946, after which you started graduate school in Clinical Psychology at the University of Pittsburgh. After receiving your PhD in 1949, you joined the Western Psychiatric Institute as a Research Associate, where you worked until 1951.
 
-In 1951, you joined Harry Harlow's wife and two others as the staff of the APA. During that time, not only did you come to understand the inner workings of this vast organization, but you actually drafted some of the committee structures.  In 1953, you won a Fulbright grant to spend a year teaching Psychiatry at Helsinki University, Finland. When you returned to the States in 1954, you accepted an  associate professorship at Western Reserve University in Cleveland, where you still teach.
+In 1951, you joined Harry Harlow's wife and two others as the staff of the APA. During that time, not only did you come to understand the inner workings of this vast organization, but you actually drafted some of the committee structures.  In 1953, you won a Fulbright grant to spend a year teaching Psychiatry at Helsinki University, Finland. When you returned to the States in 1954, you accepted an  Associate pProfessorship at Western Reserve University in Cleveland, where you still teach.
 
-In the 1950s, you chaired an APA taskforce on resources available for mental health professionals. This taskforce culminated in your Mental Health Manpower Trends (1959), which made clear the need for proactive, preventative mental health needs rather than the traditional reactive psychoanalytic approach.
+In the 1950s, you chaired an APA taskforce on resources available for mental health professionals. This taskforce culminated in your book *Mental Health Manpower Trends* (1959), which made clear the need for proactive, preventative mental health needs rather than the traditional reactive psychoanalytic approach.
 
 Your service to the APA is nothing short of astonishing. In the words of a close friend:
 
 &gt;“He served at various times as program chair of the APA annual convention; as a participant in the Miami, Chicago, Vail, and Utah clinical training conferences; as a member of the Board of Professional Affairs and the Ethics Committee; and (on numerous occasions) as a member of the Council of Representatives. He was president of Division 12 (Clinical) in 1966—1967 and [item removed for game coherence]. He has also served on and chaired innumerable APA committees, including the Commission on the Composition of Council that established the current voting system that guarantees one vote per person. “
 
-In 1964, you wrote “A declaration of independence for psychology,” which called for psychologists to withdraw from psychiatric facilities and set up their own centers for treatment of individuals with mental problems.  More recently, you have started worrying publicly that the ‘medical model’ of mental life in terms of ‘health’ and ‘illness’ is lacking. Your 1969 paper “Emerging concepts of mental illness and models of treatment: The psychological point of view” articulates your view on this matter. Roughly, the ‘sickness model’ assumes three things that are not true of mental disturbances or disturbed behavior: (1) that mental conditions are separate, discrete mental illnesses each of which has a separate cause, prognosis and treatment, (2) that treatment of these conditions is the sole responsibility of a specially trained ‘physician’ and (3) that the source of the disturbances are to be found in the individual, rather than in the world, thus focusing all ‘treatment’ effort on the individual rather than the social conditions which may give rise to his or her disturbed behavior.
+In 1964, you wrote “A declaration of independence for psychology,” which called for psychologists to withdraw from psychiatric facilities and set up their own centers for treatment of individuals with mental problems.  
 
-Your life-long commitment to preventative therapy has caused you to butt heads with defenders of the older way of doing things on various occasions. Your work is typified by three basic trends: (1) the independence of psychology from psychiatry and biology, (2) the inappropriateness of the illness model for mental and emotional disorders, and (3) the role of social injustice and inequality in mental health—both in how social injustice causes mental and emotional disorders and how prejudices have formed mental health taxonomies and diagnostics.
+More recently, you have started worrying publicly that the ‘medical model’ of mental life in terms of ‘health’ and ‘illness’ is lacking. Your 1969 paper “Emerging concepts of mental illness and models of treatment: The psychological point of view” articulates your view on this matter:
+
+&gt; The ‘sickness model’ assumes three things that are not true of mental disturbances or disturbed behavior: 
+
+1. that mental conditions are separate, discrete mental illnesses each of which has a separate cause, prognosis and treatment, 
+
+2. that treatment of these conditions is the sole responsibility of a specially trained ‘physician’ and 
+
+3. that the source of the disturbances are to be found in the individual, rather than in the world, thus focusing all ‘treatment’ effort on the individual rather than the social conditions which may give rise to his or her disturbed behavior.
+
+Your life-long commitment to preventative therapy has caused you to butt heads with defenders of the older way of doing things on various occasions. Your work is typified by three basic trends: 
+
+1. the independence of psychology from psychiatry and biology, 
+
+2. the inappropriateness of the illness model for mental and emotional disorders, and 
+
+3. the role of social injustice and inequality in mental health—both in how social injustice causes mental and emotional disorders and how prejudices have formed mental health taxonomies and diagnostics.
 
 According to you, mediating factors such as social support, self-esteem and healthy coping skills have a more profound effect on the incidence of mental and emotional disorders than any conceivable trauma, defense mechanism, or reaction. Echoing the medical truism that an ounce of prevention is worth a pound of cure, you believe that stamping out racism, sexism, ageism and homophobia (as well as other prejudices) would do more to alleviate mental and emotional disorders than all the psychoanalysis that all the psychoanalysts could possibly provide.
 
  In your own words, the 1960s found you embroiled in a “continuing, often acrimonious debate with psychiatry over the inappropriateness of the illness model of mental and emotional disorder and over medical hegemony.”
 
 ### Game Objectives
-Find opportunities to articulate and promote your vision of psychology as an alternative to psychiatry, including the importance of preventative treatment. One obvious way to do this is to run for president as soon as possible. If you are unable to be elected president, seek a paper presentation during which you can present your vision of preventative mental health.
+Find opportunities to articulate and promote your vision of psychology as an alternative to psychiatry, including the importance of preventative treatment. One obvious way to do this is to run for president as soon as possible. If you are unable to be elected President, seek a paper presentation during which you can present your vision of preventative mental health.
 
 If and when the game gets to the point where the definition of mental illness is addressed, work with Thomas Szasz to ensure that no definition that assumes an ‘illness’ metaphor or medical model, or makes a tacit preference for psychiatry against psychology.
 
 #### Specific Assignment
+
+**Initial Committee Membership**
+
 If you class is larger than 16, you'll start as the board-member-at-large, serving from '71-'73.
 
-Organize a symposium with Thomas Szasz on the suitability of the medical model for psychiatric treatment.  This will be best in 1972 before the debate on the DSM-III is taking place.
+##### Demedicalization
 
-There will likely be a proposal to limit the treatment of mentally disordered patients to psychiatrists, you should not only fight against it, but propose a separate system of treatment run entirely by psychologists.  Your proposal should call for the establishment of various centers that would train, certify and deliver mental health services, in competition with psychiatry.  Check out 'Ethical Standards' item 7.i, which was added in 1968.
+Officially neutral, but the arguments from the GayPA that the classification *itself* is producing more mental illness than it prevents is consistent with your view of the inadequacy of the medical model.
 
-You will need to provide guidance and support to Robert Spitzer, as his task force attempts to write its report. At the same time, you are a strong ally of those trying to get homosexuality removed from the DSM.
+##### Research
+
+You don’t have a strong position in the research agenda, however you should find opportunities to support any psychological science---as opposed to psychiatric science---and anything that steers away from the medical model of psychology.
+
+##### DSM-III
+
+Organize a symposium with Thomas Szasz on the suitability of the medical model for psychiatric treatment.  This will be best in 1972 before the debate on the DSM-III gets moving in 1973.&lt;!--\begin{writingtask}[Albee Writing Task]\label{writingtask:anastasi}
+Present a paper during a symposium on the suitability of the medical model of psychological and psychiatric treatment. Preferably 1972.
+\end{writingtask}--&gt;
+
+##### Social responsibilities of social scientists
+
+Neutral, but take a position consistent with your vision of psychology.
+
+##### Definition of ‘mental illness’ and fission of the APA
+
+Oppose any definition that uses the medical model or medical language.
+
+There will likely be a proposal to limit the treatment of mentally disordered patients to psychiatrists, you should not only fight against it, but propose a separate system of treatment run entirely by psychologists.  Your proposal should call for the establishment of various centers that would train, certify and deliver mental health services, in competition with psychiatry.  Check out &lt;!--\fullref{sample: APAEthics1968}--&gt;, point e, which was added in 1968. You should work to get this removed or changed so psychologists can also work with psychotropics in their practice.
 
 ### Game Note:
 
@@ -3494,25 +3697,30 @@ Litowitz, B.E. (1999). “Freud and Piaget: une fois de plus” The Genetic Epis
         <Document ID="146">
             <Title>AAnastasi</Title>
             <Text>## Anne Anastasi, PhD
+
 ### Your Biography
 
 You were born in New York, daughter of Italian immigrants, in 1908. Your father died when you were 1, after which your mother was alienated from your father's family. Since your mother had to work, you were raised primarily by your maternal grandmother and your uncle.  You were home-schooled until the age of 9. As a teenager, you became interested in mathematics, teaching yourself advanced trigonometry. At 13, you dropped out of high school and enrolled in Rhodes Preparatory School, whose primary mission is to train adults who needed basic eduction to get accepted in college.  After two years at Rhodes, you were accepted at Barnard College at the age of 15.
 
-At Barnard, you were deeply influenced by Harry Hollingworth, chair of the Psychology department, as well as the work of Charles Spearman, an English statistician and psychologist who demonstrated that scores on most tests of mental abilities were correlated with one another, suggesting that there was a single general source of intelligence (see Spearman (1904)). You graduated from Barnard at 4 years later at 19, and were granted a PhD By Columbia one year later in 1929.
+At Barnard, you were deeply influenced by Harry Hollingworth, chair of the Psychology department, as well as the work of Charles Spearman, an English statistician and psychologist who demonstrated that scores on most tests of mental abilities were correlated with one another, suggesting that there was a single general source of intelligence (see Spearman (1904)). You graduated from Barnard 4 years later at 19, and were granted a PhD By Columbia *one year later* in 1929.
 
-The year that you earned your doctorate, the stock market crashed, which caused the early part of your career to be defined by harsh economic times. Thanks to New Deal grants from the National Youth Administration and the Works Progress Administration (WPA), you were able to hire a few research assistants. You moved to Queens College in 1939, but felt that the administration did not fully support your fledgling psychology department. You moved again, this time to Fordham, in 1947, where you remain today.
+The year that you earned your doctorate the stock market crashed, which caused the early part of your career to be defined by harsh economic times. Thanks to New Deal grants from the National Youth Administration and the Works Progress Administration (WPA), you were able to hire a few research assistants. You moved to Queens College in 1939, but felt that the administration did not fully support your fledgling psychology department. You moved again, this time to Fordham, in 1947, where you remain today.
 
 You are often called the “test guru.'' Your 1954 text, ''Psychological Testing,'' is still required reading in undergraduate and graduate psychology courses and is considered a virtual bible for the field. The book, an encyclopedic review of how tests are constructed, validated and interpreted, received wide acclaim for its lucidity and depth of analysis. You took a special interest in the question of whether tests could be created that were free of cultural bias.  In the 1960s and 70s, while some in the field championed so-called ''culture fair'' tests, your argued that the claim that tests could be entirely unbiased was a fallacy. You ultimately argued that, “Tests can serve a predictive function only insofar as they indicate to what extent the individual has acquired the prerequisite skills and knowledge for a designated criterion performance. What persons can accomplish in the future depends not only on their present intellectual status, as assessed by the test, but on their subsequent experience (Anastasi, 1981).”
 
 According to you, intelligence tests can do three things:
 
-	&gt;“They permit a direct assessment of prerequisite intellectual skills demanded by many important tasks in our culture.
+&gt;“They permit a direct assessment of prerequisite intellectual skills demanded by many important tasks in our culture.
 
 &gt;They assess availability of a relevant store of knowledge or content also prerequisite for many educational and occupational tasks.
 
 &gt;They provide an indirect index of the extent to which the individual has developed effective learning strategies, problem-solving techniques and work habits and utilized them in the past.” (quoted on http://www.indiana.edu/~intell/anastasi.shtml from Anastasi, 1981).
 
-You wrote that, "Intelligence is not a single, unitary ability, but rather a composite of several functions. The term denotes that combination of abilities required for survival and advancement within a particular culture (Anastasi, 1992, p. 613). ” Your research focused on understanding and measuring the factors underlying the development of individual differences in psychological traits (Anastasi, 1972, 1989). You argued against the strictly hereditarian position, emphasizing the role of experiential and environmental influences on intelligence test scores and psychological development. You stressed that intelligence test scores are not pure measures of innate ability, but that “...not only does the nature of one's antecedent experiences affect the degree of differentiation of "intelligence" into distinct abilities, but it also affects the particular abilities that emerge, such as verbal, numerical, and spatial abilities. Thus, experiential factors affect not only the level of the individual's intellectual development, but also the very categories in terms of which his abilities may be identified (Anastasi, 1972).”
+You wrote that, "Intelligence is not a single, unitary ability, but rather a composite of several functions. The term denotes that combination of abilities required for survival and advancement within a particular culture (Anastasi, 1992, p. 613). ” Your research focused on understanding and measuring the factors underlying the development of individual differences in psychological traits (Anastasi, 1972, 1989). 
+
+You argued against the idea that intelligence was strictly hereditary, emphasizing the role of experiential and environmental influences on intelligence test scores and psychological development. You stressed that intelligence test scores are not pure measures of innate ability, but that 
+
+&gt;“...not only does the nature of one's antecedent experiences affect the degree of differentiation of ‘intelligence’ into distinct abilities, but it also affects the particular abilities that emerge, such as verbal, numerical, and spatial abilities. Thus, experiential factors affect not only the level of the individual's intellectual development, but also the very categories in terms of which his abilities may be identified (Anastasi, 1972).
 
 In addition to your contributions to testing, you were renowned for your studies of individual and group differences and the interplay of biology and environment in shaping personality and intellectual development. You wrote more than 150 scholarly books, monographs and articles, and are said to have brought to the issue a balanced, deeply rational perspective and an insistence on solid science. You played a significant role in applying psychology to real-world situations, both through areas like industrial psychology and consumer psychology and in the clinical consulting room.
 
@@ -3524,58 +3732,72 @@ If you are elected to a leadership position, it will be important to leave a leg
 
 Notice that the official documents of the APA, as included in the game book, are written in gender-specific language: I.B states “a nonmember of the APA may read a paper provided that he is sponsored...”. The implication here is, of course, that a female nonmember is not allowed to present. As this document is an official representation of the policies of the APA, it should be clarified to reflect the policies of the organization.
 
-You are neutral on the definition of mental illness. 
-
 #### Specific Assignments
+
+**Initial Committee Membership**
 
 You are an initial member of the Program committee, with your term expiring in 1973. Review the model schedule in the gamebook, and solicit proposals from your peers. You should also get the program committee to propose gender-neutral language for the guidelines, and present your proposal to the board in 1971. 
 
-Create two new standing committees of the APA: The Committee on Women in Psychology, which will focus on the issues facing women in the profession, and The Committee on the Psychology of Women, which will focus on studying women's minds as a specialization within the discipline.  From the current website of the committee on women in psychology:
+##### Demedicalization
+
+Officially neutral, but make sure that whatever happens, the decision is made on sound science.
+
+##### Research 
+
+&lt;!--\begin{writingtask}[Anastasi Writing Task]\label{writingtask:anastasi}
+Present a paper outlining psychometrics and the use of statistical measures in psychology. Preferably in concert with Spitzer’s ‘Feigner criteria’ in 1972.
+\end{writingtask}--&gt;
+
+Present a paper outlining psychometrics and the use of statistical measures in psychology. This should be connected, conceptually, to the problem of the the taxonomy of mental disorders. It is a good idea, then, to wait until after Spitzer presents the Feigner criteria in 1972. If elected president, it can be your presidential address. If not, it should be a regular paper.
+
+##### DSM-III
+
+During the time that the DSM-III revisions are taking place, you should run for president and propose two new standing committees of the APA. It is important to gain support of the other women of the APA in making these proposals.
+**The Committee on Women in Psychology**, which will focus on the issues facing women in the profession, and The Committee on the Psychology of Women, which will focus on studying women's minds as a specialization within the discipline.  From the current website of the committee on women in psychology:
 
 Specifically, the committee will undertake the following priority tasks
 
-(a) collection of information and documentation concerning the status of women;
+&gt; A. collection of information and documentation concerning the status of women;
 
-(b) development of recommendations relevant to women;
+&gt; B. development of recommendations relevant to women;
 
-(c) monitoring the implementation of guidelines and recommendations from reports issued by APA that are relevant to women;
+&gt; C. monitoring the implementation of guidelines and recommendations from reports issued by APA that are relevant to women;
 
-(d) development of mechanisms to increase the participation of women in roles and functions both within and outside the profession;
+&gt; D. development of mechanisms to increase the participation of women in roles and functions both within and outside the profession;
 
-(e) ongoing communications with other agencies and institutions regarding the status of women; and
+&gt; E. ongoing communications with other agencies and institutions regarding the status of women; and
 
-(f) monitoring current issues relevant to the lives of women in order to inform policy.
+&gt; F. monitoring current issues relevant to the lives of women in order to inform policy.
 
-The Committee shall consist of six members who are elected for staggered terms of three years.  It shall report to Council through the Board for the Advancement of Psychology in the Public Interest (BAPPI). (Approved by Council, February 2008)
+&gt; The Committee shall consist of six members who are elected for staggered terms of three years.  It shall report to Council through the Board for the Advancement of Psychology in the Public Interest (BAPPI). (Approved by Council, February 2008)
 
-Strategic Goals
+&gt; Strategic Goals. 
 
-Goal I 
- Promoting the health and well-being of women
+&gt;&gt; Goal I: Promoting the health and well-being of women
 
-Goal II  
-Identifying and eliminating discriminatory practices against women
+&gt;&gt; Goal II: Identifying and eliminating discriminatory practices against women
 
-Goal III 
-Increasing the visibility of feminist scholarship and practice
+&gt;&gt; Goal III: Increasing the visibility of feminist scholarship and practice
 
-Goal IV 
-Promoting the unique contributions of women to psychology
+&gt;&gt; Goal IV: Promoting the unique contributions of women to psychology
 
-Goal V  
-Enhancing women’s leadership within and outside of APA
+&gt;&gt; Goal V: Enhancing women’s leadership within and outside of APA
 
-Goal VI 
-Collaborating with others as needed to achieve the empowerment of underrepresented groups
+&gt;&gt; Goal VI:  Collaborating with others as needed to achieve the empowerment of underrepresented groups
 
-Goal VII 
-Promoting the generation and communication of knowledge about women’s lives
+&gt;&gt; Goal VII: Promoting the generation and communication of knowledge about women’s lives
 
-And Division 35: the Society for the Psychology of Women:
+As well as a new Division of the APA: the **Society for the Psychology of Women**:
 
 &gt; Division 35: Society for the Psychology of Women provides an organizational base for all feminists, women and men of all national origins, who are interested in teaching, research, or practice in the psychology of women. The division recognizes a diversity of women's experiences which result from a variety of factors, including ethnicity, culture, language, socioeconomic status, age, and sexual orientation. The division promotes feminist research, theories, education, and practice toward understanding and improving the lives of girls and women in all their diversities; encourages scholarship on the social construction of gender relations across multicultural contexts; applies its scholarship to transforming the knowledge base of psychology; advocates action toward public policies that advance equality and social justice; and seeks to empower women in community, national, and global leadership. We welcome student members and affiliates. Members are provided two publications: *Psychology of Women Quarterly*, which is a journal of research, theory, and reviews, and the *Feminist Psychologist*.
 
-Present a paper outlining psychometrics and the use of statistical measures in psychology. This should be connected, conceptually, to the problem of the the taxonomy of mental disorders. It is a good idea, then, to wait until after Spitzer presents the Feigner criteria in 1972. If elected president, it can be your presidential address. If not, it should be a regular paper.
+##### Social responsibilities of social scientists
+
+Officially neutral, but your advocacy for women in Psychology and the Psychology of women will influence your view.
+
+##### Definition of ‘mental illness’ and fission of the APA
+
+Other than assuring non-gender specific definitions, you are neutral.
 
 ### Must Read
 
@@ -3968,6 +4190,53 @@ Socarides, C.W. (1970). “Homosexuality and Medicine” Journal of the American
             <Comments>Freud's discussion of the fixation of perversion as distinct from neurosis on p. 446-448 of the Introductory Lectures may be helpful here.
 See also Ch 12, ph. 304-306</Comments>
         </Document>
+        <Document ID="139">
+            <Title>Further Reading</Title>
+            <Text>### Further Reading
+
+#### DSM-III
+
+Bayer, R. and R. Spitzer (1982). "Edited Correspondence on the status of homosexuality in DSM-III." Journal of the History of Behavioral Sciences 18(1): 32-52.
+
+Bieber, I. (1962). Homosexuality: A Psychoanalytic Study. New York, Basic Books.
+
+Drescher, J. and J. P. Merlino (2007). American psychiatry and homosexuality : an oral history. New York, Harrington Park Press.
+
+Evans, A. (2010) “Zap, You're Alive!”, http://gaytoday.badpuppy.com/garchive/viewpoint/083099vi.htm
+
+Fryer, J. (2008). "Dr. Anonymous Speech." Retrieved 10/6/2008, 2008, from http://www.oism.info/en/society/social_control/dr_anonymous_apa_speech_1972.htm.
+
+Gold, Ron (2004). ‘Three Stories of Gay Liberation’ http://www.queerstories.org/custom.html
+
+Moor, P. (2002). "The View from Irving Bieber's Couch: 'Heads I Win, Tails You Lose'." Journal of Gay &amp; Lesbian Psychotherapy 5(3/4): 25-36.
+
+Nicolosi, J. (1991). Reparative Theraphy of Male Homosexuality. Jason Aronson, Inc., , Northvale, New Jersey.
+
+Nicolosi, J. (1993). Healing Homosexuality: Case Stories of Reparative Therapy Northvale, NJ, Jason Aronson.
+
+Scasta, D. L. (2002). "John E Fryer, MD, and the Dr. H. Anonymous Episode." Journal of Gay &amp; Lesbian Psychotherapy 6(4): 73-84.
+
+Sheehy, N., A. J. Chapman, et al. (1997). Biographical dictionary of psychology. London ; New York, Routledge Reference.
+
+Socarides, C. W. (1963). "Review of Homosexuality. A Psychoanalytic Study : By Irving Bieber, et al. New York: Basic Books, Inc. 1962. 358 pp." Psychoanalytic Quarterly 32: 111-114.
+
+Society of Medical, P. and I. Bieber (1962). Homosexuality; a psychoanalytic study. New York, Basic Books.
+
+Silverstein, Charles  The Origin of the Gay Psychotherapy Movement
+ (Published in Duberman, A Queer World, New York University Press, 1997. 7,300 words http://drcsilverstein.com/origin.html
+
+Spitzer, R. (1981). "The diagnostic status of homosexuality in DSM-III: a reformulation of the issues." American Journal of Psychiatry 138: 210-215.
+
+Spitzer, R. L. and American Psychiatric Association. (1981). DSM-III case book : a learning companion to the Diagnostic and statistical manual of mental disorders (third edition). Washington, D.C., American Psychiatric Association.
+
+Spitzer, R. L. and J. Endicott (1978). Medical and Mental Disorder: Proposed Definition and Criteria. Critical Issues in Psychiatric Diagnosis. R. L. Spitzer and D. F. Klein. New York, Raven Press: 15-40.
+
+Stoller, R.J., Marmor, J., Bieber, I., Gold, R., Socarides, C.W., Green, R. and Spitzer, R. “A Symposium: Should Homosexuality Be in the APA Nomenclature?” American Journal of Psychiatry 130(11) p. 1207-16
+
+Zusne, L. (1984). Biographical dictionary of psychology, Greenwood Press.
+
+</Text>
+        </Document>
         <Document ID="39">
             <Title>Behaviorists</Title>
             <Text>#### Behaviorists
@@ -4089,6 +4358,27 @@ Get elected president.  That can be before or after your symposium.
 You are neutral on the definition of mental illness. 
 
 #### Specific Assignments
+**Initial Committee Membership**
+
+
+##### Demedicalization
+
+
+##### Research 
+
+
+
+##### DSM-III
+
+
+
+##### Social responsibilities of social scientists
+
+
+
+##### Definition of ‘mental illness’ and fission of the APA
+
+
 Organize, propose and participate in a symposium on the role of psychology as a mechanism of social change or more generally, on the social responsibilities of scientists, preferably in 1973.  Chomsky and Marmor may be a good choices as a co-panelists. You should present a paper on psychology's role for social good. If you are elected president, it should be your presidential address. If not, it can be a part of the symposium.
 
 In 1975, propose an affirmative action plan for psychology and psychiatry. Here's the real language. You should adapt it to your needs:
@@ -5877,16 +6167,36 @@ See, e.g. K MacCorquodale (1970) “On Chomsky's Review of Skinner's Verbal Beha
 \newcolumntype{L}[1]{&gt;{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{C}[1]{&gt;{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{R}[1]{&gt;{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+%\ldots
+\newcolumntype{d}[1]{D{.}{\cdot}{#1} } % Define table column
+
 
 % Define textboxes
 \newenvironment{apatextbox}[1]
     { \def\savedcaption{\caption{#1}} \begin{center}\begin{longtable}{| P{14cm} |} \hline }{\\ \hline \savedcaption \end{longtable}\end{center}}
 
+% Rowgroup - for APA textbox indented
 \newcommand{\rowgroup}[1]{\setlength{\leftskip}{1cm}#1}
 
 
-%\ldots
-\newcolumntype{d}[1]{D{.}{\cdot}{#1} } % Define table column
+\declaretheoremstyle[
+  headfont=\color{ferrisred}\normalfont\bfseries,
+  bodyfont=\color{black}\normalfont\itshape,
+]{colored}
+
+\declaretheorem[
+  style=colored,
+  name=Assignment,
+shaded={rulecolor=ferrisred, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}},
+numberwithin=chapter
+]{myassign}
+
+\makeatletter
+\NewEnviron{writingtask}[1][]{\protected@edef\@currentlabelname{#1}% addition here
+\noindent \marginnote{
+ \begin{myassign}[#1]\BODY\end{myassign}
+}}
+\makeatother
 
 
 \pagestyle{plain}

@@ -1,35 +1,35 @@
-[0] Config.pm:343> INFO - This is Biber 2.5
-[0] Config.pm:346> INFO - Logfile is 'GameBook2.0.3-tufte.blg'
-[38] biber-darwin:290> INFO - === Wed Aug  1, 2018, 16:19:03
-[57] Biber.pm:351> INFO - Reading 'GameBook2.0.3-tufte.bcf'
-[139] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[140] Biber.pm:776> INFO - Found 111 citekeys in bib section 1
-[140] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[140] Biber.pm:776> INFO - Found 16 citekeys in bib section 2
-[140] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[140] Biber.pm:776> INFO - Found 2 citekeys in bib section 3
-[140] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[162] Biber.pm:3493> INFO - Processing section 1
-[178] Biber.pm:3657> INFO - Looking for bibtex format file '../APA.bib' for section 1
-[211] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
-[249] bibtex.pm:1048> INFO - Found BibTeX data source '../APA.bib'
-[380] Utils.pm:149> WARN - I didn't find a database entry for 'Psychology:pHtNxV6R' (section 1)
-[473] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[473] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[473] Biber.pm:3306> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
-[473] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
-[585] Biber.pm:3493> INFO - Processing section 2
-[586] Biber.pm:3657> INFO - Looking for bibtex format file '../APA.bib' for section 2
-[612] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[612] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[612] Biber.pm:3306> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
-[612] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
-[625] Biber.pm:3493> INFO - Processing section 3
-[625] Biber.pm:3657> INFO - Looking for bibtex format file '../APA.bib' for section 3
-[633] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[633] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[633] Biber.pm:3306> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
-[633] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
-[635] bbl.pm:526> INFO - Writing 'GameBook2.0.3-tufte.bbl' with encoding 'UTF-8'
-[646] bbl.pm:619> INFO - Output to GameBook2.0.3-tufte.bbl
-[647] Biber.pm:108> INFO - WARNINGS: 1
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'GameBook2.0.3-tufte.blg'
+[54] biber-darwin:303> INFO - === Thu Aug  9, 2018, 10:41:44
+[105] Biber.pm:359> INFO - Reading 'GameBook2.0.3-tufte.bcf'
+[249] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[250] Biber.pm:835> INFO - Found 112 citekeys in bib section 1
+[250] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[250] Biber.pm:835> INFO - Found 16 citekeys in bib section 2
+[251] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[251] Biber.pm:835> INFO - Found 2 citekeys in bib section 3
+[251] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[290] Biber.pm:3670> INFO - Processing section 1
+[313] Biber.pm:3840> INFO - Looking for bibtex format file '../APA.bib' for section 1
+[378] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[507] bibtex.pm:1292> INFO - Found BibTeX data source '../APA.bib'
+[826] Utils.pm:164> WARN - I didn't find a database entry for 'Psychology:pHtNxV6R' (section 1)
+[956] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[956] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[956] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[956] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[1075] Biber.pm:3670> INFO - Processing section 2
+[1075] Biber.pm:3840> INFO - Looking for bibtex format file '../APA.bib' for section 2
+[1124] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1124] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1125] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[1125] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[1141] Biber.pm:3670> INFO - Processing section 3
+[1141] Biber.pm:3840> INFO - Looking for bibtex format file '../APA.bib' for section 3
+[1156] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1156] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1156] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[1156] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[1162] bbl.pm:608> INFO - Writing 'GameBook2.0.3-tufte.bbl' with encoding 'UTF-8'
+[1182] bbl.pm:712> INFO - Output to GameBook2.0.3-tufte.bbl
+[1182] Biber.pm:109> INFO - WARNINGS: 1

@@ -356,16 +356,36 @@ shaded={rulecolor=black, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}}
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+%\ldots
+\newcolumntype{d}[1]{D{.}{\cdot}{#1} } % Define table column
+
 
 % Define textboxes
 \newenvironment{apatextbox}[1]
     { \def\savedcaption{\caption{#1}} \begin{center}\begin{longtable}{| P{14cm} |} \hline }{\\ \hline \savedcaption \end{longtable}\end{center}}
 
+% Rowgroup - for APA textbox indented
 \newcommand{\rowgroup}[1]{\setlength{\leftskip}{1cm}#1}
 
 
-%\ldots
-\newcolumntype{d}[1]{D{.}{\cdot}{#1} } % Define table column
+\declaretheoremstyle[
+  headfont=\color{ferrisred}\normalfont\bfseries,
+  bodyfont=\color{black}\normalfont\itshape,
+]{colored}
+
+\declaretheorem[
+  style=colored,
+  name=Assignment,
+shaded={rulecolor=ferrisred, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}},
+numberwithin=chapter
+]{myassign}
+
+\makeatletter
+\NewEnviron{writingtask}[1][]{\protected@edef\@currentlabelname{#1}% addition here
+\noindent \marginnote{
+ \begin{myassign}[#1]\BODY\end{myassign}
+}}
+\makeatother
 
 
 \pagestyle{plain}
@@ -1910,7 +1930,7 @@ When I say ‘mechanism’, I am using a very specific notion in the Philosophy 
 
 When one looks at the history of psychological theories, it is not hard to see the metaphorical connections between the psychological mechanisms posited at a certain time, and the most complicated machines available to that society. Psychoanalysis, which was dominants in American Psychiatry from 1890 until the events of this game, posits an underlying unconscious, which ‘boils’ away, providing energy for all observable behavior. When that behavior is correctly directed with the right set of pressures, it moves the organism forward. When it is not, either the pressure goes out sideways, creating negative behaviors, or it builds towards ultimate ‘explosion’ in psychosis. It is, in short, a steam engine.
 
-Behaviorism sought to explain all behavior in terms of stimulus and response, without recourse to ‘internal states’ or ‘processes’. Behaviorism’s rise which started in 1913 and peaked with the Radical Behaviorism of Skinner in 1958 correspond roughly to the electrification of the United States, as well as the rise of mass media including radio and television. Electric lights, toasters, radios and TVs are straightforward stimulus-response mechanisms: apply electricity and something happens. Don’t apply electricity and nothing happens. The wiring is relatively simple, without internal computation or representation. 
+Behaviorism sought to explain all behavior in terms of stimulus and response, without recourse to ‘internal states’ or ‘processes’. Behaviorism’s rise which started in 1913 and peaked with the Radical Behaviorism of Skinner in 1958 correspond roughly to the electrification of the United States, as well as the rise of mass media including radio and television. Electric lights, toasters, radios and TVs are straightforward stimulus-response mechanisms: apply electricity and something happens. Don’t apply electricity and nothing happens. Think of an old telephone switchboard\footnote{See, e.g. ~\citep{Spence:1950fx}. I am indebted to Hothersall for pointing out the ‘switchboard’ metaphor in his explanation of the ‘Neobehaviorism’ of Skinner in his 1984 \emph{History of Psychology} ~\citep[p. 411]{Hothersall:1984te}}---direct connections between callers produce information flow. The wiring operates without internal computation or representation: stimulus produces response in a law-like linear relationship. 
 
 On the other hand, once the notion of a ‘computer’ with internal working memory (RAM) and permanent storage (hard drives) arrives in the 1960’s, Cognitivism results. And notably, from MIT. Here, the mind is a metaphor of the computer: it takes information in, executes computational functions, and produces behavioral output. Today, we use computer-based nomenclature when talking about the mind all the time: someone might not have the ‘bandwidth’ for a new task, the ‘executive function’ system might be down, we look for ‘expert systems’, or think ‘algorithmically.’ These are all metaphors---metaphors that compare the human mind to the dominant technological apparatus of our time: the computer and internet.
 
@@ -4400,7 +4420,6 @@ d. Unchanged.
 These changed little between 1963 and 1968 (~\citep{Association:1968uu}), except for the addition of the qualifying phrase `as part of the investigation' to (a) and adding provision (e) governing the use of psychoactive drugs:
 
 
-
 \begin{apatextbox}{APA Ethical standards 1968}
 \label{sample: APAEthics1968}
 \newthought{Principle 16. Research Precautions.} The psychologist assumes obligations for the welfare of his research subjects, both animal and human.\\
@@ -4563,6 +4582,7 @@ Sections of ‘Basic Scientific Reasoning’ are adapted from work that I did ma
 \newpage
 \listoffigures
 \newpage
+
 
 \renewcommand*{\thechapter}{\arabic{chapter}}
 
@@ -5845,7 +5865,7 @@ Most \emph{Introduction to Psychology} textbooks address Goal 1 in Chapter 1. Th
 \label{table: timeline}
 \end{longtable}
 
-When one reviews these offerings, one is struct by the lack of variation. All cite the same historical movements---including, somewhat surprisingly, humanistic psychology. They \emph{all} define science as a method or procedure, and all reject the notion that science is a body of knowledge to be memorized. This cannot be random. No equivalent set of texts in Philosophy would be as uniform.
+When one reviews these offerings, one is struct by the lack of variation. All cite the same historical movements---including, somewhat surprisingly, humanistic psychology.\footnote{For example, Hothersall’s \emph{History of Psychology} covers all the views and thinkers covered here, right up to cognitivism, but contains no mention of Maslow or humanistic psychology. (~\citep{Hothersall:1984te})} They \emph{all} define science as a method or procedure, and all reject the notion that science is a body of knowledge to be memorized. This cannot be random. No equivalent set of texts in Philosophy would be as uniform.
 
 Moreover, the idea that science can be distinguished from non-science or pseudoscience based on method alone is highly questionable. Ptolemaic astronomy based its work on careful observation, and applied the rigorous methods of mathematics in order to describe and predict the movements of the heavens. So does astrology. On the other side of the dialectic, there is little in relativistic physics or quantum mechanics that is observable or was subject to experiment \emph{before} it was accepted as scientific. 
 
@@ -6683,146 +6703,6 @@ Received PhD at youngest age (21) of any APA President \\
 
 ~\citep{Hogan:1994wi}
 
-\subsection{Actual history}
-\label{actualhistory}
-
-\subsubsection{Little Albert}
-\label{littlealbert}
-
-Contrary to most textbooks that repeat the myth that `Little Albert' was successfully deconditioned by Watson, was adopted by a family in North Baltimore and went on to live a long, happy, normal life; there is recent evidence to suggest that Little Albert died as a child. 
-
-Using photographs from the family and FBI forensics experts, Beck et al. (2009) argue that `Little Albert' was likely Douglas Merritte, who died at age 6 of acquired hydrocephalus, after his mother had left Hopkins. Watson never deconditioned Little Albert, and we simply have no evidence to determine if his conditioned fears remained until his death. 
-
-See Beck, H. P., Levinson, S., \& Irons, G. (2009). “Finding Little Albert: A Journey to John B. Watson’s Infant Laboratory.” American Psychologist, 64, 605--614. doi: 10.1037\slash a0017234. The authors conclude:
-
-None of the folktales we encountered during our inquiry had a factual basis. There is no evidence that the baby's mother was `outraged‚' at her son's treatment or that Douglas's phobia proved resistant to extinction. Douglas was never deconditioned, and he was not adopted by a family north of Baltimore.
-
-Nor was he ever an old man. Our search of seven years was longer than the little boy's life. I laid flowers on the grave of my longtime `companion' turned, and simultaneously felt a great peace and profound loneliness.
-
-The APA's Monitor carried the story January 2010, 41(1): http:\slash \slash www.apa.org\slash monitor\slash 2010\slash 01\slash little-albert.aspx.
-
-There were a number of blog posts that followed, including: http:\slash \slash mindhacks.com\slash 2009\slash 10\slash 22\slash little-albert-lost-and-found. 
-
-\subsubsection{Socarides \& Bieber}
-\label{socaridesbieber}
-
-The dates I used in the introduction are not exact, although I've tried to remain faithful where I could. Part of the problem here is that many of the stories that are circulated, even by eyewitnesses, vary. Ron Gold, for example, dates the events in Hawaii to 1972, but the APA records the 1972 conference in Dallas, and the Hawaii conference to 1973. 
-
-The Dr. H. Anonymous speech actually happened in 1972 during a symposium titled “Psychiatry: Friend or Foe to Homosexuals: A Dialogue”. It also featured Kameny and Gittings in addition to John Fryer.
-
-In 1971, Kameny, and Gittings held a panel titled “Lifestyles of non-patient homosexuals,” which the participants joking referred to as “Lifestyles of impatient homosexuals.” It featured Larry Littlejohn of the Society for Individual Rights in San Francisco, Del Martin, a founder the Lesbian activist organization Daughters of Bilitis, Lilli Vincenz, another lesbian activists, and Jack Baker, the gay president-elect of the student body of the University of Minnesota. I've found a number of websites and personal stories that get these two distinct events confused. At the risk of perpetuating these confusions, I've combined them into a single event in 1971.
-
-Socarides petitioned the New York District branch of the APA for his task force on sexual deviation---\emph{NOT} the national organization. It was granted, and his report filed in 1972. The leadership then rejected his report, on the grounds that its basis in psychoanalytic theory was unacceptable. 
-
-Complicating matters was the existence of NARTH---the National Association for Research and Treatment of Homosexuality---, which has been adopted by many on the religious right in recent years. In 1995, Socarides gave an interview to the NY Times, promoting his book \emph{Homosexuality: A Freedom Too Far - A Psychoanalyst Answers 1,000 Questions About Causes and Cure and the Impact of the Gay Rights Movement on American Society}, in which he claimed that the declassification occurred because of political pressure and not scientific evidence. The themes of the interview will be familiar to anyone with even tangential knowledge of the rhetoric of the far right: persecution of conservatives, liberal media bias, gay agendas and conspiracies, etc. Charles Socarides' son, Richard Socarides, who is gay, became a gay activist, advised President Clinton on LGBT issues, and ultimately was elected to the presidency of the activist organization `Equality Matters.' \footnote{He is also an alumni of my undergraduate college, Antioch.} That fact has lead many defenders of Socarides to accuse any press figure who mentions it of making an `ad hominem' attacks against Socarides. 
-
-NARTH continued until 2017 under the directorship of Socarides' student Joseph Nicolosi. Nicolosi passed away on March 8th, 2017, and NARTH shut down as a consequence.
-
-\begin{figure*}
- \begin{center}
-
- 
-\includegraphics{../images/Nicolosi-Obit-2017.png}
-\end{center}
- \caption{Screenshot of message posted on NARTH homepage after death of Nicolosi}
-\label{fig: nicolosi}
-\end{figure*}
-
-
-The UK Newspaper `The Independent' ran a story in January 2010 by Patrick Strudwick about his experience in gay-to-straight conversion program inspired by Nicolosi. The story created a national concern about psychiatrists in the UK who still may be offering psychotherapy to `treat' or `cure' homosexuality. The story is available here: http:\slash \slash www.independent.co.uk\slash life-style\slash health-and-families\slash features\slash the-exgay-files-the-bizarre-world-of-gaytostraight-conversion--1884947.html
-
-\subsubsection{Leona Tyler Principle \slash  Goldwater Rule}
-\label{leonatylerprinciplegoldwaterrule}
-
-Following the Goldwater affair, the American Psychiatric Association added section7.3 to their ``The Principles of Medical Ethics With Annotations Especially Applicable to Psychiatry,'' which states:
-
-\begin{quote}
-
-On occasion psychiatrists are asked for an opinion about an individual who is in the light of public attention or who has disclosed information about himself\slash herself through public media. In such circumstances, a psychiatrist may share with the public his or her expertise about psychiatric issues in general. However, it is unethical for a psychiatrist to offer a professional opinion unless he or she has conducted an examination and has been granted proper authorization for such a statement.
-\end{quote}
-
-This section has become known as `The Goldwater Rule.' For a full history, see Mayer, John D. (2010) “The Goldwater Rule: The rationale of the Goldwater Rule” Psychology Today Blog (http:\slash \slash www.psychologytoday.com\slash blog\slash the-personality-analyst\slash 201005\slash the-goldwater-rule)
-
-The American Psychological Association adopted `Leona Tyler principle' was adopted in 1973 by the American Psychological Association, and still holds today. It states:
-
-\begin{quote}
-
-As citizens, members of the APA have the right to advocate for any cause through the myriad of political advocacy organizations, but when psychologists and psychiatrists speak for the profession through APA public stances and proclamations, it should be from science and professional experience. 
-\end{quote}
-
-The principle was named for Leona Tyler simply because she was president at the time, not necessarily because she advocated for it, as she does in this game. 
-
-There was a flurry of discussion about the Goldwater rule and the Leona Tyler Principle during and after the 2016 Presidential Election of Donald Trump. Notably, the American Psychoanalysts Association lifted it's equivalent rule so the membership could speak about Trump's mental health (https:\slash \slash gizmodo.com\slash american-psychoanalytic-association-says-its-members-ar--1797247879)
-
-\subsubsection{Marr}
-\label{marr}
-
-David Marr joins Miller and Chomsky at MIT in 1977 and died in 1980 of Leukemia. His posthumously published book \emph{Vision} is still standard reading in Cognitive Science courses.
-
-\subsubsection{Demedicalization}
-\label{demedicalization}
-
-The story of the demedicalization of homosexuality as a mental illness has been retold a couple of times in recent years. Famously, Alix Spiegel, grandson of the actual John P. Spiegel, produced a version of the story for NPR's show `This American Life'. The episode, named `81 words' is available online at http:\slash \slash www.thisamericanlife.org\slash radio-archives\slash episode\slash 204\slash 81-words. It is an excellent retelling of these events, and partially inspired this game. Ron Gold's retelling of the event is available here: http:\slash \slash www.queerstories.org\slash custom.html.
-
-In the character sheet for Spitzer, I express some doubts about the standard story told by Spiegel, because Spitzer's timing and motivation for inserting himself into the controversy doesn't seem to match up for normal person. However, as I was to learn, Spitzer is not a `normal' person.
-
-In a 2005 issue of The New Yorker Magazine, Spiegel writes that:
-
-\begin{quote}
-
-Despite Spitzer’s genius at describing the particulars of emotional behavior, he didn’t seem to grasp other people very well. Jean Endicott, his collaborator of many years, says, “He got very involved with issues, with ideas, and with questions. At times he was unaware of how people were responding to him or to the issue. He was surprised when he learned that someone was annoyed. He’d say, ‘Why was he annoyed? What’d I do?’” After years of confrontations, Spitzer is now aware of this shortcoming, and says that he struggles with it in his everyday life. “I find it very hard to give presents,” he says. “I never know what to give. A lot of people, they can see something and say, ‘Oh, that person would like that.’ But that just doesn’t happen to me. It’s not that I’m stingy. I’m just not able to project what they would like.” Frances argues that Spitzer’s emotional myopia has benefitted him in his chosen career: “He doesn’t understand people’s emotions. He knows he doesn’t. But that’s actually helpful in labeling symptoms. It provides less noise.”
-\end{quote}
-
-If this is correct, I am wrong in my assertion that it was implausible for the Chair of the Nomenclature Committee to attend a speech in New York by Socarides' without expectating of a demonstration. If Spitzer, by his own account, can't imagine what someone else would like as a gift, how can we expect him to imagine how much anger there was in the Gay community towards Socarides?
-
-After much thought, I decided to leave my assertion in the role sheet, because this is `Reacting' to the past, not ``Recreating'' the past. A student playing the part needs to think himself or herself into Spitzer's \emph{position}, not his \emph{mind}---and whatever unique mind Robert Spitzer has, it is probably uncommon in undergraduates.
-
-\subsubsection{Spitzer Task force}
-\label{spitzertaskforce}
-
-See ch 3 of ~\citep{Kutchins:9eEZL39p}. 
-
-\begin{quote}
-
-Homodysphilia was proposed by Spitzer without consultation with the subcommittee on human sexuality. Green sent Spitzer a strongly worded criticism of both the classification and the method Spitzer used to introduce it and resigns in protest. Spitzer constructs a `survey' instrument that he sends out to the entire taskforce and finds that there isn't enough agreement on the issue to leave it with the subcommittee, and presents the idea to the entire taskforce, thus outmaneuvering Green. The committee narrowly approves `ego-dystonic homosexuality', but isn't thrilled. Judd Marmor, who voted in favor, writes later that he would have preferred no mention of homosexuality, but politics required it.
-\end{quote}
-
-\subsubsection{Aversion Therapy}
-\label{aversiontherapy}
-
-\begin{quote}
-
-(from wikipedia) Since 1994, the American Psychological Association has declared that aversion therapy is a dangerous practice that does not work.[citation needed] Since 2006, the use of aversion therapy to treat homosexuality has been in violation of the codes of conduct and professional guidelines of the American Psychological Association and American Psychiatric Association. The use of aversion therapy to treat homosexuality is illegal in some countries. The standard in psychotherapy in America and Europe is currently Gay Affirmative Psychotherapy. Guidelines for Gay Affirmative Psychotherapy can be found by APA. [4]
-\end{quote}
-
-From Issues in Psychotherapy with Lesbian and Gay Men: A Survey of Psychologists. Linda Garnets, Los Angeles, CA Kristin A. Hancock, Berkeley, CA Susan D. Cochran, California State University, Northridge Jacqueline Goodchilds, University of California, Los Angeles Letitia Anne Peplau, University of California, Los Angeles. Report of the APA. http:\slash \slash search.apa.org\slash search?facet=classification\%3aSexuality\textbar{}\textbar{}classification\%3aTherapy\&query=Aversion\%20Therapy
-
-\begin{quote}
-
-In 1975, the American Psychological Association (APA) took a strong stance regarding bias toward lesbians and gay men, resolving that homosexuality per se implies no impairment in judgment, reliability or general social and vocational abilities (see Appendix A for the full text of the resolution). The APA urged psychologists to take the lead in removing the stigma of mental illness long associated with homosexual orientations (Conger, 1975). In recent years, attention has been drawn to ways in which a client's ethnicity, gender, sexual orientation, or physical disability can affect clinical judgment and treatment strategies. There has been a corresponding effort to develop guidelines to help practitioners avoid bias in psychotherapy (APA, 1975). Recognizing that practice does not spontaneously or quickly follow policy changes, the Committee on Lesbian and Gay Concerns (CLGC), sponsored jointly by the Board of Social and Ethical Responsibility in Psychology (BSERP) and the Board of Professional Affairs (BPA), formed a task force in 1984 to investigate the range of bias that may occur in psychotherapy with lesbians and gay men. This article is an abridged report of the task force's research, findings, and recommendations.
-\end{quote}
-
-\subsubsection{Reparative therapy}
-\label{reparativetherapy}
-
-See discussion of NARTH in \fullref{demedicalization} above.
-
-The American Psychological Association rejected reparative therapy most recently in 2009. The American Psychiatric Association in 2000, and the American Psychoanalytic Association in 2012. For the full list, see the Human Rights Campaign’s list: https:\slash \slash www.hrc.org\slash resources\slash policy-and-position-statements-on-conversion-therapy
-
-\subsubsection{Evelyn Hooker}
-\label{evelynhooker}
-
-E. Hooker was given 1991 Award for Distinguished Contribution to Psychology in the Public Interest, presented by the American Psychological Association. The citation read:
-
-\begin{quote}
-
-“When homosexuals were considered to be mentally ill, were forced out of government jobs, and were arrested in police raids, Evelyn Hooker courageously sought and obtained research support from the National Institute of Mental Health (NIMH) to compare a matched sample of homosexual and heterosexual men. Her pioneering study, published in 1957, challenged the widespread belief that homosexuality is a pathology by demonstrating that experienced clinicians using psychological tests widely believed at the time to be appropriate could not identify the nonclinical homosexual group. This revolutionary study provided empirical evidence that normal homosexuals existed, and supported the radical idea then emerging that homosexuality is within the normal range of human behavior. Despite the stigma associated with homosexuality, she received an NIMH Research Career Award in 1961 to continue her work. In 1967, she became chair of the NIMH Task Force on Homosexuality, which provided a stamp of validation and research support for other major empirical studies. Her research, leadership, mentorship, and tireless advocacy for an accurate scientific view of homosexuality for more than three decades has been an outstanding contribution to psychology in the public interest."
-\end{quote}
-
-She reflects on the award here: http:\slash \slash psychology.ucdavis.edu\slash rainbow\slash html\slash hooker\_address.html I relied heavily on this reflection in the writing the role sheet
-
-1997 resolution: http:\slash \slash psychology.ucdavis.edu\slash rainbow\slash HTML\slash resolution97.html
-
 \section{After this era}
 \label{afterthisera}
 
@@ -7025,10 +6905,10 @@ Zucker, K. and J. Drescher, Eds. (2006). Ex-Gay Research: Analyzing the Spitzer 
 
 \pagebreak 
 
-\chapter{Further Reading}
+\section{Further Reading}
 \label{furtherreading}
 
-\section{DSM-III}
+\subsection{DSM-III}
 \label{dsm-iii}
 
 Bayer, R. and R. Spitzer (1982). ``Edited Correspondence on the status of homosexuality in DSM-III.'' Journal of the History of Behavioral Sciences 18(1): 32--52.
@@ -7147,9 +7027,8 @@ Cook, J. “John P. Spiegel, 80, Expert on Violence And Combat Stress” New Yor
 
 \tableofcontents
 \newpage
-\listoftables
-\newpage
-\listoffigures
+\listoftheorems[ignoreall,show={myassign}]
+
 \newpage
 
 \renewcommand*{\thechapter}{\arabic{chapter}}
@@ -7164,9 +7043,9 @@ Cook, J. “John P. Spiegel, 80, Expert on Violence And Combat Stress” New Yor
 
 You are George W. Albee, Clinical Psychologist and thorn in the side of Psychiatry. You were born in St. Mary's PA, but attended Bethany College in WV as an undergraduate. You served in the Air Force from 1943--1946, after which you started graduate school in Clinical Psychology at the University of Pittsburgh. After receiving your PhD in 1949, you joined the Western Psychiatric Institute as a Research Associate, where you worked until 1951.
 
-In 1951, you joined Harry Harlow's wife and two others as the staff of the APA. During that time, not only did you come to understand the inner workings of this vast organization, but you actually drafted some of the committee structures. In 1953, you won a Fulbright grant to spend a year teaching Psychiatry at Helsinki University, Finland. When you returned to the States in 1954, you accepted an associate professorship at Western Reserve University in Cleveland, where you still teach.
+In 1951, you joined Harry Harlow's wife and two others as the staff of the APA. During that time, not only did you come to understand the inner workings of this vast organization, but you actually drafted some of the committee structures. In 1953, you won a Fulbright grant to spend a year teaching Psychiatry at Helsinki University, Finland. When you returned to the States in 1954, you accepted an Associate pProfessorship at Western Reserve University in Cleveland, where you still teach.
 
-In the 1950s, you chaired an APA taskforce on resources available for mental health professionals. This taskforce culminated in your Mental Health Manpower Trends (1959), which made clear the need for proactive, preventative mental health needs rather than the traditional reactive psychoanalytic approach.
+In the 1950s, you chaired an APA taskforce on resources available for mental health professionals. This taskforce culminated in your book \emph{Mental Health Manpower Trends} (1959), which made clear the need for proactive, preventative mental health needs rather than the traditional reactive psychoanalytic approach.
 
 Your service to the APA is nothing short of astonishing. In the words of a close friend:
 
@@ -7175,9 +7054,34 @@ Your service to the APA is nothing short of astonishing. In the words of a close
 “He served at various times as program chair of the APA annual convention; as a participant in the Miami, Chicago, Vail, and Utah clinical training conferences; as a member of the Board of Professional Affairs and the Ethics Committee; and (on numerous occasions) as a member of the Council of Representatives. He was president of Division 12 (Clinical) in 1966—1967 and [item removed for game coherence]. He has also served on and chaired innumerable APA committees, including the Commission on the Composition of Council that established the current voting system that guarantees one vote per person. “
 \end{quote}
 
-In 1964, you wrote “A declaration of independence for psychology,” which called for psychologists to withdraw from psychiatric facilities and set up their own centers for treatment of individuals with mental problems. More recently, you have started worrying publicly that the ‘medical model’ of mental life in terms of ‘health’ and ‘illness’ is lacking. Your 1969 paper “Emerging concepts of mental illness and models of treatment: The psychological point of view” articulates your view on this matter. Roughly, the ‘sickness model’ assumes three things that are not true of mental disturbances or disturbed behavior: (1) that mental conditions are separate, discrete mental illnesses each of which has a separate cause, prognosis and treatment, (2) that treatment of these conditions is the sole responsibility of a specially trained ‘physician’ and (3) that the source of the disturbances are to be found in the individual, rather than in the world, thus focusing all ‘treatment’ effort on the individual rather than the social conditions which may give rise to his or her disturbed behavior.\footnote{Summarized from Albee (1969), p. 42--43.}
+In 1964, you wrote “A declaration of independence for psychology,” which called for psychologists to withdraw from psychiatric facilities and set up their own centers for treatment of individuals with mental problems. 
 
-Your life-long commitment to preventative therapy has caused you to butt heads with defenders of the older way of doing things on various occasions. Your work is typified by three basic trends: (1) the independence of psychology from psychiatry and biology, (2) the inappropriateness of the illness model for mental and emotional disorders, and (3) the role of social injustice and inequality in mental health—both in how social injustice causes mental and emotional disorders and how prejudices have formed mental health taxonomies and diagnostics.
+More recently, you have started worrying publicly that the ‘medical model’ of mental life in terms of ‘health’ and ‘illness’ is lacking. Your 1969 paper “Emerging concepts of mental illness and models of treatment: The psychological point of view” articulates your view on this matter:
+
+\begin{quote}
+
+The ‘sickness model’ assumes three things that are not true of mental disturbances or disturbed behavior: 
+\end{quote}
+
+\begin{enumerate}
+\item that mental conditions are separate, discrete mental illnesses each of which has a separate cause, prognosis and treatment, 
+
+\item that treatment of these conditions is the sole responsibility of a specially trained ‘physician’ and 
+
+\item that the source of the disturbances are to be found in the individual, rather than in the world, thus focusing all ‘treatment’ effort on the individual rather than the social conditions which may give rise to his or her disturbed behavior.\footnote{Summarized from Albee (1969), p. 42--43.}
+
+\end{enumerate}
+
+Your life-long commitment to preventative therapy has caused you to butt heads with defenders of the older way of doing things on various occasions. Your work is typified by three basic trends: 
+
+\begin{enumerate}
+\item the independence of psychology from psychiatry and biology, 
+
+\item the inappropriateness of the illness model for mental and emotional disorders, and 
+
+\item the role of social injustice and inequality in mental health—both in how social injustice causes mental and emotional disorders and how prejudices have formed mental health taxonomies and diagnostics.
+
+\end{enumerate}
 
 According to you, mediating factors such as social support, self-esteem and healthy coping skills have a more profound effect on the incidence of mental and emotional disorders than any conceivable trauma, defense mechanism, or reaction. Echoing the medical truism that an ounce of prevention is worth a pound of cure, you believe that stamping out racism, sexism, ageism and homophobia (as well as other prejudices) would do more to alleviate mental and emotional disorders than all the psychoanalysis that all the psychoanalysts could possibly provide.
 
@@ -7186,20 +7090,45 @@ In your own words, the 1960s found you embroiled in a “continuing, often acrim
 \section{Game Objectives}
 \label{gameobjectives}
 
-Find opportunities to articulate and promote your vision of psychology as an alternative to psychiatry, including the importance of preventative treatment. One obvious way to do this is to run for president as soon as possible. If you are unable to be elected president, seek a paper presentation during which you can present your vision of preventative mental health.
+Find opportunities to articulate and promote your vision of psychology as an alternative to psychiatry, including the importance of preventative treatment. One obvious way to do this is to run for president as soon as possible. If you are unable to be elected President, seek a paper presentation during which you can present your vision of preventative mental health.
 
 If and when the game gets to the point where the definition of mental illness is addressed, work with Thomas Szasz to ensure that no definition that assumes an ‘illness’ metaphor or medical model, or makes a tacit preference for psychiatry against psychology.
 
 \subsection{Specific Assignment}
 \label{specificassignment}
 
+\textbf{Initial Committee Membership}
+
 If you class is larger than 16, you'll start as the board-member-at-large, serving from '71-'73.
 
-Organize a symposium with Thomas Szasz on the suitability of the medical model for psychiatric treatment. This will be best in 1972 before the debate on the DSM-III is taking place.
+\subsubsection{Demedicalization}
+\label{demedicalization}
 
-There will likely be a proposal to limit the treatment of mentally disordered patients to psychiatrists, you should not only fight against it, but propose a separate system of treatment run entirely by psychologists. Your proposal should call for the establishment of various centers that would train, certify and deliver mental health services, in competition with psychiatry. Check out `Ethical Standards' item 7.i, which was added in 1968.
+Officially neutral, but the arguments from the GayPA that the classification \emph{itself} is producing more mental illness than it prevents is consistent with your view of the inadequacy of the medical model.
 
-You will need to provide guidance and support to Robert Spitzer, as his task force attempts to write its report. At the same time, you are a strong ally of those trying to get homosexuality removed from the DSM.
+\subsubsection{Research}
+\label{research}
+
+You don’t have a strong position in the research agenda, however you should find opportunities to support any psychological science---as opposed to psychiatric science---and anything that steers away from the medical model of psychology.
+
+\subsubsection{DSM-III}
+\label{dsm-iii}
+
+Organize a symposium with Thomas Szasz on the suitability of the medical model for psychiatric treatment. This will be best in 1972 before the debate on the DSM-III gets moving in 1973.\begin{writingtask}[Albee Writing Task]\label{writingtask:anastasi}
+Present a paper during a symposium on the suitability of the medical model of psychological and psychiatric treatment. Preferably 1972.
+\end{writingtask}
+
+\subsubsection{Social responsibilities of social scientists}
+\label{socialresponsibilitiesofsocialscientists}
+
+Neutral, but take a position consistent with your vision of psychology.
+
+\subsubsection{Definition of ‘mental illness’ and fission of the APA}
+\label{definitionof‘mentalillness’andfissionoftheapa}
+
+Oppose any definition that uses the medical model or medical language.
+
+There will likely be a proposal to limit the treatment of mentally disordered patients to psychiatrists, you should not only fight against it, but propose a separate system of treatment run entirely by psychologists. Your proposal should call for the establishment of various centers that would train, certify and deliver mental health services, in competition with psychiatry. Check out \fullref{sample: APAEthics1968}, point e, which was added in 1968. You should work to get this removed or changed so psychologists can also work with psychotropics in their practice.
 
 \section{Game Note:}
 \label{gamenote:}
@@ -7235,26 +7164,31 @@ Albee
 
 You were born in New York, daughter of Italian immigrants, in 1908. Your father died when you were 1, after which your mother was alienated from your father's family. Since your mother had to work, you were raised primarily by your maternal grandmother and your uncle. You were home-schooled until the age of 9. As a teenager, you became interested in mathematics, teaching yourself advanced trigonometry. At 13, you dropped out of high school and enrolled in Rhodes Preparatory School, whose primary mission is to train adults who needed basic eduction to get accepted in college. After two years at Rhodes, you were accepted at Barnard College at the age of 15.
 
-At Barnard, you were deeply influenced by Harry Hollingworth, chair of the Psychology department, as well as the work of Charles Spearman, an English statistician and psychologist who demonstrated that scores on most tests of mental abilities were correlated with one another, suggesting that there was a single general source of intelligence (see Spearman (1904)). You graduated from Barnard at 4 years later at 19, and were granted a PhD By Columbia one year later in 1929.
+At Barnard, you were deeply influenced by Harry Hollingworth, chair of the Psychology department, as well as the work of Charles Spearman, an English statistician and psychologist who demonstrated that scores on most tests of mental abilities were correlated with one another, suggesting that there was a single general source of intelligence (see Spearman (1904)). You graduated from Barnard 4 years later at 19, and were granted a PhD By Columbia \emph{one year later} in 1929.
 
-The year that you earned your doctorate, the stock market crashed, which caused the early part of your career to be defined by harsh economic times. Thanks to New Deal grants from the National Youth Administration and the Works Progress Administration (WPA), you were able to hire a few research assistants. You moved to Queens College in 1939, but felt that the administration did not fully support your fledgling psychology department. You moved again, this time to Fordham, in 1947, where you remain today.
+The year that you earned your doctorate the stock market crashed, which caused the early part of your career to be defined by harsh economic times. Thanks to New Deal grants from the National Youth Administration and the Works Progress Administration (WPA), you were able to hire a few research assistants. You moved to Queens College in 1939, but felt that the administration did not fully support your fledgling psychology department. You moved again, this time to Fordham, in 1947, where you remain today.
 
 You are often called the “test guru.`' Your 1954 text, ``Psychological Testing,'' is still required reading in undergraduate and graduate psychology courses and is considered a virtual bible for the field. The book, an encyclopedic review of how tests are constructed, validated and interpreted, received wide acclaim for its lucidity and depth of analysis. You took a special interest in the question of whether tests could be created that were free of cultural bias. In the 1960s and 70s, while some in the field championed so-called ``culture fair'' tests, your argued that the claim that tests could be entirely unbiased was a fallacy. You ultimately argued that, “Tests can serve a predictive function only insofar as they indicate to what extent the individual has acquired the prerequisite skills and knowledge for a designated criterion performance. What persons can accomplish in the future depends not only on their present intellectual status, as assessed by the test, but on their subsequent experience (Anastasi, 1981).”
 
 According to you, intelligence tests can do three things:
 
-\begin{verbatim}
->“They permit a direct assessment of prerequisite intellectual skills demanded by many important tasks in our culture.
-\end{verbatim}
-
 \begin{quote}
+
+“They permit a direct assessment of prerequisite intellectual skills demanded by many important tasks in our culture.
 
 They assess availability of a relevant store of knowledge or content also prerequisite for many educational and occupational tasks.
 
 They provide an indirect index of the extent to which the individual has developed effective learning strategies, problem-solving techniques and work habits and utilized them in the past.” (quoted on http:\slash \slash www.indiana.edu\slash \ensuremath{\sim}intell\slash anastasi.shtml from Anastasi, 1981).
 \end{quote}
 
-You wrote that, ``Intelligence is not a single, unitary ability, but rather a composite of several functions. The term denotes that combination of abilities required for survival and advancement within a particular culture (Anastasi, 1992, p. 613). ” Your research focused on understanding and measuring the factors underlying the development of individual differences in psychological traits (Anastasi, 1972, 1989). You argued against the strictly hereditarian position, emphasizing the role of experiential and environmental influences on intelligence test scores and psychological development. You stressed that intelligence test scores are not pure measures of innate ability, but that “{\ldots}not only does the nature of one's antecedent experiences affect the degree of differentiation of ''intelligence" into distinct abilities, but it also affects the particular abilities that emerge, such as verbal, numerical, and spatial abilities. Thus, experiential factors affect not only the level of the individual's intellectual development, but also the very categories in terms of which his abilities may be identified (Anastasi, 1972).”
+You wrote that, "Intelligence is not a single, unitary ability, but rather a composite of several functions. The term denotes that combination of abilities required for survival and advancement within a particular culture (Anastasi, 1992, p. 613). ” Your research focused on understanding and measuring the factors underlying the development of individual differences in psychological traits (Anastasi, 1972, 1989). 
+
+You argued against the idea that intelligence was strictly hereditary, emphasizing the role of experiential and environmental influences on intelligence test scores and psychological development. You stressed that intelligence test scores are not pure measures of innate ability, but that 
+
+\begin{quote}
+
+“{\ldots}not only does the nature of one's antecedent experiences affect the degree of differentiation of ‘intelligence’ into distinct abilities, but it also affects the particular abilities that emerge, such as verbal, numerical, and spatial abilities. Thus, experiential factors affect not only the level of the individual's intellectual development, but also the very categories in terms of which his abilities may be identified (Anastasi, 1972).
+\end{quote}
 
 In addition to your contributions to testing, you were renowned for your studies of individual and group differences and the interplay of biology and environment in shaping personality and intellectual development. You wrote more than 150 scholarly books, monographs and articles, and are said to have brought to the issue a balanced, deeply rational perspective and an insistence on solid science. You played a significant role in applying psychology to real-world situations, both through areas like industrial psychology and consumer psychology and in the clinical consulting room.
 
@@ -7267,62 +7201,87 @@ If you are elected to a leadership position, it will be important to leave a leg
 
 Notice that the official documents of the APA, as included in the game book, are written in gender-specific language: I.B states “a nonmember of the APA may read a paper provided that he is sponsored{\ldots}”. The implication here is, of course, that a female nonmember is not allowed to present. As this document is an official representation of the policies of the APA, it should be clarified to reflect the policies of the organization.
 
-You are neutral on the definition of mental illness. 
-
 \subsection{Specific Assignments}
 \label{specificassignments}
 
+\textbf{Initial Committee Membership}
+
 You are an initial member of the Program committee, with your term expiring in 1973. Review the model schedule in the gamebook, and solicit proposals from your peers. You should also get the program committee to propose gender-neutral language for the guidelines, and present your proposal to the board in 1971. 
 
-Create two new standing committees of the APA: The Committee on Women in Psychology, which will focus on the issues facing women in the profession, and The Committee on the Psychology of Women, which will focus on studying women's minds as a specialization within the discipline. From the current website of the committee on women in psychology:\footnote{http:\slash \slash www.apa.org\slash pi\slash women\slash committee\slash index.aspx In reality, the committee began as a taskforce under Helen Astin in 1970, but became a standing committee in 1973. See Freedheim, D. “The APA Committee on Women in Psychology” in Handbook of psychology, v. 1, p. 261}
+\subsubsection{Demedicalization}
+\label{demedicalization}
+
+Officially neutral, but make sure that whatever happens, the decision is made on sound science.
+
+\subsubsection{Research}
+\label{research}
+
+\begin{writingtask}[Anastasi Writing Task]\label{writingtask:anastasi}
+Present a paper outlining psychometrics and the use of statistical measures in psychology. Preferably in concert with Spitzer’s ‘Feigner criteria’ in 1972.
+\end{writingtask}
+
+Present a paper outlining psychometrics and the use of statistical measures in psychology. This should be connected, conceptually, to the problem of the the taxonomy of mental disorders. It is a good idea, then, to wait until after Spitzer presents the Feigner criteria in 1972. If elected president, it can be your presidential address. If not, it should be a regular paper.
+
+\subsubsection{DSM-III}
+\label{dsm-iii}
+
+During the time that the DSM-III revisions are taking place, you should run for president and propose two new standing committees of the APA. It is important to gain support of the other women of the APA in making these proposals.
+\textbf{The Committee on Women in Psychology}, which will focus on the issues facing women in the profession, and The Committee on the Psychology of Women, which will focus on studying women's minds as a specialization within the discipline. From the current website of the committee on women in psychology:\footnote{http:\slash \slash www.apa.org\slash pi\slash women\slash committee\slash index.aspx In reality, the committee began as a taskforce under Helen Astin in 1970, but became a standing committee in 1973. See Freedheim, D. “The APA Committee on Women in Psychology” in Handbook of psychology, v. 1, p. 261}
 
 Specifically, the committee will undertake the following priority tasks
 
-(a) collection of information and documentation concerning the status of women;
+\begin{quote}
 
-(b) development of recommendations relevant to women;
+A. collection of information and documentation concerning the status of women;
 
-(c) monitoring the implementation of guidelines and recommendations from reports issued by APA that are relevant to women;
+B. development of recommendations relevant to women;
 
-(d) development of mechanisms to increase the participation of women in roles and functions both within and outside the profession;
+C. monitoring the implementation of guidelines and recommendations from reports issued by APA that are relevant to women;
 
-(e) ongoing communications with other agencies and institutions regarding the status of women; and
+D. development of mechanisms to increase the participation of women in roles and functions both within and outside the profession;
 
-(f) monitoring current issues relevant to the lives of women in order to inform policy.
+E. ongoing communications with other agencies and institutions regarding the status of women; and
+
+F. monitoring current issues relevant to the lives of women in order to inform policy.
 
 The Committee shall consist of six members who are elected for staggered terms of three years.  It shall report to Council through the Board for the Advancement of Psychology in the Public Interest (BAPPI). (Approved by Council, February 2008)
 
-Strategic Goals
+Strategic Goals. 
 
-Goal I
- Promoting the health and well-being of women
+\begin{quote}
 
-Goal II  
-Identifying and eliminating discriminatory practices against women
+Goal I: Promoting the health and well-being of women
 
-Goal III 
-Increasing the visibility of feminist scholarship and practice
+Goal II: Identifying and eliminating discriminatory practices against women
 
-Goal IV 
-Promoting the unique contributions of women to psychology
+Goal III: Increasing the visibility of feminist scholarship and practice
 
-Goal V  
-Enhancing women’s leadership within and outside of APA
+Goal IV: Promoting the unique contributions of women to psychology
 
-Goal VI 
-Collaborating with others as needed to achieve the empowerment of underrepresented groups
+Goal V: Enhancing women’s leadership within and outside of APA
 
-Goal VII 
-Promoting the generation and communication of knowledge about women’s lives
+Goal VI: Collaborating with others as needed to achieve the empowerment of underrepresented groups
 
-And Division 35: the Society for the Psychology of Women:\footnote{http:\slash \slash www.apa.org\slash about\slash division\slash div35.aspx In reality, Florence Denmark is credited with creating Division 35 despite resistance from the APA administration. See Freedheim, D. “The Society for the Psychology of Women of the American Psychological Association” in Handbook of psychology, v. 1, p. 261 and Mendick \& Urbanski (1991).}
+Goal VII: Promoting the generation and communication of knowledge about women’s lives
+\end{quote}
+\end{quote}
+
+As well as a new Division of the APA: the \textbf{Society for the Psychology of Women}:\footnote{http:\slash \slash www.apa.org\slash about\slash division\slash div35.aspx In reality, Florence Denmark is credited with creating Division 35 despite resistance from the APA administration. See Freedheim, D. “The Society for the Psychology of Women of the American Psychological Association” in Handbook of psychology, v. 1, p. 261 and Mendick \& Urbanski (1991).}
 
 \begin{quote}
 
 Division 35: Society for the Psychology of Women provides an organizational base for all feminists, women and men of all national origins, who are interested in teaching, research, or practice in the psychology of women. The division recognizes a diversity of women's experiences which result from a variety of factors, including ethnicity, culture, language, socioeconomic status, age, and sexual orientation. The division promotes feminist research, theories, education, and practice toward understanding and improving the lives of girls and women in all their diversities; encourages scholarship on the social construction of gender relations across multicultural contexts; applies its scholarship to transforming the knowledge base of psychology; advocates action toward public policies that advance equality and social justice; and seeks to empower women in community, national, and global leadership. We welcome student members and affiliates. Members are provided two publications: \emph{Psychology of Women Quarterly}, which is a journal of research, theory, and reviews, and the \emph{Feminist Psychologist}.
 \end{quote}
 
-Present a paper outlining psychometrics and the use of statistical measures in psychology. This should be connected, conceptually, to the problem of the the taxonomy of mental disorders. It is a good idea, then, to wait until after Spitzer presents the Feigner criteria in 1972. If elected president, it can be your presidential address. If not, it should be a regular paper.
+\subsubsection{Social responsibilities of social scientists}
+\label{socialresponsibilitiesofsocialscientists}
+
+Officially neutral, but your advocacy for women in Psychology and the Psychology of women will influence your view.
+
+\subsubsection{Definition of ‘mental illness’ and fission of the APA}
+\label{definitionof‘mentalillness’andfissionoftheapa}
+
+Other than assuring non-gender specific definitions, you are neutral.
 
 \section{Must Read}
 \label{mustread}
@@ -7408,6 +7367,23 @@ You are neutral on the definition of mental illness.
 
 \subsection{Specific Assignments}
 \label{specificassignments}
+
+\textbf{Initial Committee Membership}
+
+\subsubsection{Demedicalization}
+\label{demedicalization}
+
+\subsubsection{Research}
+\label{research}
+
+\subsubsection{DSM-III}
+\label{dsm-iii}
+
+\subsubsection{Social responsibilities of social scientists}
+\label{socialresponsibilitiesofsocialscientists}
+
+\subsubsection{Definition of ‘mental illness’ and fission of the APA}
+\label{definitionof‘mentalillness’andfissionoftheapa}
 
 Organize, propose and participate in a symposium on the role of psychology as a mechanism of social change or more generally, on the social responsibilities of scientists, preferably in 1973. Chomsky and Marmor may be a good choices as a co-panelists. You should present a paper on psychology's role for social good. If you are elected president, it should be your presidential address. If not, it can be a part of the symposium.
 
