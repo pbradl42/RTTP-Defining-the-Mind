@@ -3366,7 +3366,38 @@
       \field{title}{{Coming of Age in Samoa; a Psychological Study of Primitive Youth for Western Civilization}}
       \field{year}{1928}
     \endentry
+    \entry{Shepard:1971uf}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5d1420f7dd50add6ea518f78704b43cc}{%
+           family={Shepard},
+           familyi={S\bibinitperiod},
+           given={Roger\bibnamedelima N},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=04eb27c386cfc6649ee63ac9f07db2f1}{%
+           family={Metzler},
+           familyi={M\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{490ee24e8dd58980347b41c8656b40d6}
+      \strng{fullhash}{490ee24e8dd58980347b41c8656b40d6}
+      \strng{authornamehash}{490ee24e8dd58980347b41c8656b40d6}
+      \strng{authorfullhash}{490ee24e8dd58980347b41c8656b40d6}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{3972}
+      \field{title}{{Mental Rotation of Three-Dimensional Objects}}
+      \field{volume}{171}
+      \field{year}{1971}
+      \field{pages}{701\bibrangedash 703}
+      \range{pages}{3}
+    \endentry
   \endsortlist
+  \missing{Harlow:1975bm}
 \endrefsection
 \endinput
 

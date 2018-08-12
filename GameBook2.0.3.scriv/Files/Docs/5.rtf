@@ -70,7 +70,7 @@
 \pard\pardeftab720\sl390
 
 \f2\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
-%\\newcommand\cf4 *\cf5 \{\cf2 \\fullref\cf5 \}[\cf4 1\cf5 ]\{\cf2 See \\nameref\{#1\} on page~\\pageref\{#1\}\cf5 \}\cf4  \cf6 \cb3 % One single link\cf7 \cb3 \
+%\\newcommand\cf4 *\cf5 \{\cf2 \\fullref\cf5 \}[\cf4 1\cf5 ]\{\cf2 See \\nameref\{#1\} on page~\\pageref\{#1\}\cf5 \}\cf4  \cf6 % One single link\cf7 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural
 \cf8 \cb9 \kerning1\expnd0\expndtw0 \
 \pard\pardeftab720\sl390
@@ -176,6 +176,48 @@ numberwithin\cf5 =\cf4 chapter
 
 \f1\b0 \cf0 \cb1 \
 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f0 \cf0 \\declaretheorem[\
+  style=colored,\
+  name=Committee,\
+\pard\pardeftab720\sl280
+
+\f6\fs24 \cf20 \expnd0\expndtw0\kerning0
+shaded=\{rulecolor=ferrisred, rulewidth=0.5pt, bgcolor=\{rgb\}\{1,1,1\}\},
+\f0\fs28 \cf0 \kerning1\expnd0\expndtw0 \
+\pard\pardeftab720\sl390
+
+\f2\fs26 \cf4 \cb3 \expnd0\expndtw0\kerning0
+numberwithin\cf5 =\cf4 chapter
+\f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 ]\{mycommittees\}\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f1 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f0 \cf0 \\makeatletter
+\f1 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f2\fs22 \cf0 \expnd0\expndtw0\kerning0
+\\NewEnviron\{service\}[1][]\{\\protected@edef\\@currentlabelname\{#1\}% addition here\
+\\noindent \\marginnote\{\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf0 \kerning1\expnd0\expndtw0  \\begin\{mycommittees\}[#1]\\BODY\\end\{mycommittees\}\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f2\fs22 \cf0 \expnd0\expndtw0\kerning0
+\}\}\
+\pard\pardeftab720\sl364
+
+\f4\b\fs28 \cf15 \cb16 \kerning1\expnd0\expndtw0 \\makeatother
+\f1\b0 \cf0 \cb1 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\pardeftab720\fi360\sl288\slmult1
+\cf0 \
 \\pagestyle\{plain\}
 \fs24 \
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\pardeftab720\fi360\sl288\slmult1
