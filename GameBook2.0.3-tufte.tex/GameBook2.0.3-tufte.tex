@@ -349,6 +349,7 @@ shaded={rulecolor=black, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}}
 \makeatother
 
 %\newcommand*{\fullref}[1]{(See \nameref{#1} on page~\pageref{#1})} % One single link
+\renewcommand*{\fullref}[1]{\hyperref[{#1}]{\nameref*{#1} \autoref*{#1}  on p. \pageref*{#1}}} % One single link
 
 \newcommand*{\tahead}[1]{{\bfseries #1}} % Table header
 \newcommand*{\thead}[1]{{\bfseries #1}} % Table header
@@ -376,9 +377,8 @@ shaded={rulecolor=black, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}}
 
 \declaretheorem[
   style=colored,
-  name=Assignment,
-shaded={rulecolor=ferrisred, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}},
-numberwithin=chapter
+  name=Writing Assignment,
+shaded={rulecolor=ferrisred, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}}
 ]{myassign}
 
 \makeatletter
@@ -392,8 +392,7 @@ numberwithin=chapter
 \declaretheorem[
   style=colored,
   name=Committee,
-shaded={rulecolor=ferrisred, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}},
-numberwithin=chapter
+shaded={rulecolor=ferrisred, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}}
 ]{mycommittees}
 
 \makeatletter
@@ -406,8 +405,7 @@ numberwithin=chapter
 \declaretheorem[
   style=colored,
   name=Research,
-shaded={rulecolor=ferrisred, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}},
-numberwithin=chapter
+shaded={rulecolor=ferrisred, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}}
 ]{myresearch}
 
 \makeatletter
@@ -417,7 +415,26 @@ numberwithin=chapter
 }}
 \makeatother
 
+\declaretheorem[
+  style=colored,
+  name=Proposal,
+shaded={rulecolor=ferrisred, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}}
+]{myproposal}
+
+\makeatletter
+\NewEnviron{proposal}[1][]{\protected@edef\@currentlabelname{#1}% addition here
+\noindent \marginnote{
+ \begin{myproposal}[#1]\BODY\end{myproposal}
+}}
+\makeatother
 \pagestyle{plain}
+
+\makeatletter
+\@addtoreset{myassign}{chapter}
+\@addtoreset{mycommittees}{chapter}
+\@addtoreset{myresearch}{chapter}
+\@addtoreset{myproposal}{chapter}
+\makeatother
 
 
 \setcounter{tocdepth}{1}
@@ -5260,6 +5277,8 @@ The victory objectives can also be ``modded'' to a compromise. See Section \full
 \subsection{Writing}
 \label{writing}
 
+Objective: understand how theory change is driven by evidence.
+
 \subsection{Speaking}
 \label{speaking}
 
@@ -5298,6 +5317,8 @@ When and if the Research Committee approves labs that can actually be carried ou
 
 \section{Narrative}
 \label{narrative}
+
+George Miller has heavy initial load --- assign a student who can set the tone for everybody.
 
 Add stuff here[ Peter Bradley, 7\slash 27\slash 18, 3:58 PM]
 
@@ -5432,26 +5453,26 @@ Discussion and vote on: \\
 \begin{longtable}[!t]{ | p{2cm} | p{7cm} | p{7cm} | } \hline
 \tahead{Item} & \tahead{First session} & \tahead{Second session} \\ \hline \hline
 
-Presidential Address&\multicolumn{2}{| P{14cm} | }{Miller “Psychology as a means of promoting human welfare” \fullref{writingtask:miller}} \\ \hline
+Presidential Address&\multicolumn{2}{| P{14cm} | }{Miller “Psychology as a means of promoting human welfare” (See \fullref{writingtask:miller} of the Role Sheet book)} \\ \hline
 
-Symposia&“Psychiatry: Friend or Foe to Homosexuals: A Dialogue,” Fryer (\fullref{writingtask:fryer}), Hooker (\fullref{writingtask:hooker}), Kameny (\fullref{writingtask:kameny}) / Gittings (\fullref{writingtask:gittings}) &Worries about psychiatry, Szasz “The Myth of Mental Illness” \fullref{writingtask:szasz}, Marmor “Limits of Free Association” (\fullref{writingtask:marmor})\\ \hline
+Symposium&\multicolumn{2}{| P{14cm} | }{“Psychiatry: Friend or Foe to Homosexuals: A Dialogue,” Fryer (\fullref{writingtask:fryer} of the Role Sheet book), Hooker (\fullref{writingtask:hooker} of the Role Sheet book), Kameny (\fullref{writingtask:kameny}) / Gittings (\fullref{writingtask:gittings} of the Role Sheet book)} \\ \hline
 
-Proposals for the Board&Removal of homosexuality (Marmor '71)\newline
-Create taskforce to study the history of treatment of homosexuality (proposed by Marmor, 1971)& Proposal from C. Socarides to create task force to sexual deviation.\newline
-Proposal from J. Spiegel and R. Green to create task force of historical study and literature review of homosexuality in psychology and psychiatry. \fullref{johnspegielmd} -- Association Business.\\ \hline
-Proposals for Research Committee&\multicolumn{2}{| P{14cm} | }{“Adjustment of Homosexual and Heterosexual Women”  \textbf{(proposed by Barbara Gittings, if in game, if not, gamemaster)}
-\fullref{adjustmentofhomosexualandheterosexualwomen}\newline
-“Emotional responses in a human child” \textbf{(proposed by gamemaster)} See \fullref{emotionalresponsesinahumanchild}). The original paper is available on psych classics:  http://psychclassics.yorku.ca/Watson/emotion.htm }\\ \hline
-Research Reports&\multicolumn{2}{| P{14cm} | }{Miller, presenting Shepard, R. N., and Metzler, J. (1971). Mental rotation of three-dimensional objects. Science, 171, 701-703.} \\ \hline
+Proposals for the Board&Removal of homosexuality (\fullref{proposal:marmorA}of the Role Sheet book)\newline
+ & Proposal from C. Socarides to create task force to sexual deviation. (\fullref{proposal:socarides} of the Role Sheet book)\newline
+Proposal from J. Spiegel and R. Green to create task force to conduct a study of the history of the treatment of homosexuality in psychology and psychiatry. (\fullref{proposal:spiegel} and \fullref{proposal:green} of the Role Sheet book) \\ \hline
+Proposals for Research Committee&\multicolumn{2}{| P{14cm} | }{“Adjustment of Homosexual and Heterosexual Women”  (\fullref{researchtask:gittings}) (proposed by Barbara Gittings, if in game, if not, \textbf{gamemaster)}). Sample is included as 
+\fullref{adjustmentofhomosexualandheterosexualwomen} of the Instructor's Manual.\newline
+“Emotional responses in a human child” (proposed by \textbf{ gamemaster}). Sample is included as \fullref{emotionalresponsesinahumanchild.} of the Instructor's Manual. The original paper is available on psych classics:  http://psychclassics.yorku.ca/Watson/emotion.htm }\\ \hline
+Research Reports&\multicolumn{2}{| P{14cm} | }{Miller (\fullref{researchtask:miller}), presenting Shepard, R. N., and Metzler, J. (1971). Mental rotation of three-dimensional objects. Science, 171, 701-703. Paper included in the Appendix as \fullref{paper: mentalrotation} of the Instructor's Manual. } \\ \hline
 \caption{Major events of 1971}
 \end{longtable}
 
 \subsubsection{Notes:}
 \label{notes:}
 
-Of course, the Little Albert experiment and Rosehan cannot be completed by actual students. If the research committee approves those experiments, the instructor should charge a student with presenting the original papers during the follow years' conference.
+Of course, the Little Albert experiment cannot be completed by actual students. If the research committee approves the experiments, the instructor should charge a student with presenting the original papers during the follow years' conference.
 
-Students may recognize the ``little albert'' experiment, although I don't use the name `little albert' in the proposal. They will also probably find the experiment unethical. Many people do. My version of the proposed experiment contains no plan for deconditioning Albert. See the `Actual History' section below for a discussion of the history of this famous experiment.
+Students may recognize the ``little albert'' experiment, although I don't use the name `little albert' in the proposal. They will also probably find the experiment unethical. Many people do. The version of the proposed experiment I've included herein contains no plan for deconditioning Albert. See the \fullref{littlealbert} for a discussion of the history of this famous experiment.
 
 \subsubsection{Research committee proposals}
 \label{researchcommitteeproposals}
@@ -5465,7 +5486,12 @@ Unless otherwise noted, these should be brought to the research committee for di
 
 \textbf{Papers to be distributed for next week:}
 
-1971: Shepard, R. N., \& Metzler, J. (1971). Mental rotation of three-dimensional objects. Science, 171, 701--703.
+\begin{itemize}
+\item 1971---Following approval of \fullref{researchtask:miller} of the Role Sheet book:
+
+\item Shepard, R. N., \& Metzler, J. (1971). Mental rotation of three-dimensional objects. Science, 171, 701--703. Included as \fullref{mentalrotationofthree-dimensionalobjects} in the Instructor's Manual.
+
+\end{itemize}
 
 \newpage
 
@@ -5477,45 +5503,47 @@ Papers \slash  Proposals other than the Presidential address are \emph{likely} t
 \begin{longtable}[!t]{ | p{2cm} | p{7cm} | p{7cm} | } \hline
 \tahead{Item} & \tahead{First session} & \tahead{Second session} \\ \hline \hline
 
-Presidential Address&\multicolumn{2}{| P{14cm} | }{Bandura, “Behavioral theory and models of man”} \fullref{writingtask:bandura} \\ \hline
+Presidential Address&\multicolumn{2}{| P{14cm} | }{Bandura, “Behavioral theory and models of man” (\fullref{writingtask:bandura} of the Role Sheet book) }\\ \hline
 
-Symposia&On the ‘medical model’ Szasz \fullref{writingtask:szasz} and Albee (\fullref{writingtask:albee})& \\ \hline
+Symposium&\multicolumn{2}{| P{14cm} | }{On the ‘medical model’ (\fullref{writingtask:szasz}, \fullref{writingtask:marmor} and \fullref{writingtask:albee} of the Role Sheet book)}\\ \hline
 
-Proposals for the Board& Proposal to recognize the contributions of Evelyn Hooker \(From Gebhard -- see \fullref{paulgebhard} -- Association Business\)\newline
-& Proposal from nomenclature to write a new DSM according to description of symptoms, not causes (Opposed: Lief)\newline
-Proposal from Hopcke to limit medical care of mentally distressed individuals in hospitals to licensed medical doctors (i.e. psychiatrists)\newline
-Counter proposal from Albee to limit the role of psychiatrists to the admission of drugs. \newline Fordney-Settlage may be able to broker a compromise. (\fullref{dfordneysettlagemd} --- Association Business) \\ \hline
-Proposals for Research Committee&\multicolumn{2}{| P{14cm} | }{“On being sane in insane places” \fullref{onbeingsaneininsaneplaces}\newline
-Fordney Settlage (1973). [citation DS Fordney Settlage, Baroff S, Cooper D 1973. Sexual experience of younger teenage girls seeking contraceptive assistance for the first time. Family Planning Perspectives, Vol. 5, No. 4 Autumn, 1973, p 223-226] (available on Jstor)}  \\ \hline
-Research Reports&\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1971 proposals, one (or both) of Socarides on Sexual Deviation (\fullref{writingtask:socarides}) or Green (\fullref{writingtask:green}) and Spiegel (\fullref{writingtask:spiegel}) on history of homosexuality – responses from Bieber (\fullref{writingtask:beiber}), Marmor} \\ \hline
+Proposals for the Board& Proposal to recognize the contributions of Evelyn Hooker (from Gebhard---See \fullref{proposal:gebhard})\newline
+& Proposal from Nomenclature Committee to write a new DSM according to description of symptoms, not causes (Pro: \fullref{proposal:spitzerA} and Opposed: \fullref{proposal:lief})\newline
+Proposal from Hopcke to limit medical care of mentally distressed individuals in hospitals to licensed medical doctors (i.e. psychiatrists) (\fullref{proposal:hopcke} of the Role Sheet book) \newline
+Counter proposal from Albee to limit the role of psychiatrists to the admission of drugs. (\fullref{proposal:albee} in the Role Sheet book)\newline 
+Fordney-Settlage may be able to broker a compromise. (\fullref{proposal:fordneysettlage} in the Role Sheet Book) \\ \hline
+Proposals for Research Committee&\multicolumn{2}{| P{14cm} | }{“On being sane in insane places” included as \fullref{onbeingsaneininsaneplaces} (proposed by \fullref{researchtask:szasz} in the Role Sheet book, or, if not in game, \textbf{gamemaster})\newline
+Proposal from Fordney-Settlage to study the sexual experience of girls seeking contraception for the first time (\fullref{researchtask:fordneysettlage} in the Role Sheet book).}  \\ \hline
+Research Reports&\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1971 proposals, one (or both) of Socarides on Sexual Deviation (\fullref{writingtask:socarides}) or Green (\fullref{writingtask:green}) and Spiegel (\fullref{writingtask:spiegel}) on history of homosexuality – responses from Bieber (\fullref{writingtask:bieber}), Marmor} \\ \hline
 \caption{Possible events of 1972}
 \end{longtable}
 
 \textbf{Other papers to expect}
 
 \begin{itemize}
-\item Paper by Spitzer on Feighner Criteria \fullref{writingtask-spitzer}, Anastasi in support (\fullref{writingtask:anastasi})
+\item Paper by Spitzer on Feighner Criteria (\fullref{writingtask:spitzer} of the Role Sheet book), Anastasi in support (\fullref{writingtask:anastasi} of the Role Sheet book)
 
-\item Paper by Gebhard on the Kinsey report. \fullref{writingtask:gebhard}
+\item Paper by Gebhard on the Kinsey report. (\fullref{writingtask:gebhard} of the Role Sheet book)
 
-\item Paper by Harlow “Lust, latency and love”
+\item Paper by Harlow “Lust, latency and love” (\fullref{writingtask:harlow} of the Role Sheet book)
 
 \end{itemize}
 
 \textbf{Other possible proposals}
 
-\begin{itemize}
-\item Hopcke -- limit medical care of mentally distressed individuals in hospitals to licensed medical doctors\newline
-
-\item Albee - limit the role of psychiatrists to the administration of drugs.
-
-\end{itemize}
-
 \textbf{Research committee Issues}
 
 \textbf{Papers to be distributed (if activities are approved)}
 
-1972: Siegelman, “Adjustment of Homosexual and Heterosexual Women” The British Journal of Psychiatry (1972) 120: 477--481.
+\begin{itemize}
+\item 1972---Following approval of \fullref{researchtask:gittings} of the Role Sheet book:
+
+\begin{itemize}
+\item Siegelman, “Adjustment of Homosexual and Heterosexual Women” The British Journal of Psychiatry (1972) 120: 477--481. Included as \fullref{adjustmentofhomosexualandheterosexualwomen} in the Instructor's Manual.
+
+\end{itemize}
+
+\end{itemize}
 
 \newpage
 
@@ -5529,42 +5557,55 @@ Papers \slash  Proposals other than the Presidential address are \emph{likely} t
 
 Presidential Address&\multicolumn{2}{| P{14cm} | }{Depends on previous elections} \\ \hline
 
-Symposia&&\\ \hline
+Symposium&\multicolumn{2}{| P{14cm} | }{Nomenclature committee-organized open panel discussion of the proposed removal of 'Homosexuality' from 302.00.}\\ \hline
 
-Proposals for the Board&Removal of homosexuality immediately (Spitzer '73) \fullref{robertspitzermd} \newline
-Proposal from Free mtg create a journal titled *Archives of Sexual Behavior* \newline
-Spitzer task force, dissolution of nomenclature committee (Spitzer, 1973)& (likely / possible):  Creation of the Society for the Psychology of Women (Anastasi, 1973) and Creation of the committee on Women in Psychology (Anastasi, 1973) \fullref{anneanastasi} \\ \hline
-Proposals for Research Committee&\multicolumn{2}{| P{14cm} | }{Prison study (See \fullref{interpersonaldynamicsinasimulatedprison},  \textbf{(propsed by Zimbardo, if in game, if not, gamemaster)} \newline
-“A re-analysis of the reliability of psychiatric diagnosis” (proposed by Spitzer \fullref{research-spitzer}) See \fullref{are-analysisofthereliabilityofpsychiatricdiagnosis}).}\\ \hline
-Research Reports&\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1972 proposals, one (or both) of “On being sane in insane places” and Fordney-Settlage “Sexual experience of younger teenage girls seeking contraceptive assistance for the first time.”\fullref{research-fordney}} \\ \hline
+Proposals for the Board&Removal of homosexuality immediately (\fullref{proposal:spitzerB} of the Role Sheet Book) \newline
+Proposal from Green create a journal titled emph{Archives of Sexual Behavior} (\fullref{proposal:green} in the Role Sheet book)\newline
+Spitzer task force, dissolution of nomenclature committee (\fullref{proposal:spitzerB} of the Role Sheet book.)& (likely / possible):  Creation of the committee on Women in Psychology (\fullref{proposal:anastasiA} in the Role Sheet book) and creation of the Society for the Psychology of Women (\fullref{proposal:anastasiB} in the Role Sheet Book) and  \\ \hline
+Proposals for Research Committee&\multicolumn{2}{| P{14cm} | }{Prison study. Included as  \fullref{interpersonaldynamicsinasimulatedprison} in the Instructor's Manual.  (proposed by Zimbardo, if in game, if not, \textbf{gamemaster})  (\fullref{researchtask:zimbardo} in the Role Sheet book)\newline
+“A re-analysis of the reliability of psychiatric diagnosis” Included as \fullref{are-analysisofthereliabilityofpsychiatricdiagnosis} of the Instructor's Manual. (proposed by Spitzer \fullref{researchtask:spitzer}) .}\\ \hline
+Research Reports&\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1972 proposals, one (or both) of Szasz, “On being sane in insane places” (\fullref{researchtask:szasz} in the Role Sheet book) and Fordney-Settlage “Sexual experience of younger teenage girls seeking contraceptive assistance for the first time.” (\fullref{researchtask:fordneysettlage} in the Role Sheet book)} \\ \hline
 \caption{Major events of 1973}
 \end{longtable}
 
 \textbf{Other papers to expect}
 
 \begin{itemize}
-\item Paper by Tyler on individual differences and their importance for counseling. \fullref{writingtask:tyler}
+\item Paper by Tyler on individual differences and their importance for counseling---likely Presidential Address. (\fullref{writingtask:tyler} of the Role Sheet book).
 
-\item Symposium on “Should Homosexuality be in the APA Nomenclature” by the Nomenclature committee, with special power \textbackslash{}newline
+\item Symposium \slash  discussion on “Should Homosexuality be in the APA Nomenclature” by the Nomenclature committee, with special power. Includes
+
+\begin{itemize}
+\item \fullref{writingtask:goldA} of the Role Sheet book.
+
+\item Kameny\slash Gittings, Green, Spitzer and Socarides\slash Bieber to be panelists, but they will speak extemporaneously, not deliver formal papers.
+
+\end{itemize}
 
 \end{itemize}
 
 \textbf{Other potential proposals}
 
 \begin{itemize}
-\item Marmor - official condemnation \slash  censure of Socarides JAMA paper as nonscientific and a “Monstorous attach on homosexuality."
+\item Marmor - official condemnation \slash  censure of Socarides JAMA paper as nonscientific and a “Monstorous attach on homosexuality." (\fullref{proposal: marmorB} of the Role Sheet book)
 
-\item Leona Tyler principle (See \fullref{leonatylerprinciple}).
-
-\item Gold symposium on ``Stop! You're making me sick''
+\item Leona Tyler principle (\fullref{proposal:tyler} of the Role Sheet book).
 
 \end{itemize}
 
 \textbf{Papers to be distributed (if activities are approved)}
 
-On Gay Pride day in 1973, someone firebombed the `UpStairs Lounge', a gay club in New Orleans, killing 32 people, 3 of whom were never identified. The Game Master should distribute the news prior to the APA conference. See http:\slash \slash www.patheos.com\slash blogs\slash friendlyatheist\slash 2013\slash 06\slash 24\slash remembering-the-upstairs-lounge-the-u-s-a-s-largest-lgbt-massacre-happened--40-years-ago-today\slash  for a blog-length history, or “Let the Faggots Burn: The UpStairs Lounge Fire” by Johnny Towsend for a book-length history.
+\begin{itemize}
+\item On Gay Pride day in 1973, someone firebombed the `UpStairs Lounge', a gay club in New Orleans, killing 32 people, 3 of whom were never identified. The Game Master should distribute the news prior to the APA conference. See http:\slash \slash www.patheos.com\slash blogs\slash friendlyatheist\slash 2013\slash 06\slash 24\slash remembering-the-upstairs-lounge-the-u-s-a-s-largest-lgbt-massacre-happened--40-years-ago-today\slash  for a blog-length history, or “Let the Faggots Burn: The UpStairs Lounge Fire” by Johnny Towsend for a book-length history.
 
-1973: Rosehan `On being sane in Insane places' Science v.. 179 (Jan. 1973), 250--258
+\item 1973---Following approval of \fullref{researchtask:szasz} of the Role Sheet book:
+
+\begin{itemize}
+\item Rosehan `On being sane in Insane places' Science v.. 179 (Jan. 1973), 250--258. Included as \fullref{onbeingsaneininsaneplaces} in the Instructor's Manual.
+
+\end{itemize}
+
+\end{itemize}
 
 \newpage
 
@@ -5578,12 +5619,12 @@ Papers \slash  Proposals other than the Presidential address are \emph{likely} t
 
 Presidential Address&\multicolumn{2}{| P{14cm} | }{Depends on previous elections} \\ \hline
 
-Symposia&TBD&TBD\\ \hline
+Symposium&\multicolumn{2}{| P{14cm} | }{TBD}\\ \hline
 
 Proposals for the Board&TBD& TBD \\ \hline
-Proposals for Research Committee&\multicolumn{2}{| P{14cm} | }{Milgram 'small world' \textbf{proposed by Milgram if in game, if not gamemaster} See \fullref{smallworld} for sample proposal.  Original paper included in supplementary materials.) 
+Proposals for Research Committee&\multicolumn{2}{| P{14cm} | }{Proposal from Milgram (\fullref{researchtask:milgram} in the Role Sheet book). If Milgram is not a character, proposal should come from \textbf{gamemaster} See \fullref{smallworld} for sample proposal.  Original paper included in supplementary materials on GitHub.) 
 .}\\ \hline
-Research Reports&\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1973 proposals, one (or both) of Zimbardo “Prison study” and Spitzer “Re-analysis.”} \\ \hline
+Research Reports&\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1973 proposals, one (or both) of \fullref{researchtask:zimbardo} and \fullref{researchtask:spizter}} \\ \hline
 \caption{Major events of 1974}
 \end{longtable}
 
@@ -5595,29 +5636,42 @@ Research Reports&\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1973 prop
 \begin{itemize}
 \item Clark \fullref{writingtask:clark}
 
-\item Chomsky \fullref{noamchomskyphd}---Social responsibility of scientists
-
-\item Marmor
+\item Chomsky \fullref{writingtask:chomskyB}---Social responsibility of scientists
 
 \end{itemize}
 
-\item Milgram - Obedience
+\item Milgram - \fullref{writingtask:milgram}
 
 \item Lief - genetic hypothesis and diagnostic taxa. \fullref{writingtask:leif}
 
 \end{itemize}
 
-Open hearings \slash  symposium on the Spitzer def of ‘mental illness’.
+Open hearings \slash  symposium on the Spitzer Task Force def of ‘mental illness’. 
 
 \textbf{Other possible proposals}
 
-Fryer - deem aversion therapy to treat homosexuality immoral. In opposition: Harlow.
+Fryer - deem aversion therapy to treat homosexuality immoral. \fullref{proposal:fryer}
+In opposition: Harlow.
 
 \textbf{Papers to be distributed (if activities are approved)}
 
-1974: Haney, C. Banks, C. \& Zimbardo, P. (1973). “Interpersonal Dynamics in a Simulated Prison” International Journal of Criminology and Penology 1, p. 69--97 
+\begin{itemize}
+\item 1974---Following approval of \fullref{researchtask:zimbardo} of the Role Sheet book:
 
-Spitzer, R. and Fleiss, J. (1974). “A Re-analysis of the Reliability of Psychiatric Diagnosis” Brit. J. Psychiat. 125, 341--7
+\begin{itemize}
+\item Haney, C. Banks, C. \& Zimbardo, P. (1973). “Interpersonal Dynamics in a Simulated Prison” International Journal of Criminology and Penology 1, p. 69--97 Included as \fullref{interpersonaldynamicsinasimulatedprison} in the Instructor's Manual.
+
+\end{itemize}
+
+\item 1974---Following approval of \fullref{researchtask:spitzer} of the Role Sheet book
+
+\begin{itemize}
+\item Spitzer, R. and Fleiss, J. (1974). “A Re-analysis of the Reliability of Psychiatric Diagnosis” Brit. J. Psychiat. 125, 341--7 Included as $<$!--\textbackslash{}fullref\{are-analysisofthereliabilityofpsychiatricdiagnosis\} in the Instructor's Manual.
+
+\end{itemize}
+
+\end{itemize}
+
 \newpage
 
 \subsection{1975}
@@ -5630,11 +5684,11 @@ Papers \slash  Proposals other than the Presidential address are \emph{likely} t
 
 Presidential Address&\multicolumn{2}{| P{14cm} | }{Depends on previous elections} \\ \hline
 
-Symposia&TBD&TBD\\ \hline
+Symposium&\multicolumn{2}{| P{14cm} | }{TBD}\\ \hline
 
 Proposals for the Board&TBD& TBD \\ \hline
 Proposals for Research Committee&\multicolumn{2}{| P{14cm} | }{TBD}\\ \hline
-Research Reports&\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1974 proposals, Migram “small world”} \\ \hline
+Research Reports&\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1974 proposals, \fullref{researchtask:milgram}} \\ \hline
 \caption{Major events of 1974}
 \end{longtable}
 
@@ -5643,9 +5697,9 @@ Research Reports&\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1974 prop
 \begin{itemize}
 \item Clark \slash  Anastasia \slash  Spiegel on statistical structures of ‘normal’ in the the DSM-III taxa.
 
-\item Open forum on definition of mental illness (called by Nomenclature \slash  Spitzer Task Force) (See \fullref{robertspitzermd} - Definition of ‘mental illness’.
+\item Open forum on definition of mental illness (called by Nomenclature \slash  Spitzer Task Force) (See \fullref{proposal:spitzerD} - Definition of ‘mental illness’.
 
-\item Zimbardo on the 1968 code of ethics
+\item Zimbardo on the 1968 code of ethics \fullref{writingtask:zimbardo}
 
 \item Fordney-Settlage on the disparity between psychoanalytic theories of male and female sexuality. \fullref{writingtask:fordneysettlage}
 
@@ -5659,7 +5713,7 @@ Research Reports&\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1974 prop
 
 \textbf{Other possible proposals}
 
-*Clark should propose affirmative action (See \fullref{affirmativeaction} and \fullref{kennethclarkphd} --- Association Business.) Stanley Milgram should oppose (\fullref{stanleymilgramphd} --- Social responsibilities of social scientists\footnote{Milgram is the only psychologists of this era for whom I can find documentation of opposition to the affirmative action plan, although it was certainly more widespread. That documentation is, suffice it to say, sparse. It is mentioned once in Blass, T. (2009). \emph{The Man Who Shocked The World: The Life and Legacy of Stanley Milgram} Public Affairs, p. 201.}.)
+*Clark should propose affirmative action (See \fullref{affirmativeaction} and \fullref{proposal:clark}) Stanley Milgram should oppose (\fullref{stanleymilgramphd} --- Social responsibilities of social scientists\footnote{Milgram is the only psychologists of this era for whom I can find documentation of opposition to the affirmative action plan, although it was certainly more widespread. That documentation is, suffice it to say, sparse. It is mentioned once in Blass, T. (2009). \emph{The Man Who Shocked The World: The Life and Legacy of Stanley Milgram} Public Affairs, p. 201.}.)
 
 \begin{itemize}
 \item Zimbardo \slash  Research committee - revisions to the 1968 code of ethics.
@@ -5668,8 +5722,16 @@ Research Reports&\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1974 prop
 
 \textbf{Papers to be distributed (if activities are approved)}
 
-An Experimental Study of the Small World Problem. (1969). An Experimental Study of the Small World Problem, 32(4), 425–443. http:\slash \slash doi.org\slash 10.2307\slash 2786545?refreqid=search-gateway:a88fe1dd7db6336d575e302c0c15221e
-\newpage
+\begin{itemize}
+\item 1975---Following approval of \fullref{researchtask:milgram}:
+
+\begin{itemize}
+\item Experimental Study of the Small World Problem. (1969). An Experimental Study of the Small World Problem, 32(4), 425–443. http:\slash \slash doi.org\slash 10.2307\slash 2786545?refreqid=search-gateway:a88fe1dd7db6336d575e302c0c15221e Included as \fullref{smallworld} in the Instructor's Manual.
+<!--\newpage
+
+\end{itemize}
+
+\end{itemize}
 
 \subsection{Proposals that may come up according to game play}
 \label{proposalsthatmaycomeupaccordingtogameplay}
@@ -6811,6 +6873,151 @@ Received PhD at youngest age (21) of any APA President \\
 
 ~\citep{Hogan:1994wi}
 
+\subsection{Actual history}
+\label{actualhistory}
+
+\subsubsection{Little Albert}
+\label{littlealbert}
+
+Contrary to most textbooks that repeat the myth that `Little Albert' was successfully deconditioned by Watson, was adopted by a family in North Baltimore and went on to live a long, happy, normal life; there is recent evidence to suggest that Little Albert died as a child. 
+
+Using photographs from the family and FBI forensics experts, Beck et al. (2009) argue that `Little Albert' was likely Douglas Merritte, who died at age 6 of acquired hydrocephalus, after his mother had left Hopkins. Watson never deconditioned Little Albert, and we simply have no evidence to determine if his conditioned fears remained until his death. ~\citep{Beck:wk}
+
+The authors conclude:
+
+\begin{quote}
+
+None of the folktales we encountered during our inquiry had a factual basis. There is no evidence that the baby's mother was `outraged‚' at her son's treatment or that Douglas's phobia proved resistant to extinction. Douglas was never deconditioned, and he was not adopted by a family north of Baltimore.
+
+Nor was he ever an old man. Our search of seven years was longer than the little boy's life. I laid flowers on the grave of my longtime `companion' turned, and simultaneously felt a great peace and profound loneliness. ~\citep{Beck:wk}
+\end{quote}
+
+The APA's Monitor carried the story January 2010 (~\citep{LittleAlbertrega:2010ig})
+
+There were a number of blog posts that followed, including: http:\slash \slash mindhacks.com\slash 2009\slash 10\slash 22\slash little-albert-lost-and-found. And a BBC special: https:\slash \slash www.youtube.com\slash watch?v=KJnJ1Q8PAJk
+
+In 2012, however, a study by Nancy Digdon and Russell Powell called Beck’s findings into doubt. Hey found that there was another child at Hopkins at the time named William Albert Barger who fits the description of Little Albert---and he went on to have a normal adult life.\footnote{See https:\slash \slash www.chronicle.com\slash interactives\slash littlealbert.} ~\citep{Powell:vw}
+
+\subsubsection{Socarides and Bieber}
+\label{socaridesandbieber}
+
+The dates I used in the introduction are not exact, although I've tried to remain faithful where I could. Part of the problem here is that many of the stories that are circulated, even by eyewitnesses, vary. Ron Gold, for example, dates the events in Hawaii to 1972, but the APA records the 1972 conference in Dallas, and the Hawaii conference to 1973. 
+
+The Dr. H. Anonymous speech actually happened in 1972 during a symposium titled “Psychiatry: Friend or Foe to Homosexuals: A Dialogue”. It also featured Kameny and Gittings in addition to John Fryer.
+
+In 1971, Kameny, and Gittings held a panel titled “Lifestyles of non-patient homosexuals,” which the participants joking referred to as “Lifestyles of impatient homosexuals.” It featured Larry Littlejohn of the Society for Individual Rights in San Francisco, Del Martin, a founder the Lesbian activist organization Daughters of Bilitis, Lilli Vincenz, another lesbian activists, and Jack Baker, the gay president-elect of the student body of the University of Minnesota. I've found a number of websites and personal stories that get these two distinct events confused. At the risk of perpetuating these confusions, I've combined them into a single event in 1971.
+
+Socarides petitioned the New York District branch of the APA for his task force on sexual deviation---\emph{NOT} the national organization. It was granted, and his report filed in 1972. The leadership then rejected his report, on the grounds that its basis in psychoanalytic theory was unacceptable. 
+
+Complicating matters was the existence of NARTH---the National Association for Research and Treatment of Homosexuality---, which has been adopted by many on the religious right in recent years. In 1995, Socarides gave an interview to the NY Times, promoting his book \emph{Homosexuality: A Freedom Too Far - A Psychoanalyst Answers 1,000 Questions About Causes and Cure and the Impact of the Gay Rights Movement on American Society}, in which he claimed that the declassification occurred because of political pressure and not scientific evidence. The themes of the interview will be familiar to anyone with even tangential knowledge of the rhetoric of the far right: persecution of conservatives, liberal media bias, gay agendas and conspiracies, etc. Charles Socarides' son, Richard Socarides, who is gay, became a gay activist, advised President Clinton on LGBT issues, and ultimately was elected to the presidency of the activist organization `Equality Matters.' \footnote{He is also an alumni of my undergraduate college, Antioch.} That fact has lead many defenders of Socarides to accuse any press figure who mentions it of making an `ad hominem' attacks against Socarides. 
+
+NARTH continued until 2017 under the directorship of Socarides' student Joseph Nicolosi. Nicolosi passed away on March 8th, 2017, and NARTH shut down as a consequence.
+
+\begin{figure*}
+ \begin{center}
+
+ 
+\includegraphics{../images/Nicolosi-Obit-2017.png}
+\end{center}
+ \caption{Screenshot of message posted on NARTH homepage after death of Nicolosi}
+\label{fig: nicolosi}
+\end{figure*}
+
+
+The UK Newspaper `The Independent' ran a story in January 2010 by Patrick Strudwick about his experience in gay-to-straight conversion program inspired by Nicolosi. The story created a national concern about psychiatrists in the UK who still may be offering psychotherapy to `treat' or `cure' homosexuality. The story is available here: http:\slash \slash www.independent.co.uk\slash life-style\slash health-and-families\slash features\slash the-exgay-files-the-bizarre-world-of-gaytostraight-conversion--1884947.html
+
+\subsubsection{Leona Tyler Principle \slash  Goldwater Rule}
+\label{leonatylerprinciplegoldwaterrule}
+
+Following the Goldwater affair, the American Psychiatric Association added section7.3 to their ``The Principles of Medical Ethics With Annotations Especially Applicable to Psychiatry,'' which states:
+
+\begin{quote}
+
+On occasion psychiatrists are asked for an opinion about an individual who is in the light of public attention or who has disclosed information about himself\slash herself through public media. In such circumstances, a psychiatrist may share with the public his or her expertise about psychiatric issues in general. However, it is unethical for a psychiatrist to offer a professional opinion unless he or she has conducted an examination and has been granted proper authorization for such a statement.
+\end{quote}
+
+This section has become known as `The Goldwater Rule.' For a full history, see Mayer, John D. (2010) “The Goldwater Rule: The rationale of the Goldwater Rule” Psychology Today Blog (http:\slash \slash www.psychologytoday.com\slash blog\slash the-personality-analyst\slash 201005\slash the-goldwater-rule)
+
+The American Psychological Association adopted `Leona Tyler principle' was adopted in 1973 by the American Psychological Association, and still holds today. It states:
+
+\begin{quote}
+
+As citizens, members of the APA have the right to advocate for any cause through the myriad of political advocacy organizations, but when psychologists and psychiatrists speak for the profession through APA public stances and proclamations, it should be from science and professional experience. 
+\end{quote}
+
+The principle was named for Leona Tyler simply because she was president at the time, not necessarily because she advocated for it, as she does in this game. 
+
+There was a flurry of discussion about the Goldwater rule and the Leona Tyler Principle during and after the 2016 Presidential Election of Donald Trump. Notably, the American Psychoanalysts Association lifted it's equivalent rule so the membership could speak about Trump's mental health (https:\slash \slash gizmodo.com\slash american-psychoanalytic-association-says-its-members-ar--1797247879)
+
+\subsubsection{Demedicalization}
+\label{demedicalization}
+
+The story of the demedicalization of homosexuality as a mental illness has been retold a couple of times in recent years. Famously, Alix Spiegel, grandson of the actual John P. Spiegel, produced a version of the story for NPR's show `This American Life'. The episode, named `81 words' is available online at http:\slash \slash www.thisamericanlife.org\slash radio-archives\slash episode\slash 204\slash 81-words. It is an excellent retelling of these events, and partially inspired this game. Ron Gold's retelling of the event is available here: http:\slash \slash www.queerstories.org\slash custom.html.
+
+In the character sheet for Spitzer, I express some doubts about the standard story told by Spiegel, because Spitzer's timing and motivation for inserting himself into the controversy doesn't seem to match up for normal person. However, as I was to learn, Spitzer is not a `normal' person.
+
+In a 2005 issue of The New Yorker Magazine, Spiegel writes that:
+
+\begin{quote}
+
+Despite Spitzer’s genius at describing the particulars of emotional behavior, he didn’t seem to grasp other people very well. Jean Endicott, his collaborator of many years, says, “He got very involved with issues, with ideas, and with questions. At times he was unaware of how people were responding to him or to the issue. He was surprised when he learned that someone was annoyed. He’d say, ‘Why was he annoyed? What’d I do?’” After years of confrontations, Spitzer is now aware of this shortcoming, and says that he struggles with it in his everyday life. “I find it very hard to give presents,” he says. “I never know what to give. A lot of people, they can see something and say, ‘Oh, that person would like that.’ But that just doesn’t happen to me. It’s not that I’m stingy. I’m just not able to project what they would like.” Frances argues that Spitzer’s emotional myopia has benefitted him in his chosen career: “He doesn’t understand people’s emotions. He knows he doesn’t. But that’s actually helpful in labeling symptoms. It provides less noise.”
+\end{quote}
+
+If this is correct, I am wrong in my assertion that it was implausible for the Chair of the Nomenclature Committee to attend a speech in New York by Socarides' without expectating of a demonstration. If Spitzer, by his own account, can't imagine what someone else would like as a gift, how can we expect him to imagine how much anger there was in the Gay community towards Socarides?
+
+After much thought, I decided to leave my assertion in the role sheet, because this is `Reacting' to the past, not ``Recreating'' the past. A student playing the part needs to think himself or herself into Spitzer's \emph{position}, not his \emph{mind}---and whatever unique mind Robert Spitzer has, it is probably uncommon in undergraduates.
+
+\subsubsection{Marr}
+\label{marr}
+
+David Marr joins Miller and Chomsky at MIT in 1977 and died in 1980 of Leukemia. His posthumously published book \emph{Vision} is still standard reading in Cognitive Science courses.
+
+\subsubsection{Spitzer Task force}
+\label{spitzertaskforce}
+
+See ch 3 of ~\citep{Kutchins:9eEZL39p}. 
+
+\begin{quote}
+
+Homodysphilia was proposed by Spitzer without consultation with the subcommittee on human sexuality. Green sent Spitzer a strongly worded criticism of both the classification and the method Spitzer used to introduce it and resigns in protest. Spitzer constructs a `survey' instrument that he sends out to the entire taskforce and finds that there isn't enough agreement on the issue to leave it with the subcommittee, and presents the idea to the entire taskforce, thus outmaneuvering Green. The committee narrowly approves `ego-dystonic homosexuality', but isn't thrilled. Judd Marmor, who voted in favor, writes later that he would have preferred no mention of homosexuality, but politics required it.
+\end{quote}
+
+\subsubsection{Aversion Therapy}
+\label{aversiontherapy}
+
+\begin{quote}
+
+(from wikipedia) Since 1994, the American Psychological Association has declared that aversion therapy is a dangerous practice that does not work.[citation needed] Since 2006, the use of aversion therapy to treat homosexuality has been in violation of the codes of conduct and professional guidelines of the American Psychological Association and American Psychiatric Association. The use of aversion therapy to treat homosexuality is illegal in some countries. The standard in psychotherapy in America and Europe is currently Gay Affirmative Psychotherapy. Guidelines for Gay Affirmative Psychotherapy can be found by APA. [4]
+\end{quote}
+
+From Issues in Psychotherapy with Lesbian and Gay Men: A Survey of Psychologists. Linda Garnets, Los Angeles, CA Kristin A. Hancock, Berkeley, CA Susan D. Cochran, California State University, Northridge Jacqueline Goodchilds, University of California, Los Angeles Letitia Anne Peplau, University of California, Los Angeles. Report of the APA. http:\slash \slash search.apa.org\slash search?facet=classification\%3aSexuality\textbar{}\textbar{}classification\%3aTherapy\&query=Aversion\%20Therapy
+
+\begin{quote}
+
+In 1975, the American Psychological Association (APA) took a strong stance regarding bias toward lesbians and gay men, resolving that homosexuality per se implies no impairment in judgment, reliability or general social and vocational abilities (see Appendix A for the full text of the resolution). The APA urged psychologists to take the lead in removing the stigma of mental illness long associated with homosexual orientations (Conger, 1975). In recent years, attention has been drawn to ways in which a client's ethnicity, gender, sexual orientation, or physical disability can affect clinical judgment and treatment strategies. There has been a corresponding effort to develop guidelines to help practitioners avoid bias in psychotherapy (APA, 1975). Recognizing that practice does not spontaneously or quickly follow policy changes, the Committee on Lesbian and Gay Concerns (CLGC), sponsored jointly by the Board of Social and Ethical Responsibility in Psychology (BSERP) and the Board of Professional Affairs (BPA), formed a task force in 1984 to investigate the range of bias that may occur in psychotherapy with lesbians and gay men. This article is an abridged report of the task force's research, findings, and recommendations.
+\end{quote}
+
+\subsubsection{Reparative therapy}
+\label{reparativetherapy}
+
+See discussion of NARTH in \fullref{demedicalization} above.
+
+The American Psychological Association rejected reparative therapy most recently in 2009. The American Psychiatric Association in 2000, and the American Psychoanalytic Association in 2012. For the full list, see the Human Rights Campaign’s list: https:\slash \slash www.hrc.org\slash resources\slash policy-and-position-statements-on-conversion-therapy
+
+\subsubsection{Evelyn Hooker}
+\label{evelynhooker}
+
+E. Hooker was given 1991 Award for Distinguished Contribution to Psychology in the Public Interest, presented by the American Psychological Association. The citation read:
+
+\begin{quote}
+
+“When homosexuals were considered to be mentally ill, were forced out of government jobs, and were arrested in police raids, Evelyn Hooker courageously sought and obtained research support from the National Institute of Mental Health (NIMH) to compare a matched sample of homosexual and heterosexual men. Her pioneering study, published in 1957, challenged the widespread belief that homosexuality is a pathology by demonstrating that experienced clinicians using psychological tests widely believed at the time to be appropriate could not identify the nonclinical homosexual group. This revolutionary study provided empirical evidence that normal homosexuals existed, and supported the radical idea then emerging that homosexuality is within the normal range of human behavior. Despite the stigma associated with homosexuality, she received an NIMH Research Career Award in 1961 to continue her work. In 1967, she became chair of the NIMH Task Force on Homosexuality, which provided a stamp of validation and research support for other major empirical studies. Her research, leadership, mentorship, and tireless advocacy for an accurate scientific view of homosexuality for more than three decades has been an outstanding contribution to psychology in the public interest."
+\end{quote}
+
+She reflects on the award here: http:\slash \slash psychology.ucdavis.edu\slash rainbow\slash html\slash hooker\_address.html I relied heavily on this reflection in the writing the role sheet
+
+1997 resolution: http:\slash \slash psychology.ucdavis.edu\slash rainbow\slash HTML\slash resolution97.html
+
 \section{After this era}
 \label{afterthisera}
 
@@ -6905,6 +7112,8 @@ Zucker, K. and J. Drescher, Eds. (2006). Ex-Gay Research: Analyzing the Spitzer 
 
 \section{Real-world papers}
 \label{real-worldpapers}
+
+The real-world examples are summaries of existing psychological experiments during the era. They were written by my students as a part of gameplay over a couple of instances, and edited and revised by myself.
 
 \subsection{Mental rotation}
 \label{mentalrotation}
@@ -7143,12 +7352,14 @@ Cook, J. “John P. Spiegel, 80, Expert on Violence And Combat Stress” New Yor
 \startcontents[rolesheets]
 \printcontents[rolesheets]{l}{0}{\chapter*{Table of Contents}\setcounter{tocdepth}{2}}
 
-\listoftheorems[ignoreall,show={mycommittees,myassign,myresearch}]
+\listoftheorems[ignoreall,show={mycommittees,myassign,myresearch,myproposal}]
 
 
 \renewcommand*{\thechapter}{\arabic{chapter}}
 \setcounter{chapter}{0}
 \mainmatter
+
+Many thanks to my students over the years, who have edited and contributed to these roles sheets.
 
 \chapter{George W. Albee, PhD}
 \label{georgew.albeephd}
@@ -7228,13 +7439,20 @@ Officially neutral, but the arguments from the GayPA that the classification \em
 \label{research}
 
 You don’t have a strong position in the research agenda, however you should find opportunities to support any psychological science---as opposed to psychiatric science---and anything that steers away from the medical model of psychology.
+\begin{proposal}[Albee]\label{proposal:albee}
+Propose to limit psychiatric practice to the administration of drugs, not counseling or 'talk-therapy.' Preferably 1972.
+\end{proposal}
 
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
 
-Organize a symposium with Thomas Szasz on the suitability of the medical model for psychiatric treatment. This will be best in 1972 before the debate on the DSM-III gets moving in 1973.\begin{writingtask}[Albee - 1972]\label{writingtask:albee}
+Organize a symposium with Thomas Szasz on the suitability of the medical model for psychiatric treatment. This will be best in 1972 before the debate on the DSM-III gets moving in 1973.\begin{writingtask}[Albee]\label{writingtask:albee}
 Present a paper during a symposium on the suitability of the medical model of psychological and psychiatric treatment. Preferably 1972.
 \end{writingtask}
+
+There will likely be a proposal to limit the treatment of mentally disordered patients to psychiatrists, you should not only fight against it, but propose a separate system of treatment run entirely by psychologists. Your proposal should call for the establishment of various centers that would train, certify and deliver mental health services, in competition with psychiatry. 
+
+In your continued fight against Psychiatry, check out \fullref{sample: APAEthics1968}, point e, which was added in 1968. You should work to get this removed or changed so psychologists can also work with psychotropics in their practice as well.
 
 \subsubsection{Social responsibilities of social scientists}
 \label{socialresponsibilitiesofsocialscientists}
@@ -7245,8 +7463,6 @@ Neutral, but take a position consistent with your vision of psychology.
 \label{definitionof‘mentalillness’andfissionoftheapa}
 
 Oppose any definition that uses the medical model or medical language.
-
-There will likely be a proposal to limit the treatment of mentally disordered patients to psychiatrists, you should not only fight against it, but propose a separate system of treatment run entirely by psychologists. Your proposal should call for the establishment of various centers that would train, certify and deliver mental health services, in competition with psychiatry. Check out \fullref{sample: APAEthics1968}, point e, which was added in 1968. You should work to get this removed or changed so psychologists can also work with psychotropics in their practice.
 
 \section{Game Note:}
 \label{gamenote:}
@@ -7337,7 +7553,7 @@ Officially neutral, but make sure that whatever happens, the decision is made on
 \subsubsection{Research}
 \label{research}
 
-\begin{writingtask}[Anastasi - 1972]\label{writingtask:anastasi}
+\begin{writingtask}[Anastasi]\label{writingtask:anastasi}
 Present a paper outlining psychometrics and the use of statistical measures in psychology. Preferably in concert with Spitzer’s ‘Feighner criteria’ in 1972.
 \end{writingtask}
 
@@ -7346,7 +7562,10 @@ Present a paper outlining psychometrics and the use of statistical measures in p
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
 
-During the time that the DSM-III revisions are taking place, you should run for president and propose two new standing committees of the APA. It is important to gain support of the other women of the APA in making these proposals.
+During the time that the DSM-III revisions are taking place, you should run for president and propose two new standing committees of the APA. It is important to gain support of the other women of the APA in making these proposals.\begin{proposal}[Anastasi]\label{proposal:anastasiA}
+Create the Committee on Women in Psychology, when President.
+\end{proposal}
+
 \textbf{The Committee on Women in Psychology}, which will focus on the issues facing women in the profession, and The Committee on the Psychology of Women, which will focus on studying women's minds as a specialization within the discipline. From the current website of the committee on women in psychology:\footnote{http:\slash \slash www.apa.org\slash pi\slash women\slash committee\slash index.aspx In reality, the committee began as a taskforce under Helen Astin in 1970, but became a standing committee in 1973. See Freedheim, D. “The APA Committee on Women in Psychology” in Handbook of psychology, v. 1, p. 261}
 
 Specifically, the committee will undertake the following priority tasks
@@ -7386,6 +7605,10 @@ Goal VI: Collaborating with others as needed to achieve the empowerment of under
 Goal VII: Promoting the generation and communication of knowledge about women’s lives
 \end{quote}
 \end{quote}
+
+\begin{proposal}[Anastasi]\label{proposal:anastasiB}
+Create a  new division of the APA called the "Society for the Psychology of Women", when President.
+\end{proposal}
 
 As well as a new Division of the APA: the \textbf{Society for the Psychology of Women}:\footnote{http:\slash \slash www.apa.org\slash about\slash division\slash div35.aspx In reality, Florence Denmark is credited with creating Division 35 despite resistance from the APA administration. See Freedheim, D. “The Society for the Psychology of Women of the American Psychological Association” in Handbook of psychology, v. 1, p. 261 and Mendick \& Urbanski (1991).}
 
@@ -7519,6 +7742,8 @@ Your paper should use the real, historical example of the Supreme Court’s Brow
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
 
+\begin{proposal}[Clark]\label{proposal:clark}Propose an Affirmative Action plan for Psychology and Psychology in 1975\end{proposal}
+
 In 1975, propose an affirmative action plan for psychology and psychiatry. Here's the real language. You should adapt it to your needs:
 
 \begin{quote}
@@ -7594,21 +7819,28 @@ No initial committee membership, but eligible to run for any.
 \label{demedicalization}
 
 Officially neutral, but your interest in equal medical and psychological treatment for women extends to the treatment of lesbians.
+\begin{proposal}[Fordney-Settlage]\label{proposal:fordneysettlage}
+Find a compromise between Albee and Hopcke regarding the proper roles of both psychiatry and psychology.
+\end{proposal}
 
 \subsubsection{Research}
 \label{research}
 
-In 1972, propose to the research committee a study on the sexual experiences of younger women who are seeking contraceptives for the first time, based on her actual 1973 paper.
+\begin{researchtask}[Fordney-Settlage]\label{researchtask:fordneysettlage}
+Give a paper critiquing the history of psychiatric and psychological theory of sexuality as overly focused on male sexuality Preferably 1975.
+\end{researchtask}
+
+In 1972, propose to the research committee a study on the sexual experiences of younger women who are seeking contraceptives for the first time, based on her actual 1973 paper. 
+
+In 1975, give a paper critiquing the history of psychiatric and psychological theory of sexuality as overly focused on male sexuality. You should be specific here – the game book appendicies contain the small amount of work by Freud on Lesbianism, and Krafft-Ebbing's \emph{Psychopathia Sexualis} contains a brief mention at the very end. Jung's theories of female homosexuality are worth exploring as well. Consider how `normal' sexual maturation has been defined in male terms, and how the explanations are inequal (i.e. compare the `Oedipal complex' to the `Electra complex'). This will take some work. Be specific and as thorough as you can – it will be important to consider as the DSM-III is considered.
 \begin{writingtask}[Fordney-Settlage]\label{writingtask:fordneysettlage}
 Give a paper critiquing the history of psychiatric and psychological theory of sexuality as overly focused on male sexuality Preferably 1975.
 \end{writingtask}
 
-In 1975, give a paper critiquing the history of psychiatric and psychological theory of sexuality as overly focused on male sexuality. You should be specific here – the game book appendicies contain the small amount of work by Freud on Lesbianism, and Krafft-Ebbing's \emph{Psychopathia Sexualis} contains a brief mention at the very end. Jung's theories of female homosexuality are worth exploring as well. Consider how `normal' sexual maturation has been defined in male terms, and how the explanations are inequal (i.e. compare the `Oedipal complex' to the `Electra complex'). This will take some work. Be specific and as thorough as you can – it will be important to consider as the DSM-III is considered.
-
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
 
-As you straddle the fence between the MD and PhDs, the Medical doctors and the Psychologists, you are in the unique position to create a compromise between Albee and Spitzer regarding the rights and duties of the psychologists and psychiatrists in the treatment of patients in 1972.
+As you straddle the fence between the MD and PhDs, the Medical doctors and the Psychologists, you are in the unique position to create a compromise between Albee and Hopcke regarding the rights and duties of the psychologists and psychiatrists in the treatment of patients in 1972.
 
 Make certain that female sexuality is not maligned as a psychological disorder in the DSM-III or the definition of `mental health.' 
 
@@ -7681,7 +7913,10 @@ Strong proponent for demedicalization, member of the GayPA. Work with your fello
 .“I am a homosexual, and a psychiatrist.” during the scheduled 1971 panel discussion “Psychiatry: Friend or Foe to Homosexuals: A Dialogue”
 \end{writingtask}
 
-In 1974, propose that the deem ban the use of aversion therapy in the treatment of homosexuality immoral. You should research some of the first-hand stories available on http:\slash \slash www.treatmentshomosexuality.org.uk\slash  to make your case.
+In 1974, propose that the APA deem the use of aversion therapy in the treatment of homosexuality immoral. You should research some of the first-hand stories available on http:\slash \slash www.treatmentshomosexuality.org.uk\slash  to make your case.
+
+\begin{proposal}[Fryer]\label{proposal:fryer}
+propose that the APA deem the use of aversion therapy in the treatment of homosexuality immoral\end{proposal}
 
 \subsubsection{Social responsibilities of social scientists}
 \label{socialresponsibilitiesofsocialscientists}
@@ -7767,6 +8002,9 @@ Give a formal presentation of the findings of the Kinsey report in 1972, highlig
 
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
+
+\begin{proposal}[Gebhard]\label{proposal:gebhard}
+Submit a proposal to have the APA formally recognize Evelyn Hooker for her Distinguished Contribution to Psychology in the Public Interest.\end{proposal}
 
 Submit a proposal to have the APA formally recognize Evelyn Hooker for her Distinguished Contribution to Psychology in the Public Interest.
 
@@ -7877,7 +8115,7 @@ You should maintain `zapping' events where you determine discrimination, or the 
 \subsubsection{Research}
 \label{research}
 
-Help organize a symposium in 1973 on the topic of “Should Homosexuality Be in the APA Nomenclature?” Green, Marmor, Bieber, Socarides and Spitzer should speak.
+Help Gold organize a symposium in 1973 on the topic of “Should Homosexuality Be in the APA Nomenclature?” Green, Marmor, Bieber, Socarides and Spitzer should speak.
 
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
@@ -8312,6 +8550,10 @@ Indeterminate
 \subsubsection{Research}
 \label{research}
 
+\begin{proposal}[Tyler]\label{proposal:tyler}
+Propose the Leona Tyler principle. (probably 1973)
+\end{proposal}
+
 You should present a paper introducing your view of counseling and a `hopeful' psychology (based on your actual 1973 presidential address) whether or not you are elected president. If elected president, this should be your presidential address. If not, you'll have to propose it as a conference paper to the Program committee.
 
 \subsubsection{Association Business \slash  DSM-III}
@@ -8510,19 +8752,25 @@ Nomenclature committee chair.
 \subsubsection{Demedicalization}
 \label{demedicalization}
 
+\begin{proposal}[Spitzer]\label{proposal:spitzerB} remove homosexuality from 302.00 immediately\end{proposal}
+
 In 1973, work with Ron Gold to draft a proposal to remove homosexuality immediately. The argument here is the one alluded to above: the listing of `homosexuality' in the official nomenclature does more harm than good, and that is unconscionable for a medical doctor.
 
 \subsubsection{Research}
 \label{research}
+
+\begin{researchtask}[Spitzer]\label{researchtask:spitzer} Meta-analysis of the reliability of psychiatric diagnoses, 1973.\end{researchtask}
 
 Propose a meta-study on the reliability of psychiatric diagnosis in '73, as discussed in the narrative above.
 
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
 
-Also in 1973, through the Nomenclature committee, propose a new DSM that will be based on descriptions of symptoms, not etiology of the condition.
+\begin{proposal}[Spitzer]\label{proposal:spitzerA} through the Nomenclature committee, propose a new DSM that will be based on descriptions of symptoms, not etiology of the condition.\end{proposal}
 
-Also in '73, propose that the nomenclature committee be disbanded, and the task of producing a new DSM be given to a taskforce under your direction.
+1972, through the Nomenclature committee, propose a new DSM that will be based on descriptions of symptoms, not etiology of the condition.
+
+\begin{proposal}[Spitzer]\label{proposal:spitzerC} Also in '73, propose that the nomenclature committee be disbanded, and the task of producing a new DSM be given to a taskforce under your direction.\end{proposal}Also in '73, propose that the nomenclature committee be disbanded, and the task of producing a new DSM be given to a taskforce under your direction.
 
 \begin{writingtask}[Spitzer]\label{writingtask:spitzer}
 Present a paper on the Feighner Criteria to the APA in 1972, distinguishing it from the approach of the DSM-II.
@@ -8537,6 +8785,11 @@ Indeterminate
 \label{definitionof‘mentalillness’andfissionoftheapa}
 
 Hold an open hearing in '74 on the definition of mental illness. The narrative above suggests a course of compromises you may propose.
+
+\begin{proposal}[Spitzer]\label{proposal:spitzerD}
+Propose the taskforce definition of Mental Illness in 1975.\end{proposal}
+
+Propose the taskforce definition of Mental Illness in 1975.
 
 \textbf{Fission:} Stick with the APA.
 
@@ -8603,6 +8856,7 @@ Your most recent book, The Manufacture of Madness: A Comparative Study of the In
 \label{victoryobjectives}
 
 Take your role as gadfly seriously. Question everyone and everything. Object strongly to speakers to assert, without evidence, explanations that appeal to non-existent entities, or that classify actions (behaviors) as states of being.
+
 The re-writing of the DSM is an important moment in the history of psychology. While you agree with many of the critiques of the DSM-II, you worry that those leading the charge for a new DSM have ulterior motives. The economics of medicine is increasingly dependent upon both medical insurance (a new entity in the American economy) and pharmaceuticals. Both of these entities are highly regulated; and both insist on careful categorization and `scientific reliability' before paying for treatments. You suspect that some of the individuals (including Robert Spitzer) involved in the rewriting of the DSM are motivated not by a dissatisfaction with the scientific validity of existing categories like you, but rather to create a diagnostic manual that will meet the requirements of the insurance and pharmaceutical companies. A DSM that results from these pressures, and not intellectual virtues, will reflect more the demands of economic policy than concern for patients well-being.
 
 At the same time, you want to promote your theory of psychiatry as analysis of sign-behavior as a relevant alternative to psychoanalysis. To that end, you strongly support anything that characterizes psychology as talk-therapy, but reject any attempt to replace talk therapy with psychoactive drugs.
@@ -8638,13 +8892,17 @@ Officially neutral, but since you’re against the medicalization of \emph{all} 
 \subsubsection{Research}
 \label{research}
 
-Propose either a paper in which you critique the medical model used by psychiatry, or collaborate with G. Albee on a symposium on the medical model. This would be best presented in 1972, before the DSM-III is in the works.
+Propose either a paper in which you critique the medical model used by psychiatry, or collaborate with G. Albee on a symposium on the medical model. This would be best presented in 1972, before the DSM-III is in the works. \begin{researchtask}[Szasz]\label{researchtask:szasz}
+Propose a study of how well psychiatric hospitals recognize sane behavior of current patients, like that of Rosehan, 1973.
+\end{researchtask}
+
+Propose a study of the practice of hospitals with the mental ill based on Rosehan, 1973. The Game Master has a summary for you to review, but basically, coach a number of collaborators on symptoms of schizophrenia that are likely to get them admitted to a psychiatric hospital. Send them out with instructions to get admitted. But once admitted, they should all stop their ``symptoms'' immediate, and record how long it takes them to be released.
 
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
 
 \begin{writingtask}[Szasz]\label{writingtask:szasz}
-Present a version of your argument in *Myth of Mental Illness* in 1971. This is already on the schedule, so you should get working now. Also, hold a symposium with Albee in 1972.
+Present a version of your argument in *Myth of Mental Illness* during the symposium on the 'Medical model' in 1972. This is already on the schedule, so you should get working now. 
 \end{writingtask}
 
 No specific views on the individual issues related to the DSM-III, but your views that Mental Illness is a myth means your essentially opposed to the whole project.
@@ -8728,7 +8986,10 @@ No initial memberships, but eligible for any position
 \subsubsection{Demedicalization}
 \label{demedicalization}
 
-Working with J. Speigel, petition the Board of Directors in 1971 to create a task force to conduct a historical survey and literature review on the Psychiatric and Psychological treatment of homosexuality. The task force should be be balanced between psychologists and psychiatrists, so you need a psychiatrist to support the effort – E. Hooker, G. Albee and John P. Spiegel are a good choices. Prepared to turn in a report by 1972.
+\begin{proposal}[Green]\label{proposal:green}
+Propose a task force to study the history of the treatment of homosexuality, and its basis in evidence. \end{proposal}
+
+Working with J. Speigel, petition the Board of Directors in 1971 to create a task force to conduct a historical survey and literature review on the Psychiatric and Psychological treatment of homosexuality. The task force should be be balanced between psychologists and psychiatrists, so you need a psychiatrist to support the effort – E. Hooker and G. Albee are a good choices. Prepared to turn in a report by 1972.
 
 Oppose any effort to put the issue of demedicalization to a vote of the general membership.
 
@@ -8746,6 +9007,10 @@ Propose a sample experiment about counseling -- the gamester has an example for 
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
 
+\begin{proposal}[Green]\label{proposal:green} Propose a new journal titled *Archives of Sexual Behavior* to the Board in 1973\end{proposal}
+
+Propose a new journal titled \emph{Archives of Sexual Behavior} to the Board in 1973. If they do not agree, create it when you create the the International Academy of Sex Research (IASR) in 1975.
+
 Get on the Spitzer Taskforce to rewrite the DSM. You should adamantly oppose any efforts to reintroduce homosexuality—in any form—to the nomenclature. If Spitzer tries to introduce something like `homodysphilia' or `ego-dystonic homosexuality', resign from the task force in a grand, public way (like storming out of class).
 
 \begin{writingtask}[Green]\label{writingtask:green}
@@ -8761,8 +9026,6 @@ Indeterminate
 \label{definitionof‘mentalillness’andfissionoftheapa}
 
 \emph{When, and if, the game reaches a point of trying to define mental illness}, you must pass a psychoanalytic interpretation of mental disorder \slash  illness.
-
-Propose a new journal titled \emph{Archives of Sexual Behavior} to the Board in 1973. If they do not agree, create it when you create the the International Academy of Sex Research (IASR) in 1975.
 
 \emph{Fission:} Found (with E. Hooker) the International Academy of Sex Research, and take the \emph{Archives of Sexual Behavior} with you.
 
@@ -8826,6 +9089,9 @@ You are for demedicalization, but you are also for psychoanalysis.
 \label{research}
 
 Indeterminate
+\begin{proposal}[Hopcke]\label{proposal:hopcke}
+Propose to limit medical care of mentally troubled individuals to hospitals, under the supervision of licensed medical doctors (I.e. Psychiatrists)
+\end{proposal}
 
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
@@ -8898,7 +9164,13 @@ Indeterminate
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
 
-Get on the task force or committee that is in charge of writing the DSM-III. Your primary interlocutor in the previous section was probably Spitzer, so you may have some work to get appointed by him. Therefore you have two options to consider: first, you can oppose the creation of the task force entirely, and then get elected to the nomenclature committee, or you can convince Spitzer to add you to his taskforce once it is created.\begin{writingtask}[Leif]\label{writingtask:leif}
+\begin{proposal}[Lief]\label{proposal:lief}Oppose the Nomenclature committee's proposal (probably 1972) to update the DSM with definitions based on observable symptoms rather than underlying cause (etiology)\end{proposal}
+
+The Nomenclature committee will probably propose to do away with the etiological basis of the DSMII, restricting any new definitions of mental illness to observable symptoms, not underlying causes. As a Freudian, you need to to oppose this move---in siding with the behaviorist approach to science, it will forever doom psychoanalysis to a second-class citizen in the psychological and psychiatric world.
+
+\emph{How} you oppose this is up to you. You could demand a vote of the membership, in which case you have the support of your faction. Or you may offer a counter-proposal demanding that any additions to the DSM follow the conceptual structures of the previous two editions. Or you could look for a compromise. 
+
+If the Nomenclature---or Spitzer, who seems a bit of a control freak---starts a task force for the DSM-III, you must get on the task force or committee that is in charge of writing it. Your primary interlocutor in the previous section was probably Spitzer, so you may have some work to get appointed by him. Therefore you have two options to consider: first, you can oppose the creation of the task force entirely, and then get elected to the nomenclature committee, or you can convince Spitzer to add you to his taskforce once it is created.\begin{writingtask}[Leif]\label{writingtask:leif}
 Paper defending the genetic hypothesis as core to taxonomy in 1974, in opposition Spitzer and his proposed 'Feighner criteria.'
 \end{writingtask}
 
@@ -9019,6 +9291,8 @@ None to start, but as a member of the APA is eligible to run for any seat.
 
 \subsubsection{Demedicalization}
 \label{demedicalization}
+
+\begin{proposal}[Socarides]\label{proposal:socarides}In response to Marmor's proposal to delete homosexuality from 302.00 in 1971, propose a taskforce to study sexual deviation and report back to the APA in 1973.\end{proposal}
 
 Propose a taskforce to study sexual deviation in 1971, which will report back to the membership in 1973. Your report should summarize and present your Freudian view carefully.
 
@@ -9165,7 +9439,7 @@ Indeterminate
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
 
-\begin{writingtask}[Bieber]\label{writingtask:anastasi}
+\begin{writingtask}[Bieber]\label{writingtask:bieber}
 Your report should summarize and present your results of working with Homosexual men in New York.
 \end{writingtask}
 
@@ -9255,7 +9529,12 @@ You should make yourself familiar with the sections of the game book titled `A P
 \subsubsection{Demedicalization}
 \label{demedicalization}
 
+\begin{proposal}[Marmor]\label{proposal:marmorA}Proposal to remove homosexuality from 302.00 of the DSM-II.\end{proposal}
+
 In 1971, propose that `homosexuality' be removed from 302.00 of DSM-II. In making this proposal, you should make sure you read out the actual language of 302.
+
+\begin{proposal}[Marmor]\label{proposal:marmorB}Proposal to condemn and retract Socarides and Bieber's paper from 1970 on homosexuality as unscientific
+\end{proposal}
 
 In 1972, after Bieber's report comes in, you should propose a condemnation of Socarides' 1970 JAMA paper as a `monstrous attack on homosexuality'. It is very, very rare for the APA to issue a public condemnation, so you will have to do your homework and be seriously prepared.
 
@@ -9274,7 +9553,7 @@ During the restructuring of the DSM-III, you should be chiefly concerned with pr
 
 Propose a condemnation of Socarides’ paper in 1973.
 \begin{writingtask}[Marmor]\label{writingtask:marmor}
-present your paper “Limitations of Free Association” to the population. The paper is available in Arch. Gen. Psychiat. 22:160-165, 1970. You should read it, and present and defend the data in character.
+present your paper “Limitations of Free Association” during the 'Medical model' symposium in 1972. The paper is available in Arch. Gen. Psychiat. 22:160-165, 1970. You should read it, and present and defend the data in character.
 \end{writingtask}
 
 \subsubsection{Social responsibilities of social scientists}
@@ -9345,7 +9624,9 @@ Start out as member of the nomenclature committee with term expiring 1974. Is el
 \subsubsection{Demedicalization}
 \label{demedicalization}
 
-As a member of the Young Turks, you are dedicated to the demedicalization of homosexuality. If Armor’s initial proposal to remove homosexuality fails, you will work with Green to create a task force to conduct a historical survey of the literature on homosexuality. See ‘Research’ for more info.
+As a member of the Young Turks, you are dedicated to the demedicalization of homosexuality. If Armor’s initial proposal to remove homosexuality fails, you will work with Green to create a task force to conduct a historical survey of the literature on homosexuality. \begin{proposal}[Spiegel]\label{proposal:spiegel}
+Propose a task force to study the history of the treatment of homosexuality, and its basis in evidence.  You present this with Green as a 'compromise' between Marmor and Socarides, but of course, you are Marmor are working together as the Young Turks.
+\end{proposal}
 
 \subsubsection{Research}
 \label{research}
@@ -10072,6 +10353,10 @@ When Bieber and Socarides submit their report on sexual deviation in 1972, you s
 
 \subsubsection{Research}
 \label{research}
+
+\begin{researchtask}[Miller]\label{researchtask:miller}
+Present the data of the 'mental rotation' experiment generated by your class. If you do not have data, or could not run the experiment before the class began, present the data from the original \emph{as if} it was yours.
+\end{researchtask}
 
 In 1971, the gamemaster will introduce a `mental rotation' experiment based in ~\citep{Shepard:1971uf}. You should be prepared to present the data – if your class is using the online psychology laboratory, report your classes' data. If not, report the data from the original.
 

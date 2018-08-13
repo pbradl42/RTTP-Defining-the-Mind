@@ -2990,6 +2990,31 @@
       \field{title}{{History of Psychology}}
       \field{year}{1984}
     \endentry
+    \entry{Kutchins:9eEZL39p}{book}{}
+      \name{author}{2}{}{%
+        {{hash=40459a2e57b419d9010b565ad6a2b7e6}{%
+           family={Kutchins},
+           family_i={K\bibinitperiod},
+           given={Herb},
+           given_i={H\bibinitperiod}}}%
+        {{hash=a84b30cd1b3eb2f50ba839ae5726c8d7}{%
+           family={Kirk},
+           family_i={K\bibinitperiod},
+           given={Stuart},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d94c60ad755151d664c329e9ad197a99}
+      \strng{fullhash}{d94c60ad755151d664c329e9ad197a99}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{1997}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{97022228Herb Kutchins and Stuart A. Kirk.24 cm.Includes bibliographical references (p. [266]-293) and index.}
+      \field{title}{{Making us crazy : DSM : the psychiatric bible and the creation of mental disorders}}
+      \field{year}{1997}
+    \endentry
     \entry{Lilienfeld:2014ws}{book}{}
       \name{author}{4}{}{%
         {{hash=fbe7b597fc89628fa24f2b6cbd7793a8}{%
@@ -3237,6 +3262,9 @@
       \field{year}{2012}
     \endentry
   \endsortlist
+  \missing{Powell:vw}
+  \missing{LittleAlbertrega:2010ig}
+  \missing{Beck:wk}
 \endrefsection
 
 \refsection{3}
