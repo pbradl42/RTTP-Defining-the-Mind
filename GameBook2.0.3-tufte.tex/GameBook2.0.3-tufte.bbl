@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.8 $
+% $ biblatex bbl format version 2.7 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -23,22 +23,21 @@
       \name{author}{2}{}{%
         {{hash=f3d8e5d075fdbc4e193ed7ee19228090}{%
            family={Aldrich},
-           familyi={A\bibinitperiod},
+           family_i={A\bibinitperiod},
            given={R},
-           giveni={R\bibinitperiod}}}%
+           given_i={R\bibinitperiod}}}%
         {{hash=e9a6cfe990ab8f4ae9c2e2e2a8da0b3d}{%
            family={Wotherspoon},
-           familyi={W\bibinitperiod},
+           family_i={W\bibinitperiod},
            given={G},
-           giveni={G\bibinitperiod}}}%
+           given_i={G\bibinitperiod}}}%
       }
       \strng{namehash}{3da5b2402acf06cdffd70626aa44440b}
       \strng{fullhash}{3da5b2402acf06cdffd70626aa44440b}
-      \strng{authornamehash}{3da5b2402acf06cdffd70626aa44440b}
-      \strng{authorfullhash}{3da5b2402acf06cdffd70626aa44440b}
       \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Who's Who in Contemporary Gay and Lesbian History Vol. 2: From World War II to the Present Day}}
@@ -48,15 +47,14 @@
       \name{author}{1}{}{%
         {{hash=bc68bb65f06cae3fca4adc1c8c7606fd}{%
            family={{American Psychological Association}},
-           familyi={A\bibinitperiod}}}%
+           family_i={A\bibinitperiod}}}%
       }
       \strng{namehash}{bc68bb65f06cae3fca4adc1c8c7606fd}
       \strng{fullhash}{bc68bb65f06cae3fca4adc1c8c7606fd}
-      \strng{authornamehash}{bc68bb65f06cae3fca4adc1c8c7606fd}
-      \strng{authorfullhash}{bc68bb65f06cae3fca4adc1c8c7606fd}
       \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{1953}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Ethical Standards of Psychologists}}
@@ -66,15 +64,14 @@
       \name{author}{1}{}{%
         {{hash=bc68bb65f06cae3fca4adc1c8c7606fd}{%
            family={{American Psychological Association}},
-           familyi={A\bibinitperiod}}}%
+           family_i={A\bibinitperiod}}}%
       }
       \strng{namehash}{bc68bb65f06cae3fca4adc1c8c7606fd}
       \strng{fullhash}{bc68bb65f06cae3fca4adc1c8c7606fd}
-      \strng{authornamehash}{bc68bb65f06cae3fca4adc1c8c7606fd}
-      \strng{authorfullhash}{bc68bb65f06cae3fca4adc1c8c7606fd}
       \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{1963}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Ethical standards of psychologists}}
@@ -87,15 +84,14 @@
       \name{author}{1}{}{%
         {{hash=bc68bb65f06cae3fca4adc1c8c7606fd}{%
            family={{American Psychological Association}},
-           familyi={A\bibinitperiod}}}%
+           family_i={A\bibinitperiod}}}%
       }
       \strng{namehash}{bc68bb65f06cae3fca4adc1c8c7606fd}
       \strng{fullhash}{bc68bb65f06cae3fca4adc1c8c7606fd}
-      \strng{authornamehash}{bc68bb65f06cae3fca4adc1c8c7606fd}
-      \strng{authorfullhash}{bc68bb65f06cae3fca4adc1c8c7606fd}
       \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{1968}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Ethical standards of psychologists.}}
@@ -108,15 +104,14 @@
       \name{author}{1}{}{%
         {{hash=bc68bb65f06cae3fca4adc1c8c7606fd}{%
            family={{American Psychological Association}},
-           familyi={A\bibinitperiod}}}%
+           family_i={A\bibinitperiod}}}%
       }
       \strng{namehash}{bc68bb65f06cae3fca4adc1c8c7606fd}
       \strng{fullhash}{bc68bb65f06cae3fca4adc1c8c7606fd}
-      \strng{authornamehash}{bc68bb65f06cae3fca4adc1c8c7606fd}
-      \strng{authorfullhash}{bc68bb65f06cae3fca4adc1c8c7606fd}
       \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{1958}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Standards of ethical behavior for psychologists}}
@@ -129,9 +124,9 @@
       \name{author}{1}{}{%
         {{hash=39cb86342bb5c3ee04d28279346f865a}{%
            family={Andreas},
-           familyi={A\bibinitperiod},
+           family_i={A\bibinitperiod},
            given={Burton},
-           giveni={B\bibinitperiod}}}%
+           given_i={B\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {New York}%
@@ -141,11 +136,10 @@
       }
       \strng{namehash}{39cb86342bb5c3ee04d28279346f865a}
       \strng{fullhash}{39cb86342bb5c3ee04d28279346f865a}
-      \strng{authornamehash}{39cb86342bb5c3ee04d28279346f865a}
-      \strng{authorfullhash}{39cb86342bb5c3ee04d28279346f865a}
       \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{1960}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Experimental Psychology}}
@@ -155,23 +149,23 @@
       \name{author}{1}{}{%
         {{hash=af5b834bd8d75ff4243d5eb22c1803d6}{%
            family={Appignanesi},
-           familyi={A\bibinitperiod},
+           family_i={A\bibinitperiod},
            given={Lisa},
-           giveni={L\bibinitperiod}}}%
+           given_i={L\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {W. W. Norton {\&} Company}%
       }
       \strng{namehash}{af5b834bd8d75ff4243d5eb22c1803d6}
       \strng{fullhash}{af5b834bd8d75ff4243d5eb22c1803d6}
-      \strng{authornamehash}{af5b834bd8d75ff4243d5eb22c1803d6}
-      \strng{authorfullhash}{af5b834bd8d75ff4243d5eb22c1803d6}
       \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{2009}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{8}
+      \field{month}{08}
       \field{title}{{Mad, Bad, and Sad: A History of Women and the Mind Doctors}}
       \field{year}{2009}
     \endentry
@@ -179,17 +173,16 @@
       \name{author}{1}{}{%
         {{hash=44cbb0681a5e70aecdb3f197b25c43ce}{%
            family={Arieti},
-           familyi={A\bibinitperiod},
+           family_i={A\bibinitperiod},
            given={Silvano},
-           giveni={S\bibinitperiod}}}%
+           given_i={S\bibinitperiod}}}%
       }
       \strng{namehash}{44cbb0681a5e70aecdb3f197b25c43ce}
       \strng{fullhash}{44cbb0681a5e70aecdb3f197b25c43ce}
-      \strng{authornamehash}{44cbb0681a5e70aecdb3f197b25c43ce}
-      \strng{authorfullhash}{44cbb0681a5e70aecdb3f197b25c43ce}
       \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{1974}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{73078893Silvano Arieti, editor-in-chief.27 cm.Includes bibliographies.}
@@ -200,17 +193,16 @@
       \name{author}{1}{}{%
         {{hash=238f8ed213a73a1bbf8c880316615cbd}{%
            family={Baars},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Bernard},
-           giveni={B\bibinitperiod}}}%
+           given_i={B\bibinitperiod}}}%
       }
       \strng{namehash}{238f8ed213a73a1bbf8c880316615cbd}
       \strng{fullhash}{238f8ed213a73a1bbf8c880316615cbd}
-      \strng{authornamehash}{238f8ed213a73a1bbf8c880316615cbd}
-      \strng{authorfullhash}{238f8ed213a73a1bbf8c880316615cbd}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1986}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{The Cognitive Revolution in Psychology}}
@@ -220,31 +212,28 @@
       \name{author}{1}{}{%
         {{hash=c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}{%
            family={Bacon},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Francis},
-           giveni={F\bibinitperiod}}}%
+           given_i={F\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
         {{hash=466a6855128d664303cfd25c0228cd3e}{%
            family={Jardine},
-           familyi={J\bibinitperiod},
+           family_i={J\bibinitperiod},
            given={Lisa},
-           giveni={L\bibinitperiod}}}%
+           given_i={L\bibinitperiod}}}%
         {{hash=f031c88b247a04455467d3df0809d2c4}{%
            family={Silverthorne},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={Michael},
-           giveni={M\bibinitperiod}}}%
+           given_i={M\bibinitperiod}}}%
       }
       \strng{namehash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
       \strng{fullhash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
-      \strng{authornamehash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
-      \strng{authorfullhash}{c9b10fcc6ec1e831c3ce7c1e2cfc9b0b}
-      \strng{editornamehash}{e00b9e1ee39be5e4f3d30c2abf470e7a}
-      \strng{editorfullhash}{e00b9e1ee39be5e4f3d30c2abf470e7a}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{99023266Novum organum. EnglishFrancis Bacon ; edited by Lisa Jardine, Michael Silverthorne.24 cm.Includes bibliographical references and index.}
@@ -255,17 +244,16 @@
       \name{author}{1}{}{%
         {{hash=d789fd8eee71f91ab3f2c3ca632c4f92}{%
            family={Bain},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Alexander},
-           giveni={A\bibinitperiod}}}%
+           given_i={A\bibinitperiod}}}%
       }
       \strng{namehash}{d789fd8eee71f91ab3f2c3ca632c4f92}
       \strng{fullhash}{d789fd8eee71f91ab3f2c3ca632c4f92}
-      \strng{authornamehash}{d789fd8eee71f91ab3f2c3ca632c4f92}
-      \strng{authorfullhash}{d789fd8eee71f91ab3f2c3ca632c4f92}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1903}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Dissertations on Leading Philosophical Topics}}
@@ -275,22 +263,21 @@
       \name{author}{2}{}{%
         {{hash=57730b53eaa91aea1093bd2a087488a4}{%
            family={Ball},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Laura},
-           giveni={L\bibinitperiod}}}%
+           given_i={L\bibinitperiod}}}%
         {{hash=c191c23770ee3db6e1ac691c329fe5df}{%
            family={Bazar},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Jennifer},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
       }
       \strng{namehash}{ed9f18ad9ed74eca0d6a08d383b21ecf}
       \strng{fullhash}{ed9f18ad9ed74eca0d6a08d383b21ecf}
-      \strng{authornamehash}{ed9f18ad9ed74eca0d6a08d383b21ecf}
-      \strng{authorfullhash}{ed9f18ad9ed74eca0d6a08d383b21ecf}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Time Capsule}
@@ -305,9 +292,9 @@
       \name{author}{1}{}{%
         {{hash=86e3021bd80d9882c395743621a3087f}{%
            family={Beard},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={George\bibnamedelima Miller},
-           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+           given_i={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {New York}%
@@ -317,11 +304,10 @@
       }
       \strng{namehash}{86e3021bd80d9882c395743621a3087f}
       \strng{fullhash}{86e3021bd80d9882c395743621a3087f}
-      \strng{authornamehash}{86e3021bd80d9882c395743621a3087f}
-      \strng{authorfullhash}{86e3021bd80d9882c395743621a3087f}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1881}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{American Nervousness: its causes and consequences}}
@@ -331,17 +317,16 @@
       \name{author}{1}{}{%
         {{hash=86e3021bd80d9882c395743621a3087f}{%
            family={Beard},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={George\bibnamedelima Miller},
-           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+           given_i={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
       \strng{namehash}{86e3021bd80d9882c395743621a3087f}
       \strng{fullhash}{86e3021bd80d9882c395743621a3087f}
-      \strng{authornamehash}{86e3021bd80d9882c395743621a3087f}
-      \strng{authorfullhash}{86e3021bd80d9882c395743621a3087f}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1875}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{series}{A New and Popular Guide to the Art of Preserving Health and Treating Disease ; with Plain Advice for All the Medical and Surgical Emergencies of the Family ...}
@@ -352,22 +337,21 @@
       \name{author}{2}{}{%
         {{hash=86e3021bd80d9882c395743621a3087f}{%
            family={Beard},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={George\bibnamedelima Miller},
-           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+           given_i={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
         {{hash=533370767f1a4b06548453aff95014e2}{%
            family={Rockwell},
-           familyi={R\bibinitperiod},
+           family_i={R\bibinitperiod},
            given={Alphonso\bibnamedelima David},
-           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+           given_i={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
       \strng{namehash}{6762a03241e73a8b141bbc0a3fe767e5}
       \strng{fullhash}{6762a03241e73a8b141bbc0a3fe767e5}
-      \strng{authornamehash}{6762a03241e73a8b141bbc0a3fe767e5}
-      \strng{authorfullhash}{6762a03241e73a8b141bbc0a3fe767e5}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1867}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{The Medical Use of Electricity}}
@@ -377,17 +361,16 @@
       \name{author}{1}{}{%
         {{hash=83021149400056f4147e7d0b34342287}{%
            family={Bechtel},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={William},
-           giveni={W\bibinitperiod}}}%
+           given_i={W\bibinitperiod}}}%
       }
       \strng{namehash}{83021149400056f4147e7d0b34342287}
       \strng{fullhash}{83021149400056f4147e7d0b34342287}
-      \strng{authornamehash}{83021149400056f4147e7d0b34342287}
-      \strng{authorfullhash}{83021149400056f4147e7d0b34342287}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Discovering cell mechanisms: The creation of modern cell biology}}
@@ -397,29 +380,29 @@
       \name{author}{2}{}{%
         {{hash=83021149400056f4147e7d0b34342287}{%
            family={Bechtel},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={William},
-           giveni={W\bibinitperiod}}}%
+           given_i={W\bibinitperiod}}}%
         {{hash=e4d6407a183bc7397487c2d692bb5bf9}{%
            family={Abramahson},
-           familyi={A\bibinitperiod},
+           family_i={A\bibinitperiod},
            given={Adele},
-           giveni={A\bibinitperiod}}}%
+           given_i={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Wiley-Blackwell}%
       }
       \strng{namehash}{3057e0cbe7499eda8d69e481c72b1395}
       \strng{fullhash}{3057e0cbe7499eda8d69e481c72b1395}
-      \strng{authornamehash}{3057e0cbe7499eda8d69e481c72b1395}
-      \strng{authorfullhash}{3057e0cbe7499eda8d69e481c72b1395}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1999}
+      \field{labelmonth}{09}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{A Companion to Cognitive Science}
-      \field{month}{9}
+      \field{month}{09}
       \field{title}{{The Life of Cognitive Science}}
       \field{year}{1999}
     \endentry
@@ -427,21 +410,21 @@
       \name{author}{1}{}{%
         {{hash=9a1199445fb2876699cba170641b8769}{%
            family={Bernfeld},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Siegfried},
-           giveni={S\bibinitperiod}}}%
+           given_i={S\bibinitperiod}}}%
       }
       \strng{namehash}{9a1199445fb2876699cba170641b8769}
       \strng{fullhash}{9a1199445fb2876699cba170641b8769}
-      \strng{authornamehash}{9a1199445fb2876699cba170641b8769}
-      \strng{authorfullhash}{9a1199445fb2876699cba170641b8769}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1949}
+      \field{labelmonth}{09}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Imago}
-      \field{month}{9}
+      \field{month}{09}
       \field{number}{3}
       \field{title}{{Freud's Scientific Beginnings}}
       \field{volume}{6}
@@ -453,17 +436,16 @@
       \name{author}{1}{}{%
         {{hash=8c0e49f0949c563b4ea272be21061e80}{%
            family={Brown},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Roger\bibnamedelima Langham},
-           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given_i={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
       \strng{namehash}{8c0e49f0949c563b4ea272be21061e80}
       \strng{fullhash}{8c0e49f0949c563b4ea272be21061e80}
-      \strng{authornamehash}{8c0e49f0949c563b4ea272be21061e80}
-      \strng{authorfullhash}{8c0e49f0949c563b4ea272be21061e80}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1972}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Psycholinguistics : selected papers}}
@@ -473,21 +455,21 @@
       \name{author}{1}{}{%
         {{hash=8c0e49f0949c563b4ea272be21061e80}{%
            family={Brown},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Roger\bibnamedelima Langham},
-           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given_i={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
       \strng{namehash}{8c0e49f0949c563b4ea272be21061e80}
       \strng{fullhash}{8c0e49f0949c563b4ea272be21061e80}
-      \strng{authornamehash}{8c0e49f0949c563b4ea272be21061e80}
-      \strng{authorfullhash}{8c0e49f0949c563b4ea272be21061e80}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1968}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Verbal Learning and Verbal Behavior}
-      \field{month}{4}
+      \field{month}{04}
       \field{number}{2}
       \field{title}{{The development of Wh questions in child speech}}
       \field{volume}{7}
@@ -499,28 +481,28 @@
       \name{author}{2}{}{%
         {{hash=c729c785501dd325d544a740d1db66d2}{%
            family={Cacioppo},
-           familyi={C\bibinitperiod},
+           family_i={C\bibinitperiod},
            given={John},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
         {{hash=a12f7a5668126242caaceea274ce1f64}{%
            family={Freberg},
-           familyi={F\bibinitperiod},
+           family_i={F\bibinitperiod},
            given={Laura},
-           giveni={L\bibinitperiod}}}%
+           given_i={L\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Cengage Learning}%
       }
       \strng{namehash}{a4a9163a5a403a58cce4312bbb34f2dd}
       \strng{fullhash}{a4a9163a5a403a58cce4312bbb34f2dd}
-      \strng{authornamehash}{a4a9163a5a403a58cce4312bbb34f2dd}
-      \strng{authorfullhash}{a4a9163a5a403a58cce4312bbb34f2dd}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2018}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{1}
+      \field{month}{01}
       \field{title}{{Discovering Psychology: The Science of Mind}}
       \field{year}{2018}
     \endentry
@@ -528,17 +510,16 @@
       \name{author}{1}{}{%
         {{hash=f6bd95f41a65bfabbed732330379a6fb}{%
            family={Carr},
-           familyi={C\bibinitperiod},
+           family_i={C\bibinitperiod},
            given={Thomas\bibnamedelima M},
-           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+           given_i={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
       \strng{namehash}{f6bd95f41a65bfabbed732330379a6fb}
       \strng{fullhash}{f6bd95f41a65bfabbed732330379a6fb}
-      \strng{authornamehash}{f6bd95f41a65bfabbed732330379a6fb}
-      \strng{authorfullhash}{f6bd95f41a65bfabbed732330379a6fb}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{1996}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Encyclopedia of Rhetoric and Composition}
@@ -551,22 +532,21 @@
       \name{author}{2}{}{%
         {{hash=694cc646cd69dc770c3012bd834201db}{%
            family={Cervone},
-           familyi={C\bibinitperiod},
+           family_i={C\bibinitperiod},
            given={D},
-           giveni={D\bibinitperiod}}}%
+           given_i={D\bibinitperiod}}}%
         {{hash=b2aab5a17f47c54e2c30b8efdfe6076d}{%
            family={Caldwell},
-           familyi={C\bibinitperiod},
+           family_i={C\bibinitperiod},
            given={T\bibnamedelima L},
-           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given_i={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
       \strng{namehash}{f8c7fb37c8210752cc1154b84b00080e}
       \strng{fullhash}{f8c7fb37c8210752cc1154b84b00080e}
-      \strng{authornamehash}{f8c7fb37c8210752cc1154b84b00080e}
-      \strng{authorfullhash}{f8c7fb37c8210752cc1154b84b00080e}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Psychology: The science of person, mind, and brain}}
@@ -576,9 +556,9 @@
       \name{author}{1}{}{%
         {{hash=28167c0b3800bc5cfb686676277005b0}{%
            family={Chomsky},
-           familyi={C\bibinitperiod},
+           family_i={C\bibinitperiod},
            given={Noam},
-           giveni={N\bibinitperiod}}}%
+           given_i={N\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Cambridge}%
@@ -588,11 +568,10 @@
       }
       \strng{namehash}{28167c0b3800bc5cfb686676277005b0}
       \strng{fullhash}{28167c0b3800bc5cfb686676277005b0}
-      \strng{authornamehash}{28167c0b3800bc5cfb686676277005b0}
-      \strng{authorfullhash}{28167c0b3800bc5cfb686676277005b0}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{1965}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{74012329illus. 23 cm.Bibliography: p. [115]-118.}
@@ -603,17 +582,16 @@
       \name{author}{1}{}{%
         {{hash=a8842ba914880dc3431cc0e416eda0b5}{%
            family={Clark},
-           familyi={C\bibinitperiod},
+           family_i={C\bibinitperiod},
            given={W\bibnamedelima R},
-           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+           given_i={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
       }
       \strng{namehash}{a8842ba914880dc3431cc0e416eda0b5}
       \strng{fullhash}{a8842ba914880dc3431cc0e416eda0b5}
-      \strng{authornamehash}{a8842ba914880dc3431cc0e416eda0b5}
-      \strng{authorfullhash}{a8842ba914880dc3431cc0e416eda0b5}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{1903}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Pascal and the Port Royalists}}
@@ -625,14 +603,14 @@
       \name{author}{2}{}{%
         {{hash=25fab1471efec3d1eaf6eea9799d997b}{%
            family={Clendinen},
-           familyi={C\bibinitperiod},
+           family_i={C\bibinitperiod},
            given={Dudley},
-           giveni={D\bibinitperiod}}}%
+           given_i={D\bibinitperiod}}}%
         {{hash=c5fa073e57a972a8b5b93b5d434745a5}{%
            family={Nagourney},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Adam},
-           giveni={A\bibinitperiod}}}%
+           given_i={A\bibinitperiod}}}%
       }
       \list{publisher}{2}{%
         {Simon}%
@@ -640,14 +618,14 @@
       }
       \strng{namehash}{8a5de02db211e8c5178161b8bbdf5668}
       \strng{fullhash}{8a5de02db211e8c5178161b8bbdf5668}
-      \strng{authornamehash}{8a5de02db211e8c5178161b8bbdf5668}
-      \strng{authorfullhash}{8a5de02db211e8c5178161b8bbdf5668}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2013}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{7}
+      \field{month}{07}
       \field{series}{The Struggle to Build a Gay Rights Movement in Ame}
       \field{title}{{Out For Good}}
       \field{year}{2013}
@@ -656,26 +634,26 @@
       \name{author}{2}{}{%
         {{hash=f347e8801483c21ad188359ab7bafc0a}{%
            family={Cordaro},
-           familyi={C\bibinitperiod},
+           family_i={C\bibinitperiod},
            given={Lucian},
-           giveni={L\bibinitperiod}}}%
+           given_i={L\bibinitperiod}}}%
         {{hash=5929e02042c5329a5c825fea2e09ef18}{%
            family={Ison},
-           familyi={I\bibinitperiod},
+           family_i={I\bibinitperiod},
            given={James\bibnamedelima R},
-           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+           given_i={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
       }
       \strng{namehash}{b0813b45ff04c4564ec8fe52f64b4ab6}
       \strng{fullhash}{b0813b45ff04c4564ec8fe52f64b4ab6}
-      \strng{authornamehash}{b0813b45ff04c4564ec8fe52f64b4ab6}
-      \strng{authorfullhash}{b0813b45ff04c4564ec8fe52f64b4ab6}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2016}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Psychological Reports}
-      \field{month}{8}
+      \field{month}{08}
       \field{number}{3}
       \field{title}{{Psychology of the Scientist: X. Observer Bias in Classical Conditioning of the Planarian}}
       \field{volume}{13}
@@ -687,17 +665,17 @@
       \name{author}{1}{}{%
         {{hash=05fd4ed4ceddf262a55000c77b67bb8f}{%
            family={Craver},
-           familyi={C\bibinitperiod},
+           family_i={C\bibinitperiod},
            given={Carl},
-           giveni={C\bibinitperiod}}}%
+           given_i={C\bibinitperiod}}}%
       }
       \strng{namehash}{05fd4ed4ceddf262a55000c77b67bb8f}
       \strng{fullhash}{05fd4ed4ceddf262a55000c77b67bb8f}
-      \strng{authornamehash}{05fd4ed4ceddf262a55000c77b67bb8f}
-      \strng{authorfullhash}{05fd4ed4ceddf262a55000c77b67bb8f}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2006}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Explaining the Brain}
@@ -711,17 +689,16 @@
       \name{author}{1}{}{%
         {{hash=a087df95b5b39def2de64be16a4627f8}{%
            family={Daston},
-           familyi={D\bibinitperiod},
+           family_i={D\bibinitperiod},
            given={Lorraine\bibnamedelima J},
-           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           given_i={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
       \strng{namehash}{a087df95b5b39def2de64be16a4627f8}
       \strng{fullhash}{a087df95b5b39def2de64be16a4627f8}
-      \strng{authornamehash}{a087df95b5b39def2de64be16a4627f8}
-      \strng{authorfullhash}{a087df95b5b39def2de64be16a4627f8}
       \field{sortinit}{D}
-      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{1978}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The History of Science Society}
@@ -736,25 +713,24 @@
       \name{author}{2}{}{%
         {{hash=9f046e68c5b38bcc80be3d2cc6f58dd6}{%
            family={Descartes},
-           familyi={D\bibinitperiod},
+           family_i={D\bibinitperiod},
            given={René},
-           giveni={R\bibinitperiod}}}%
+           given_i={R\bibinitperiod}}}%
         {{hash=eff21a433c95a45319e1650776b209bb}{%
            family={Ariew},
-           familyi={A\bibinitperiod},
+           family_i={A\bibinitperiod},
            given={Roger},
-           giveni={R\bibinitperiod}}}%
+           given_i={R\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Hackett Publishing}%
       }
       \strng{namehash}{93f29d17d4ba719575edcd436b2e770a}
       \strng{fullhash}{93f29d17d4ba719575edcd436b2e770a}
-      \strng{authornamehash}{93f29d17d4ba719575edcd436b2e770a}
-      \strng{authorfullhash}{93f29d17d4ba719575edcd436b2e770a}
       \field{sortinit}{D}
-      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Philosophical Essays and Correspondence}}
@@ -764,25 +740,24 @@
       \name{author}{2}{}{%
         {{hash=9f046e68c5b38bcc80be3d2cc6f58dd6}{%
            family={Descartes},
-           familyi={D\bibinitperiod},
+           family_i={D\bibinitperiod},
            given={René},
-           giveni={R\bibinitperiod}}}%
+           given_i={R\bibinitperiod}}}%
         {{hash=b658cc2b0fd82ab30d2e12e3d45202bf}{%
            family={Sutcliffe},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={F},
-           giveni={F\bibinitperiod}}}%
+           given_i={F\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Penguin}%
       }
       \strng{namehash}{43b71170355ba79e1038b4f9dcaed633}
       \strng{fullhash}{43b71170355ba79e1038b4f9dcaed633}
-      \strng{authornamehash}{43b71170355ba79e1038b4f9dcaed633}
-      \strng{authorfullhash}{43b71170355ba79e1038b4f9dcaed633}
       \field{sortinit}{D}
-      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{1968}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Discourse on Method and the Meditations}}
@@ -792,9 +767,9 @@
       \name{author}{1}{}{%
         {{hash=03b3356eb23d298d57635488371299f9}{%
            family={Dewey},
-           familyi={D\bibinitperiod},
+           family_i={D\bibinitperiod},
            given={John},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {New York}%
@@ -804,11 +779,10 @@
       }
       \strng{namehash}{03b3356eb23d298d57635488371299f9}
       \strng{fullhash}{03b3356eb23d298d57635488371299f9}
-      \strng{authornamehash}{03b3356eb23d298d57635488371299f9}
-      \strng{authorfullhash}{03b3356eb23d298d57635488371299f9}
       \field{sortinit}{D}
-      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{1916}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{series}{An Introduction to the Philosophy of Education}
@@ -819,9 +793,9 @@
       \name{author}{1}{}{%
         {{hash=03b3356eb23d298d57635488371299f9}{%
            family={Dewey},
-           familyi={D\bibinitperiod},
+           family_i={D\bibinitperiod},
            given={John},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Chicago}%
@@ -831,11 +805,9 @@
       }
       \strng{namehash}{03b3356eb23d298d57635488371299f9}
       \strng{fullhash}{03b3356eb23d298d57635488371299f9}
-      \strng{authornamehash}{03b3356eb23d298d57635488371299f9}
-      \strng{authorfullhash}{03b3356eb23d298d57635488371299f9}
       \field{sortinit}{D}
-      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
-      \field{labeldatesource}{nodate}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{nodate}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Essays in experimental logic.}
@@ -847,20 +819,19 @@
       \name{author}{1}{}{%
         {{hash=03b3356eb23d298d57635488371299f9}{%
            family={Dewey},
-           familyi={D\bibinitperiod},
+           family_i={D\bibinitperiod},
            given={John},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {University of Chicago Press}%
       }
       \strng{namehash}{03b3356eb23d298d57635488371299f9}
       \strng{fullhash}{03b3356eb23d298d57635488371299f9}
-      \strng{authornamehash}{03b3356eb23d298d57635488371299f9}
-      \strng{authorfullhash}{03b3356eb23d298d57635488371299f9}
       \field{sortinit}{D}
-      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{1896}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{The Reflex Arc Concept in Psychology}}
@@ -868,8 +839,9 @@
     \endentry
     \entry{Bechtel:2010we}{article}{}
       \field{sortinit}{D}
-      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
       \field{labeltitlesource}{title}
       \field{title}{{Discovering Complexity}}
       \field{year}{2010}
@@ -878,17 +850,16 @@
       \name{author}{1}{}{%
         {{hash=5d7a6e7e0e82bcc144f01ac47862fe2f}{%
            family={Ebbinghaus},
-           familyi={E\bibinitperiod},
+           family_i={E\bibinitperiod},
            given={Hermann},
-           giveni={H\bibinitperiod}}}%
+           given_i={H\bibinitperiod}}}%
       }
       \strng{namehash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
       \strng{fullhash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
-      \strng{authornamehash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
-      \strng{authorfullhash}{5d7a6e7e0e82bcc144f01ac47862fe2f}
       \field{sortinit}{E}
-      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelyear}{1885}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{series}{A Contribution to Experimental Psychology}
@@ -899,22 +870,21 @@
       \name{author}{2}{}{%
         {{hash=9696629fc60035d4086f57ebd19cbb58}{%
            family={Esquirol},
-           familyi={E\bibinitperiod},
+           family_i={E\bibinitperiod},
            given={Jean},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
         {{hash=3e3b1eac95d09780a82b6c6a193d7d6c}{%
            family={Hunt},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={Ebenezer},
-           giveni={E\bibinitperiod}}}%
+           given_i={E\bibinitperiod}}}%
       }
       \strng{namehash}{81c2301af3d025333ba59ad80becb304}
       \strng{fullhash}{81c2301af3d025333ba59ad80becb304}
-      \strng{authornamehash}{81c2301af3d025333ba59ad80becb304}
-      \strng{authorfullhash}{81c2301af3d025333ba59ad80becb304}
       \field{sortinit}{E}
-      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelyear}{1845}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{0703439624 cm.}
@@ -925,18 +895,18 @@
       \name{author}{1}{}{%
         {{hash=8601d226384026acd3b7cde321bc73a9}{%
            family={{Fisher}},
-           familyi={F\bibinitperiod}}}%
+           family_i={F\bibinitperiod}}}%
       }
       \strng{namehash}{8601d226384026acd3b7cde321bc73a9}
       \strng{fullhash}{8601d226384026acd3b7cde321bc73a9}
-      \strng{authornamehash}{8601d226384026acd3b7cde321bc73a9}
-      \strng{authorfullhash}{8601d226384026acd3b7cde321bc73a9}
       \field{sortinit}{F}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2003}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{5}
+      \field{month}{05}
       \field{title}{{{‘}Fraudulent{’} peer review strikes another academic publisher; 32 articles questioned}}
       \field{year}{2003}
       \field{pages}{1\bibrangedash 7}
@@ -946,17 +916,16 @@
       \name{author}{1}{}{%
         {{hash=2b76ed368586a29a32e1b8d74ea45699}{%
            family={Fisher},
-           familyi={F\bibinitperiod},
+           family_i={F\bibinitperiod},
            given={Celia},
-           giveni={C\bibinitperiod}}}%
+           given_i={C\bibinitperiod}}}%
       }
       \strng{namehash}{2b76ed368586a29a32e1b8d74ea45699}
       \strng{fullhash}{2b76ed368586a29a32e1b8d74ea45699}
-      \strng{authornamehash}{2b76ed368586a29a32e1b8d74ea45699}
-      \strng{authorfullhash}{2b76ed368586a29a32e1b8d74ea45699}
       \field{sortinit}{F}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{2008023421(OCoLC)ocn230193427(OCoLC)230193427Celia B. Fisher.26 cm.Includes bibliographical references (p. 332-346) and index.Introduction and background -- Enforceable standards.}
@@ -967,17 +936,16 @@
       \name{author}{1}{}{%
         {{hash=381b3a23fbc3ea2f5da55f835137eb49}{%
            family={Fite},
-           familyi={F\bibinitperiod},
+           family_i={F\bibinitperiod},
            given={Warner},
-           giveni={W\bibinitperiod}}}%
+           given_i={W\bibinitperiod}}}%
       }
       \strng{namehash}{381b3a23fbc3ea2f5da55f835137eb49}
       \strng{fullhash}{381b3a23fbc3ea2f5da55f835137eb49}
-      \strng{authornamehash}{381b3a23fbc3ea2f5da55f835137eb49}
-      \strng{authorfullhash}{381b3a23fbc3ea2f5da55f835137eb49}
       \field{sortinit}{F}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{1916}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Nation}
@@ -991,17 +959,16 @@
       \name{author}{1}{}{%
         {{hash=58227b8cb75750689aafd0bdb2b63408}{%
            family={Freud},
-           familyi={F\bibinitperiod},
+           family_i={F\bibinitperiod},
            given={Sigmund},
-           giveni={S\bibinitperiod}}}%
+           given_i={S\bibinitperiod}}}%
       }
       \strng{namehash}{58227b8cb75750689aafd0bdb2b63408}
       \strng{fullhash}{58227b8cb75750689aafd0bdb2b63408}
-      \strng{authornamehash}{58227b8cb75750689aafd0bdb2b63408}
-      \strng{authorfullhash}{58227b8cb75750689aafd0bdb2b63408}
       \field{sortinit}{F}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{1929}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{77374851Vorlesungen zur Einführung in die Psychoanalyse. EnglishSigm. Freud ; authorized English translation by Joan Riviere ; with a pref. by Ernest Jones.ill. ; 22 cm.Translation of Vorlesungen zur Einführung in die Psychoanalyse.Includes index.Psycho-analysis.}
@@ -1012,22 +979,21 @@
       \name{author}{2}{}{%
         {{hash=58227b8cb75750689aafd0bdb2b63408}{%
            family={Freud},
-           familyi={F\bibinitperiod},
+           family_i={F\bibinitperiod},
            given={Sigmund},
-           giveni={S\bibinitperiod}}}%
+           given_i={S\bibinitperiod}}}%
         {{hash=1fa38699e97ec643824a2f01f66838ef}{%
            family={Bauer},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Gregory},
-           giveni={G\bibinitperiod}}}%
+           given_i={G\bibinitperiod}}}%
       }
       \strng{namehash}{9972f6f167399cce362a3145d5d8f5bf}
       \strng{fullhash}{9972f6f167399cce362a3145d5d8f5bf}
-      \strng{authornamehash}{9972f6f167399cce362a3145d5d8f5bf}
-      \strng{authorfullhash}{9972f6f167399cce362a3145d5d8f5bf}
       \field{sortinit}{F}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{1994}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{The Dynamics of Transference}}
@@ -1037,27 +1003,26 @@
       \name{author}{3}{}{%
         {{hash=58227b8cb75750689aafd0bdb2b63408}{%
            family={Freud},
-           familyi={F\bibinitperiod},
+           family_i={F\bibinitperiod},
            given={Sigmund},
-           giveni={S\bibinitperiod}}}%
+           given_i={S\bibinitperiod}}}%
         {{hash=0568fbf11e3795c282f62232b376436a}{%
            family={Breuer},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Josef},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
         {{hash=7560fcc04eb4c95c0ee4590460b044b1}{%
            family={Luckhurst},
-           familyi={L\bibinitperiod},
+           family_i={L\bibinitperiod},
            given={Nicola},
-           giveni={N\bibinitperiod}}}%
+           given_i={N\bibinitperiod}}}%
       }
       \strng{namehash}{1d545a70b12cc04f9795c7702e3ae189}
       \strng{fullhash}{1d545a70b12cc04f9795c7702e3ae189}
-      \strng{authornamehash}{1d545a70b12cc04f9795c7702e3ae189}
-      \strng{authorfullhash}{1d545a70b12cc04f9795c7702e3ae189}
       \field{sortinit}{F}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Studies in hysteria}}
@@ -1067,22 +1032,21 @@
       \name{author}{2}{}{%
         {{hash=58227b8cb75750689aafd0bdb2b63408}{%
            family={Freud},
-           familyi={F\bibinitperiod},
+           family_i={F\bibinitperiod},
            given={Sigmund},
-           giveni={S\bibinitperiod}}}%
+           given_i={S\bibinitperiod}}}%
         {{hash=d3ff6f44c3eee8c31cdd15c0bb84c16c}{%
            family={Brill},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={A},
-           giveni={A\bibinitperiod}}}%
+           given_i={A\bibinitperiod}}}%
       }
       \strng{namehash}{85bffb7251da3eeda2a91139486ffdd7}
       \strng{fullhash}{85bffb7251da3eeda2a91139486ffdd7}
-      \strng{authornamehash}{85bffb7251da3eeda2a91139486ffdd7}
-      \strng{authorfullhash}{85bffb7251da3eeda2a91139486ffdd7}
       \field{sortinit}{F}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{1938}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{38027462Selections. English.translated and edited, with an introduction, by Dr. A. A. Brill.diagrs. 21 cm."First Modern library edition, 1938."Psychopathology of everyday life.--The interpretation of dreams.--Three contributions to the theory of sex.--Wit and its relation to the unconscious.--Totem and taboo.--The history of the psychoanalytic movement.}
@@ -1093,22 +1057,21 @@
       \name{author}{2}{}{%
         {{hash=58227b8cb75750689aafd0bdb2b63408}{%
            family={Freud},
-           familyi={F\bibinitperiod},
+           family_i={F\bibinitperiod},
            given={Sigmund},
-           giveni={S\bibinitperiod}}}%
+           given_i={S\bibinitperiod}}}%
         {{hash=d82944639ecf1c78f4e5ed4f89b98452}{%
            family={Strachey},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={James},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
       }
       \strng{namehash}{167ffa3979bddf2efbbfc6c761f5ac7d}
       \strng{fullhash}{167ffa3979bddf2efbbfc6c761f5ac7d}
-      \strng{authornamehash}{167ffa3979bddf2efbbfc6c761f5ac7d}
-      \strng{authorfullhash}{167ffa3979bddf2efbbfc6c761f5ac7d}
       \field{sortinit}{F}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{1965}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{New introductory lectures on psychoanalysis}}
@@ -1118,23 +1081,23 @@
       \name{author}{1}{}{%
         {{hash=f54c323d262443feb3d436f2f2999098}{%
            family={Gazzaniga},
-           familyi={G\bibinitperiod},
+           family_i={G\bibinitperiod},
            given={Michael},
-           giveni={M\bibinitperiod}}}%
+           given_i={M\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {W. W. Norton {\&} Company}%
       }
       \strng{namehash}{f54c323d262443feb3d436f2f2999098}
       \strng{fullhash}{f54c323d262443feb3d436f2f2999098}
-      \strng{authornamehash}{f54c323d262443feb3d436f2f2999098}
-      \strng{authorfullhash}{f54c323d262443feb3d436f2f2999098}
       \field{sortinit}{G}
-      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{2018}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{7}
+      \field{month}{07}
       \field{series}{Sixth Edition}
       \field{title}{{Psychological Science}}
       \field{year}{2018}
@@ -1143,17 +1106,16 @@
       \name{author}{1}{}{%
         {{hash=7c4afddbf7c0847cf116d48c55d30db2}{%
            family={Gorwitz},
-           familyi={G\bibinitperiod},
+           family_i={G\bibinitperiod},
            given={Kurt},
-           giveni={K\bibinitperiod}}}%
+           given_i={K\bibinitperiod}}}%
       }
       \strng{namehash}{7c4afddbf7c0847cf116d48c55d30db2}
       \strng{fullhash}{7c4afddbf7c0847cf116d48c55d30db2}
-      \strng{authornamehash}{7c4afddbf7c0847cf116d48c55d30db2}
-      \strng{authorfullhash}{7c4afddbf7c0847cf116d48c55d30db2}
       \field{sortinit}{G}
-      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{1974}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Health Services Reports}
@@ -1168,16 +1130,16 @@
       \name{author}{1}{}{%
         {{hash=225ea03e130430d41c202d9fe7612ed0}{%
            family={Hobbes},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={Thomas},
-           giveni={T\bibinitperiod}}}%
+           given_i={T\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
         {{hash=839582ce61c07f538e9a0ffa51ecdb82}{%
            family={Curley},
-           familyi={C\bibinitperiod},
+           family_i={C\bibinitperiod},
            given={Edwin},
-           giveni={E\bibinitperiod}}}%
+           given_i={E\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Indianapolis / Cambridge}%
@@ -1187,13 +1149,10 @@
       }
       \strng{namehash}{225ea03e130430d41c202d9fe7612ed0}
       \strng{fullhash}{225ea03e130430d41c202d9fe7612ed0}
-      \strng{authornamehash}{225ea03e130430d41c202d9fe7612ed0}
-      \strng{authorfullhash}{225ea03e130430d41c202d9fe7612ed0}
-      \strng{editornamehash}{839582ce61c07f538e9a0ffa51ecdb82}
-      \strng{editorfullhash}{839582ce61c07f538e9a0ffa51ecdb82}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1994}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{Hackett edition. PDF is excerpt from gutenberg, used in class.}
@@ -1205,30 +1164,30 @@
       \name{author}{3}{}{%
         {{hash=29ffb4b3b93346c6a71750098064dbed}{%
            family={Hockenbury},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={Sandra\bibnamedelima E},
-           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+           given_i={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
         {{hash=ea1ba991a63ae5810e0da7c525296da1}{%
            family={Nolan},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Susan\bibnamedelima A},
-           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           given_i={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=05c36344db7655b04b4b7a5b27ea9cc9}{%
            family={Hockenbury},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={Don\bibnamedelima H},
-           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           given_i={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Worth Publishers}%
       }
       \strng{namehash}{fc6e4468255bbc4ff83631aca8d3a8cb}
       \strng{fullhash}{fc6e4468255bbc4ff83631aca8d3a8cb}
-      \strng{authornamehash}{fc6e4468255bbc4ff83631aca8d3a8cb}
-      \strng{authorfullhash}{fc6e4468255bbc4ff83631aca8d3a8cb}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2014}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{7th}
@@ -1240,21 +1199,21 @@
       \name{author}{1}{}{%
         {{hash=2223a39d93b61dd0c30862d2d9f9ba54}{%
            family={Holland},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={P\bibnamedelima C},
-           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+           given_i={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
       \strng{namehash}{2223a39d93b61dd0c30862d2d9f9ba54}
       \strng{fullhash}{2223a39d93b61dd0c30862d2d9f9ba54}
-      \strng{authornamehash}{2223a39d93b61dd0c30862d2d9f9ba54}
-      \strng{authorfullhash}{2223a39d93b61dd0c30862d2d9f9ba54}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2008}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Learning {\&} Behavior}
-      \field{month}{8}
+      \field{month}{08}
       \field{number}{3}
       \field{title}{{Cognitive versus stimulus-response theories of learning}}
       \field{volume}{36}
@@ -1266,27 +1225,26 @@
       \name{author}{3}{}{%
         {{hash=7a3684eabe07ca85dd6eddde84e37f58}{%
            family={Hornstein},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={Gail},
-           giveni={G\bibinitperiod}}}%
+           given_i={G\bibinitperiod}}}%
         {{hash=a617fa97a7520405392768fbefea33c5}{%
            family={Pickren},
-           familyi={P\bibinitperiod},
+           family_i={P\bibinitperiod},
            given={Wade},
-           giveni={W\bibinitperiod}}}%
+           given_i={W\bibinitperiod}}}%
         {{hash=966525d5ea5ca42afdcc47ae3d3db392}{%
            family={Dewsbury},
-           familyi={D\bibinitperiod},
+           family_i={D\bibinitperiod},
            given={Donald},
-           giveni={D\bibinitperiod}}}%
+           given_i={D\bibinitperiod}}}%
       }
       \strng{namehash}{7b931ee9d370daf95f6823c1edb66ce6}
       \strng{fullhash}{7b931ee9d370daf95f6823c1edb66ce6}
-      \strng{authornamehash}{7b931ee9d370daf95f6823c1edb66ce6}
-      \strng{authorfullhash}{7b931ee9d370daf95f6823c1edb66ce6}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{The Return of the Repressed: Psychology's Problematic Relations with Psychoanalysis, 1909-1960}}
@@ -1296,9 +1254,9 @@
       \name{author}{1}{}{%
         {{hash=8716d68347158fc27f91d29b54520106}{%
            family={Hothersall},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={David},
-           giveni={D\bibinitperiod}}}%
+           given_i={D\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {New York}%
@@ -1308,11 +1266,10 @@
       }
       \strng{namehash}{8716d68347158fc27f91d29b54520106}
       \strng{fullhash}{8716d68347158fc27f91d29b54520106}
-      \strng{authornamehash}{8716d68347158fc27f91d29b54520106}
-      \strng{authorfullhash}{8716d68347158fc27f91d29b54520106}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1984}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{History of Psychology}}
@@ -1322,17 +1279,16 @@
       \name{author}{1}{}{%
         {{hash=8691bb6183e5f0adae3a355cd324a47e}{%
            family={Houts},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={A},
-           giveni={A\bibinitperiod}}}%
+           given_i={A\bibinitperiod}}}%
       }
       \strng{namehash}{8691bb6183e5f0adae3a355cd324a47e}
       \strng{fullhash}{8691bb6183e5f0adae3a355cd324a47e}
-      \strng{authornamehash}{8691bb6183e5f0adae3a355cd324a47e}
-      \strng{authorfullhash}{8691bb6183e5f0adae3a355cd324a47e}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of clinical psychology}
@@ -1343,37 +1299,36 @@
       \name{author}{5}{}{%
         {{hash=f307a4462ae63df7950fb7f5211bdee6}{%
            family={Hull},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={Clark\bibnamedelima Leonard},
-           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given_i={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
         {{hash=b23709871f76a5270280eb97028b07da}{%
            family={Hovland},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={C\bibnamedelima I},
-           giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+           given_i={C\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
         {{hash=c3b6323713266f21314baea621ba4ace}{%
            family={Ross},
-           familyi={R\bibinitperiod},
+           family_i={R\bibinitperiod},
            given={R\bibnamedelima T},
-           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+           given_i={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
         {{hash=16fc895952ea8a4ee1d0de9b8888e21e}{%
            family={Hall},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={M},
-           giveni={M\bibinitperiod}}}%
+           given_i={M\bibinitperiod}}}%
         {{hash=296bdc8c1075b267eebdb9c357342a10}{%
            family={Perkins},
-           familyi={P\bibinitperiod},
+           family_i={P\bibinitperiod},
            given={D\bibnamedelima T},
-           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+           given_i={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
       }
       \strng{namehash}{546fcf0f5616849f8e9d39e9317ee2bb}
       \strng{fullhash}{2d58ca25d9d72fd9e9d0583fdd702424}
-      \strng{authornamehash}{546fcf0f5616849f8e9d39e9317ee2bb}
-      \strng{authorfullhash}{2d58ca25d9d72fd9e9d0583fdd702424}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1940}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Mathematico-deductive theory of rote learning: a study in scientific methodology.}}
@@ -1383,17 +1338,16 @@
       \name{author}{1}{}{%
         {{hash=8fd91102ac431dcdcc4641419cdfb8f0}{%
            family={Hume},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={David},
-           giveni={D\bibinitperiod}}}%
+           given_i={D\bibinitperiod}}}%
       }
       \strng{namehash}{8fd91102ac431dcdcc4641419cdfb8f0}
       \strng{fullhash}{8fd91102ac431dcdcc4641419cdfb8f0}
-      \strng{authornamehash}{8fd91102ac431dcdcc4641419cdfb8f0}
-      \strng{authorfullhash}{8fd91102ac431dcdcc4641419cdfb8f0}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1975}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Enquiries Concerning Human Understanding and Concerning the Principles of Morals, 1990}}
@@ -1403,20 +1357,20 @@
       \name{author}{1}{}{%
         {{hash=62b4707952217dbdfd268b131ed55db8}{%
            family={Jacoby},
-           familyi={J\bibinitperiod},
+           family_i={J\bibinitperiod},
            given={Russell},
-           giveni={R\bibinitperiod}}}%
+           given_i={R\bibinitperiod}}}%
       }
       \strng{namehash}{62b4707952217dbdfd268b131ed55db8}
       \strng{fullhash}{62b4707952217dbdfd268b131ed55db8}
-      \strng{authornamehash}{62b4707952217dbdfd268b131ed55db8}
-      \strng{authorfullhash}{62b4707952217dbdfd268b131ed55db8}
       \field{sortinit}{J}
-      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{2009}
+      \field{labelmonth}{09}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{9}
+      \field{month}{09}
       \field{title}{{When Freud Came to America}}
       \field{year}{2009}
       \verb{url}
@@ -1427,17 +1381,16 @@
       \name{author}{1}{}{%
         {{hash=7e6824f8d67a0e956aae72188825dbf2}{%
            family={James},
-           familyi={J\bibinitperiod},
+           family_i={J\bibinitperiod},
            given={William},
-           giveni={W\bibinitperiod}}}%
+           given_i={W\bibinitperiod}}}%
       }
       \strng{namehash}{7e6824f8d67a0e956aae72188825dbf2}
       \strng{fullhash}{7e6824f8d67a0e956aae72188825dbf2}
-      \strng{authornamehash}{7e6824f8d67a0e956aae72188825dbf2}
-      \strng{authorfullhash}{7e6824f8d67a0e956aae72188825dbf2}
       \field{sortinit}{J}
-      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{1904}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Psychological Bulletin}
@@ -1452,17 +1405,16 @@
       \name{author}{1}{}{%
         {{hash=7e6824f8d67a0e956aae72188825dbf2}{%
            family={James},
-           familyi={J\bibinitperiod},
+           family_i={J\bibinitperiod},
            given={William},
-           giveni={W\bibinitperiod}}}%
+           given_i={W\bibinitperiod}}}%
       }
       \strng{namehash}{7e6824f8d67a0e956aae72188825dbf2}
       \strng{fullhash}{7e6824f8d67a0e956aae72188825dbf2}
-      \strng{authornamehash}{7e6824f8d67a0e956aae72188825dbf2}
-      \strng{authorfullhash}{7e6824f8d67a0e956aae72188825dbf2}
       \field{sortinit}{J}
-      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{1890}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{The Principles of Psychology}}
@@ -1473,23 +1425,22 @@
       \name{author}{2}{}{%
         {{hash=132c44b3d01e59de39f4e26e35b9e92b}{%
            family={Jung},
-           familyi={J\bibinitperiod},
+           family_i={J\bibinitperiod},
            given={C},
-           giveni={C\bibinitperiod}}}%
+           given_i={C\bibinitperiod}}}%
         {{hash=31f6170d4952c1a2872646dfe2e26409}{%
            family={Storr},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={Anthony},
-           giveni={A\bibinitperiod}}}%
+           given_i={A\bibinitperiod}}}%
       }
       \strng{namehash}{2508ab6396ed32f57f44c111605b75bc}
       \strng{fullhash}{2508ab6396ed32f57f44c111605b75bc}
-      \strng{authornamehash}{2508ab6396ed32f57f44c111605b75bc}
-      \strng{authorfullhash}{2508ab6396ed32f57f44c111605b75bc}
       \field{sortinit}{J}
-      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
       \field{extrayear}{1}
-      \field{labeldatesource}{year}
+      \field{labelyear}{1983}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{82061441Selections. English.selected and introduced by Anthony Storr.ill. ; 22 cm.Bibliography: p. [427]-436.Includes index.}
@@ -1500,23 +1451,22 @@
       \name{author}{2}{}{%
         {{hash=132c44b3d01e59de39f4e26e35b9e92b}{%
            family={Jung},
-           familyi={J\bibinitperiod},
+           family_i={J\bibinitperiod},
            given={C},
-           giveni={C\bibinitperiod}}}%
+           given_i={C\bibinitperiod}}}%
         {{hash=31f6170d4952c1a2872646dfe2e26409}{%
            family={Storr},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={Anthony},
-           giveni={A\bibinitperiod}}}%
+           given_i={A\bibinitperiod}}}%
       }
       \strng{namehash}{2508ab6396ed32f57f44c111605b75bc}
       \strng{fullhash}{2508ab6396ed32f57f44c111605b75bc}
-      \strng{authornamehash}{2508ab6396ed32f57f44c111605b75bc}
-      \strng{authorfullhash}{2508ab6396ed32f57f44c111605b75bc}
       \field{sortinit}{J}
-      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
       \field{extrayear}{2}
-      \field{labeldatesource}{year}
+      \field{labelyear}{1983}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{82061441Selections. English.selected and introduced by Anthony Storr.ill. ; 22 cm.Bibliography: p. [427]-436.Includes index.}
@@ -1527,32 +1477,31 @@
       \name{author}{4}{}{%
         {{hash=132c44b3d01e59de39f4e26e35b9e92b}{%
            family={Jung},
-           familyi={J\bibinitperiod},
+           family_i={J\bibinitperiod},
            given={C},
-           giveni={C\bibinitperiod}}}%
+           given_i={C\bibinitperiod}}}%
         {{hash=78e9cfd427143d50e6fb3c72d6529fd4}{%
            family={Read},
-           familyi={R\bibinitperiod},
+           family_i={R\bibinitperiod},
            given={Herbert},
-           giveni={H\bibinitperiod}}}%
+           given_i={H\bibinitperiod}}}%
         {{hash=47ed09185c6dabbd5a9868d756f5fe6d}{%
            family={Fordham},
-           familyi={F\bibinitperiod},
+           family_i={F\bibinitperiod},
            given={Michael},
-           giveni={M\bibinitperiod}}}%
+           given_i={M\bibinitperiod}}}%
         {{hash=fe82f0d25dcaecad96556b92f0fa6c2e}{%
            family={Adler},
-           familyi={A\bibinitperiod},
+           family_i={A\bibinitperiod},
            given={Gerhard},
-           giveni={G\bibinitperiod}}}%
+           given_i={G\bibinitperiod}}}%
       }
       \strng{namehash}{9f328b80d9b3c1d3ddfd1f7c783a7e66}
       \strng{fullhash}{0e3f260edbbd2a35f17ab025891f764b}
-      \strng{authornamehash}{9f328b80d9b3c1d3ddfd1f7c783a7e66}
-      \strng{authorfullhash}{0e3f260edbbd2a35f17ab025891f764b}
       \field{sortinit}{J}
-      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{1953}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{75000156Works. English. Pantheon/Princetoneditors, Herbert Read, Michael Fordham, Gerhard Adler.ill. ; 24 cm.Includes second edition of some volumes.Volumes published after 1966 have imprint: Princeton, N.J. : Princeton University Press.Includes bibliographies.v. 1. Psychiatric studies -- v. 2. Experimental researches -- v. 3. The psychogenesis of mental disease -- v. 4. Freud and psychoanalysis -- v. 5. Symbols of transformation -- v. 6. Psychological types -- v. 7. Two essays on analytical psychology -- v. 8. The structure and dynamics of the psyche -- v. 9. pt. 1. The archetypes and the collective unconscious; pt. 2. Aion, researches into the phenomenology of the self -- v. 10. Civilization in transition -- v. 11. Psychology and religion, West and East -- v. 12. Psychology and alchemy -- v. 13. Alchemical studies -- v. 14. Mysterium coniunctionis, an inquiry into the separation and synthesis of psychic opposites in alchemy -- v. 15. The spirit in man, art, and literature -- v. 16. The practice of psychotherapy -- v. 17. The development of personality -- v. 18. The symbolic life. Miscellaneous writings -- v. 19. General bibliography of C.G. Jung's writings / compiled by Lisa Ress -- v. 20. General index to The collected works of C.G. Jung / compiled by Barbara Forryan and Janet M. Glover -- supplementary v. A. The Zofingia lectures.}
@@ -1563,30 +1512,29 @@
       \name{author}{3}{}{%
         {{hash=e3ccf582263eb77b4b565996b771a149}{%
            family={Kinsey},
-           familyi={K\bibinitperiod},
+           family_i={K\bibinitperiod},
            given={Alfred\bibnamedelima Charles},
-           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+           given_i={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
         {{hash=2588b7a5f85b3e9ae0699ffb05cabc57}{%
            family={Pomeroy},
-           familyi={P\bibinitperiod},
+           family_i={P\bibinitperiod},
            given={Wardell\bibnamedelima Baxter},
-           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+           given_i={W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
         {{hash=89a3d68066e615cbb95e95f0c6933b7a}{%
            family={Martin},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={Clyde\bibnamedelima Eugene},
-           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+           given_i={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Indiana University Press}%
       }
       \strng{namehash}{84a5fe882f2c3e81d7231a4d7c9ca2d2}
       \strng{fullhash}{84a5fe882f2c3e81d7231a4d7c9ca2d2}
-      \strng{authornamehash}{84a5fe882f2c3e81d7231a4d7c9ca2d2}
-      \strng{authorfullhash}{84a5fe882f2c3e81d7231a4d7c9ca2d2}
       \field{sortinit}{K}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{1998}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Sexual Behavior in the Human Male}}
@@ -1596,21 +1544,21 @@
       \name{author}{1}{}{%
         {{hash=179cc2b4cdbfe85499c54aa99920c40e}{%
            family={Kraines},
-           familyi={K\bibinitperiod},
+           family_i={K\bibinitperiod},
            given={S\bibnamedelima H},
-           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           given_i={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
       \strng{namehash}{179cc2b4cdbfe85499c54aa99920c40e}
       \strng{fullhash}{179cc2b4cdbfe85499c54aa99920c40e}
-      \strng{authornamehash}{179cc2b4cdbfe85499c54aa99920c40e}
-      \strng{authorfullhash}{179cc2b4cdbfe85499c54aa99920c40e}
       \field{sortinit}{K}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{1964}
+      \field{labelmonth}{02}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{JAMA}
-      \field{month}{2}
+      \field{month}{02}
       \field{number}{6}
       \field{title}{{Life Stress and Mental Health: The Midtown Manhattan Study}}
       \field{volume}{187}
@@ -1622,20 +1570,19 @@
       \name{author}{1}{}{%
         {{hash=79a264aad3cd4f77b1658768f29a69fa}{%
            family={Kuhn},
-           familyi={K\bibinitperiod},
+           family_i={K\bibinitperiod},
            given={Thomas\bibnamedelima S},
-           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+           given_i={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {University of Chicago Press}%
       }
       \strng{namehash}{79a264aad3cd4f77b1658768f29a69fa}
       \strng{fullhash}{79a264aad3cd4f77b1658768f29a69fa}
-      \strng{authornamehash}{79a264aad3cd4f77b1658768f29a69fa}
-      \strng{authorfullhash}{79a264aad3cd4f77b1658768f29a69fa}
       \field{sortinit}{K}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{1996}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{The Structure of Scientific Revolutions}}
@@ -1645,27 +1592,26 @@
       \name{author}{3}{}{%
         {{hash=863b2bd325edca3bbf99d2ec0f974a1f}{%
            family={Leahey},
-           familyi={L\bibinitperiod},
+           family_i={L\bibinitperiod},
            given={Thomas\bibnamedelima Hardy},
-           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           given_i={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=a617fa97a7520405392768fbefea33c5}{%
            family={Pickren},
-           familyi={P\bibinitperiod},
+           family_i={P\bibinitperiod},
            given={Wade},
-           giveni={W\bibinitperiod}}}%
+           given_i={W\bibinitperiod}}}%
         {{hash=966525d5ea5ca42afdcc47ae3d3db392}{%
            family={Dewsbury},
-           familyi={D\bibinitperiod},
+           family_i={D\bibinitperiod},
            given={Donald},
-           giveni={D\bibinitperiod}}}%
+           given_i={D\bibinitperiod}}}%
       }
       \strng{namehash}{3d4ab1e736327dd873e596927c75faa4}
       \strng{fullhash}{3d4ab1e736327dd873e596927c75faa4}
-      \strng{authornamehash}{3d4ab1e736327dd873e596927c75faa4}
-      \strng{authorfullhash}{3d4ab1e736327dd873e596927c75faa4}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{The Mythical Revolutions of American Psychology}}
@@ -1675,35 +1621,34 @@
       \name{author}{4}{}{%
         {{hash=fbe7b597fc89628fa24f2b6cbd7793a8}{%
            family={Lilienfeld},
-           familyi={L\bibinitperiod},
+           family_i={L\bibinitperiod},
            given={Scott\bibnamedelima O},
-           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+           given_i={S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
         {{hash=86ea3d8377cca4054652e5ced190cbad}{%
            family={Lynn},
-           familyi={L\bibinitperiod},
+           family_i={L\bibinitperiod},
            given={Steven\bibnamedelima Jay},
-           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           given_i={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
         {{hash=8e32bfff0651fed13d760674cbb4dbcf}{%
            family={Namy},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Laura\bibnamedelima L},
-           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given_i={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
         {{hash=75dc9c7b78d916a3c99e958fbbbdb6f4}{%
            family={Woolf},
-           familyi={W\bibinitperiod},
+           family_i={W\bibinitperiod},
            given={Nancy\bibnamedelima J},
-           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           given_i={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Prentice Hall}%
       }
       \strng{namehash}{38bdc786ec998d417ef24f953759d4fb}
       \strng{fullhash}{39173088fc9e77aba2f88209166c4161}
-      \strng{authornamehash}{38bdc786ec998d417ef24f953759d4fb}
-      \strng{authorfullhash}{39173088fc9e77aba2f88209166c4161}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{3rd}
@@ -1715,16 +1660,16 @@
       \name{author}{1}{}{%
         {{hash=b850f7e9b02245eddd11b3a5d656a240}{%
            family={Locke},
-           familyi={L\bibinitperiod},
+           family_i={L\bibinitperiod},
            given={John},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
         {{hash=18f44ee6a89ee74f4178575d4d3db292}{%
            family={Fraser},
-           familyi={F\bibinitperiod},
+           family_i={F\bibinitperiod},
            given={Alexander\bibnamedelima Campbell},
-           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+           given_i={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {New York}%
@@ -1734,13 +1679,10 @@
       }
       \strng{namehash}{b850f7e9b02245eddd11b3a5d656a240}
       \strng{fullhash}{b850f7e9b02245eddd11b3a5d656a240}
-      \strng{authornamehash}{b850f7e9b02245eddd11b3a5d656a240}
-      \strng{authorfullhash}{b850f7e9b02245eddd11b3a5d656a240}
-      \strng{editornamehash}{18f44ee6a89ee74f4178575d4d3db292}
-      \strng{editorfullhash}{18f44ee6a89ee74f4178575d4d3db292}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{1959}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{An essay concerning human understanding}}
@@ -1751,9 +1693,9 @@
       \name{author}{1}{}{%
         {{hash=ffaa7d7e7de43e6df8a62c572e9a2f81}{%
            family={Marx},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={K\bibnamedelima F\bibnamedelima H},
-           giveni={K\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           given_i={K\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {London}%
@@ -1763,11 +1705,10 @@
       }
       \strng{namehash}{ffaa7d7e7de43e6df8a62c572e9a2f81}
       \strng{fullhash}{ffaa7d7e7de43e6df8a62c572e9a2f81}
-      \strng{authornamehash}{ffaa7d7e7de43e6df8a62c572e9a2f81}
-      \strng{authorfullhash}{ffaa7d7e7de43e6df8a62c572e9a2f81}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1847}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{The Moral Aspects of Medical Life}}
@@ -1777,20 +1718,19 @@
       \name{author}{1}{}{%
         {{hash=589234b646aade5b7c73475a563cc408}{%
            family={Mead},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={Margaret},
-           giveni={M\bibinitperiod}}}%
+           given_i={M\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {New York W. Morrow 1928.}%
       }
       \strng{namehash}{589234b646aade5b7c73475a563cc408}
       \strng{fullhash}{589234b646aade5b7c73475a563cc408}
-      \strng{authornamehash}{589234b646aade5b7c73475a563cc408}
-      \strng{authorfullhash}{589234b646aade5b7c73475a563cc408}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1928}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{On bookshelf, white cover. shelved with Phil Science}
@@ -1801,22 +1741,21 @@
       \name{author}{2}{}{%
         {{hash=f4f46d272bfc004969b27192f436b492}{%
            family={Menninger},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={Roy},
-           giveni={R\bibinitperiod}}}%
+           given_i={R\bibinitperiod}}}%
         {{hash=ea5f1608359dfa2323a208910cf915e8}{%
            family={Nemiah},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={John},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
       }
       \strng{namehash}{f31f6d493466d8f42243649eb2d7c94c}
       \strng{fullhash}{f31f6d493466d8f42243649eb2d7c94c}
-      \strng{authornamehash}{f31f6d493466d8f42243649eb2d7c94c}
-      \strng{authorfullhash}{f31f6d493466d8f42243649eb2d7c94c}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{American Psychiatry after World War II (1944-1994)}}
@@ -1826,17 +1765,16 @@
       \name{author}{1}{}{%
         {{hash=6000420e2d5ec41b2819d0f870152ee1}{%
            family={Miller},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={George},
-           giveni={G\bibinitperiod}}}%
+           given_i={G\bibinitperiod}}}%
       }
       \strng{namehash}{6000420e2d5ec41b2819d0f870152ee1}
       \strng{fullhash}{6000420e2d5ec41b2819d0f870152ee1}
-      \strng{authornamehash}{6000420e2d5ec41b2819d0f870152ee1}
-      \strng{authorfullhash}{6000420e2d5ec41b2819d0f870152ee1}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1979}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Talk to Cognitive Science Workshop, MIT, Cambridge, Mass. 1 June 1979}
@@ -1847,20 +1785,19 @@
       \name{author}{1}{}{%
         {{hash=6000420e2d5ec41b2819d0f870152ee1}{%
            family={Miller},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={George},
-           giveni={G\bibinitperiod}}}%
+           given_i={G\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Oxford, UK}%
       }
       \strng{namehash}{6000420e2d5ec41b2819d0f870152ee1}
       \strng{fullhash}{6000420e2d5ec41b2819d0f870152ee1}
-      \strng{authornamehash}{6000420e2d5ec41b2819d0f870152ee1}
-      \strng{authorfullhash}{6000420e2d5ec41b2819d0f870152ee1}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1962}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{62009894illus. 22 cm.}
@@ -1871,17 +1808,16 @@
       \name{author}{1}{}{%
         {{hash=6000420e2d5ec41b2819d0f870152ee1}{%
            family={Miller},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={George},
-           giveni={G\bibinitperiod}}}%
+           given_i={G\bibinitperiod}}}%
       }
       \strng{namehash}{6000420e2d5ec41b2819d0f870152ee1}
       \strng{fullhash}{6000420e2d5ec41b2819d0f870152ee1}
-      \strng{authornamehash}{6000420e2d5ec41b2819d0f870152ee1}
-      \strng{authorfullhash}{6000420e2d5ec41b2819d0f870152ee1}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1956}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Psychological Review}
@@ -1895,25 +1831,24 @@
       \name{author}{2}{}{%
         {{hash=7ac31b3d58bbf78c5159efa04af9b8fb}{%
            family={Myers},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={David\bibnamedelima G},
-           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+           given_i={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
         {{hash=8f05ca5369e1501f3b20e103ec3ede90}{%
            family={DeWall},
-           familyi={D\bibinitperiod},
+           family_i={D\bibinitperiod},
            given={Charles\bibnamedelima K},
-           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+           given_i={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Worth Publishers}%
       }
       \strng{namehash}{260b05ca60d3698d104513d49d419d30}
       \strng{fullhash}{260b05ca60d3698d104513d49d419d30}
-      \strng{authornamehash}{260b05ca60d3698d104513d49d419d30}
-      \strng{authorfullhash}{260b05ca60d3698d104513d49d419d30}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Psychology}}
@@ -1923,20 +1858,20 @@
       \name{author}{1}{}{%
         {{hash=86425a42fd3304c3c8645aa0dc7d2697}{%
            family={Neisser},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Ulric},
-           giveni={U\bibinitperiod}}}%
+           given_i={U\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Psychology Press}%
       }
       \strng{namehash}{86425a42fd3304c3c8645aa0dc7d2697}
       \strng{fullhash}{86425a42fd3304c3c8645aa0dc7d2697}
-      \strng{authornamehash}{86425a42fd3304c3c8645aa0dc7d2697}
-      \strng{authorfullhash}{86425a42fd3304c3c8645aa0dc7d2697}
       \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{2014}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{11}
@@ -1948,17 +1883,16 @@
       \name{author}{1}{}{%
         {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
            family={Newton},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Isaac},
-           giveni={I\bibinitperiod}}}%
+           given_i={I\bibinitperiod}}}%
       }
       \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authornamehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authorfullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{1671}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Philosophical Transactions}
@@ -1972,18 +1906,17 @@
       \name{author}{1}{}{%
         {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
            family={Newton},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Isaac},
-           giveni={I\bibinitperiod}}}%
+           given_i={I\bibinitperiod}}}%
       }
       \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authornamehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authorfullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
       \field{extrayear}{1}
-      \field{labeldatesource}{year}
+      \field{labelyear}{1672}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Philosophical Transactions}
@@ -1997,17 +1930,16 @@
       \name{author}{1}{}{%
         {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
            family={Newton},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Isaac},
-           giveni={I\bibinitperiod}}}%
+           given_i={I\bibinitperiod}}}%
       }
       \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authornamehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authorfullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{1673}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Philosophical Transactions}
@@ -2021,18 +1953,17 @@
       \name{author}{1}{}{%
         {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
            family={Newton},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Isaac},
-           giveni={I\bibinitperiod}}}%
+           given_i={I\bibinitperiod}}}%
       }
       \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authornamehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authorfullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
       \field{extrayear}{2}
-      \field{labeldatesource}{year}
+      \field{labelyear}{1672}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Philosophical Transactions}
@@ -2046,23 +1977,23 @@
       \name{author}{1}{}{%
         {{hash=7a621e01239c1fe6557cf9c9d2f85bd3}{%
            family={Newton},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Isaac},
-           giveni={I\bibinitperiod}}}%
+           given_i={I\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Sagwan Press}%
       }
       \strng{namehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \strng{fullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authornamehash}{7a621e01239c1fe6557cf9c9d2f85bd3}
-      \strng{authorfullhash}{7a621e01239c1fe6557cf9c9d2f85bd3}
       \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{2018}
+      \field{labelmonth}{02}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{2}
+      \field{month}{02}
       \field{title}{{Opticks, Or, a Treatise of the Reflections, Refractions, Inflections and Colours of Light: 1721}}
       \field{year}{2018}
     \endentry
@@ -2070,17 +2001,16 @@
       \name{author}{1}{}{%
         {{hash=378dbd97a655cb837c33ae5058c6e554}{%
            family={Pavlov},
-           familyi={P\bibinitperiod},
+           family_i={P\bibinitperiod},
            given={Ivan\bibnamedelima Petrovič},
-           giveni={I\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+           given_i={I\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
       }
       \strng{namehash}{378dbd97a655cb837c33ae5058c6e554}
       \strng{fullhash}{378dbd97a655cb837c33ae5058c6e554}
-      \strng{authornamehash}{378dbd97a655cb837c33ae5058c6e554}
-      \strng{authorfullhash}{378dbd97a655cb837c33ae5058c6e554}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{1927}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{Oxford}
@@ -2091,17 +2021,16 @@
       \name{author}{1}{}{%
         {{hash=7a9696c32945207b58c5d01017be9cdf}{%
            family={Pinel},
-           familyi={P\bibinitperiod},
+           family_i={P\bibinitperiod},
            given={Philippe},
-           giveni={P\bibinitperiod}}}%
+           given_i={P\bibinitperiod}}}%
       }
       \strng{namehash}{7a9696c32945207b58c5d01017be9cdf}
       \strng{fullhash}{7a9696c32945207b58c5d01017be9cdf}
-      \strng{authornamehash}{7a9696c32945207b58c5d01017be9cdf}
-      \strng{authorfullhash}{7a9696c32945207b58c5d01017be9cdf}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{1806}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{A treatise on insanity}}
@@ -2113,31 +2042,31 @@
       \name{author}{3}{}{%
         {{hash=2d1c36aea3c528652bbd7e93b00c9d1a}{%
            family={Pitts},
-           familyi={P\bibinitperiod},
+           family_i={P\bibinitperiod},
            given={Michael\bibnamedelima A},
-           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           given_i={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=baf7fcf628af55637171a935486d4f7d}{%
            family={Nerger},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Janice\bibnamedelima L},
-           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given_i={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
         {{hash=16650b1311f0a74497c7ae341084c376}{%
            family={Davis},
-           familyi={D\bibinitperiod},
+           family_i={D\bibinitperiod},
            given={Trevor\bibnamedelimb J\bibnamedelima R},
-           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+           given_i={T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
       }
       \strng{namehash}{0cc51f19f623793780313425a1f2eeec}
       \strng{fullhash}{0cc51f19f623793780313425a1f2eeec}
-      \strng{authornamehash}{0cc51f19f623793780313425a1f2eeec}
-      \strng{authorfullhash}{0cc51f19f623793780313425a1f2eeec}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2007}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Vision}
-      \field{month}{1}
+      \field{month}{01}
       \field{number}{1}
       \field{title}{{Electrophysiological correlates of perceptual reversals for three different types of multistable images}}
       \field{volume}{7}
@@ -2147,11 +2076,13 @@
     \endentry
     \entry{Anonymous:1967hr}{article}{}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{1967}
+      \field{labelmonth}{09}
+      \field{datelabelsource}{}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Journal of Psychiatry}
-      \field{month}{9}
+      \field{month}{09}
       \field{number}{3}
       \field{title}{{Position Statement on Abortion}}
       \field{volume}{124}
@@ -2163,17 +2094,16 @@
       \name{author}{1}{}{%
         {{hash=3908faf9f61a75bd52ea0c9dd1ffd796}{%
            family={Prochnik},
-           familyi={P\bibinitperiod},
+           family_i={P\bibinitperiod},
            given={George},
-           giveni={G\bibinitperiod}}}%
+           given_i={G\bibinitperiod}}}%
       }
       \strng{namehash}{3908faf9f61a75bd52ea0c9dd1ffd796}
       \strng{fullhash}{3908faf9f61a75bd52ea0c9dd1ffd796}
-      \strng{authornamehash}{3908faf9f61a75bd52ea0c9dd1ffd796}
-      \strng{authorfullhash}{3908faf9f61a75bd52ea0c9dd1ffd796}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Putnam Camp: Sigmund Freud, James Jackson Putnam, and the Purpose of American Psychology}}
@@ -2183,17 +2113,16 @@
       \name{author}{1}{}{%
         {{hash=7b4470ef78a3d569898c665f96576243}{%
            family={Putnam},
-           familyi={P\bibinitperiod},
+           family_i={P\bibinitperiod},
            given={James},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
       }
       \strng{namehash}{7b4470ef78a3d569898c665f96576243}
       \strng{fullhash}{7b4470ef78a3d569898c665f96576243}
-      \strng{authornamehash}{7b4470ef78a3d569898c665f96576243}
-      \strng{authorfullhash}{7b4470ef78a3d569898c665f96576243}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{1921}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Addresses on Psycho-analysis}}
@@ -2205,37 +2134,37 @@
       \name{author}{5}{}{%
         {{hash=ab9f7ec48fca23605c9500d844944433}{%
            family={Rao},
-           familyi={R\bibinitperiod},
+           family_i={R\bibinitperiod},
            given={M\bibnamedelima R},
-           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+           given_i={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
         {{hash=40318bcbb4b42bf0860abaa71c37d40a}{%
            family={Brenner},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={R\bibnamedelima A},
-           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=722cde93aa0351a39f7437a54f47bfc1}{%
            family={Schisterman},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={E\bibnamedelima F},
-           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+           given_i={E\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
         {{hash=1a44359f4b1ff303a3dea8b8377ce95f}{%
            family={Vik},
-           familyi={V\bibinitperiod},
+           family_i={V\bibinitperiod},
            given={T},
-           giveni={T\bibinitperiod}}}%
+           given_i={T\bibinitperiod}}}%
         {{hash=2c1cef141f2e7e9037d07ad413c53c6e}{%
            family={Mills},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={J\bibnamedelima L},
-           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given_i={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
       \strng{namehash}{0ba9f3de9754a25393f1422caf1d1f0d}
       \strng{fullhash}{fd19051b0df926dd6efccc90b641b976}
-      \strng{authornamehash}{0ba9f3de9754a25393f1422caf1d1f0d}
-      \strng{authorfullhash}{fd19051b0df926dd6efccc90b641b976}
       \field{sortinit}{R}
-      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2004}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Archives of Disease in Childhood}
@@ -2251,23 +2180,23 @@
       \name{author}{1}{}{%
         {{hash=2d015ce38d098d8a943fe33611522e0b}{%
            family={Rathus},
-           familyi={R\bibinitperiod},
+           family_i={R\bibinitperiod},
            given={Spencer},
-           giveni={S\bibinitperiod}}}%
+           given_i={S\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Cengage Learning}%
       }
       \strng{namehash}{2d015ce38d098d8a943fe33611522e0b}
       \strng{fullhash}{2d015ce38d098d8a943fe33611522e0b}
-      \strng{authornamehash}{2d015ce38d098d8a943fe33611522e0b}
-      \strng{authorfullhash}{2d015ce38d098d8a943fe33611522e0b}
       \field{sortinit}{R}
-      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2012}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{1}
+      \field{month}{01}
       \field{title}{{Psychology: Concepts {\&} Connections, Brief Version}}
       \field{year}{2012}
     \endentry
@@ -2275,23 +2204,23 @@
       \name{author}{1}{}{%
         {{hash=c58c42b6f7e7e1f78dbbdc65ed8e5384}{%
            family={Russell},
-           familyi={R\bibinitperiod},
+           family_i={R\bibinitperiod},
            given={Bertrand},
-           giveni={B\bibinitperiod}}}%
+           given_i={B\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Routledge}%
       }
       \strng{namehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
       \strng{fullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
-      \strng{authornamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
-      \strng{authorfullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
       \field{sortinit}{R}
-      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2013}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{4}
+      \field{month}{04}
       \field{series}{Collectors Edition}
       \field{title}{{History of Western Philosophy}}
       \field{year}{2013}
@@ -2300,23 +2229,23 @@
       \name{author}{1}{}{%
         {{hash=c592f90f4a37514387e9d71aeea86120}{%
            family={Sacks},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={Oliver\bibnamedelima W},
-           giveni={O\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+           given_i={O\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Doubleday Books}%
       }
       \strng{namehash}{c592f90f4a37514387e9d71aeea86120}
       \strng{fullhash}{c592f90f4a37514387e9d71aeea86120}
-      \strng{authornamehash}{c592f90f4a37514387e9d71aeea86120}
-      \strng{authorfullhash}{c592f90f4a37514387e9d71aeea86120}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1974}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{1}
+      \field{month}{01}
       \field{title}{{Awakenings}}
       \field{year}{1974}
     \endentry
@@ -2324,22 +2253,21 @@
       \name{author}{2}{}{%
         {{hash=7cd90ce79a476617e201ed0dbef8f96d}{%
            family={Scoville},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={Wiliam\bibnamedelima Beecher},
-           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+           given_i={W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
         {{hash=cf76271b8ade5e87de5e9426cbef5095}{%
            family={Milner},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={Brenda},
-           giveni={B\bibinitperiod}}}%
+           given_i={B\bibinitperiod}}}%
       }
       \strng{namehash}{631c8946e4be65e720efaa3426a74f39}
       \strng{fullhash}{631c8946e4be65e720efaa3426a74f39}
-      \strng{authornamehash}{631c8946e4be65e720efaa3426a74f39}
-      \strng{authorfullhash}{631c8946e4be65e720efaa3426a74f39}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1957}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Neurology, Neurosurgery and Psychiatry}
@@ -2354,17 +2282,16 @@
       \name{author}{1}{}{%
         {{hash=fd145f628044b1f219282c8f355e12c5}{%
            family={Skinner},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={B\bibnamedelima F},
-           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+           given_i={B\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
       }
       \strng{namehash}{fd145f628044b1f219282c8f355e12c5}
       \strng{fullhash}{fd145f628044b1f219282c8f355e12c5}
-      \strng{authornamehash}{fd145f628044b1f219282c8f355e12c5}
-      \strng{authorfullhash}{fd145f628044b1f219282c8f355e12c5}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1972}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{72078259[by] B. F. Skinner.illus. 24 cm.}
@@ -2375,17 +2302,16 @@
       \name{author}{1}{}{%
         {{hash=fd145f628044b1f219282c8f355e12c5}{%
            family={Skinner},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={B\bibnamedelima F},
-           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+           given_i={B\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
       }
       \strng{namehash}{fd145f628044b1f219282c8f355e12c5}
       \strng{fullhash}{fd145f628044b1f219282c8f355e12c5}
-      \strng{authornamehash}{fd145f628044b1f219282c8f355e12c5}
-      \strng{authorfullhash}{fd145f628044b1f219282c8f355e12c5}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Science and Human Behavior}}
@@ -2397,17 +2323,16 @@
       \name{author}{1}{}{%
         {{hash=fd145f628044b1f219282c8f355e12c5}{%
            family={Skinner},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={B\bibnamedelima F},
-           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+           given_i={B\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
       }
       \strng{namehash}{fd145f628044b1f219282c8f355e12c5}
       \strng{fullhash}{fd145f628044b1f219282c8f355e12c5}
-      \strng{authornamehash}{fd145f628044b1f219282c8f355e12c5}
-      \strng{authorfullhash}{fd145f628044b1f219282c8f355e12c5}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1953}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{5300704522 cm.}
@@ -2418,17 +2343,16 @@
       \name{author}{1}{}{%
         {{hash=fd145f628044b1f219282c8f355e12c5}{%
            family={Skinner},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={B\bibnamedelima F},
-           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+           given_i={B\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
       }
       \strng{namehash}{fd145f628044b1f219282c8f355e12c5}
       \strng{fullhash}{fd145f628044b1f219282c8f355e12c5}
-      \strng{authornamehash}{fd145f628044b1f219282c8f355e12c5}
-      \strng{authorfullhash}{fd145f628044b1f219282c8f355e12c5}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1990}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{The Behavior of Organisms}}
@@ -2438,17 +2362,16 @@
       \name{author}{1}{}{%
         {{hash=8384c9a9c0130ef85eedb7559d8d4216}{%
            family={Spence},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={Kenneth\bibnamedelima W},
-           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+           given_i={K\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
       }
       \strng{namehash}{8384c9a9c0130ef85eedb7559d8d4216}
       \strng{fullhash}{8384c9a9c0130ef85eedb7559d8d4216}
-      \strng{authornamehash}{8384c9a9c0130ef85eedb7559d8d4216}
-      \strng{authorfullhash}{8384c9a9c0130ef85eedb7559d8d4216}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1950}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Psychological Review}
@@ -2463,53 +2386,53 @@
       \name{author}{7}{}{%
         {{hash=cfd59323d5cd10895bc13694d1e5a8ef}{%
            family={Stillings},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={Neil\bibnamedelima A},
-           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           given_i={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=1069a6cd1a31f3256d75254b5e5cd86a}{%
            family={Feinstein},
-           familyi={F\bibinitperiod},
+           family_i={F\bibinitperiod},
            given={Mark\bibnamedelima H},
-           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           given_i={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=5e794c7eb0b86e57e0aaf51964e082b4}{%
            family={Garfield},
-           familyi={G\bibinitperiod},
+           family_i={G\bibinitperiod},
            given={Jay\bibnamedelima L},
-           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given_i={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
         {{hash=b4660b4db4d0870b627024fd336a54f1}{%
            family={Rissland},
-           familyi={R\bibinitperiod},
+           family_i={R\bibinitperiod},
            given={Edwina\bibnamedelima L},
-           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given_i={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
         {{hash=b052b6abd6445ed3c04aa4e1ce4cbb8f}{%
            family={Rosenbaum},
-           familyi={R\bibinitperiod},
+           family_i={R\bibinitperiod},
            given={David\bibnamedelima A},
-           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           given_i={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=cb822b13c7ebba2c08e064378d33e87d}{%
            family={Weisler},
-           familyi={W\bibinitperiod},
+           family_i={W\bibinitperiod},
            given={Steven\bibnamedelima E},
-           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+           given_i={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
         {{hash=02f261a8985cf03a6c1e6f7b943ea05b}{%
            family={Baker-Ward},
-           familyi={B\bibinithyphendelim W\bibinitperiod},
+           family_i={B\bibinithyphendelim W\bibinitperiod},
            given={Lynne},
-           giveni={L\bibinitperiod}}}%
+           given_i={L\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {MIT Press}%
       }
       \strng{namehash}{e6497a8b22d7602f71b964fc0c4d7642}
       \strng{fullhash}{2b7d26f7b5d3b57bebce439d350cede5}
-      \strng{authornamehash}{e6497a8b22d7602f71b964fc0c4d7642}
-      \strng{authorfullhash}{2b7d26f7b5d3b57bebce439d350cede5}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1995}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{1}
+      \field{month}{01}
       \field{series}{An Introduction}
       \field{title}{{Cognitive Science}}
       \field{year}{1995}
@@ -2518,17 +2441,16 @@
       \name{author}{1}{}{%
         {{hash=7be8cd3e92ca4460be7e2d6c28b256e3}{%
            family={The\bibnamedelimb National\bibnamedelimb Institutes\bibnamedelimb of\bibnamedelima Heath},
-           familyi={T\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim H\bibinitperiod},
+           family_i={T\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim H\bibinitperiod},
            given={Office},
-           giveni={O\bibinitperiod}}}%
+           given_i={O\bibinitperiod}}}%
       }
       \strng{namehash}{7be8cd3e92ca4460be7e2d6c28b256e3}
       \strng{fullhash}{7be8cd3e92ca4460be7e2d6c28b256e3}
-      \strng{authornamehash}{7be8cd3e92ca4460be7e2d6c28b256e3}
-      \strng{authorfullhash}{7be8cd3e92ca4460be7e2d6c28b256e3}
       \field{sortinit}{T}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{number}{10/2/2009}
@@ -2540,9 +2462,9 @@
       \name{author}{1}{}{%
         {{hash=bb47cf59f360ed53b5e0bd5718df0f8c}{%
            family={Titchener},
-           familyi={T\bibinitperiod},
+           family_i={T\bibinitperiod},
            given={Edward\bibnamedelima Bradford},
-           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+           given_i={E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {New York}%
@@ -2552,11 +2474,10 @@
       }
       \strng{namehash}{bb47cf59f360ed53b5e0bd5718df0f8c}
       \strng{fullhash}{bb47cf59f360ed53b5e0bd5718df0f8c}
-      \strng{authornamehash}{bb47cf59f360ed53b5e0bd5718df0f8c}
-      \strng{authorfullhash}{bb47cf59f360ed53b5e0bd5718df0f8c}
       \field{sortinit}{T}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{1896}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{An Outline of Psychology by Edward Bradford Titchener}}
@@ -2566,17 +2487,16 @@
       \name{author}{1}{}{%
         {{hash=6b8095a3894d396ba4327cce42c38123}{%
            family={Tolman},
-           familyi={T\bibinitperiod},
+           family_i={T\bibinitperiod},
            given={Edward\bibnamedelima Chace},
-           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+           given_i={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
       \strng{namehash}{6b8095a3894d396ba4327cce42c38123}
       \strng{fullhash}{6b8095a3894d396ba4327cce42c38123}
-      \strng{authornamehash}{6b8095a3894d396ba4327cce42c38123}
-      \strng{authorfullhash}{6b8095a3894d396ba4327cce42c38123}
       \field{sortinit}{T}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{1922}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Psychological Review}
@@ -2590,17 +2510,16 @@
       \name{author}{1}{}{%
         {{hash=6b8095a3894d396ba4327cce42c38123}{%
            family={Tolman},
-           familyi={T\bibinitperiod},
+           family_i={T\bibinitperiod},
            given={Edward\bibnamedelima Chace},
-           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+           given_i={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
       \strng{namehash}{6b8095a3894d396ba4327cce42c38123}
       \strng{fullhash}{6b8095a3894d396ba4327cce42c38123}
-      \strng{authornamehash}{6b8095a3894d396ba4327cce42c38123}
-      \strng{authorfullhash}{6b8095a3894d396ba4327cce42c38123}
       \field{sortinit}{T}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{1948}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Psychological Review}
@@ -2615,21 +2534,21 @@
       \name{author}{1}{}{%
         {{hash=d7a506a59e674f9eb3b496fcef59e2b8}{%
            family={Vedantam},
-           familyi={V\bibinitperiod},
+           family_i={V\bibinitperiod},
            given={Shankar},
-           giveni={S\bibinitperiod}}}%
+           given_i={S\bibinitperiod}}}%
       }
       \strng{namehash}{d7a506a59e674f9eb3b496fcef59e2b8}
       \strng{fullhash}{d7a506a59e674f9eb3b496fcef59e2b8}
-      \strng{authornamehash}{d7a506a59e674f9eb3b496fcef59e2b8}
-      \strng{authorfullhash}{d7a506a59e674f9eb3b496fcef59e2b8}
       \field{sortinit}{V}
-      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelyear}{2004}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Washington Post}
-      \field{month}{1}
+      \field{month}{01}
       \field{title}{{\textbf{Dogged Crying, Lower IQ Linked}}}
       \field{year}{2004}
       \field{pages}{A12}
@@ -2639,17 +2558,17 @@
       \name{author}{1}{}{%
         {{hash=e64147e37ac0b506af7be1dadc50744f}{%
            family={Watson},
-           familyi={W\bibinitperiod},
+           family_i={W\bibinitperiod},
            given={John\bibnamedelima Broadus},
-           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+           given_i={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
       }
       \strng{namehash}{e64147e37ac0b506af7be1dadc50744f}
       \strng{fullhash}{e64147e37ac0b506af7be1dadc50744f}
-      \strng{authornamehash}{e64147e37ac0b506af7be1dadc50744f}
-      \strng{authorfullhash}{e64147e37ac0b506af7be1dadc50744f}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2013}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{The Battle of Behaviorism}
@@ -2661,17 +2580,16 @@
       \name{author}{1}{}{%
         {{hash=e64147e37ac0b506af7be1dadc50744f}{%
            family={Watson},
-           familyi={W\bibinitperiod},
+           family_i={W\bibinitperiod},
            given={John\bibnamedelima Broadus},
-           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+           given_i={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
       }
       \strng{namehash}{e64147e37ac0b506af7be1dadc50744f}
       \strng{fullhash}{e64147e37ac0b506af7be1dadc50744f}
-      \strng{authornamehash}{e64147e37ac0b506af7be1dadc50744f}
-      \strng{authorfullhash}{e64147e37ac0b506af7be1dadc50744f}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1913}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Psychological Review}
@@ -2685,25 +2603,25 @@
       \name{author}{2}{}{%
         {{hash=e64147e37ac0b506af7be1dadc50744f}{%
            family={Watson},
-           familyi={W\bibinitperiod},
+           family_i={W\bibinitperiod},
            given={John\bibnamedelima Broadus},
-           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+           given_i={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
         {{hash=3e7fbe99f83d07cbc63333f41da18248}{%
            family={MacDougall},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={William},
-           giveni={W\bibinitperiod}}}%
+           given_i={W\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Literary Licensing, LLC}%
       }
       \strng{namehash}{7d501dd5b5e8226d97f7e9f0914616cb}
       \strng{fullhash}{7d501dd5b5e8226d97f7e9f0914616cb}
-      \strng{authornamehash}{7d501dd5b5e8226d97f7e9f0914616cb}
-      \strng{authorfullhash}{7d501dd5b5e8226d97f7e9f0914616cb}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2013}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{10}
@@ -2715,20 +2633,19 @@
       \name{author}{1}{}{%
         {{hash=fe09677df4be84134e0e81e843dd62ab}{%
            family={Wolpe},
-           familyi={W\bibinitperiod},
+           family_i={W\bibinitperiod},
            given={Joseph},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Stanford University Press}%
       }
       \strng{namehash}{fe09677df4be84134e0e81e843dd62ab}
       \strng{fullhash}{fe09677df4be84134e0e81e843dd62ab}
-      \strng{authornamehash}{fe09677df4be84134e0e81e843dd62ab}
-      \strng{authorfullhash}{fe09677df4be84134e0e81e843dd62ab}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1958}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Psychotherapy by Reciprocal Inhibition}}
@@ -2738,15 +2655,14 @@
       \name{author}{1}{}{%
         {{hash=b6e0dda6416afb08322f7a96e1e81aef}{%
            family={{World Medical Association}},
-           familyi={W\bibinitperiod}}}%
+           family_i={W\bibinitperiod}}}%
       }
       \strng{namehash}{b6e0dda6416afb08322f7a96e1e81aef}
       \strng{fullhash}{b6e0dda6416afb08322f7a96e1e81aef}
-      \strng{authornamehash}{b6e0dda6416afb08322f7a96e1e81aef}
-      \strng{authorfullhash}{b6e0dda6416afb08322f7a96e1e81aef}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1975}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Declaration of Helsinki}}
@@ -2756,26 +2672,23 @@
       \name{author}{1}{}{%
         {{hash=13c984eaffdc67167da8ecbf2a0c4767}{%
            family={Wozniak},
-           familyi={W\bibinitperiod},
+           family_i={W\bibinitperiod},
            given={Robert\bibnamedelima H},
-           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           given_i={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
         {{hash=13c984eaffdc67167da8ecbf2a0c4767}{%
            family={Wozniak},
-           familyi={W\bibinitperiod},
+           family_i={W\bibinitperiod},
            given={Robert\bibnamedelima H},
-           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           given_i={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
       \strng{namehash}{13c984eaffdc67167da8ecbf2a0c4767}
       \strng{fullhash}{13c984eaffdc67167da8ecbf2a0c4767}
-      \strng{authornamehash}{13c984eaffdc67167da8ecbf2a0c4767}
-      \strng{authorfullhash}{13c984eaffdc67167da8ecbf2a0c4767}
-      \strng{editornamehash}{13c984eaffdc67167da8ecbf2a0c4767}
-      \strng{editorfullhash}{13c984eaffdc67167da8ecbf2a0c4767}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1997}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Reflex, habit and implicit response: The early elaboration of theoretical and methodological behaviourism.}
@@ -2786,17 +2699,16 @@
       \name{author}{1}{}{%
         {{hash=55f582e0b43a07ab319e89c0c3c97edc}{%
            family={Wundt},
-           familyi={W\bibinitperiod},
+           family_i={W\bibinitperiod},
            given={Wilhelm},
-           giveni={W\bibinitperiod}}}%
+           given_i={W\bibinitperiod}}}%
       }
       \strng{namehash}{55f582e0b43a07ab319e89c0c3c97edc}
       \strng{fullhash}{55f582e0b43a07ab319e89c0c3c97edc}
-      \strng{authornamehash}{55f582e0b43a07ab319e89c0c3c97edc}
-      \strng{authorfullhash}{55f582e0b43a07ab319e89c0c3c97edc}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1876}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Mind}
@@ -2811,17 +2723,16 @@
       \name{author}{1}{}{%
         {{hash=55f582e0b43a07ab319e89c0c3c97edc}{%
            family={Wundt},
-           familyi={W\bibinitperiod},
+           family_i={W\bibinitperiod},
            given={Wilhelm},
-           giveni={W\bibinitperiod}}}%
+           given_i={W\bibinitperiod}}}%
       }
       \strng{namehash}{55f582e0b43a07ab319e89c0c3c97edc}
       \strng{fullhash}{55f582e0b43a07ab319e89c0c3c97edc}
-      \strng{authornamehash}{55f582e0b43a07ab319e89c0c3c97edc}
-      \strng{authorfullhash}{55f582e0b43a07ab319e89c0c3c97edc}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1902}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Principles of physiological psychology}}
@@ -2833,30 +2744,29 @@
       \name{author}{3}{}{%
         {{hash=5ad85bf5014a9075a87191295d885c4b}{%
            family={Zimbardo},
-           familyi={Z\bibinitperiod},
+           family_i={Z\bibinitperiod},
            given={P\bibnamedelima G},
-           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+           given_i={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
         {{hash=fd430eae501f155d9616945b37130fc5}{%
            family={Johnson},
-           familyi={J\bibinitperiod},
+           family_i={J\bibinitperiod},
            given={R},
-           giveni={R\bibinitperiod}}}%
+           given_i={R\bibinitperiod}}}%
         {{hash=cde6c9a1d96826e453790656b7ee99b1}{%
            family={McCann},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={V},
-           giveni={V\bibinitperiod}}}%
+           given_i={V\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Pearson}%
       }
       \strng{namehash}{fef0b8ceed4b0b20318bfa1e49945aeb}
       \strng{fullhash}{fef0b8ceed4b0b20318bfa1e49945aeb}
-      \strng{authornamehash}{fef0b8ceed4b0b20318bfa1e49945aeb}
-      \strng{authorfullhash}{fef0b8ceed4b0b20318bfa1e49945aeb}
       \field{sortinit}{Z}
-      \field{sortinithash}{35589aa085e881766b72503e53fd4c97}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{7th}
@@ -2871,11 +2781,13 @@
   \sortlist[entry]{nty/global/}
     \entry{Anonymous:1993fb}{article}{}
       \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{1993}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Journal of Psychiatry}
-      \field{month}{4}
+      \field{month}{04}
       \field{number}{4}
       \field{title}{{APA position statement on abortion}}
       \field{volume}{150}
@@ -2887,28 +2799,28 @@
       \name{author}{2}{}{%
         {{hash=c729c785501dd325d544a740d1db66d2}{%
            family={Cacioppo},
-           familyi={C\bibinitperiod},
+           family_i={C\bibinitperiod},
            given={John},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
         {{hash=a12f7a5668126242caaceea274ce1f64}{%
            family={Freberg},
-           familyi={F\bibinitperiod},
+           family_i={F\bibinitperiod},
            given={Laura},
-           giveni={L\bibinitperiod}}}%
+           given_i={L\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Cengage Learning}%
       }
       \strng{namehash}{a4a9163a5a403a58cce4312bbb34f2dd}
       \strng{fullhash}{a4a9163a5a403a58cce4312bbb34f2dd}
-      \strng{authornamehash}{a4a9163a5a403a58cce4312bbb34f2dd}
-      \strng{authorfullhash}{a4a9163a5a403a58cce4312bbb34f2dd}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2018}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{1}
+      \field{month}{01}
       \field{title}{{Discovering Psychology: The Science of Mind}}
       \field{year}{2018}
     \endentry
@@ -2916,22 +2828,21 @@
       \name{author}{2}{}{%
         {{hash=694cc646cd69dc770c3012bd834201db}{%
            family={Cervone},
-           familyi={C\bibinitperiod},
+           family_i={C\bibinitperiod},
            given={D},
-           giveni={D\bibinitperiod}}}%
+           given_i={D\bibinitperiod}}}%
         {{hash=b2aab5a17f47c54e2c30b8efdfe6076d}{%
            family={Caldwell},
-           familyi={C\bibinitperiod},
+           family_i={C\bibinitperiod},
            given={T\bibnamedelima L},
-           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given_i={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
       \strng{namehash}{f8c7fb37c8210752cc1154b84b00080e}
       \strng{fullhash}{f8c7fb37c8210752cc1154b84b00080e}
-      \strng{authornamehash}{f8c7fb37c8210752cc1154b84b00080e}
-      \strng{authorfullhash}{f8c7fb37c8210752cc1154b84b00080e}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Psychology: The science of person, mind, and brain}}
@@ -2941,23 +2852,23 @@
       \name{author}{1}{}{%
         {{hash=f54c323d262443feb3d436f2f2999098}{%
            family={Gazzaniga},
-           familyi={G\bibinitperiod},
+           family_i={G\bibinitperiod},
            given={Michael},
-           giveni={M\bibinitperiod}}}%
+           given_i={M\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {W. W. Norton {\&} Company}%
       }
       \strng{namehash}{f54c323d262443feb3d436f2f2999098}
       \strng{fullhash}{f54c323d262443feb3d436f2f2999098}
-      \strng{authornamehash}{f54c323d262443feb3d436f2f2999098}
-      \strng{authorfullhash}{f54c323d262443feb3d436f2f2999098}
       \field{sortinit}{G}
-      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{2018}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{7}
+      \field{month}{07}
       \field{series}{Sixth Edition}
       \field{title}{{Psychological Science}}
       \field{year}{2018}
@@ -2966,27 +2877,26 @@
       \name{author}{3}{}{%
         {{hash=f60a8a49c7e79f0953d361b2c9be5e48}{%
            family={Haney},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={Craig},
-           giveni={C\bibinitperiod}}}%
+           given_i={C\bibinitperiod}}}%
         {{hash=b32821cc286e483967ff496eeaf4690d}{%
            family={Banks},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Curtis},
-           giveni={C\bibinitperiod}}}%
+           given_i={C\bibinitperiod}}}%
         {{hash=3fdbde2b74085385dcd1dc7c6e96e0ca}{%
            family={Zimbardo},
-           familyi={Z\bibinitperiod},
+           family_i={Z\bibinitperiod},
            given={Philip},
-           giveni={P\bibinitperiod}}}%
+           given_i={P\bibinitperiod}}}%
       }
       \strng{namehash}{a98e360113a39a6c018e676d0c3a4fcc}
       \strng{fullhash}{a98e360113a39a6c018e676d0c3a4fcc}
-      \strng{authornamehash}{a98e360113a39a6c018e676d0c3a4fcc}
-      \strng{authorfullhash}{a98e360113a39a6c018e676d0c3a4fcc}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1973}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Criminology and Penology}
@@ -3000,30 +2910,30 @@
       \name{author}{3}{}{%
         {{hash=29ffb4b3b93346c6a71750098064dbed}{%
            family={Hockenbury},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={Sandra\bibnamedelima E},
-           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+           given_i={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
         {{hash=ea1ba991a63ae5810e0da7c525296da1}{%
            family={Nolan},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Susan\bibnamedelima A},
-           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           given_i={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=05c36344db7655b04b4b7a5b27ea9cc9}{%
            family={Hockenbury},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={Don\bibnamedelima H},
-           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+           given_i={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Worth Publishers}%
       }
       \strng{namehash}{fc6e4468255bbc4ff83631aca8d3a8cb}
       \strng{fullhash}{fc6e4468255bbc4ff83631aca8d3a8cb}
-      \strng{authornamehash}{fc6e4468255bbc4ff83631aca8d3a8cb}
-      \strng{authorfullhash}{fc6e4468255bbc4ff83631aca8d3a8cb}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2014}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{7th}
@@ -3035,17 +2945,16 @@
       \name{author}{1}{}{%
         {{hash=977358b4f243a1a682c4ce47e9857792}{%
            family={Hogan},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={John},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
       }
       \strng{namehash}{977358b4f243a1a682c4ce47e9857792}
       \strng{fullhash}{977358b4f243a1a682c4ce47e9857792}
-      \strng{authornamehash}{977358b4f243a1a682c4ce47e9857792}
-      \strng{authorfullhash}{977358b4f243a1a682c4ce47e9857792}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1994}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Ann N Y Acad Sci.}
@@ -3060,9 +2969,9 @@
       \name{author}{1}{}{%
         {{hash=8716d68347158fc27f91d29b54520106}{%
            family={Hothersall},
-           familyi={H\bibinitperiod},
+           family_i={H\bibinitperiod},
            given={David},
-           giveni={D\bibinitperiod}}}%
+           given_i={D\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {New York}%
@@ -3072,11 +2981,10 @@
       }
       \strng{namehash}{8716d68347158fc27f91d29b54520106}
       \strng{fullhash}{8716d68347158fc27f91d29b54520106}
-      \strng{authornamehash}{8716d68347158fc27f91d29b54520106}
-      \strng{authorfullhash}{8716d68347158fc27f91d29b54520106}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1984}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{History of Psychology}}
@@ -3086,35 +2994,34 @@
       \name{author}{4}{}{%
         {{hash=fbe7b597fc89628fa24f2b6cbd7793a8}{%
            family={Lilienfeld},
-           familyi={L\bibinitperiod},
+           family_i={L\bibinitperiod},
            given={Scott\bibnamedelima O},
-           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+           given_i={S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
         {{hash=86ea3d8377cca4054652e5ced190cbad}{%
            family={Lynn},
-           familyi={L\bibinitperiod},
+           family_i={L\bibinitperiod},
            given={Steven\bibnamedelima Jay},
-           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           given_i={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
         {{hash=8e32bfff0651fed13d760674cbb4dbcf}{%
            family={Namy},
-           familyi={N\bibinitperiod},
+           family_i={N\bibinitperiod},
            given={Laura\bibnamedelima L},
-           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given_i={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
         {{hash=75dc9c7b78d916a3c99e958fbbbdb6f4}{%
            family={Woolf},
-           familyi={W\bibinitperiod},
+           family_i={W\bibinitperiod},
            given={Nancy\bibnamedelima J},
-           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           given_i={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Prentice Hall}%
       }
       \strng{namehash}{38bdc786ec998d417ef24f953759d4fb}
       \strng{fullhash}{39173088fc9e77aba2f88209166c4161}
-      \strng{authornamehash}{38bdc786ec998d417ef24f953759d4fb}
-      \strng{authorfullhash}{39173088fc9e77aba2f88209166c4161}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{3rd}
@@ -3126,26 +3033,26 @@
       \name{author}{2}{}{%
         {{hash=684f9cbfe71bd944e5d347ac7259a8c2}{%
            family={Murre},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={Jaap\bibnamedelimb M\bibnamedelima J},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           given_i={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
         {{hash=f39def59e2a7a340de3dd3abfc15a8f7}{%
            family={Dros},
-           familyi={D\bibinitperiod},
+           family_i={D\bibinitperiod},
            given={Joeri},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
       }
       \strng{namehash}{2982c2d587f36447055f18e2c20c67f3}
       \strng{fullhash}{2982c2d587f36447055f18e2c20c67f3}
-      \strng{authornamehash}{2982c2d587f36447055f18e2c20c67f3}
-      \strng{authorfullhash}{2982c2d587f36447055f18e2c20c67f3}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2015}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PLOS ONE}
-      \field{month}{7}
+      \field{month}{07}
       \field{number}{7}
       \field{title}{{Replication and Analysis of Ebbinghaus{’} Forgetting Curve}}
       \field{volume}{10}
@@ -3157,25 +3064,24 @@
       \name{author}{2}{}{%
         {{hash=7ac31b3d58bbf78c5159efa04af9b8fb}{%
            family={Myers},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={David\bibnamedelima G},
-           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+           given_i={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
         {{hash=8f05ca5369e1501f3b20e103ec3ede90}{%
            family={DeWall},
-           familyi={D\bibinitperiod},
+           family_i={D\bibinitperiod},
            given={Charles\bibnamedelima K},
-           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+           given_i={C\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Worth Publishers}%
       }
       \strng{namehash}{260b05ca60d3698d104513d49d419d30}
       \strng{fullhash}{260b05ca60d3698d104513d49d419d30}
-      \strng{authornamehash}{260b05ca60d3698d104513d49d419d30}
-      \strng{authorfullhash}{260b05ca60d3698d104513d49d419d30}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Psychology}}
@@ -3185,15 +3091,14 @@
       \name{author}{1}{}{%
         {{hash=c43067542a4c930d4b0e0ff2a27b080d}{%
            family={Piatelli-Palmarini},
-           familyi={P\bibinithyphendelim P\bibinitperiod}}}%
+           family_i={P\bibinithyphendelim P\bibinitperiod}}}%
       }
       \strng{namehash}{c43067542a4c930d4b0e0ff2a27b080d}
       \strng{fullhash}{c43067542a4c930d4b0e0ff2a27b080d}
-      \strng{authornamehash}{c43067542a4c930d4b0e0ff2a27b080d}
-      \strng{authorfullhash}{c43067542a4c930d4b0e0ff2a27b080d}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{1984}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Language and Learning: The Debate Between Jean Piaget and Noam Chomsky}}
@@ -3203,20 +3108,18 @@
       \name{author}{2}{}{%
         {{hash=5bd524c4693761af3f3a0349b531b38e}{%
            family={Psychology},
-           familyi={P\bibinitperiod},
+           family_i={P\bibinitperiod},
            given={E\bibnamedelima Hooker\bibnamedelimb The\bibnamedelimb Journal\bibnamedelima of},
-           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim o\bibinitperiod}}}%
+           given_i={E\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim o\bibinitperiod}}}%
         {{hash=e3408432c1a48a52fb6c74d926b38886}{%
            family={{1956}},
-           familyi={1\bibinitperiod}}}%
+           family_i={1\bibinitperiod}}}%
       }
       \strng{namehash}{c2cc7bf63fffd08ad4a39d804a7bdf2a}
       \strng{fullhash}{c2cc7bf63fffd08ad4a39d804a7bdf2a}
-      \strng{authornamehash}{c2cc7bf63fffd08ad4a39d804a7bdf2a}
-      \strng{authorfullhash}{c2cc7bf63fffd08ad4a39d804a7bdf2a}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
-      \field{labeldatesource}{nodate}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{nodate}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Taylor {\&} Francis}
@@ -3226,23 +3129,23 @@
       \name{author}{1}{}{%
         {{hash=2d015ce38d098d8a943fe33611522e0b}{%
            family={Rathus},
-           familyi={R\bibinitperiod},
+           family_i={R\bibinitperiod},
            given={Spencer},
-           giveni={S\bibinitperiod}}}%
+           given_i={S\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Cengage Learning}%
       }
       \strng{namehash}{2d015ce38d098d8a943fe33611522e0b}
       \strng{fullhash}{2d015ce38d098d8a943fe33611522e0b}
-      \strng{authornamehash}{2d015ce38d098d8a943fe33611522e0b}
-      \strng{authorfullhash}{2d015ce38d098d8a943fe33611522e0b}
       \field{sortinit}{R}
-      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2012}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{month}{1}
+      \field{month}{01}
       \field{title}{{Psychology: Concepts {\&} Connections, Brief Version}}
       \field{year}{2012}
     \endentry
@@ -3250,17 +3153,16 @@
       \name{author}{1}{}{%
         {{hash=dced9e823eab5d519f6369972a39fe71}{%
            family={Rosenhan},
-           familyi={R\bibinitperiod},
+           family_i={R\bibinitperiod},
            given={David\bibnamedelima L},
-           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+           given_i={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
       \strng{namehash}{dced9e823eab5d519f6369972a39fe71}
       \strng{fullhash}{dced9e823eab5d519f6369972a39fe71}
-      \strng{authornamehash}{dced9e823eab5d519f6369972a39fe71}
-      \strng{authorfullhash}{dced9e823eab5d519f6369972a39fe71}
       \field{sortinit}{R}
-      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{1973}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Science}
@@ -3274,22 +3176,22 @@
       \name{author}{2}{}{%
         {{hash=a6f511407bef7a12753c03b2bbe9e45b}{%
            family={Travers},
-           familyi={T\bibinitperiod},
+           family_i={T\bibinitperiod},
            given={Jeffrey},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
         {{hash=647e77469dede3f1d7ed99198d6e59e9}{%
            family={Milgram},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={Stanley},
-           giveni={S\bibinitperiod}}}%
+           given_i={S\bibinitperiod}}}%
       }
       \strng{namehash}{6cfdb22ec8c703c719ea3dd36d26d8b2}
       \strng{fullhash}{6cfdb22ec8c703c719ea3dd36d26d8b2}
-      \strng{authornamehash}{6cfdb22ec8c703c719ea3dd36d26d8b2}
-      \strng{authorfullhash}{6cfdb22ec8c703c719ea3dd36d26d8b2}
       \field{sortinit}{T}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{1969}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Sociometry}
@@ -3305,30 +3207,29 @@
       \name{author}{3}{}{%
         {{hash=5ad85bf5014a9075a87191295d885c4b}{%
            family={Zimbardo},
-           familyi={Z\bibinitperiod},
+           family_i={Z\bibinitperiod},
            given={P\bibnamedelima G},
-           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+           given_i={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
         {{hash=fd430eae501f155d9616945b37130fc5}{%
            family={Johnson},
-           familyi={J\bibinitperiod},
+           family_i={J\bibinitperiod},
            given={R},
-           giveni={R\bibinitperiod}}}%
+           given_i={R\bibinitperiod}}}%
         {{hash=cde6c9a1d96826e453790656b7ee99b1}{%
            family={McCann},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={V},
-           giveni={V\bibinitperiod}}}%
+           given_i={V\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Pearson}%
       }
       \strng{namehash}{fef0b8ceed4b0b20318bfa1e49945aeb}
       \strng{fullhash}{fef0b8ceed4b0b20318bfa1e49945aeb}
-      \strng{authornamehash}{fef0b8ceed4b0b20318bfa1e49945aeb}
-      \strng{authorfullhash}{fef0b8ceed4b0b20318bfa1e49945aeb}
       \field{sortinit}{Z}
-      \field{sortinithash}{35589aa085e881766b72503e53fd4c97}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{7th}
@@ -3344,17 +3245,16 @@
       \name{author}{1}{}{%
         {{hash=3dda0f93a5c43e1392668692b92f8231}{%
            family={Bandura},
-           familyi={B\bibinitperiod},
+           family_i={B\bibinitperiod},
            given={Albert},
-           giveni={A\bibinitperiod}}}%
+           given_i={A\bibinitperiod}}}%
       }
       \strng{namehash}{3dda0f93a5c43e1392668692b92f8231}
       \strng{fullhash}{3dda0f93a5c43e1392668692b92f8231}
-      \strng{authornamehash}{3dda0f93a5c43e1392668692b92f8231}
-      \strng{authorfullhash}{3dda0f93a5c43e1392668692b92f8231}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1974}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{number}{12}
@@ -3368,17 +3268,16 @@
       \name{author}{1}{}{%
         {{hash=fd8969f7519d120154b685de8e4a8538}{%
            family={Jastrow},
-           familyi={J\bibinitperiod},
+           family_i={J\bibinitperiod},
            given={Joseph},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
       }
       \strng{namehash}{fd8969f7519d120154b685de8e4a8538}
       \strng{fullhash}{fd8969f7519d120154b685de8e4a8538}
-      \strng{authornamehash}{fd8969f7519d120154b685de8e4a8538}
-      \strng{authorfullhash}{fd8969f7519d120154b685de8e4a8538}
       \field{sortinit}{J}
-      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{1932}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{The House that Freud Built}}
@@ -3388,20 +3287,19 @@
       \name{author}{1}{}{%
         {{hash=589234b646aade5b7c73475a563cc408}{%
            family={Mead},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={Margaret},
-           giveni={M\bibinitperiod}}}%
+           given_i={M\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {New York W. Morrow 1928.}%
       }
       \strng{namehash}{589234b646aade5b7c73475a563cc408}
       \strng{fullhash}{589234b646aade5b7c73475a563cc408}
-      \strng{authornamehash}{589234b646aade5b7c73475a563cc408}
-      \strng{authorfullhash}{589234b646aade5b7c73475a563cc408}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1928}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{On bookshelf, white cover. shelved with Phil Science}
@@ -3412,22 +3310,21 @@
       \name{author}{2}{}{%
         {{hash=5d1420f7dd50add6ea518f78704b43cc}{%
            family={Shepard},
-           familyi={S\bibinitperiod},
+           family_i={S\bibinitperiod},
            given={Roger\bibnamedelima N},
-           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+           given_i={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
         {{hash=04eb27c386cfc6649ee63ac9f07db2f1}{%
            family={Metzler},
-           familyi={M\bibinitperiod},
+           family_i={M\bibinitperiod},
            given={Jacqueline},
-           giveni={J\bibinitperiod}}}%
+           given_i={J\bibinitperiod}}}%
       }
       \strng{namehash}{490ee24e8dd58980347b41c8656b40d6}
       \strng{fullhash}{490ee24e8dd58980347b41c8656b40d6}
-      \strng{authornamehash}{490ee24e8dd58980347b41c8656b40d6}
-      \strng{authorfullhash}{490ee24e8dd58980347b41c8656b40d6}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
-      \field{labeldatesource}{year}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1971}
+      \field{datelabelsource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Science}
