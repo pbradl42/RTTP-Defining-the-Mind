@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.6-25480" Modified="2014-12-02 16:08:41 -0500">
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-3" Modified="2018-08-12 11:09:43 -0400" ModID="CB1351DD-82A9-40AE-80C9-F2BEF1F19697">
     <Binder>
-        <BinderItem ID="0" Type="DraftFolder" Created="2014-05-22 17:39:45 -0400" Modified="2014-05-22 17:39:45 -0400">
+        <BinderItem ID="0" UUID="303FB54D-E35B-460D-AADD-725377C6C873" Type="DraftFolder" Created="2014-05-22 17:39:45 -0400" Modified="2014-05-22 17:39:45 -0400">
             <Title>Draft</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="3" Type="Text" Created="2014-05-22 17:39:45 -0400" Modified="2014-05-22 17:39:45 -0400">
+                <BinderItem ID="3" UUID="EDB267F4-529E-43FD-A463-0D87136F3042" Type="Text" Created="2014-05-22 17:39:45 -0400" Modified="2014-05-22 17:39:45 -0400">
                     <Title>Untitled</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -16,7 +16,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="7" Type="Text" Created="2011-03-03 20:26:14 -0500" Modified="2014-07-06 19:26:43 -0400">
+                <BinderItem ID="7" UUID="575708F9-F291-462F-9F4D-7BBC201A7CAA" Type="Text" Created="2011-03-03 20:26:14 -0500" Modified="2014-07-06 19:26:43 -0400">
                     <Title>GAlbee</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -25,7 +25,7 @@
                         <TextSelection>0,7123</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="4" Type="Text" Created="2011-03-03 20:25:36 -0500" Modified="2014-07-06 19:26:43 -0400">
+                <BinderItem ID="4" UUID="CBBCCF55-ACFB-4899-903F-E37B6606E287" Type="Text" Created="2011-03-03 20:25:36 -0500" Modified="2014-07-06 19:26:43 -0400">
                     <Title>AAnastasi</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -34,7 +34,7 @@
                         <TextSelection>1724,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="10" Type="Text" Created="2011-03-01 14:15:55 -0500" Modified="2014-07-06 19:26:43 -0400">
+                <BinderItem ID="10" UUID="94797CB1-F33B-4D56-AADC-9F940BEDE10F" Type="Text" Created="2011-03-01 14:15:55 -0500" Modified="2014-07-06 19:26:43 -0400">
                     <Title>KenClark</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -43,7 +43,7 @@
                         <TextSelection>6796,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="5" Type="Text" Created="2011-03-03 20:17:28 -0500" Modified="2014-06-27 16:46:32 -0400">
+                <BinderItem ID="5" UUID="C3242BBB-8031-4DA5-879A-D20718B8ACC2" Type="Text" Created="2011-03-03 20:17:28 -0500" Modified="2014-06-27 16:46:32 -0400">
                     <Title>DFordney-Settlage</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -52,7 +52,7 @@
                         <TextSelection>3734,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="8" Type="Text" Created="2011-03-03 13:38:07 -0500" Modified="2014-06-27 16:46:10 -0400">
+                <BinderItem ID="8" UUID="445A1839-AC77-4563-996F-277FB9F9E789" Type="Text" Created="2011-03-03 13:38:07 -0500" Modified="2014-06-27 16:46:10 -0400">
                     <Title>JFryer</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -61,7 +61,7 @@
                         <TextSelection>2787,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="12" Type="Text" Created="2011-03-02 12:07:04 -0500" Modified="2014-06-27 16:46:05 -0400">
+                <BinderItem ID="12" UUID="C94E1CD1-1E6E-4AE5-B41D-D1A2808D3383" Type="Text" Created="2011-03-02 12:07:04 -0500" Modified="2014-06-27 16:46:05 -0400">
                     <Title>PGebhard</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -70,7 +70,7 @@
                         <TextSelection>1215,53</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="14" Type="Text" Created="2011-03-02 16:49:33 -0500" Modified="2014-06-27 16:46:05 -0400">
+                <BinderItem ID="14" UUID="D64C6D16-2505-4FD9-99EE-4977466C7E2D" Type="Text" Created="2011-03-02 16:49:33 -0500" Modified="2014-06-27 16:46:05 -0400">
                     <Title>RGold</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -79,7 +79,7 @@
                         <TextSelection>6209,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="6" Type="Text" Created="2013-07-03 08:21:41 -0400" Modified="2014-07-06 19:29:39 -0400">
+                <BinderItem ID="6" UUID="1159AE38-B425-4C1C-AF1C-ACC055226D44" Type="Text" Created="2013-07-03 08:21:41 -0400" Modified="2014-07-06 19:29:39 -0400">
                     <Title>FKameny</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -88,7 +88,7 @@
                         <TextSelection>12766,190</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="43" Type="Text" Created="2013-07-03 08:21:41 -0400" Modified="2014-07-07 15:18:47 -0400">
+                <BinderItem ID="43" UUID="1A0459D7-8200-4F8C-A04A-95E5EE9C1FDE" Type="Text" Created="2013-07-03 08:21:41 -0400" Modified="2014-07-07 15:18:47 -0400">
                     <Title>BGittings</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -98,7 +98,7 @@
                         <TextSelection>63,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="15" Type="Text" Created="2011-03-03 18:36:40 -0500" Modified="2014-06-27 16:43:46 -0400">
+                <BinderItem ID="15" UUID="6C2F01AF-8D38-427F-82F0-D95249CB8DA3" Type="Text" Created="2011-03-03 18:36:40 -0500" Modified="2014-06-27 16:43:46 -0400">
                     <Title>Smilgram</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -107,7 +107,7 @@
                         <TextSelection>3396,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="9" Type="Text" Created="2011-02-28 16:43:27 -0500" Modified="2014-07-06 19:29:39 -0400">
+                <BinderItem ID="9" UUID="46EC8F10-633B-471C-9D48-6ECAC694C277" Type="Text" Created="2011-02-28 16:43:27 -0500" Modified="2014-07-06 19:29:39 -0400">
                     <Title>JPiaget</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -116,7 +116,7 @@
                         <TextSelection>5618,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="11" Type="Text" Created="2011-03-03 13:41:42 -0500" Modified="2014-07-06 19:29:39 -0400">
+                <BinderItem ID="11" UUID="DD614419-4A38-459F-9CB5-A95367B57970" Type="Text" Created="2011-03-03 13:41:42 -0500" Modified="2014-07-06 19:29:39 -0400">
                     <Title>LTyler</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -125,7 +125,7 @@
                         <TextSelection>5686,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="16" Type="Text" Created="2013-07-03 08:58:29 -0400" Modified="2013-07-03 08:58:29 -0400">
+                <BinderItem ID="16" UUID="B1B0F7BF-7DBE-44FB-AC07-55D47F3E67C5" Type="Text" Created="2013-07-03 08:58:29 -0400" Modified="2013-07-03 08:58:29 -0400">
                     <Title>Spitzer-bkg</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -134,7 +134,7 @@
                         <TextSelection>6470,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="17" Type="Text" Created="2011-03-03 19:54:54 -0500" Modified="2014-07-06 19:29:39 -0400">
+                <BinderItem ID="17" UUID="D8E67810-DAB4-40CC-8ACD-F82AE071EDBD" Type="Text" Created="2011-03-03 19:54:54 -0500" Modified="2014-07-06 19:29:39 -0400">
                     <Title>ThomasSzasz</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -143,7 +143,7 @@
                         <TextSelection>10097,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="13" Type="Text" Created="2011-03-03 13:41:53 -0500" Modified="2014-06-27 16:42:55 -0400">
+                <BinderItem ID="13" UUID="A45B4C0C-5A9A-487F-870B-BD1CAF893E95" Type="Text" Created="2011-03-03 13:41:53 -0500" Modified="2014-06-27 16:42:55 -0400">
                     <Title>PZimbardo</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -152,7 +152,7 @@
                         <TextSelection>1065,65</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="37" Type="Folder" Created="2014-06-27 16:18:57 -0400" Modified="2014-06-27 16:19:01 -0400">
+                <BinderItem ID="37" UUID="8DD5F516-6982-42EA-8556-386691687F4B" Type="Folder" Created="2014-06-27 16:18:57 -0400" Modified="2014-06-27 16:19:01 -0400">
                     <Title>Psychoanalysts</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -161,7 +161,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="30" Type="Text" Created="2011-02-22 16:56:57 -0500" Modified="2014-06-27 16:37:25 -0400">
+                        <BinderItem ID="30" UUID="0CC6943F-CF88-4768-B39F-B5084CB0FC65" Type="Text" Created="2011-02-22 16:56:57 -0500" Modified="2014-06-27 16:37:25 -0400">
                             <Title>PsychoanalysisOverview</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -170,7 +170,7 @@
                                 <TextSelection>1924,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="31" Type="Text" Created="2011-03-01 12:35:22 -0500" Modified="2014-07-06 19:56:12 -0400">
+                        <BinderItem ID="31" UUID="07D4B524-A535-4E9B-A5DC-9811CFEC922E" Type="Text" Created="2011-03-01 12:35:22 -0500" Modified="2014-07-06 19:56:12 -0400">
                             <Title>RGreen-bio</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -179,7 +179,7 @@
                                 <TextSelection>13,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="32" Type="Folder" Created="2014-05-22 17:48:41 -0400" Modified="2014-05-22 17:48:41 -0400">
+                        <BinderItem ID="32" UUID="20166E0A-83D7-4EB7-BBE1-80352CE1255E" Type="Folder" Created="2014-05-22 17:48:41 -0400" Modified="2014-05-22 17:48:41 -0400">
                             <Title>RHopcke</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -188,7 +188,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="33" Type="Text" Created="2011-03-03 20:11:30 -0500" Modified="2014-07-06 19:53:05 -0400">
+                                <BinderItem ID="33" UUID="D4E1676D-6DF0-4B9E-81FC-08259FD29F1A" Type="Text" Created="2011-03-03 20:11:30 -0500" Modified="2014-07-06 19:53:05 -0400">
                                     <Title>RHopcke-bio</Title>
                                     <MetaData>
                                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -199,7 +199,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="23" Type="Text" Created="2011-03-02 11:53:34 -0500" Modified="2014-07-06 19:52:20 -0400">
+                        <BinderItem ID="23" UUID="EC280204-71B4-4DE2-95E9-2077DA16389D" Type="Text" Created="2011-03-02 11:53:34 -0500" Modified="2014-07-06 19:52:20 -0400">
                             <Title>HLeif-Bio</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -208,7 +208,7 @@
                                 <TextSelection>0,15</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="24" Type="Text" Created="2011-03-01 12:38:24 -0500" Modified="2014-07-06 19:52:09 -0400">
+                        <BinderItem ID="24" UUID="6BC2AB0A-E49A-4D2A-9F4E-AFFE5E8C4DC1" Type="Text" Created="2011-03-01 12:38:24 -0500" Modified="2014-07-06 19:52:09 -0400">
                             <Title>CSocarides</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -217,7 +217,7 @@
                                 <TextSelection>7,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="40" Type="Text" Created="2011-03-01 12:38:24 -0500" Modified="2014-07-06 19:52:56 -0400">
+                        <BinderItem ID="40" UUID="FD974A4D-5704-41FB-9535-81EE0AE80725" Type="Text" Created="2011-03-01 12:38:24 -0500" Modified="2014-07-06 19:52:56 -0400">
                             <Title>IBieber-bio copy</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -226,7 +226,7 @@
                                 <TextSelection>17,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="25" Type="Text" Created="2011-03-03 13:38:57 -0500" Modified="2014-07-06 19:53:48 -0400">
+                        <BinderItem ID="25" UUID="CA62A82C-7461-42FD-A24B-315516FE71FA" Type="Text" Created="2011-03-03 13:38:57 -0500" Modified="2014-07-06 19:53:48 -0400">
                             <Title>JMarmor-bio</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -235,7 +235,7 @@
                                 <TextSelection>11,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="26" Type="Text" Created="2011-03-03 13:12:29 -0500" Modified="2014-07-06 19:56:35 -0400">
+                        <BinderItem ID="26" UUID="90EFBDC4-F9E3-4AE9-AEF0-83EB29EEECEB" Type="Text" Created="2011-03-03 13:12:29 -0500" Modified="2014-07-06 19:56:35 -0400">
                             <Title>JSpiegel-bio</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -246,7 +246,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="38" Type="Folder" Created="2014-06-27 16:19:49 -0400" Modified="2014-06-27 16:19:52 -0400">
+                <BinderItem ID="38" UUID="F87FA7B6-5C83-45FF-A2D0-7EF0988B08E8" Type="Folder" Created="2014-06-27 16:19:49 -0400" Modified="2014-06-27 16:19:52 -0400">
                     <Title>Behaviorists</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -255,7 +255,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="28" Type="Text" Created="2011-04-13 16:03:57 -0400" Modified="2014-07-06 19:58:06 -0400">
+                        <BinderItem ID="28" UUID="01CE042A-21FD-4623-8748-5ACB65405C4D" Type="Text" Created="2011-04-13 16:03:57 -0400" Modified="2014-07-06 19:58:06 -0400">
                             <Title>BehavioristOverview</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -264,7 +264,7 @@
                                 <TextSelection>2658,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="18" Type="Text" Created="2011-03-03 13:22:29 -0500" Modified="2014-07-06 19:56:12 -0400">
+                        <BinderItem ID="18" UUID="D1CACE4E-AF2D-4DA7-A32A-FB482686B7A5" Type="Text" Created="2011-03-03 13:22:29 -0500" Modified="2014-07-06 19:56:12 -0400">
                             <Title>ABandura-bio</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -273,7 +273,7 @@
                                 <TextSelection>0,19</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="22" Type="Text" Created="2011-03-01 14:30:17 -0500" Modified="2014-07-06 19:56:43 -0400">
+                        <BinderItem ID="22" UUID="3A9D23C1-4C9B-452E-91D6-81C3655427B7" Type="Text" Created="2011-03-01 14:30:17 -0500" Modified="2014-07-06 19:56:43 -0400">
                             <Title>HHarlow-bio</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -282,7 +282,7 @@
                                 <TextSelection>12,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="20" Type="Text" Created="2011-03-03 19:58:19 -0500" Modified="2014-07-06 19:58:06 -0400">
+                        <BinderItem ID="20" UUID="BDEE66B6-940E-4C23-A08C-F56DD0A64C28" Type="Text" Created="2011-03-03 19:58:19 -0500" Modified="2014-07-06 19:58:06 -0400">
                             <Title>EHooker-bio</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -293,7 +293,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="39" Type="Folder" Created="2014-06-27 16:19:55 -0400" Modified="2014-06-27 16:19:59 -0400">
+                <BinderItem ID="39" UUID="98EDAA7C-BAF0-43ED-B87E-C1F88D0606C6" Type="Folder" Created="2014-06-27 16:19:55 -0400" Modified="2014-06-27 16:19:59 -0400">
                     <Title>Cognitivists</Title>
                     <MetaData>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -302,7 +302,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="29" Type="Text" Created="2011-03-03 12:01:36 -0500" Modified="2014-06-27 16:41:36 -0400">
+                        <BinderItem ID="29" UUID="74EA565A-4A0F-44D7-B3C4-FAB07C5C2D99" Type="Text" Created="2011-03-03 12:01:36 -0500" Modified="2014-06-27 16:41:36 -0400">
                             <Title>CognitivistOverview</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -311,7 +311,7 @@
                                 <TextSelection>1124,160</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="27" Type="Text" Created="2011-03-11 10:18:38 -0500" Modified="2014-07-06 19:58:32 -0400">
+                        <BinderItem ID="27" UUID="BFDCB5AC-E138-44CB-9280-B2929EC7923A" Type="Text" Created="2011-03-11 10:18:38 -0500" Modified="2014-07-06 19:58:32 -0400">
                             <Title>NChomsky-bio</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -320,7 +320,7 @@
                                 <TextSelection>12,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="19" Type="Text" Created="2011-03-02 11:44:57 -0500" Modified="2014-07-06 19:58:06 -0400">
+                        <BinderItem ID="19" UUID="09640B83-A4A1-446D-822A-D71FB919CB04" Type="Text" Created="2011-03-02 11:44:57 -0500" Modified="2014-07-06 19:58:06 -0400">
                             <Title>DMarr-bio</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -329,7 +329,7 @@
                                 <TextSelection>28,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="21" Type="Text" Created="2011-03-03 13:41:30 -0500" Modified="2014-07-07 15:18:47 -0400">
+                        <BinderItem ID="21" UUID="33787F29-2F8E-4F25-BEDA-95B46276EA0C" Type="Text" Created="2011-03-03 13:41:30 -0500" Modified="2014-07-07 15:18:47 -0400">
                             <Title>GMiller-bio</Title>
                             <MetaData>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -342,19 +342,19 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="1" Type="ResearchFolder" Created="2014-05-22 17:39:45 -0400" Modified="2014-05-22 17:39:45 -0400">
+        <BinderItem ID="1" UUID="453843EA-7755-4B91-96D1-3A06983AA985" Type="ResearchFolder" Created="2014-05-22 17:39:45 -0400" Modified="2014-05-22 17:39:45 -0400">
             <Title>Research</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
         </BinderItem>
-        <BinderItem ID="2" Type="TrashFolder" Created="2014-05-22 17:39:45 -0400" Modified="2014-05-22 17:39:45 -0400">
+        <BinderItem ID="2" UUID="3FDB3B48-02F5-46E7-9305-0C9AB78E995D" Type="TrashFolder" Created="2014-05-22 17:39:45 -0400" Modified="2014-05-22 17:39:45 -0400">
             <Title>Trash</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="34" Type="Text" Created="2011-02-23 14:57:16 -0500" Modified="2011-02-23 14:57:16 -0500">
+                <BinderItem ID="34" UUID="3EE392FA-5091-48D2-B1A1-783B544099C1" Type="Text" Created="2011-02-23 14:57:16 -0500" Modified="2011-02-23 14:57:16 -0500">
                     <Title>RHopcke-header</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -364,7 +364,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="35" Type="Text" Created="2010-03-03 11:37:18 -0500" Modified="2010-03-03 11:37:18 -0500">
+                <BinderItem ID="35" UUID="E90118F2-79B5-429B-A0CA-441129CF601B" Type="Text" Created="2010-03-03 11:37:18 -0500" Modified="2010-03-03 11:37:18 -0500">
                     <Title>RHopcke</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -374,7 +374,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="36" Type="Text" Created="2011-02-14 09:11:36 -0500" Modified="2011-02-14 09:11:36 -0500">
+                <BinderItem ID="36" UUID="32D88656-AF73-42F2-9D04-8770BD80EFA5" Type="Text" Created="2011-02-14 09:11:36 -0500" Modified="2011-02-14 09:11:36 -0500">
                     <Title>RHopcke2</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -384,7 +384,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="41" Type="Text" Created="2014-07-06 19:51:42 -0400" Modified="2014-07-06 19:51:44 -0400">
+                <BinderItem ID="41" UUID="C86887C2-72F0-4D35-A029-C66C50D230AB" Type="Text" Created="2014-07-06 19:51:42 -0400" Modified="2014-07-06 19:51:44 -0400">
                     <Title>`</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -394,7 +394,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="42" Type="Text" Created="2014-07-06 19:51:58 -0400" Modified="2014-07-06 19:51:58 -0400">
+                <BinderItem ID="42" UUID="A0F8F97C-3F75-4C62-A99A-0E42FB817743" Type="Text" Created="2014-07-06 19:51:58 -0400" Modified="2014-07-06 19:51:58 -0400">
                     <Title>Untitled</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -408,7 +408,7 @@
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="EBFE85D4-4B73-462A-9D03-C411D05FFE34" Color="0.784753 0.815752 0.848702">
+        <Collection Type="Binder" ID="EBFE85D4-4B73-462A-9D03-C411D05FFE34" Color="0.962266 0.962266 0.962266">
             <Title>Binder</Title>
         </Collection>
         <Collection Type="RecentSearch" ID="60DD97E8-6D85-42BC-AD18-7322FEBA7950" Color="0.922 0.91 0.98">
@@ -440,7 +440,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-05-22 17:39:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2014-12-02 16:08:30 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-08-12 11:09:12 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

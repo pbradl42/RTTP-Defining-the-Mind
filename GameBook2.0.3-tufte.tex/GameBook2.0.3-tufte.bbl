@@ -3181,6 +3181,24 @@
       \field{title}{{Psychology}}
       \field{year}{2015}
     \endentry
+    \entry{PiatelliPalmarini:LHbFI2mG}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c43067542a4c930d4b0e0ff2a27b080d}{%
+           family={Piatelli-Palmarini},
+           familyi={P\bibinithyphendelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c43067542a4c930d4b0e0ff2a27b080d}
+      \strng{fullhash}{c43067542a4c930d4b0e0ff2a27b080d}
+      \strng{authornamehash}{c43067542a4c930d4b0e0ff2a27b080d}
+      \strng{authorfullhash}{c43067542a4c930d4b0e0ff2a27b080d}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Language and Learning: The Debate Between Jean Piaget and Noam Chomsky}}
+      \field{year}{1984}
+    \endentry
     \entry{Psychology:tf}{article}{}
       \name{author}{2}{}{%
         {{hash=5bd524c4693761af3f3a0349b531b38e}{%
@@ -3322,6 +3340,30 @@
 
 \refsection{3}
   \sortlist[entry]{nty/global/}
+    \entry{Bandura:1974kd}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3dda0f93a5c43e1392668692b92f8231}{%
+           family={Bandura},
+           familyi={B\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3dda0f93a5c43e1392668692b92f8231}
+      \strng{fullhash}{3dda0f93a5c43e1392668692b92f8231}
+      \strng{authornamehash}{3dda0f93a5c43e1392668692b92f8231}
+      \strng{authorfullhash}{3dda0f93a5c43e1392668692b92f8231}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{12}
+      \field{title}{{Behavior Theory and the Models of Man}}
+      \field{volume}{29}
+      \field{year}{1974}
+      \field{pages}{859\bibrangedash 869}
+      \range{pages}{11}
+    \endentry
     \entry{Jastrow:1932wl}{booklet}{}
       \name{author}{1}{}{%
         {{hash=fd8969f7519d120154b685de8e4a8538}{%

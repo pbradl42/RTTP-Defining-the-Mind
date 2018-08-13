@@ -308,6 +308,7 @@ shaded={rulecolor=black, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}}
 
 \usepackage{pdflscape}
 \usepackage{tabularx}
+\usepackage{titletoc}
 
 
 \setcounter{secnumdepth}{1}
@@ -347,7 +348,7 @@ shaded={rulecolor=black, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}}
 
 \makeatother
 
-%\newcommand*{\fullref}[1]{See \nameref{#1} on page~\pageref{#1}} % One single link
+%\newcommand*{\fullref}[1]{(See \nameref{#1} on page~\pageref{#1})} % One single link
 
 \newcommand*{\tahead}[1]{{\bfseries #1}} % Table header
 \newcommand*{\thead}[1]{{\bfseries #1}} % Table header
@@ -402,6 +403,20 @@ numberwithin=chapter
 }}
 \makeatother
 
+\declaretheorem[
+  style=colored,
+  name=Research,
+shaded={rulecolor=ferrisred, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}},
+numberwithin=chapter
+]{myresearch}
+
+\makeatletter
+\NewEnviron{researchtask}[1][]{\protected@edef\@currentlabelname{#1}% addition here
+\noindent \marginnote{
+ \begin{myresearch}[#1]\BODY\end{myresearch}
+}}
+\makeatother
+
 \pagestyle{plain}
 
 
@@ -419,6 +434,15 @@ numberwithin=chapter
 % Front matter
 \frontmatter\pagenumbering{roman}\pagestyle{empty}
 
+
+
+
+\tableofcontents
+\newpage
+\listoftables
+\newpage
+\listoffigures
+\newpage
 
 
 \pagebreak 
@@ -439,12 +463,16 @@ numberwithin=chapter
 
 
 \frontmatter
-\tableofcontents
+\startcontents[gamebook]
+\printcontents[gamebook]{l}{0}{\chapter*{Table of Contents}\setcounter{tocdepth}{2}}
+
 \newpage
-\listoftables
+\startlist[gamebook]{lot}% starts main list of figures
+\printlist[gamebook]{lot}{}{\chapter*{List of Tables}}% prints main list of figures
+
 \newpage
-\listoffigures
-\newpage
+\startlist[gamebook]{lof}% starts main list of figures
+\printlist[gamebook]{lof}{}{\chapter*{List of Figures}}% 
 
 
 \mainmatter
@@ -4579,7 +4607,12 @@ Sections of ‘Basic Scientific Reasoning’ are adapted from work that I did ma
 \includepdf[pages={1-}]{../Appendices/Socarides-1970-JAMA.pdf}
 
 \end{appendices}
+
 \end{refsection}
+\stoplist[gamebook]{lot}% stops main list of tables
+\stoplist[gamebook]{lof}% stops main list of figures
+
+\stopcontents[gamebook]
 
 \pagebreak 
 
@@ -4594,12 +4627,19 @@ Sections of ‘Basic Scientific Reasoning’ are adapted from work that I did ma
 
 \maketitle
 \newpage
-\tableofcontents
+\startcontents[instructors]
+\printcontents[instructors]{l}{0}{\chapter*{Table of Contents}\setcounter{tocdepth}{2}}
+
 \newpage
-\listoftables
+\startlist[instructors]{lot}% starts main list of figures
+\printlist[instructors]{lot}{}{\chapter*{List of Tables}}% prints main instructors of figures
+
 \newpage
-\listoffigures
-\newpage
+\startlist[instructors]{lof}% starts main list of figures
+\printlist[instructors]{lof}{}{\chapter*{List of Figures}}% 
+
+
+
 
 
 \renewcommand*{\thechapter}{\arabic{chapter}}
@@ -6089,57 +6129,58 @@ Paper&
 Proposals&
 Research\\ \hline
 \multicolumn{3}{| P{16cm} |}{\tahead{G Albee}---
-Nomenclature '71-'72 \newline
-Board member 'B' '71-'72*} \\
-'Medical Model' – symposium '72&
+Nomenclature expiring ’72 \newline
+Board member ‘At large B' '71-'72*} \fullref{service:albee} \\&
 Parallel medical system for clinical psychology '72&
+'Medical Model' – symposium '72 \fullref{writingtask:albee}
 \\ \hline
-\multicolumn{3}{| P{16cm} |}{ \tahead{A. Anastasi}---Program '71-'73} \\
+\multicolumn{3}{| P{16cm} |}{ \tahead{A. Anastasi}---Program '71-'73 \fullref{service:anastasi}} \\
 
-“On psychometrics” - presidential '74&
-Proposal to fix gender-specific language in guidelines (program committee '71)
+“On psychometrics” - with Spitzer’s ‘Feighner criteria’ \fullref{writingtask:anastasi}&
+Proposal to fix gender-specific language in guidelines (program committee '71) \newline
 Women in Psych / Psych of Women '74&
 \\ \hline
 
-\multicolumn{3}{| P{16cm} |}{\tahead{A. Bandura}---VP '71\newline
+\multicolumn{3}{| P{16cm} |}{\tahead{A. Bandura}---VP '71 \fullref{service:bandura} \newline
 (Board '71-'73)} \\
-“Behavioral theory and models of man” '72&
+“Behavioral theory and models of man” '72 \fullref{writingtask:bandura}&
 '73 – reject Bieber&
 \\ \hline
 
-\multicolumn{3}{| P{16cm} |}{\tahead{I. Bieber /
-C. Socarides}} \\
+\multicolumn{3}{| P{16cm} |}{\tahead{I. Bieber}} \\
 Comment on Green / debate Marmor '72\newline
-Report on sexual deviation (Freudian) '73
-Symposium on nomenclature '73 (both, if in game)&
+Report on sexual deviation (Freudian) '73 \fullref{writingtask:beiber}
+Symposium on nomenclature '73&
+Oppose Marmor & Gold's '71 proposal to remove 302.0 from DSM-II
 Propose taskforce '71, report '73\newline
-Oppose Marmor & Gold's '71 proposal to remove 302.0 from DSM-II\\ \hline
+\\ \hline
+
 
 \multicolumn{3}{| P{16cm} |}{\tahead{N. Chomsky}} \\
-“The responsibilities of Intellectuals” - symposium '74 (could be paper)\newline
-Debate with Piaget '75&
+“The responsibilities of Intellectuals” - symposium '74 (\fullref{writingtask:chomskyB})\newline
+Debate with Piaget '75 \fullref{writingtask:chomsky}&
 Oppose L. Tyler principle '73&
 \\ \hline
 
-\multicolumn{3}{| P{16cm} |}{\tahead{K. Clark}---Research '71-'73} \\
-“psychology as a force of social change” - symposium '74 (could be presidential)&
+\multicolumn{3}{| P{16cm} |}{\tahead{K. Clark}---Research '71-'73 \fullref{service:clark}} \\
+“psychology as a force of social change” - symposium '74 (\fullref{writingtask:clark})&
 Oppose L. Tyler principle '73\newline
 Proposal to create affirmative action plan '75&
 \\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{D. Fordney Settlage}*}\\
-Paper critiquing the focus on male sexuality '75&
+Paper critiquing the focus on male sexuality '75 (\fullref{writingtask:fordneysettlage})&
 Propose balance compromise Albee and Hopcke on psych. \newline Practicing in hospitals, but not prescribing drugs. &
-Sexual experiences of younger women seeking contraceptives. '73\\ \hline
+Sexual experiences of younger women seeking contraceptives. '73 (See \fullref{dfordneysettlagemd} - Research \\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{J. Fryer}} \\
-“I am a homosexual, and a psychiatrist.” - symposium '71&
-Proposal to deem the use of aversion therapy as immoral '74&
+“I am a homosexual, and a psychiatrist.” - symposium '71 \fullref{writingtask:fryer}&
+Proposal to deem the use of aversion therapy as immoral '74 (See \fullref{johnfryermd} - association business&
 \\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{P. Gebhard}--- Program '71-'74} \\
-Summary of the Kinsey report '72&
-Honor of E. Hooker '72&
+Summary of the Kinsey report '72 \fullref{writingtask:gebhard}&
+Honor of E. Hooker '72 (See\fullref{paulgebhardphd}--Association Business&
 \\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{R. Gold}*} \\
@@ -6149,53 +6190,57 @@ Draft proposal with Spitzer '73&
 \\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{R. Green}*} \\
-Report on history of homosexuality '72 (with J. Spiegel)
-Symposium on nomenclature '73&
+Report on history of homosexuality '72 (\fullref{writingtask:green}) (with J. Spiegel)\newline
+Task force symposium on nomenclature '74&
 Taskforce on the history of homosexuality in Psych '71 (with Spiegel)&
-*APA v. 3 45 '74-'75 (Clinic in Ugrad classroom)*\\ \hline
+Propose “Bringing the Clinic into the Undergraduate Classroom” (\fullref{app: theclinic})* \fullref{research:green}\\ \hline
 
-\multicolumn{3}{| P{16cm} |}{\tahead{H. Harlow}---Board '71} \\
-“Lust, latency and love” - paper '72&
+\multicolumn{3}{| P{16cm} |}{\tahead{H. Harlow}---Board '71 \fullref{service:harlow}} \\
+“Lust, latency and love” -(\fullref{research:harllow}) '72&
 Defend the use of aversion therapy '74&
-APA v. 1 \#2 (Operant Conditioning)\\ \hline
+Propose “Operant Conditioning: Role in Human Behavior” \fullref{app: operantconditioning-humans} \fullref{research:harllow} \\ \hline
 
-\multicolumn{3}{| P{16cm} |}{\tahead{E. Hooker}---Program '71-'72}\\
-“The mental health of non-patient male homosexuals” - symposium '71&
+\multicolumn{3}{| P{16cm} |}{\tahead{E. Hooker}---Program \fullref{service:hooker} ’71-'72}\\
+“The mental health of non-patient male homosexuals” - symposium '71 (\fullref{writingtask:hooker})&
 Oppose dissolution of nomenclature committee.&
 \\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{R. Hopcke}*} \\
-Jungian approaches to homosexuality '75&
-Support the proposal to limit care of mental illness to MDs&
+Jungian approaches to homosexuality '75 \fullref{writingtask:hopcke}&
+Support the proposal to limit care of mental illness to MDs ’72&
 \\ \hline
 
-\multicolumn{3}{| P{16cm} |}{\tahead{F. Kameny* / B. Gittings}*} \\
-“Gay, Proud and Healthy” - symposium '71&
+\multicolumn{3}{| P{16cm} |}{\tahead{B. Gittings}*} \\
+Symposium on your experiences, '71&
 Organize and Chair the 'big' symposium “Should 'homosexuality' be in the DSM-III?' in '73 where Green, Marmor, Bieber, Gold, Socarides, Spitzer should speak.&
-Propose Siegelman “Adjustment of homosexual women” 1971\\ \hline
+Propose Siegelman “Adjustment of homosexual women” 1971 \fullref{researchtask:gittings} \\ \hline
+
+\multicolumn{3}{| P{16cm} |}{\tahead{F. Kameny}*} \\
+“Gay, Proud and Healthy” - symposium '71 (\fullref{writingtask:kameny})&
+Organize and Chair the 'big' symposium “Should 'homosexuality' be in the DSM-III?' in '73 where Green, Marmor, Bieber, Gold, Socarides, Spitzer should speak.&\\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{H. Lief}} \\
-Paper on genetic hypothesis and diagnostic taxa '74&
-Oppose Spitzer's nomenclature proposal '72&
+Paper on genetic hypothesis and diagnostic taxa '74 (\fullref{writingtask:leif})&
+Oppose Spitzer's nomenclature proposal in defense of the genetic hypothesis '72&
 \\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{J. Marmor}---Research '71-'74}\\
-“Limitations of Free Association” - paper '71\newline
+“Limitations of Free Association” - paper '71 \fullref{writingtask:marmor} \newline
 Comment on Green / debate Bieber '72\newline
 Symposium on nomenclature '73&
 Propose 'homosexuality' be removed from category 302. '71\newline
 Propose a condemnation of Socarides' JAMA paper. '73&
-APA v. 4 \#80 '73 (Dream Analysis)\\ \hline
+APA \fullref{app:tosleep} (\fullref{researchtask:marmor})\\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{D. Marr*}} \\
 'Levels' of explanation paper '75&
 &
-Propose APA v. 4 \#43 '72 (Magic number 7)\\ \hline
+Propose ‘Information Processing Capacity: A Visual Demonstration of the Magical Number Seven’ (\fullref{app: magicseven}) '72 (\fullref{researchtask:marr})\\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{S. Milgram}*--Board member ‘A’*}\\
-Summary of obedience experiments / findings '74&
-Oppose affirmative action plan - '75&
-Propose 'small world' experiment '74\\ \hline
+Summary of obedience experiments / findings '74 (\fullref{writingtask:milgram})&
+Oppose Clark’s affirmative action plan - '75&
+Propose 'small world' experiment '74 \fullref{researchtask:milgram} \\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{G. Miller}---Board '71-'72} \\
 “Psychology as a means of promoting human welfare” - '71&
@@ -6203,39 +6248,48 @@ Propose 'small world' experiment '74\\ \hline
 Present Mental Rotation '71 (Shepard / class data)\\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{J. Piaget}*} \\
-Debate with Chomsky '75&
+Debate with Chomsky '75 \fullref{writingtask:piaget}&
 &
 \\ \hline
-\multicolumn{3}{| P{16cm} |}{\tahead{L. Tyler}---Research '71-'72} \\
-“Design for a hopeful psychology” - president '73&
+\multicolumn{3}{| P{16cm} |}{\tahead{L. Tyler}---Research '71-'72 \fullref{service:tyler}} \\
+“Design for a hopeful psychology” -\fullref{writingtask:tyler} '73&
 Leona Tyler principle '73&
 \\ \hline
 
-\multicolumn{3}{| P{16cm} |}{\tahead{J. Spiegel}---Nomenclature '71-'74} \\
-Report on history of homosexuality '72 (with R. Green)
-Presidential address '75&
+\multicolumn{3}{| P{16cm} |}{\tahead{
+C. Socarides}} \\
+Comment on Green / debate Marmor '72\newline
+Report on sexual deviation (Freudian) '73 \fullref{writingtask:socarides}
+Symposium on nomenclature '73&
+Oppose Marmor & Gold's '71 proposal to remove 302.0 from DSM-II
+Propose taskforce '71, report '73\newline
+\\ \hline
+
+\multicolumn{3}{| P{16cm} |}{\tahead{J. Spiegel}---Nomenclature '71-'74 \fullref{service:spiegel}} \\
+Report on history of homosexuality '72 (with R. Green) \fullref{writingtask:spiegel}
+If elected, Presidential address '75&
 Taskforce on the history of homosexuality in Psych '71 (with Green)&
 \\ \hline
 
-\multicolumn{3}{| P{16cm} |}{\tahead{R. Spitzer}---Nomenclature '71-'76} \\
-“The Feighner Criteria” '72&
+\multicolumn{3}{| P{16cm} |}{\tahead{R. Spitzer}---Nomenclature '71-'76 \fullref{service:spltzer}} \\
+“The Feighner Criteria” \fullref{writingtask:spitzer}’72&
 Symposium on nomenclature '73\newline
-Open hearing '74 on mental illness&
+With the task force, open symposium in ’74 on mental illness&
 As nomenclature committee: write DSM according to description of symptoms, not causes '72
 AND proposal to disband nomenclature and form Spitzer Taskforce '73\newline
 With R. Gold, draft proposal to remove 'homosexuality' immediately in '73
 Reliability of psychiatric diagnosis '73\\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{T. Szasz}} \\ 
-“The myth of mental illness” - paper '71\newline
-“Medical Model” -  symposium '72&
+“The myth of mental illness” - paper '71 \fullref{writingtask:szasz} \newline
+Symposium (with Albee) “Medical Model” -  symposium '72&
 Oppose committee on psychology of women '73 (on grounds of reification of the term 'women’)&
 \\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{P. Zimbardo}*} \\
-Paper on the ethical problems of Zimbardo '73, \newline and any holes in the APA guidelines. '75&
+Paper on the ethical problems of Zimbardo '73, \newline and any holes in the APA guidelines.  \fullref{writingtask:zimbardo} ’75&
 &
-Propose Zimbardo '73 (if character is not used, the proposal should come from the gamemaster)\\ \hline
+Propose Zimbardo '73 (\fullref{researchtask:zimbardo}) (if character is not used, the proposal should come from the gamemaster)\\ \hline
 
 \caption{Overview of specific assignments, by character}
 \label{table: overviewcharacter}
@@ -6704,6 +6758,15 @@ In my experience, and perhaps it is because I'm a philosopher teaching philosoph
 \subsection{Failed Research cycle}
 \label{failedresearchcycle}
 
+The game master must ensure that there is at least one research project approved per week, and that that research project has something to report in the week following. If the students on the research committee don’t approve any, or there are no proposals from students, I’ve included a number of examples drawn from historical examples and APA handbooks that can be pulled out and included in the research committee agenda in the appendix \fullref{instructorsmanualappendices}
+
+\subsection{Innateness}
+\label{innateness}
+
+Chomsky and Piaget actually did debate innateness in 1975 (~\citep{PiatelliPalmarini:LHbFI2mG}). I included this to point out the fundamental struggle between these different schools of thought. But I’m a Philosopher, and innateness is critical to understanding the distinctions between the various philosophical theories of mind since Plato.
+
+If your game is more focused on the experimental tradition---or the social responsibility of scientists---Piaget can be left out. In that case, Chomsky’s written assignment will be on the social responsibilities of social scientists. The role sheet for Chomsky includes this option.
+
 \subsection{Possible Mod: Voting}
 \label{possiblemod:voting}
 
@@ -6828,8 +6891,8 @@ Zucker, K. and J. Drescher, Eds. (2006). Ex-Gay Research: Analyzing the Spitzer 
 
 
 
-\chapter{Appendices}
-\label{appendices}
+\chapter{Instructors Manual Appendices}
+\label{instructorsmanualappendices}
 
 \begin{appendices}
 \let\svaddcontentsline\addcontentsline
@@ -7058,7 +7121,12 @@ Fox, M. “Charles W Socarides, Psychiatrist and Psychoanalyst, Is Dead at 83”
 Cook, J. “John P. Spiegel, 80, Expert on Violence And Combat Stress” New York Times, July 19, 1991. http:\slash \slash www.nytimes.com\slash 1991\slash 07\slash 19\slash obituaries\slash john-p-spiegel--80-expert-on-violence-and-combat-stress.html
 
 \end{appendices}
+
 \end{refsection}
+\stoplist[instructors]{lot}% stops main list of tables
+\stoplist[instructors]{lof}% stops main list of figures
+\stopcontents[instructors]
+
 
 \pagebreak 
 
@@ -7071,13 +7139,10 @@ Cook, J. “John P. Spiegel, 80, Expert on Violence And Combat Stress” New Yor
  \begin{refsection}
 \def\mysubtitle{The struggle for legitimacy of psychology and psychiatry in the 1970’s\\ \large Role Sheets}
 
-\tableofcontents
-\newpage
-\listoftheorems[ignoreall,show={myassign}]
+\startcontents[rolesheets]
+\printcontents[rolesheets]{l}{0}{\chapter*{Table of Contents}\setcounter{tocdepth}{2}}
+\listoftheorems[ignoreall,show={mycommittees,myassign,myresearch}]
 
-\newpage
-\listoftheorems[ignoreall,show={mycommittees}]
-\newpage
 
 \renewcommand*{\thechapter}{\arabic{chapter}}
 \setcounter{chapter}{0}
@@ -7271,10 +7336,10 @@ Officially neutral, but make sure that whatever happens, the decision is made on
 \label{research}
 
 \begin{writingtask}[Anastasi - 1972]\label{writingtask:anastasi}
-Present a paper outlining psychometrics and the use of statistical measures in psychology. Preferably in concert with Spitzer’s ‘Feigner criteria’ in 1972.
+Present a paper outlining psychometrics and the use of statistical measures in psychology. Preferably in concert with Spitzer’s ‘Feighner criteria’ in 1972.
 \end{writingtask}
 
-Present a paper outlining psychometrics and the use of statistical measures in psychology. This should be connected, conceptually, to the problem of the the taxonomy of mental disorders. It is a good idea, then, to wait until after Spitzer presents the Feigner criteria in 1972. If elected president, it can be your presidential address. If not, it should be a regular paper.
+Present a paper outlining psychometrics and the use of statistical measures in psychology. This should be connected, conceptually, to the problem of the the taxonomy of mental disorders. It is a good idea, then, to wait until after Spitzer presents the Feighner criteria in 1972. If elected president, it can be your presidential address. If not, it should be a regular paper.
 
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
@@ -7520,9 +7585,8 @@ The issue of female sexuality has become particularly hot recently with the popu
 \label{specificassignments}
 
 \textbf{Initial Committee Membership}
-\begin{service}[Fordney-Settlage - 1973]\label{service:fordney}No initial committee memberships.
-\end{service}
-No initial committee membership
+
+No initial committee membership, but eligible to run for any.
 
 \subsubsection{Demedicalization}
 \label{demedicalization}
@@ -7598,10 +7662,7 @@ The text of Dr. H. Anonymous' speech was widely available on the internet, but a
 \label{specificassignment}
 
 \textbf{Initial Committee Membership}
-None
-\begin{service}[Fryer]\label{service:fryer}
-None specified, but eligible to run for any.
-\end{service}
+None, but eligible to run for any.
 
 \subsubsection{Demedicalization}
 \label{demedicalization}
@@ -7614,7 +7675,7 @@ Strong proponent for demedicalization, member of the GayPA. Work with your fello
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
 
-\begin{writingtask}[Fryer]\label{writingtask:anastasi}
+\begin{writingtask}[Fryer]\label{writingtask:fryer}
 .“I am a homosexual, and a psychiatrist.” during the scheduled 1971 panel discussion “Psychiatry: Friend or Foe to Homosexuals: A Dialogue”
 \end{writingtask}
 
@@ -7664,6 +7725,82 @@ Scasta, D. (2002) “John E. Fryer, MD, and the Dr. H. Anonymous Episode” Jour
 Lenzer, J. (2003) “John Fryer” BMJ 326(7390): 662. Available at http:\slash \slash www.ncbi.nlm.nih.gov\slash pmc\slash articles\slash PMC1125557\slash 
 
 Barber, M. (2006). “Honoring John Fryer's Legacy: `Dr. H. Anonymous' helped change the profession's view of homosexuality” Behavioral Healthcare. Available at http:\slash \slash www.behavioral.net\slash ME2\slash dirmod.asp?sid=\&nm=\&type=Publishing\&mod=Publications::Article\&mid=64D490AC6A7D4FE1AEB453627F1A4A32\&id=1EF73328F1A7434B866649BC555741A2\&tier=4
+
+\chapter{Paul Gebhard, PhD}
+\label{paulgebhardphd}
+
+\section{Your Biography}
+\label{yourbiography}
+
+You were born July 3, 1917 in Rocky Ford, Colorado and obtained your B.S. from Harvard University in 1940, your Ph.D from Harvard University in 1947. You have worked in the Department of Anthropology at Indiana University from 1947 until the present, serving as the Director at the Institute for Sex Research starting 1956, after the death of your mentor, Alfred C. Kinsey.
+
+You are an Anthropologist, not a psychologist. Anthropology has a varied and checkered history, especially in relation to psychology and sociology. All three of these fields purport to study the human mind and human organizations, but they have gone about it in very different ways. Pay close attention to the discussion of Margaret Mead in \fullref{margaretmead}. It is probably worth reading the Introduction to \emph{Coming of Age in American Samoa} to understand the call for Anthropological research. One ahistorical note: Mead’s study was essentially debunked in the mid--1980s. It is now taught as an example of confirmation bias. You will have to be \emph{very} cautious when studying to ensure that you can present Mead’s work as it would have been in the 1970’s---a foundational text in the discipline and a paradigm of good science, \emph{not} as it is taught today. 
+
+The president of the APA in 1957, Lee J. Cronbach, titled his presidential address `The Two Disciplines of Scientific Psychology.' Compare what Cronbach says about `correlational' psychology to the method used by Kinsey. 
+
+\section{Game Objectives}
+\label{gameobjectives}
+
+Get on the Spitzer task force. You're an independent on all other issues that may come before the task force or the membership. It is important that you use your judgment on what an Anthropologist and sexologist would have thought of the various other proposals that come forward.
+
+\subsection{Specific Assignment}
+\label{specificassignment}
+
+\textbf{Initial Committee Membership}
+\begin{service}[Gebhard]\label{service:gebhard}
+You are an initial member of the Program committee, with your term expiring in 1974.
+\end{service}
+
+You are an initial member of the Program committee, with your term expiring in 1974.
+
+\subsubsection{Demedicalization}
+\label{demedicalization}
+
+Technically indeterminate, but your respect for Hooker’s data entails that you are decidedly pro-demedicalization.
+
+\subsubsection{Research}
+\label{research}
+
+Give a formal presentation of the findings of the Kinsey report in 1972, highlighting homosexuality in both mail and female. I. Beiber's 1962 book Homosexuality: A Psychoanalytic Study is often seen as a response to the Kinsey report, so be prepared for significant questions from Socarides and Beiber.
+
+\subsubsection{Association Business \slash  DSM-III}
+\label{associationbusinessdsm-iii}
+
+Submit a proposal to have the APA formally recognize Evelyn Hooker for her Distinguished Contribution to Psychology in the Public Interest.
+
+\begin{writingtask}[Gebhard]\label{writingtask:gebhard}
+presentation of the findings of the Kinsey report in 1972, highlighting homosexuality in both mail and female. 
+\end{writingtask}
+
+If Spitzer gets a Taskforce for the DSMIII, get appointed to it as a voice of Anthropology.
+
+\subsubsection{Social responsibilities of social scientists}
+\label{socialresponsibilitiesofsocialscientists}
+
+Indeterminate
+
+\subsubsection{Definition of ‘mental illness’ and fission of the APA}
+\label{definitionof‘mentalillness’andfissionoftheapa}
+
+You are neutral on the definition of mental illness, although you are sympathetic to those views that see mental illness as dysfunction of culture, not of the individual. 
+
+You are encouraged to add to the liminality of the game by decorating the room in themes corresponding to the different locations: 71: Washington DC, 72: Dallas, 73: Honolulu, 74: Philadelphia, 75: Chicago.
+
+\section{Must Read}
+\label{mustread}
+
+~\citep{Mead:1928uk}
+
+Kinsey Reports:
+Kinsey, Alfred C. et al. (1948\slash 1998). Sexual Behavior in the Human Male. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Currently out of print, but on google books.
+Kinsey, Alfred C. et al. (1953\slash 1998). Sexual Behavior in the Human Female. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Preview available on google books.
+Gebhard, Paul H. and Johnson, Alan B. (1979\slash 1998). The Kinsey Data: Marginal Tabulations of 1938--1963 Interviews Conducted by the Institute for Sex Research. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Preview available on google books.
+Cornbach, L. J. (1956) “The Two Disciplines of Scientific Psychology” American Psychologist, 12: 671--684. Available at http:\slash \slash psychclassics.yorku.ca\slash Cronbach\slash Disciplines\slash 
+
+\subsection{Secondary Sources}
+\label{secondarysources}
+
+`Paul Gebhard Interview' by NPR `New River Media' available at http:\slash \slash www.pbs.org\slash fmc\slash interviews\slash gebhard.htm
 
 \chapter{Frank Kameny and\slash or Barbara Gittings, Activists}
 \label{frankkamenyandorbarbaragittingsactivists}
@@ -7723,9 +7860,8 @@ As a non-member of the APA, you cannot vote on the definition of mental illness.
 \label{specificassignments}
 
 \textbf{Initial Committee Membership}
-\begin{service}[Kameny]\label{service:kameny}Not a member of the APA, so not eligible for committee memberships
-\end{service}
-None
+
+Not a member of the APA, so not eligible for committee memberships
 
 \subsubsection{Demedicalization}
 \label{demedicalization}
@@ -7739,13 +7875,13 @@ You should maintain `zapping' events where you determine discrimination, or the 
 \subsubsection{Research}
 \label{research}
 
-Help organize a symposium in 1973 on the topic of “Should Homosexuality Be in the APA Nomenclature?”
+Help organize a symposium in 1973 on the topic of “Should Homosexuality Be in the APA Nomenclature?” Green, Marmor, Bieber, Socarides and Spitzer should speak.
 
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
 
-\begin{writingtask}[Kameny]\label{writingtask:anastasi}
-Give a paper during the 1971 panel discussion with John Fryer and Evelyn Hooker. 
+\begin{writingtask}[Kameny]\label{writingtask:kameny}
+Give a paper during the 1971 panel discussion, preliminarily titled “Gay, Proud and Healthy” with Barbara Gittings, John Fryer and Evelyn Hooker. 
 \end{writingtask}
 
 Indeterminate
@@ -7818,23 +7954,31 @@ These tactics were not entirely welcome in the community at the time. You left t
 \label{barbaragittingsbiography}
 
 You are a Librarian, activist and a pioneer of the American gay rights movement. You founded the New York chapter of the Daughters of Bilitis and edited its magazine, The Ladder.\footnote{For more on the early development of the Daughters of Bilitis and its magazine, check out: http:\slash \slash www.buzzfeed.com\slash h2\slash pulse\slash skarlan\slash the-ladder-the-first-lesbian-magazine-established-in-the--195} One of your life-long goals has been to get public libraries to provide more information on homosexuality to the public.
+
 You were born on July 31, 1932 in Vienna, Austria. Your father, a career diplomat, was transferred back to the US in 1940, and your family settled in Delaware.
+
 During your freshman year at Northwestern in 1949, you sought out therapy because you believed you might be a lesbian. The psychotherapist offered to cure you. Rather than submit to treatment, you went to the libraries to find information on homosexuality. The few resources you discovered were filed under `perverted' or `abnormal.' Moreover, the material on offer dealt almost exclusively with gay men.
+
 As a result of the time you spent in the library researching homosexuality, you failed out of Northwestern. When you returned `back east,' you moved to Philadelphia.
+
 But you continued your research. In Philadelphia, you discovered a book titled The Homosexual in America (1951), written under the pseudonym `Donald Webster Cory .' You contacted the publisher and eventually contacted the author Edward Sagarin, who introduced you to the fledgling homophile movement, including the Mattachine Society.
-When you went out to California to meet with the publishers of ONE, you met Phyllis Lyon and Del Martin, leaders of the lesbian organization Daughters of Bilitis. They asked you to found a chapter in New York, even though it meant a commute from Philly. You accepted.
+
+When you went out to California to meet with the publishers of ONE, you met Phyllis Lyon and Del Martin, leaders of the lesbian organization Daughters of Bilitis. They asked you to found a chapter in New York, even though it meant a commute from Philly. You accepted. 
+
 At a DOB meeting in 1961, you met another activist named Kay Lahusen. The two of you fell in love and soon became partners for life.
+
 You succeeded Lyon and Martin as editor of DOB's magazine, The Ladder. During your three-year editorship, The Ladder began to publish articles critiquing medical authorities as well as the notion that homosexuals were sick.
+
 In the early 1960's, your position in the DOB lead you to meet and collaborate with Frank Kameny. Kameny's Washington DC chapter of the Mattachine Society was becoming more and more aggressive in its public advocacy, and you were encouraged. In 1965, you joined Kameny in a picket of the White House. And the two of you organized annual demonstrations on July 4 at Independence Hall in Philly.
+
 These tactics were not entirely welcome in the community at the time. You left the DOB because of these conflicts and joined Kameny's Mattachine society full time.
 
 \subsection{Specific Assignments}
 \label{specificassignments}
 
 \textbf{Initial Committee Membership}
-\begin{service}[Gittings]\label{service:gittings}Not a member of the APA, so indelible for committee memberships.
-\end{service}
-None 
+
+Not a member of the APA, so indelible for committee memberships.
 
 \subsubsection{Demedicalization}
 \label{demedicalization}
@@ -7847,6 +7991,10 @@ Petition the conference committee for a display booth for 1972 titled `Gay, Prou
 
 \subsubsection{Research}
 \label{research}
+
+\begin{researchtask}[Gittings]\label{researchtask:gittings}
+Propose “Adjustment of homosexual women” in 1971
+\end{researchtask}
 
 Propose a study, similar to E. Hooker’s, on lesbians, recruiting from the Daughters of Bilitis in 1971. You can see the gamemaster or the original Siegelman, 1972.
 
@@ -7923,12 +8071,11 @@ In 1967, you published the famous `small world' study, in which you randomly sel
 
 Get onto the research committee. While you have always had an interest in research ethics, the criticism of your experiments have made you develop something of an expertise in the APA standards (that means, of course, that you, as the student, need to develop an expertise with both Milgram's experimental design and the APA standards that are included in the gamebook).
 
-You are neutral on the issue of the definition of mental illness.
-
 \subsection{Specific Assignments}
 \label{specificassignments}
 
 \textbf{Initial Committee Membership}
+
 \begin{service}[Milgram]\label{service:milgram}
 Member-at-large of the Board of Directors, with term ending 1971.
 \end{service}
@@ -7943,12 +8090,15 @@ Indeterminate
 \subsubsection{Research}
 \label{research}
 
-Propose an experiment on campus testing the `small world' problem in the campus environment in 1974. Present your results (or, if the experiment is not completed in time, or denied by the research committee, the results of Milgram's original 1967 experiment) to the conference.
+Join the research committee
+
+\begin{researchtask}[Milgram]\label{researchtask:milgram}Propose ‘small world’, probably in 1974.
+\end{researchtask}Propose an experiment on campus testing the `small world' problem in the campus environment in 1974. Present your results (or, if the experiment is not completed in time, or denied by the research committee, the results of Milgram's original 1967 experiment) to the conference.
 
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
 
-\begin{writingtask}[Milgram]\label{writingtask:anastasi}
+Indeterminate\begin{writingtask}[Milgram]\label{writingtask:milgram}
 Present a paper summarizing your study of obedience (1963 and 1965) also in 1974, to complement the symposium on the social responsibility of academics.
 \end{writingtask}
 
@@ -7965,7 +8115,7 @@ Oppose the proposal (from Clark, 1975) to create an affirmative action plan for 
 \subsubsection{Definition of ‘mental illness’ and fission of the APA}
 \label{definitionof‘mentalillness’andfissionoftheapa}
 
-Indeterminate
+You are neutral on the issue of the definition of mental illness.
 
 \section{Must Read}
 \label{mustread}
@@ -8026,8 +8176,7 @@ Chomsky posits that the there is a innate system of grammars that are common to 
 \label{specificassignment}
 
 \textbf{Initial Committee Membership}
-\begin{service}[Piaget]\label{service:piaget}None
-\end{service}
+
 None
 
 \subsubsection{Demedicalization}
@@ -8476,9 +8625,8 @@ It is important then not to make grand public pronouncements that will alienate 
 \label{specificassignments}
 
 \textbf{Initial Committee Membership}
-\begin{service}[Szasz]\label{service:szasz}No initial memberships, but is eligible to run for any.
-\end{service}
-No committee membership at the beginning
+
+No committee membership at the beginning, but is eligible to run for any.
 
 \subsubsection{Demedicalization}
 \label{demedicalization}
@@ -8529,82 +8677,6 @@ Oliver, J. “The Myth of thomas Szasz” The New Atlantis, available at http:\s
 
 See 315 of `Discovering the History of Psychiatry' (in Google Books).
 
-\chapter{Paul Gebhard, PhD}
-\label{paulgebhardphd}
-
-\section{Your Biography}
-\label{yourbiography}
-
-You were born July 3, 1917 in Rocky Ford, Colorado and obtained your B.S. from Harvard University in 1940, your Ph.D from Harvard University in 1947. You have worked in the Department of Anthropology at Indiana University from 1947 until the present, serving as the Director at the Institute for Sex Research starting 1956, after the death of your mentor, Alfred C. Kinsey.
-
-You are an Anthropologist, not a psychologist. Anthropology has a varied and checkered history, especially in relation to psychology and sociology. All three of these fields purport to study the human mind and human organizations, but they have gone about it in very different ways. Pay close attention to the discussion of Margaret Mead in \fullref{margaretmead}. It is probably worth reading the Introduction to \emph{Coming of Age in American Samoa} to understand the call for Anthropological research. One ahistorical note: Mead’s study was essentially debunked in the mid--1980s. It is now taught as an example of confirmation bias. You will have to be \emph{very} cautious when studying to ensure that you can present Mead’s work as it would have been in the 1970’s---a foundational text in the discipline and a paradigm of good science, \emph{not} as it is taught today. 
-
-The president of the APA in 1957, Lee J. Cronbach, titled his presidential address `The Two Disciplines of Scientific Psychology.' Compare what Cronbach says about `correlational' psychology to the method used by Kinsey. 
-
-\section{Game Objectives}
-\label{gameobjectives}
-
-Get on the Spitzer task force. You're an independent on all other issues that may come before the task force or the membership. It is important that you use your judgment on what an Anthropologist and sexologist would have thought of the various other proposals that come forward.
-
-\subsection{Specific Assignment}
-\label{specificassignment}
-
-\textbf{Initial Committee Membership}
-\begin{service}[Gebhard]\label{service:gebhard}
-You are an initial member of the Program committee, with your term expiring in 1974.
-\end{service}
-
-You are an initial member of the Program committee, with your term expiring in 1974.
-
-\subsubsection{Demedicalization}
-\label{demedicalization}
-
-Technically indeterminate, but your respect for Hooker’s data entails that you are decidedly pro-demedicalization.
-
-\subsubsection{Research}
-\label{research}
-
-Give a formal presentation of the findings of the Kinsey report in 1972, highlighting homosexuality in both mail and female. I. Beiber's 1962 book Homosexuality: A Psychoanalytic Study is often seen as a response to the Kinsey report, so be prepared for significant questions from Socarides and Beiber.
-
-\subsubsection{Association Business \slash  DSM-III}
-\label{associationbusinessdsm-iii}
-
-Submit a proposal to have the APA formally recognize Evelyn Hooker for her Distinguished Contribution to Psychology in the Public Interest.
-
-\begin{writingtask}[Gebhard]\label{writingtask:gebhard}
-presentation of the findings of the Kinsey report in 1972, highlighting homosexuality in both mail and female. 
-\end{writingtask}
-
-If Spitzer gets a Taskforce for the DSMIII, get appointed to it as a voice of Anthropology.
-
-\subsubsection{Social responsibilities of social scientists}
-\label{socialresponsibilitiesofsocialscientists}
-
-Indeterminate
-
-\subsubsection{Definition of ‘mental illness’ and fission of the APA}
-\label{definitionof‘mentalillness’andfissionoftheapa}
-
-You are neutral on the definition of mental illness, although you are sympathetic to those views that see mental illness as dysfunction of culture, not of the individual. 
-
-You are encouraged to add to the liminality of the game by decorating the room in themes corresponding to the different locations: 71: Washington DC, 72: Dallas, 73: Honolulu, 74: Philadelphia, 75: Chicago.
-
-\section{Must Read}
-\label{mustread}
-
-~\citep{Mead:1928uk}
-
-Kinsey Reports:
-Kinsey, Alfred C. et al. (1948\slash 1998). Sexual Behavior in the Human Male. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Currently out of print, but on google books.
-Kinsey, Alfred C. et al. (1953\slash 1998). Sexual Behavior in the Human Female. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Preview available on google books.
-Gebhard, Paul H. and Johnson, Alan B. (1979\slash 1998). The Kinsey Data: Marginal Tabulations of 1938--1963 Interviews Conducted by the Institute for Sex Research. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Preview available on google books.
-Cornbach, L. J. (1956) “The Two Disciplines of Scientific Psychology” American Psychologist, 12: 671--684. Available at http:\slash \slash psychclassics.yorku.ca\slash Cronbach\slash Disciplines\slash 
-
-\subsection{Secondary Sources}
-\label{secondarysources}
-
-`Paul Gebhard Interview' by NPR `New River Media' available at http:\slash \slash www.pbs.org\slash fmc\slash interviews\slash gebhard.htm
-
 \pagebreak 
 
 \section{Psychoanalyst Overview}
@@ -8648,8 +8720,6 @@ You should oppose, however, efforts of the Board of Directors to put it to a pub
 \label{specificassignment}
 
 \textbf{Initial Committee Membership}
-\begin{service}[Green]\label{service:green}no initial committee work
-\end{service}
 
 No initial memberships, but eligible for any position
 
@@ -8663,7 +8733,13 @@ Oppose any effort to put the issue of demedicalization to a vote of the general 
 \subsubsection{Research}
 \label{research}
 
-J. Speigel and you should co-author the report. You should invite responses to your paper from Socarides \& Beiber and Judd Marmor.\footnote{Richard Green's actual paper of the same title was published in 1972 (see `Must Read').}
+J. Speigel and you should co-author the history of homosexuality report. You should invite responses to your paper from Socarides \& Beiber and Judd Marmor.\footnote{Richard Green's actual paper of the same title was published in 1972 (see `Must Read').}
+
+\begin{researchtask}[Green]\label{research:green}
+Propose ‘Clinic in an undergraduate classroom’ to the Research committee in ’74 or ’75.
+\end{researchtask}
+
+Propose a sample experiment about counseling -- the gamester has an example for you to work from.
 
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
@@ -8736,8 +8812,7 @@ You should oppose any attempt to remove psychoanalytic language or categories fr
 \label{specificassignment}
 
 \textbf{Initial Committee Membership}
-\begin{service}[Hopcke]\label{service:hopcke}No initial committee memberships, but eligible for any.
-\end{service}
+
 Not a member of a committee at the start of the game in 1971, but as a member of the APA, can run for any open seat.
 
 \subsubsection{Demedicalization}
@@ -8805,8 +8880,6 @@ Argue against the Nomenclature's proposal to write the new DSM according to stat
 \label{specificassignment}
 
 \textbf{Initial Committee Membership}
-\begin{service}[Leif]\label{service:leif}No initial committee memberships, but eligible for any
-\end{service}
 
 No initial committee memberships, but eligible for any
 
@@ -8939,8 +9012,7 @@ If the `Leona Tyler' principle passes in or around 1973, banning the APA from ma
 \label{specificassignment}
 
 \textbf{Initial Committee Membership}
-\begin{service}[Socarides]\label{service:socarides}No initial committee assignment, but eligible for all.
-\end{service}
+
 None to start, but as a member of the APA is eligible to run for any seat.
 
 \subsubsection{Demedicalization}
@@ -9073,8 +9145,7 @@ If the `Leona Tyler' principle passes in 1973, banning the APA from making takin
 \label{specificassignment}
 
 \textbf{Initial Committee Membership}
-\begin{service}[bieber]\label{service:bieber}No committee membership to start, but eligible for any
-\end{service}
+
 No committee membership to start, but eligible for any
 
 \subsubsection{Demedicalization}
@@ -9107,10 +9178,6 @@ Vehemently oppose any attempt to remove psychoanalytic language from the DSM.
 \textbf{when and if the game gets to a point where the APA attempts to create a definition of ‘mental illness’}, work to get a psychoanalytic version passed. You must also advocate for a theory of mental illness that takes into account the `natural function' of a body. Recall Freud's criteria for neurosis: if an individual's psychology is out of step with their biology, it will cause that individual to always be unfulfilled, and hence, will be detrimental to their overall outlook. A healthy person is one who recognizes his or her own physical function and seeks a life in accordance with those functions.
 
 \textbf{Fission}: split to the American Psychoanalytic Association (APsaA).
-
-\textbf{SECRET}: you are bound by patient-client confidentiality. Your patients are not. This is particularly difficult because many of the street activists who are disrupting meetings are your former patients. No one (other than them) can know that. By your best estimates, your therapy is effective only about 1\slash 3 of the time. Many of your patients are brought to you by their parents. In a classic transference reaction, their anger against their parents is transferred to you, and drives them to classic father-rebellion activities after therapy ends. 
-
-One in particular: Ron Gold, has you concerned. Ron is now a journalist for Variety, and you saw him at the incident in New York arguing with Robert Spitzer. Ron Gold may not be a character, depending on the size of the class.
 
 \section{Must Read}
 \label{mustread}
@@ -9165,7 +9232,7 @@ As a first step, the young turks (specifically you) will propose to the Board of
 
 During this process, you will need to work closely with the chair of the nomenclature committee Robert Spitzer. He is convinced that homosexuality is a mental illness, but thinks that the main advocates of that position, Socarides and Bieber, are pushing a social \slash  political agenda, not doing scientific work. You will have to convince him that psychic distress in homosexuals seeking treatment results from the mistaken belief that there is something wrong with being homosexual. Curing that distress is not about curing homosexuality, it is about curing the individual's social\slash cultural prejudices.
 
-In 1970, Socarides published a paper in the Journal of the American Medical Association titled “Homosexuality and Medicine” (212 (7): 1199). Introduce a resolution in 1971 during ‘new business’ condemning the article as unscientific and calling for its retraction. Your proposal should call Socarides' theory a “monstrous attack on homosexuality.”
+In 1970, Socarides published a paper in the Journal of the American Medical Association titled “Homosexuality and Medicine” (212 (7): 1199). \textbf{Introduce a resolution in 1973} during ‘new business’ condemning the article as unscientific and calling for its retraction. Your proposal should call Socarides' theory a “monstrous attack on homosexuality.”
 
 Once homosexuality is removed from the taxonomy of mental illnesses, get elected president. If you cannot do that, get appointed to the Spitzer Task Force. In either of these roles, you should advocate for the president to appoint a special director or task force to lead the effort of removing the stigma of `mental illness' from homosexuality.
 
@@ -9193,6 +9260,9 @@ In 1972, after Bieber's report comes in, you should propose a condemnation of So
 \subsubsection{Research}
 \label{research}
 
+\begin{researchtask}[Marmor]\label{researchtask:marmor}Propose ‘To Sleep, Perchance to Dream’ (\fullref{app:tosleep}) in 1973.
+\end{researchtask}
+
 Work with Green and Spiegel to propose a taskforce to report on the history of the homosexuality in psychology and psychiatry in 1972. He will invite responses to the report. You should be one of those responses. Bieber and\slash or Socarides will probably be the other one, so be prepared for a face-to-face debate in public on their view.
 
 \subsubsection{Association Business \slash  DSM-III}
@@ -9200,6 +9270,7 @@ Work with Green and Spiegel to propose a taskforce to report on the history of t
 
 During the restructuring of the DSM-III, you should be chiefly concerned with protecting the psychoanalytic tradition. While you think that homosexuality is not a mental illness, you are not willing to give up the `dynamic hypothesis': the Psychoanalytic commitment to the etiology of mental illness in terms of inter-psychical conflict.
 
+Propose a condemnation of Socarides’ paper in 1973.
 \begin{writingtask}[Marmor]\label{writingtask:marmor}
 present your paper “Limitations of Free Association” to the population. The paper is available in Arch. Gen. Psychiat. 22:160-165, 1970. You should read it, and present and defend the data in character.
 \end{writingtask}
@@ -9266,7 +9337,8 @@ Once that is passed, you will work closely with Robert Spitzer on the formation 
 \begin{service}[Spiegel]\label{service:spiegel}
 Initial member of the Nomenclature committee with term expiring 1974
 \end{service}
-Start out as member of the nomenclature committee with term expiring 1974. Is eligible for all positions after that term. Run for President.
+
+Start out as member of the nomenclature committee with term expiring 1974. Is eligible for all positions after that term. Run for Vice President, preferably in 1974.
 
 \subsubsection{Demedicalization}
 \label{demedicalization}
@@ -9377,6 +9449,7 @@ Your position in the game is a complex one. Contemporary commentators want to se
 \begin{service}[Bandura]\label{service:bandura}
 Member of the Board of Directors as Vice President in 1971, will serve as President in 1972.
 \end{service}
+
 Initial vice-president, will become President in 1972, and Former President in 1973.
 
 \subsubsection{Demedicalization}
@@ -9392,9 +9465,9 @@ Indeterminate
 \subsubsection{Association Business \slash  DSM-III}
 \label{associationbusinessdsm-iii}
 
-Your presidential address in 1972 should cover your views on the nature of psychology put forward in your 1974 paper cited below. Be careful to draw contrasts between your approach and Miller's.
+Your presidential address in 1972 should cover your views on the nature of psychology put forward in your ~\citep{Bandura:1974kd} paper cited below. Be careful to draw contrasts between your approach and Miller's.
 
-\begin{writingtask}[Bandura]\label{writingtask:anastasi}
+\begin{writingtask}[Bandura]\label{writingtask:bandura}
 presidential address in 1972 should cover your views on the nature of psychology
 \end{writingtask}
 
@@ -9461,6 +9534,7 @@ You were president of the APA in 1970, so you no longer can run for president. B
 \begin{service}[Harlow]\label{service:harlow}
 Member of Board of Directors as ‘Former President’ in 1971.
 \end{service}
+
 Former President when the hame begins
 
 \subsubsection{Demedicalization}
@@ -9470,6 +9544,10 @@ Indeterminate
 
 \subsubsection{Research}
 \label{research}
+
+\begin{researchtask}[Harlow]\label{research:harllow}
+Propose ‘Operant Conditioning: Role in Human Behavior’ to the Research committee.
+\end{researchtask}
 
 Submit a proposal to give a talk in 1972 on your research on the development of heterosexual relationships in the rhesus monkey, experimental inventions that you've shown corrupt the normal development, and the therapeutic interventions that may correct that corruption, and how that relates to Freud's theory of psycho-sexual development (you'll need ~\citep{Harlow:1975bm}).
 
@@ -9483,6 +9561,8 @@ Defend the use of behavioral techniques – especially aversion therapy – in t
 \begin{writingtask}[Harlow]\label{writingtask:harlow}
 Present your research on heterosexual relationships in the rhesus monkey, preferably in 1972.
 \end{writingtask}
+
+Propose a sample experiment about operant conditioning -- the gamester has an example for you to work from.
 
 \subsubsection{Social responsibilities of social scientists}
 \label{socialresponsibilitiesofsocialscientists}
@@ -9643,7 +9723,7 @@ In 1972, there will probably be competing papers from Socrides \& Bieber and Ric
 \label{associationbusinessdsm-iii}
 
 \begin{writingtask}[Hooker]\label{writingtask:hooker}
-you are scheduled to give a talk entitled “The mental health of non-patient male homosexuals” during the panel session titled “ Psychiatry: Friend or Foe to Homosexuals: A Dialogue” with John Fryer.
+you are scheduled to give a talk entitled “The mental health of non-patient male homosexuals” during the symposium titled “ Psychiatry: Friend or Foe to Homosexuals: A Dialogue” with John Fryer.
 \end{writingtask}
 
 In 1971, This talk should introduce the history of your research, and the data you have that shows that non-patient homosexuals are not mentally disordered. You might also make reference to the 1964 ‘Midtown Manhatten Study’ (1964), which seems to show that mental health disturbances are more related to social-economic status than any other factor—in this case, it may be consistent with your findings that any perceived mental illness is gay men is the result of their ostracism from society, rather than the cause thereof. 
@@ -9764,8 +9844,7 @@ You posits that the there is a innate system of grammars that are common to all 
 \label{specificassignment}
 
 \textbf{Initial Committee Membership}
-\begin{service}[Chomsky]\label{service:chomsky}No committee memberships at the beginning, but eligible for any.
-\end{service}
+
 No committee memberships at the beginning, but eligible for any.
 
 \subsubsection{Demedicalization}
@@ -9785,6 +9864,10 @@ Indeterminate
 
 \begin{writingtask}[Chomsky]\label{writingtask:chomsky}
 Prepare a paper on the concept of innateness in cognitive science, paying close attention to how your view differs from the behaviorists (who believe nothing is innate), the psychoanalysis and the older views of Jean Piaget. Organize a symposium with Piaget for 1975.
+\end{writingtask}
+
+\begin{writingtask}[Chomsky]\label{writingtask:chomskyB}
+If Piaget is not a character, or if the gamemaster decides to leave out the issue of innateness, your paper will be in connection with the social responsibilities of social scientists symposium.
 \end{writingtask}
 
 \subsubsection{Social responsibilities of social scientists}
@@ -9877,8 +9960,7 @@ Articulate your theory of levels of explanation, and its sympathetic relationshi
 \label{specificassignment}
 
 \textbf{Initial Committee Membership}
-\begin{service}[Marr]\label{service:marr}No initial committee memberships, but eligible for any.
-\end{service}
+
 No initial committee memberships, but eligible for any.
 
 \subsubsection{Demedicalization}
@@ -9888,6 +9970,12 @@ Indeterminate
 
 \subsubsection{Research}
 \label{research}
+
+\begin{researchtask}[Marr]\label{researchtask:marr}
+
+Propose the classic ‘Information Processing Capacity: A Visual Demonstration of the Magical Number Seven’ as a research project in 1972.
+\end{researchtask}
+Propose the classic cognitive psychological experiment ‘the magic number seven’ to the research committee in 1972. The gamemaster can give you a copy of the experiment from \fullref{app: magicseven}.
 
 Support, if necessary, Miller’s advocacy for the ‘Mental Rotation’ task in 1971.
 
@@ -10017,4 +10105,5 @@ Shepard, R. N. \& Metzler, J. (1971) “Mental Rotation of Three-Dimensional Obj
 
 
 \end{refsection}
+\stopcontents[rolesheets]
 \end{document}

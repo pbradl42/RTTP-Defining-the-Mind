@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.6-25480" Modified="2014-12-02 16:08:41 -0500">
+    <Binder>
+        <BinderItem ID="0" Type="DraftFolder" Created="2014-05-22 17:39:45 -0400" Modified="2014-05-22 17:39:45 -0400">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" Type="Text" Created="2014-05-22 17:39:45 -0400" Modified="2014-05-22 17:39:45 -0400">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" Type="Text" Created="2011-03-03 20:26:14 -0500" Modified="2014-07-06 19:26:43 -0400">
+                    <Title>GAlbee</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,7123</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" Type="Text" Created="2011-03-03 20:25:36 -0500" Modified="2014-07-06 19:26:43 -0400">
+                    <Title>AAnastasi</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1724,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="10" Type="Text" Created="2011-03-01 14:15:55 -0500" Modified="2014-07-06 19:26:43 -0400">
+                    <Title>KenClark</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>6796,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="5" Type="Text" Created="2011-03-03 20:17:28 -0500" Modified="2014-06-27 16:46:32 -0400">
+                    <Title>DFordney-Settlage</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3734,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" Type="Text" Created="2011-03-03 13:38:07 -0500" Modified="2014-06-27 16:46:10 -0400">
+                    <Title>JFryer</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2787,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="12" Type="Text" Created="2011-03-02 12:07:04 -0500" Modified="2014-06-27 16:46:05 -0400">
+                    <Title>PGebhard</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1215,53</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="14" Type="Text" Created="2011-03-02 16:49:33 -0500" Modified="2014-06-27 16:46:05 -0400">
+                    <Title>RGold</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>6209,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="6" Type="Text" Created="2013-07-03 08:21:41 -0400" Modified="2014-07-06 19:29:39 -0400">
+                    <Title>FKameny</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>12766,190</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="43" Type="Text" Created="2013-07-03 08:21:41 -0400" Modified="2014-07-07 15:18:47 -0400">
+                    <Title>BGittings</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>63,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="15" Type="Text" Created="2011-03-03 18:36:40 -0500" Modified="2014-06-27 16:43:46 -0400">
+                    <Title>Smilgram</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3396,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" Type="Text" Created="2011-02-28 16:43:27 -0500" Modified="2014-07-06 19:29:39 -0400">
+                    <Title>JPiaget</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>5618,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="11" Type="Text" Created="2011-03-03 13:41:42 -0500" Modified="2014-07-06 19:29:39 -0400">
+                    <Title>LTyler</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>5686,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="16" Type="Text" Created="2013-07-03 08:58:29 -0400" Modified="2013-07-03 08:58:29 -0400">
+                    <Title>Spitzer-bkg</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>6470,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="17" Type="Text" Created="2011-03-03 19:54:54 -0500" Modified="2014-07-06 19:29:39 -0400">
+                    <Title>ThomasSzasz</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>10097,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="13" Type="Text" Created="2011-03-03 13:41:53 -0500" Modified="2014-06-27 16:42:55 -0400">
+                    <Title>PZimbardo</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1065,65</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="37" Type="Folder" Created="2014-06-27 16:18:57 -0400" Modified="2014-06-27 16:19:01 -0400">
+                    <Title>Psychoanalysts</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="30" Type="Text" Created="2011-02-22 16:56:57 -0500" Modified="2014-06-27 16:37:25 -0400">
+                            <Title>PsychoanalysisOverview</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1924,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="31" Type="Text" Created="2011-03-01 12:35:22 -0500" Modified="2014-07-06 19:56:12 -0400">
+                            <Title>RGreen-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="32" Type="Folder" Created="2014-05-22 17:48:41 -0400" Modified="2014-05-22 17:48:41 -0400">
+                            <Title>RHopcke</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="33" Type="Text" Created="2011-03-03 20:11:30 -0500" Modified="2014-07-06 19:53:05 -0400">
+                                    <Title>RHopcke-bio</Title>
+                                    <MetaData>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>13,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="23" Type="Text" Created="2011-03-02 11:53:34 -0500" Modified="2014-07-06 19:52:20 -0400">
+                            <Title>HLeif-Bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,15</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="24" Type="Text" Created="2011-03-01 12:38:24 -0500" Modified="2014-07-06 19:52:09 -0400">
+                            <Title>CSocarides</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="40" Type="Text" Created="2011-03-01 12:38:24 -0500" Modified="2014-07-06 19:52:56 -0400">
+                            <Title>IBieber-bio copy</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>17,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="25" Type="Text" Created="2011-03-03 13:38:57 -0500" Modified="2014-07-06 19:53:48 -0400">
+                            <Title>JMarmor-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>11,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="26" Type="Text" Created="2011-03-03 13:12:29 -0500" Modified="2014-07-06 19:56:35 -0400">
+                            <Title>JSpiegel-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>12,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="38" Type="Folder" Created="2014-06-27 16:19:49 -0400" Modified="2014-06-27 16:19:52 -0400">
+                    <Title>Behaviorists</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="28" Type="Text" Created="2011-04-13 16:03:57 -0400" Modified="2014-07-06 19:58:06 -0400">
+                            <Title>BehavioristOverview</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2658,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="18" Type="Text" Created="2011-03-03 13:22:29 -0500" Modified="2014-07-06 19:56:12 -0400">
+                            <Title>ABandura-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,19</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="22" Type="Text" Created="2011-03-01 14:30:17 -0500" Modified="2014-07-06 19:56:43 -0400">
+                            <Title>HHarlow-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>12,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="20" Type="Text" Created="2011-03-03 19:58:19 -0500" Modified="2014-07-06 19:58:06 -0400">
+                            <Title>EHooker-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="39" Type="Folder" Created="2014-06-27 16:19:55 -0400" Modified="2014-06-27 16:19:59 -0400">
+                    <Title>Cognitivists</Title>
+                    <MetaData>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="29" Type="Text" Created="2011-03-03 12:01:36 -0500" Modified="2014-06-27 16:41:36 -0400">
+                            <Title>CognitivistOverview</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1124,160</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="27" Type="Text" Created="2011-03-11 10:18:38 -0500" Modified="2014-07-06 19:58:32 -0400">
+                            <Title>NChomsky-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>12,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="19" Type="Text" Created="2011-03-02 11:44:57 -0500" Modified="2014-07-06 19:58:06 -0400">
+                            <Title>DMarr-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>28,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="21" Type="Text" Created="2011-03-03 13:41:30 -0500" Modified="2014-07-07 15:18:47 -0400">
+                            <Title>GMiller-bio</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" Type="ResearchFolder" Created="2014-05-22 17:39:45 -0400" Modified="2014-05-22 17:39:45 -0400">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" Type="TrashFolder" Created="2014-05-22 17:39:45 -0400" Modified="2014-05-22 17:39:45 -0400">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="34" Type="Text" Created="2011-02-23 14:57:16 -0500" Modified="2011-02-23 14:57:16 -0500">
+                    <Title>RHopcke-header</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="35" Type="Text" Created="2010-03-03 11:37:18 -0500" Modified="2010-03-03 11:37:18 -0500">
+                    <Title>RHopcke</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="36" Type="Text" Created="2011-02-14 09:11:36 -0500" Modified="2011-02-14 09:11:36 -0500">
+                    <Title>RHopcke2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="41" Type="Text" Created="2014-07-06 19:51:42 -0400" Modified="2014-07-06 19:51:44 -0400">
+                    <Title>`</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="42" Type="Text" Created="2014-07-06 19:51:58 -0400" Modified="2014-07-06 19:51:58 -0400">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="EBFE85D4-4B73-462A-9D03-C411D05FFE34" Color="0.784753 0.815752 0.848702">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="60DD97E8-6D85-42BC-AD18-7322FEBA7950" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">monst</SearchSettings>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-05-22 17:39:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2014-12-02 16:08:30 -0500"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>

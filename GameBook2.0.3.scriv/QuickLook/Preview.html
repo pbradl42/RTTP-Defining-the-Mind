@@ -59,6 +59,7 @@
 <p class="binderItem"><strong>Latex-common</strong><br/><!--<br/>
 \usepackage{pdflscape}<br/>
 \usepackage{tabularx}<br/>
+\usepackage{titletoc}<br/>
 <br/>
 <br/>
 \setcounter{secnumdepth}{1}<br/>
@@ -79,7 +80,17 @@
       \renewcommand*\parttitle{#2}%<br/>
    \else<br/>
       \origpart[#1]{#2}%<br/>
-      \renewcommand*\parttit...</p>
+      ...</p>
+</li>
+<li>
+<p class="binderItem"><strong>FullTOC</strong><br/><!--<br/>
+\tableofcontents<br/>
+\newpage<br/>
+\listoftables<br/>
+\newpage<br/>
+\listoffigures<br/>
+\newpage<br/>
+--></p>
 </li>
 <li>
 <p class="binderItem"><strong>Game Book</strong></p>
@@ -114,12 +125,16 @@
 <li>
 <p class="binderItem"><strong>Table of contents</strong><br/><!--<br/>
 \frontmatter<br/>
-\tableofcontents<br/>
+\startcontents[gamebook]<br/>
+\printcontents[gamebook]{l}{0}{\chapter*{Table of Contents}\setcounter{tocdepth}{2}}<br/>
+<br/>
 \newpage<br/>
-\listoftables<br/>
+\startlist[gamebook]{lot}% starts main list of figures<br/>
+\printlist[gamebook]{lot}{}{\chapter*{List of Tables}}% prints main list of figures<br/>
+<br/>
 \newpage<br/>
-\listoffigures<br/>
-\newpage<br/>
+\startlist[gamebook]{lof}% starts main list of figures<br/>
+\printlist[gamebook]{lof}{}{\chapter*{List of Figures}}% <br/>
 <br/>
 <br/>
 \mainmatter--></p>
@@ -731,7 +746,12 @@ Sections of ‘Basic Scientific Reasoning’ are adapted from work that I did ma
 </li>
 <li>
 <p class="binderItem"><strong>End appendicies</strong><br/><!--\end{appendices}<br/>
-\end{refsection}--></p>
+<br/>
+\end{refsection}<br/>
+\stoplist[gamebook]{lot}% stops main list of tables<br/>
+\stoplist[gamebook]{lof}% stops main list of figures<br/>
+<br/>
+\stopcontents[gamebook]--></p>
 </li>
 </ul>
 </ul>
@@ -750,20 +770,15 @@ Sections of ‘Basic Scientific Reasoning’ are adapted from work that I did ma
 <br/>
 \maketitle<br/>
 \newpage<br/>
-\tableofcontents<br/>
+\startcontents[instructors]<br/>
+\printcontents[instructors]{l}{0}{\chapter*{Table of Contents}\setcounter{tocdepth}{2}}<br/>
+<br/>
 \newpage<br/>
-\listoftables<br/>
+\startlist[instructors]{lot}% starts main list of figures<br/>
+\printlist[instructors]{lot}{}{\chapter*{List of Tables}}% prints main instructors of figures<br/>
+<br/>
 \newpage<br/>
-\listoffigures<br/>
-\newpage<br/>
-<br/>
-<br/>
-\renewcommand*{\thechapter}{\arabic{chapter}}<br/>
-<br/>
-<br/>
-\setcounter{chapter}{0}<br/>
-\mainmatter--><br/>
-</p>
+\sta...</p>
 </li>
 <li>
 <p class="binderItem"><strong>Introduction</strong><br/>## Introduction<br/>
@@ -1123,15 +1138,12 @@ Paper&<br/>
 Proposals&<br/>
 Research\\ \hline<br/>
 \multicolumn{3}{| P{16cm} |}{\tahead{G Albee}---<br/>
-Nomenclature '71-'72 \newline<br/>
-Board member 'B' '71-'72*} \\<br/>
-'Medical Model' – symposium '72&<br/>
+Nomenclature expiring ’72 \newline<br/>
+Board member ‘At large B' '71-'72*} \fullref{service:albee} \\&<br/>
 Parallel medical system for clinical psychology '72&<br/>
+'Medical Model' – symposium '72 \fullref{writingtask:albee}<br/>
 \\ \hline<br/>
-\multicolumn{3}{| P{16cm} |}{ \tahead{A. Anastasi}---Program '71-'73} \\<br/>
-<br/>
-“On psychometrics” - presidential '74&<br/>
-Proposal to fix gender-specific...</p>
+\multicolumn{3}{| P{16cm} |}{ \tahead{A. Anastasi}---Program '71-'73 \fullref{...</p>
 </li>
 <li>
 <p class="binderItem"><strong>byIssue</strong><br/>##### Overview of topics<br/>
@@ -1349,7 +1361,7 @@ http://www.newyorker.com/on...</p>
 <hr/>
 <ul>
 <li>
-<p class="binderItem"><strong>frontMatter</strong><br/>## Appendices<br/>
+<p class="binderItem"><strong>frontMatter</strong><br/>## Instructors Manual Appendices<br/>
 <br/>
 <!--\begin{appendices}<br/>
 \let\svaddcontentsline\addcontentsline<br/>
@@ -1432,25 +1444,19 @@ Goode, E. “Anne Anastasi, the 'Test Guru' of Psychology, Is Dead at 92”, New
 Kessler, M. (2007). "Obituary: George W. Albee (1921-2006)." Amer...</p>
 </li>
 <li>
-<p class="binderItem"><strong>Other citations not mentioned previously</strong><br/><br/>
-### Citations not explicitly mentioned previously<br/>
-<br/>
-References used in constructing roles, not specifically mentioned in individual role sheets:<br/>
-<br/>
-Murchison, C.A. & Boring, E.G. A History of psychology in autobiography. Clark University Press, Worcester, Mass<br/>
-<br/>
-Kutchins, H., Kirk, S. A., & Kirk, S. (2003). Making Us Crazy. Simon and Schuster.<br/>
-<br/>
-Zusne, L. (1984). Biographical dictionary of psychology. Westport, Conn.: Greenwood Press.<br/>
-<br/>
-Sheehy, N., Chapman, A. J., & Conroy, W. A. (1997). Biographical...</p>
+<p class="binderItem"><strong>Other citations not mentioned previously</strong></p>
 </li>
 </ul>
 </ul>
 <hr/>
 <li>
 <p class="binderItem"><strong>End Instructors manual</strong><br/><!--\end{appendices}<br/>
-\end{refsection}--></p>
+<br/>
+\end{refsection}<br/>
+\stoplist[instructors]{lot}% stops main list of tables<br/>
+\stoplist[instructors]{lof}% stops main list of figures<br/>
+\stopcontents[instructors]<br/>
+--></p>
 </li>
 </ul>
 <hr/>
@@ -1466,13 +1472,10 @@ Sheehy, N., Chapman, A. J., & Conroy, W. A. (1997). Biographical...</p>
 <!-- \begin{refsection}<br/>
 \def\mysubtitle{The struggle for legitimacy of psychology and psychiatry in the 1970’s\\ \large Role Sheets}<br/>
 <br/>
-\tableofcontents<br/>
-\newpage<br/>
-\listoftheorems[ignoreall,show={myassign}]<br/>
+\startcontents[rolesheets]<br/>
+\printcontents[rolesheets]{l}{0}{\chapter*{Table of Contents}\setcounter{tocdepth}{2}}<br/>
+\listoftheorems[ignoreall,show={mycommittees,myassign,myresearch}]<br/>
 <br/>
-\newpage<br/>
-\listoftheorems[ignoreall,show={mycommittees}]<br/>
-\newpage<br/>
 <br/>
 \renewcommand*{\thechapter}{\arabic{chapter}}<br/>
 \setcounter{chapter}{0}<br/>
@@ -1519,6 +1522,26 @@ You are currently working on a comprehensive overview ...</p>
 You were born in Kentucky in 1938. You were an academically talented kid who entered Medical School at Vanderbilt at the age of 19. After completing your internship at Ohio State, you moved to Philadelphia, where you still live today.<br/>
 <br/>
 You are often described as a “large” man, both in body and personality. While others describe you as “flamboyant” and “outspoken,” you prefer “farm boy.” But you recognize that you can be combative and gruff in pursuit of your ide...</p>
+</li>
+<li>
+<p class="binderItem"><strong>PGebhard</strong><br/>## Paul Gebhard, PhD<br/>
+<br/>
+### Your Biography<br/>
+<br/>
+You were born July 3, 1917 in Rocky Ford, Colorado and obtained your B.S. from Harvard University in 1940, your Ph.D from Harvard University in 1947. You have worked in the Department of Anthropology at Indiana University from 1947 until the present, serving as the Director at the Institute for Sex Research starting 1956, after the death of your mentor, Alfred C. Kinsey.<br/>
+<br/>
+You are an Anthropologist, not a psychologist. Anthropology has a varied and checke...</p>
+</li>
+<li>
+<p class="binderItem"><strong>RGold</strong><br/>## Ron Gold, Journalist<br/>
+<br/>
+### Your Biography<br/>
+<br/>
+You were born in Brooklyn in 1930 and entered Brooklyn College at fifteen. It  took you twelve years to get a degree. By that time, you had been a junkie in San Francisco.<br/>
+<br/>
+The actual Ron Gold has told his story as a part of a theater production called 'Queer Stories' in New York.  The total story is available online (see 'Must Read' section), but I'll excerpt the early part here:<br/>
+<br/>
+> When I was 13 I told my sister I thought I really liked boys, and it...</p>
 </li>
 <li>
 <p class="binderItem"><strong>FKameny</strong><br/>## Frank Kameny and/or Barbara Gittings, Activists<br/>
@@ -1584,13 +1607,11 @@ You are Thomas S. Szasz, MD, Professor of Psychiatry at State University of New 
 In 1960, you published The Myth of Mental Illness (T. Szasz, 1960), which defends your view that “there is no such thing as ‘mental illness’” (p 1). To you, psychiatry and psychology are the study of human behavior. Scientists who practice these fields engage in the most common of all human behaviors: they talk to people. Their regular use of terminology ...</p>
 </li>
 <li>
-<p class="binderItem"><strong>PGebhard</strong><br/>## Paul Gebhard, PhD<br/>
+<p class="binderItem"><strong>PZimbardo</strong><br/>## Philip Zimbardo, PhD<br/>
 <br/>
 ### Your Biography<br/>
 <br/>
-You were born July 3, 1917 in Rocky Ford, Colorado and obtained your B.S. from Harvard University in 1940, your Ph.D from Harvard University in 1947. You have worked in the Department of Anthropology at Indiana University from 1947 until the present, serving as the Director at the Institute for Sex Research starting 1956, after the death of your mentor, Alfred C. Kinsey.<br/>
-<br/>
-You are an Anthropologist, not a psychologist. Anthropology has a varied and checke...</p>
+You were born in 1933 and grew up in the South Bronx of New York City in a poor, uneducated Sicilian immigrant family. From your experience you learned that people, not material possessions, are our most valuable resource, that diversity should be embraced because it enriches us, and that education is the key to escaping poverty. Your education began in New York Public School 52 and later included Monroe High School (with classmate Stanley Milgram), B...</p>
 </li>
 <li>
 <p class="binderItem"><strong>Psychoanalysts</strong></p>
@@ -1739,7 +1760,8 @@ You were born in 1920 in Charleston, West Virginia, where you lived until you en
 <hr/>
 <li>
 <p class="binderItem"><strong>End role sheets</strong><br/><!--<br/>
-\end{refsection}--></p>
+\end{refsection}<br/>
+\stopcontents[rolesheets]--></p>
 </li>
 </ul>
 </ul>

@@ -11,7 +11,7 @@
 	</dict>
 	<key>binderSelection</key>
 	<array>
-		<integer>2</integer>
+		<integer>16</integer>
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
@@ -49,14 +49,14 @@
 	<integer>5</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1275, 884}}</string>
-		<string>{{1276, 0}, {227, 884}}</string>
+		<string>{{0, 0}, {1060, 736}}</string>
+		<string>{{1061, 0}, {227, 736}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>7</integer>
+		<integer>13</integer>
 	</array>
 	<key>mainDocumentEditor.currentEditorViewMode</key>
 	<integer>0</integer>
@@ -70,22 +70,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>30</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>31</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
@@ -870,12 +854,28 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>14</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>13</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 9}, {1275, 838}}</string>
+	<string>{{0, 0}, {1060, 685}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{0, 7123}</string>
+	<string>{1065, 65}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -886,7 +886,7 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>0 478 1680 932 0 0 2560 1418 </string>
+	<string>332 81 1440 786 0 0 1440 877 </string>
 	<key>selectedCollectionTabIndex</key>
 	<integer>0</integer>
 	<key>supportingDocumentEditor.scrollRect</key>
