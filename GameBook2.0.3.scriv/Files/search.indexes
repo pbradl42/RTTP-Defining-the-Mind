@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
+        <Document ID="121">
+            <Title>Rosenhan</Title>
+            <Text>&lt;!--\newpage--&gt;
+#### On Being Sane in Insane Places
+
+##### Background
+
+However much mental health practitioners may be personally convinced that we can tell the normal from the abnormal, the evidence is simply not compelling. It is commonplace, for example, to read about murder trials wherein eminent psychiatrists for the defense are contradicted by equally eminent psychiatrists for the prosecution on the matter of the defendant's sanity. More generally, there are a great deal of conflicting data on the reliability, utility, and meaning of such terms as “sanity,” “insanity,” “mental illness” and “schizophrenia.” Finally, as early as 1934, Ruth Benedict suggested that normality and abnormality are not universal. What is viewed as normal in one culture may be seen as quite aberrant in another.
+
+##### Rationale
+
+How do we know precisely what constitutes “normality” or mental illness? Conventional wisdom suggests that specially trained professionals have the ability to make resolably accurate diagnoses. In this research, however, we intend to challenge that assumption. What is—and what is not-- “normal” may have to do with the labels that are applied to people in particular settings.
+
+##### Experimental Design
+
+Eight sane people, of varied backgrounds, will gain secret admission to 12 different hospitals, from varied geographical regions of the United States. Their diagnostic experiences will constitute the data of the of the study.  The 'pseudopatients' will call the hospital for an appointment, complaining of 'hearing voices.' When asked what the voices said, they will reply that it was unclear, but that they were 'empty,' 'hollow,' and 'thud.'  The pseudopatients will report that voices were unfamiliar and in the same gender as the pseudopatient. After admission to the psychiatric ward, the pseudopatient will cease simulating symptoms of abnormality.  
+
+The amount of time it takes for the pseudopatient to be released, along with any diagnoses and treatments, will be recorded.
+
+##### Significance and Contributions
+
+This study provides and opportunity to test the reliability of psychiatric diagnosis in the 'real world,' rather than the controlled environment of a university lab.  The hospital environment imposes a special environment on its members in which the actions of a normal person could be misinterpreted as 'insane' or 'abnormal.'  This study will determine the extent of that influence on psychiatric diagnosis.
+
+##### Works Cited
+
+R. Benedict, J. Gen. Psychol., 10 (1934), 59.
+</Text>
+        </Document>
         <Document ID="117">
             <Title>ConferenceSchedule-1971</Title>
             <Text>&lt;!--
@@ -151,34 +179,6 @@ Cornbach, L. J. (1956) “The Two Disciplines of Scientific Psychology” Americ
 
 </Text>
         </Document>
-        <Document ID="121">
-            <Title>Rosenhan</Title>
-            <Text>&lt;!--\newpage--&gt;
-#### On Being Sane in Insane Places
-
-##### Background
-
-However much mental health practitioners may be personally convinced that we can tell the normal from the abnormal, the evidence is simply not compelling. It is commonplace, for example, to read about murder trials wherein eminent psychiatrists for the defense are contradicted by equally eminent psychiatrists for the prosecution on the matter of the defendant's sanity. More generally, there are a great deal of conflicting data on the reliability, utility, and meaning of such terms as “sanity,” “insanity,” “mental illness” and “schizophrenia.” Finally, as early as 1934, Ruth Benedict suggested that normality and abnormality are not universal. What is viewed as normal in one culture may be seen as quite aberrant in another.
-
-##### Rationale
-
-How do we know precisely what constitutes “normality” or mental illness? Conventional wisdom suggests that specially trained professionals have the ability to make resolably accurate diagnoses. In this research, however, we intend to challenge that assumption. What is—and what is not-- “normal” may have to do with the labels that are applied to people in particular settings.
-
-##### Experimental Design
-
-Eight sane people, of varied backgrounds, will gain secret admission to 12 different hospitals, from varied geographical regions of the United States. Their diagnostic experiences will constitute the data of the of the study.  The 'pseudopatients' will call the hospital for an appointment, complaining of 'hearing voices.' When asked what the voices said, they will reply that it was unclear, but that they were 'empty,' 'hollow,' and 'thud.'  The pseudopatients will report that voices were unfamiliar and in the same gender as the pseudopatient. After admission to the psychiatric ward, the pseudopatient will cease simulating symptoms of abnormality.  
-
-The amount of time it takes for the pseudopatient to be released, along with any diagnoses and treatments, will be recorded.
-
-##### Significance and Contributions
-
-This study provides and opportunity to test the reliability of psychiatric diagnosis in the 'real world,' rather than the controlled environment of a university lab.  The hospital environment imposes a special environment on its members in which the actions of a normal person could be misinterpreted as 'insane' or 'abnormal.'  This study will determine the extent of that influence on psychiatric diagnosis.
-
-##### Works Cited
-
-R. Benedict, J. Gen. Psychol., 10 (1934), 59.
-</Text>
-        </Document>
         <Document ID="170">
             <Title>HHarlow-bio</Title>
             <Text>## Harry Harlow, PhD
@@ -314,7 +314,7 @@ Propose a task force to study the history of the treatment of homosexuality, and
 \end{proposal}--&gt;
 
 ##### Research
-&lt;!--\begin{researchtask}[Spiegel]\label{researchtask:spiegel}Propose a classroom experiment on defense mechanisms. See the gamemasster for a sample \fullref{{app: defensemechanism}.\end{researchtask}--&gt;
+&lt;!--\begin{researchtask}[Spiegel]\label{researchtask:spiegel}Propose a classroom experiment on defense mechanisms. See the gamemasster for a sample \fullref{app: defensemechanism}.\end{researchtask}--&gt;
 Working with R. Green (if he is a character in your gam), petition the Board of Directors in 1971 to create a task force to conduct a historical survey and literature review on the Psychiatric and Psychological treatment of homosexuality. The task force should be be balanced between psychologists and psychiatrists, so you need a psychiatrist to support the effort – E. Hooker and G. Albee are a good choices..
 
 ##### Association Business / DSM-III
@@ -1221,7 +1221,7 @@ I've noted where in the games these issues arise.
 
 Some of these issues that will make an appearance in the game are:
 
-&lt;!-- \begin{longtable}[!t]{ | P{7cm} | P{2cm} |  P{2cm} | }
+&lt;!-- \begin{longtable}[!t]{ | P{5cm} | P{2cm} |  P{10cm} | }
 \hline
 
 \tahead{Issue}&amp;\tahead{Partisans}&amp;\tahead{Session} \\ \hline \hline
@@ -6403,7 +6403,7 @@ None, but eligible to run for any.
 Strong proponent for demedicalization, member of the GayPA. Work with your fellow Gay-PA members to remove 'homosexuality' from the DSM and opposing any attempt to reintroduce any substitute classification.
 
 ##### Research
-&lt;!--\begin{researchtask}[Fryer]\label{researchtask:fryer}Propose ‘Mental Illness’ -- a classroom demonstration of the Rosenhan study. The game master has an example \fullref{app: mental illness} in the Instructor’s Manual ---1974\end{research}--&gt;
+&lt;!--\begin{researchtask}[Fryer]\label{researchtask:fryer}Propose ‘Mental Illness’ -- a classroom demonstration of the Rosenhan study. The game master has an example \fullref{app: mental illness} in the Instructor’s Manual ---1974\end{researchtask}--&gt;
 You are keenly interested in the study “On Being Sane in Insane Places” that will be reported in 1972 or 1973.  You should propose a way to replicated it in the classroom.
 
 
