@@ -151,6 +151,34 @@ Cornbach, L. J. (1956) “The Two Disciplines of Scientific Psychology” Americ
 
 </Text>
         </Document>
+        <Document ID="121">
+            <Title>Rosenhan</Title>
+            <Text>&lt;!--\newpage--&gt;
+#### On Being Sane in Insane Places
+
+##### Background
+
+However much mental health practitioners may be personally convinced that we can tell the normal from the abnormal, the evidence is simply not compelling. It is commonplace, for example, to read about murder trials wherein eminent psychiatrists for the defense are contradicted by equally eminent psychiatrists for the prosecution on the matter of the defendant's sanity. More generally, there are a great deal of conflicting data on the reliability, utility, and meaning of such terms as “sanity,” “insanity,” “mental illness” and “schizophrenia.” Finally, as early as 1934, Ruth Benedict suggested that normality and abnormality are not universal. What is viewed as normal in one culture may be seen as quite aberrant in another.
+
+##### Rationale
+
+How do we know precisely what constitutes “normality” or mental illness? Conventional wisdom suggests that specially trained professionals have the ability to make resolably accurate diagnoses. In this research, however, we intend to challenge that assumption. What is—and what is not-- “normal” may have to do with the labels that are applied to people in particular settings.
+
+##### Experimental Design
+
+Eight sane people, of varied backgrounds, will gain secret admission to 12 different hospitals, from varied geographical regions of the United States. Their diagnostic experiences will constitute the data of the of the study.  The 'pseudopatients' will call the hospital for an appointment, complaining of 'hearing voices.' When asked what the voices said, they will reply that it was unclear, but that they were 'empty,' 'hollow,' and 'thud.'  The pseudopatients will report that voices were unfamiliar and in the same gender as the pseudopatient. After admission to the psychiatric ward, the pseudopatient will cease simulating symptoms of abnormality.  
+
+The amount of time it takes for the pseudopatient to be released, along with any diagnoses and treatments, will be recorded.
+
+##### Significance and Contributions
+
+This study provides and opportunity to test the reliability of psychiatric diagnosis in the 'real world,' rather than the controlled environment of a university lab.  The hospital environment imposes a special environment on its members in which the actions of a normal person could be misinterpreted as 'insane' or 'abnormal.'  This study will determine the extent of that influence on psychiatric diagnosis.
+
+##### Works Cited
+
+R. Benedict, J. Gen. Psychol., 10 (1934), 59.
+</Text>
+        </Document>
         <Document ID="170">
             <Title>HHarlow-bio</Title>
             <Text>## Harry Harlow, PhD
@@ -286,7 +314,7 @@ Propose a task force to study the history of the treatment of homosexuality, and
 \end{proposal}--&gt;
 
 ##### Research
-
+&lt;!--\begin{researchtask}[Spiegel]\label{researchtask:spiegel}Propose a classroom experiment on defense mechanisms. See the gamemasster for a sample \fullref{{app: defensemechanism}.\end{researchtask}--&gt;
 Working with R. Green (if he is a character in your gam), petition the Board of Directors in 1971 to create a task force to conduct a historical survey and literature review on the Psychiatric and Psychological treatment of homosexuality. The task force should be be balanced between psychologists and psychiatrists, so you need a psychiatrist to support the effort – E. Hooker and G. Albee are a good choices..
 
 ##### Association Business / DSM-III
@@ -428,7 +456,7 @@ initial member of the program committee, with your term expiring in 1972
 Your research is the strongest out there that homosexuals are not suffering from mental illness *other* than that caused by the medicalization of homosexuality.
 
 ##### Research
-
+&lt;!--\begin{researchtask}[Hooker]\label{researchtask:hooker}Propose an in class experiment to demonstrate classical conditioning. The game master has a sample for you to consider in \fullref{app: classicalconditioning}.\end{researchtask}--&gt;
 In 1972, there will probably be competing papers from Socrides &amp; Bieber and Richard Green. Both of these papers will likely contain critiques or analyzes of your data. Be prepared to defend your study, or use it to critique others.
 
 
@@ -501,7 +529,7 @@ When the game reaches the point of trying to define mental illness, you must pas
 
 
 &gt; A person can be called 'mentally ill' when he or she exhibits emotional or behavioral functioning which is so impaired as to interfere substantially with his or her capacity to function in society. 
-
+&lt;!--\begin{proposal}[Behaviorists]\label{proposal:behaviorists}A person is mentally ill when he or she suffers from internal conflicts that may be subconscious or unconscious, manifesting behavior that is unwanted or disturbing to the individual or the society.\end{proposal}--&gt;
 </Text>
             <Comments>Watson, J.B. (1928). The Ways of Behaviorism, Harper &amp; Borthers, New York
 Jastrow, J. (1932). The house that Freud built, Greenberg.
@@ -1030,7 +1058,7 @@ Research Report\\
             <Text>### Exiting the game</Text>
         </Document>
         <Document ID="127">
-            <Title>Overview of elections, by year</Title>
+            <Title>electionsByYear</Title>
             <Text> 	
 ##### Overview of elections, by year
 
@@ -1046,68 +1074,6 @@ Research Report\\
 \label{table: boardMembership}
 \end{longtable}--&gt;
  	
-#### Committees, Publications and Exhibits
-
-&lt;!-- \begin{longtable}[!t]{ | p{1cm} | p{4cm} | p{4cm} |  p{4cm} | p{4cm} | }
-\hline
-year&amp;
-Board of Directors&amp;
-Research Committee&amp;
-Nomenclature Committee&amp;
-Program Committee\\ \hline
-Initial membership&amp;
-Harlow (1971)\newline
-Miller (1972)\newline
-Bandura (1973)\newline
-[A: Milgram]*\newline
-[B: Albee]*&amp;
-L. Tyler (1972)\newline
-K. Clark (1973)\newline
-J. Marmor (1974)&amp;
-G. Albee (1972)\newline
-J Spiegel (1974)\newline
-R Spitzer (1976)&amp;
-E. Hooker (1972)\newline
-A. Anastasi (1973)\newline
-P. Gebhard (1974)\\ \hline
-
-1971&amp;
-Proclamations removing Homosexuality heard and sent to nomenclature\newline
-Approve taskforces for Green and Bieber &amp;
-Administer Shepard &amp; Metzler\newline
-Approve Seigelman, reject Watson&amp;
-Accept charge to consider removing 302.0
-Prepare Dallas Conference schedule, distribute at the end of this conference\\
-1972&amp;
-
-Recognize Hooker\newline
-Limit drugs to psychiatric, but recognize psychology access in hospital&amp;
-Approve Rosehan. Fordney Settlage*&amp;
-Propose observation, not theory-based DSM&amp;
-Prepare Honolulu Conference schedule, distribute at the end of this conference\\
-1973&amp;Consider condemnation of Socarides \newline
-Nomenclature report, send to general vote\newline
-LT Principle&amp;
-Approve Zimbardo, Spitzer&amp;
-Propose dissolution in favor of Spitzer task force&amp;
-Prepare Philadelphia Conference schedule, distribute at the end of this conference\\
-1974&amp;
-Create Psy. Of Women, Women in Psy.\newline
-Bar Aversion therapy&amp;
-Approve Milgram&amp;
-[dissolved]&amp;
-Prepare Chicago Conference schedule, distribute at the end of this conference\\
-1975&amp;
-Create Affirmative Action plan&amp;
-Propose rewritten Ethics guidelines&amp;
- &amp;
-\\
-\hline
-
-\caption{Likely Actions}
-\label{table: likelyactions}
-\end{longtable}--&gt;
-
 
  
  	
@@ -1259,17 +1225,37 @@ Some of these issues that will make an appearance in the game are:
 \hline
 
 \tahead{Issue}&amp;\tahead{Partisans}&amp;\tahead{Session} \\ \hline \hline
-Homosexuality \emph{is / is not} a mental disorder&amp;Spitzer, Socarides, Bieber, Marmor&amp; Week 1, session A. \\ \hline
-The ‘medical model’ \emph{is / is not} a suitable approach to understanding the human mind&amp;Szasz, Albee v Spitzer and all the MDs&amp; \\ \hline
-Psychoanalysis \emph{is / is not} scientific.&amp;Psychoanalysts v. Cognitivists and Behaviorists&amp; \\ \hline
-Mental disorders should be classified according to \emph{observable symptoms / underlying mechanisms}.&amp;Spitzer and the behaviorists v. psychoanalyst faction&amp; \\ \hline
-Mental illness / mental disorder \emph{are / are not} genuine medical conditions and therefore must be treated only by medical doctors.&amp;Psychiatrists (MD) v. Psychologists (PhD)&amp; \\ \hline
-How do we define a mental illness / disorder---regardless of whether it is or is not a medical condition?&amp;Spitzer, main three factions&amp; \\ \hline
-Are mental health norms defined in terms of statistical frequency of a behavior in the population, or in terms of the ‘ideal’ behavior of an individual?&amp;Anastasi and Bieber&amp; \\ \hline
-The mentally ill \emph{must / should be} treated exclusively by \emph{psychiatrists / psychiatrists} and \emph{psychologists / exclusively psychologists} &amp;Albee&amp; \\ \hline
-What does scientific research on the mind look like? Does it involve modeling and adductive reasoning, or is it limited to correlations between of observable behaviors?&amp;Cognitivists and Psychoanalysts v. Behaviorists &amp; \\ \hline
-What are the ethical limitations on psychological / psychiatric research?&amp;&amp; \\ \hline
-What is the proper role of an intellectual---specifically a social scientist---in a democratic society?&amp;Chomsky, Clark and Albee v. Tyler and Bieber&amp; \\ \hline
+Homosexuality \emph{is / is not} a mental disorder&amp;Spitzer, Socarides, Bieber, Marmor&amp; 1971 \fullref{proposal:marmor}\newline
+1971 \fullref{proposal:spiegel} and \fullref{proposal:green} \newline
+1971 \fullref{researchtask:gittings} \newline
+1972 \fullref{writingtask:green} and \fullref{writingtask:spiegel}) \newline
+ \fullref{writingtask:socarides} and \fullref{writingtask:bieber} \newline
+\fullref{proposal:socarides} \newline
+1973 Nomenclature Sumpoisum. Include \fullref{writingtask:gold} \\ \hline
+The ‘medical model’ \emph{is / is not} a suitable approach to understanding the human mind.&amp;Szasz, Albee v Spitzer and all the MDs&amp;1972 Symposium: \fullref{writingtask:szasz}, \fullref{writingtask:marmor} and \fullref{writingtask:albee} \newline
+\\ \hline
+The mentally ill \emph{must / should be} treated exclusively by \emph{psychiatrists / psychiatrists} and \emph{psychologists / exclusively psychologists} &amp;Albee&amp;1972 \fullref{proposal:hopcke} and \fullref{proposal:albee} \newline Mediated by \fullref{proposal:fordneysettlage} in the Role Sheet Book \newline
+ \\ \hline
+Are mental health norms defined in terms of statistical frequencies of behavior, or in terms of the ‘ideal’ or ‘proper’ functioning of an individual?&amp; Anastasi&amp;1973 \fullref{writingtask:anastasi} and \fullref{writingtask:spitzer} \newline \\ \hline
+Psychoanalysis \emph{is / is not} scientific.&amp;Psychoanalysts v. Cognitivists and Behaviorists&amp;1972 \fullref{writingtask:marmor} and \fullref{researchtask:szasz}\newline
+1973 \fullref{researchtask:spitzer} and \fullref{researchtask:marmor} \newline
+ \\ \hline
+Mental disorders should be classified according to \emph{observable symptoms / underlying mechanisms}.&amp;Spitzer and the behaviorists v. psychoanalyst faction&amp;1972 \fullref{writingtask:spitzer}, \fullref{writingtask:anastasi} and \fullref{writingtask:lief} \\ \hline
+There \emph{should / should not} be psychological study of specific groups, I.e. Women?&amp;Fordney-Settlage, Anastasi&amp;1972 fullref{researchtask:fordneysettlage} \newline
+1973 \fullref{proposal:anastasiA} and \fullref{proposal:anastasiB} \newline
+1974 \fullref{writingtask:clark} 
+1975 \fullref{writingtask:fordneysettlage} \\ \hline
+What does scientific research on the mind look like? Does it involve modeling and adductive reasoning, or is it limited to correlations between of observable behaviors?&amp;Cognitivists and Psychoanalysts v. Behaviorists &amp; 1971 \fullref{researchtask:miller}\newline
+1975 \fullref{writingtask:marr} and \fullref{researchtask:marr} \\ \hline
+What are the ethical limitations on psychological / psychiatric research?&amp;&amp;  1971 \fullref{emotionalresponsesinahumanchild.}\newline
+1973 \fullref{researchtask:zimbardo} \\ \hline
+1975 \fullref{writingtask:zimbardo} \\ \hline
+There \emph{are / are not} innate structures in the mind&amp;Chomsky, Piaget, Behaviorists, Psychoanalysts&amp;1975 \fullref{writingtask:piaget} and  \fullref{writingtask:chomsky} \\ \hline
+Intellectuals---specifically social scientists---\emph{have / do not have} a special responsibility to democratic society.&amp;Miller, Chomsky, Clark, Tyler&amp;1971 \fullref{writingtask:miller} \newline
+1974 \fullref{writingtask:chomskyB}, \fullref{writingtask:clark} v. \fullref{proposal:tyler}\\ \hline
+How do we define a mental illness / disorder?&amp;Spitzer, main factions&amp;\fullref{proposal:spitzerD} \newline
+\fullref{proposal:psychoanalysts} \newline
+\fullref{proposal:behaviorists} \\ \hline
 \caption{Major Issues for debate}
 \label{table: majorissues}
 \end{longtable}--&gt;
@@ -1282,7 +1268,7 @@ I’ve included a ‘textbook’ style section (&lt;!--\fullref{testingcausalcla
 
 I included the ‘textbook’ section to give the research committee a quick and dirty heuristic for judging the validity of proposed experiments. But this simplistic approach is largely misguided and the research committee may stumble as a result. For example, they will encounter these real, historical examples that simply don’t fit the model:
 
-* We know that Rosehan measured the time spent inside a mental health institution as a dependent variable, but what was the IV? Was there a control group?
+* We know that Rosenhan measured the time spent inside a mental health institution as a dependent variable, but what was the IV? Was there a control group?
 
 * We know that the IV in  Zimbardo’s prison ‘experiment’ is assignment to either ‘prisoner’ or ‘guard’ role, but what is his DV?
 
@@ -4504,6 +4490,8 @@ http://www.apa.org/about/division/div35.aspx In reality, Florence Denmark is cre
             <Title>byIssue</Title>
             <Text>##### Overview of topics
 
+See &lt;!--\fullref{table: majorissues}--&gt;.
+
 &lt;!-- \begin{longtable}[!t]{ | p{3cm} |  p{3cm} |  p{3cm} | p{3cm} |  p{5cm} |}
 \hline
 \tahead{Issue / Year}&amp;\tahead{Proposer}&amp;\tahead{Objections}&amp;\tahead{Mediator}&amp;\tahead{Related papers} \\ \hline
@@ -5755,12 +5743,22 @@ http://www.museumstuff.com/learn/topics/Diane_Fordney::sub::Career
 
 When and if the Research Committee approves experiments that are based on historical realities, the game master ought to distribute the primary source report of said experiment for discussion in the following week.  These are available under ‘Primary Source Materials’ on the GitHub site, and included in the Appendix.
 
+* 1971 Lab: &lt;!--\fullref{emotionalresponsesinahumanchild} --&gt;
 
-* 1971: Lab: &lt;!--\fullref{mentalrotationofthree-dimensionalobjects}--&gt;. Citation: Shepard, R. N., &amp; Metzler, J. (1971). Mental rotation of three-dimensional objects. Science, 171, 701-703.
-*  1972: Siegelman, “Adjustment of Homosexual and Heterosexual Women” The British Journal of Psychiatry (1972) 120: 477-481.
-* 1973: Rosehan 'On being sane in Insane places' Science  v.. 179 (Jan. 1973), 250-258
-* 1974: Haney, C. Banks, C. &amp; Zimbardo, P. (1973). “Interpersonal Dynamics in a Simulated Prison” International Journal of Criminology and Penology 1, p. 69-97 
-* Spitzer, R. and Fleiss, J. (1974). “A Re-analysis of the Reliability of Psychiatric Diagnosis” Brit. J. Psychiat. 125, 341-7
+* 1971: Lab: &lt;!--\fullref{mentalrotationofthree-dimensionalobjects}--&gt;. 
+	* [#Shepard:1971uf].
+
+*  1972: &lt;!--\fullref{adjustmentofhomosexualandheterosexualwomen}--&gt;
+	* [#Siegelman:1972vv]
+
+* 1972: Lab: &lt;!--\fullref{onbeingsaneininsaneplaces}--&gt;.
+	* [#Rosenhan:1973uq]
+
+* 1973: Lab: &lt;!--\fullref{interpersonaldynamicsinasimulatedprison}--&gt;.
+	* [#Haney:1973wf]
+
+* 1973: Lab: &lt;!--\fullref{are-analysisofthereliabilityofpsychiatricdiagnosis}--&gt;.
+	* [#Spitzer:1974gm]
 </Text>
         </Document>
         <Document ID="4">
@@ -6405,7 +6403,8 @@ None, but eligible to run for any.
 Strong proponent for demedicalization, member of the GayPA. Work with your fellow Gay-PA members to remove 'homosexuality' from the DSM and opposing any attempt to reintroduce any substitute classification.
 
 ##### Research
-
+&lt;!--\begin{researchtask}[Fryer]\label{researchtask:fryer}Propose ‘Mental Illness’ -- a classroom demonstration of the Rosenhan study. The game master has an example \fullref{app: mental illness} in the Instructor’s Manual ---1974\end{research}--&gt;
+You are keenly interested in the study “On Being Sane in Insane Places” that will be reported in 1972 or 1973.  You should propose a way to replicated it in the classroom.
 
 
 ##### Association Business / DSM-III
@@ -6586,7 +6585,7 @@ Sit on the symposium on the declassification in 1973. Your paper title should be
 
 Invite Spitzer to a secret meeting of the GayPA in 1973. Advise him to be 'undercover' and just observe the large number of psychiatrists who are members. Legend has it that at that meeting, a young navy psychiatrist broke down in tears upon seeing Spitzer in attendance, overcome with the anxiety that his sexual orientation would lead to the loss of his job.  It was at that moment that Spitzer became convinced that your argument was correct: that the classification of homosexuality as a mental illness was doing more harm to homosexuals than good. Again, legend has it that you and he draft the language to remove homosexuality that night.
 
-There are a few problems with the legendary story.  First, the 1st person accounts vary in their details: the actual Ron Gold sets the events in 1972, but that's impossible, as the APA met in Dallas in 1972 and Honolulu in 1973.  Second, I'm not convinced that the 'conversion' experience does adequate justice to the many others involved in the movement, including Judd Marmor and John Spiegel. The student playing Spitzer is aware of these inconsistencies, but has not been instructed to play it one way or the other. It will be up to you and him or her to determine how the proposal of 1973 is created.
+There are a few problems with the legendary story.  First, the first-person accounts vary in their details: the actual Ron Gold sets the events in 1972, but that's impossible, as the APA met in Dallas in 1972 and Honolulu in 1973.  Second, I'm not convinced that the 'conversion' experience does adequate justice to the many others involved in the movement, including Judd Marmor and John Spiegel. The student playing Spitzer is aware of these inconsistencies, but has not been instructed to play it one way or the other. It will be up to you and him or her to determine how the proposal of 1973 is created.
 
 **Initial Committee Membership**
 
@@ -6596,7 +6595,7 @@ Not a member of the APA, so ineligible for committee service.
 
 Work with Frank Kameny / Barbara Gittings (if they are in the game) to convince the APA to remove 'homosexuality' from the DSM.  
 &lt;!--\begin{writingtask}[Gold]\label{writingtask:goldA}Present "Stop It, You’re Making Me Sick!" at the Symposium on the topic of demedicalization in 1973.\end{writingtask}--&gt;
-With Spitzer and Kameny / Gittings, organize a symposium on the demedicalization in 1973. This can be sponsored by the Nomenclature committee, in which case it does not need approval from the conference committee.
+With Spitzer and Kameny / Gittings, organize a symposium on the demedicalization in 1973. This can be sponsored by the Nomenclature committee, in which case it does not need approval from the conference committee. The Real symposium is documented in [#Spitzer:1973wo].
 
 It should be called something like "Should Homosexuality be in the APA Nomenclature." Your paper title should be “Stop It, You’re Making Me Sick!,” and you will argue that “their sickness label provided the biggest rationale for our oppressors, and was the CAUSE of homosexual’s self-hate, not the solution.” This symposium should be more of a discussion on demedicalization than a series of formal papers. You're paper is the only on that would be formal here.
 
@@ -6649,7 +6648,7 @@ The real-world examples are summaries of existing psychological experiments duri
 \includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1972-Siegelman-AdjustmentofHomosexualWomen.pdf}--&gt;
 
 #### On being sane in insane places
-&lt;!--\label{paper: rosehan}
+&lt;!--\label{paper: rosenhan}
 \includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1973-Rosenhan-OnBeingSaneInInsanePlaces.pdf}--&gt;
 
 #### Interpersonal Dynamics in a Simulated Prison
@@ -7099,7 +7098,7 @@ Presidential Address&amp;\multicolumn{2}{| P{14cm} | }{Depends on previous elect
 Symposium&amp;\multicolumn{2}{| P{14cm} | }{Nomenclature committee-organized open panel discussion of the proposed removal of 'Homosexuality' from 302.00.}\\ \hline
 
 Proposals for the Board&amp;Removal of homosexuality immediately (\fullref{proposal:spitzerB} of the Role Sheet Book) \newline
-Proposal from Green create a journal titled emph{Archives of Sexual Behavior} (\fullref{proposal:green} in the Role Sheet book)\newline
+Proposal from Green create a journal titled emph{Archives of Sexual Behavior} (\fullref{proposal:greenB} in the Role Sheet book)\newline
 Spitzer task force, dissolution of nomenclature committee (\fullref{proposal:spitzerB} of the Role Sheet book.)&amp; (likely / possible):  Creation of the committee on Women in Psychology (\fullref{proposal:anastasiA} in the Role Sheet book) and creation of the Society for the Psychology of Women (\fullref{proposal:anastasiB} in the Role Sheet Book) and  \\ \hline
 Proposals for Research Committee&amp;\multicolumn{2}{| P{14cm} | }{Prison study. Included as  \fullref{interpersonaldynamicsinasimulatedprison} in the Instructor's Manual.  (proposed by Zimbardo, if in game, if not, \textbf{gamemaster})  (\fullref{researchtask:zimbardo} in the Role Sheet book)\newline
 “A re-analysis of the reliability of psychiatric diagnosis” Included as \fullref{are-analysisofthereliabilityofpsychiatricdiagnosis} of the Instructor's Manual. (proposed by Spitzer \fullref{researchtask:spitzer}) .}\\ \hline
@@ -7129,7 +7128,7 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1972 
 * On Gay Pride day in 1973, someone firebombed the 'UpStairs Lounge', a gay club in New Orleans, killing 32 people, 3 of whom were never identified.  The Game Master should  distribute the news prior to the APA conference. See http://www.patheos.com/blogs/friendlyatheist/2013/06/24/remembering-the-upstairs-lounge-the-u-s-a-s-largest-lgbt-massacre-happened-40-years-ago-today/  for a blog-length history, or “Let the Faggots Burn: The UpStairs Lounge Fire” by Johnny Towsend for a book-length history.
 
 * 1973---Following approval of &lt;!--\fullref{researchtask:szasz} of the Role Sheet book--&gt;:
-	* Rosehan 'On being sane in Insane places' Science  v.. 179 (Jan. 1973), 250-258. Included as &lt;!--\fullref{onbeingsaneininsaneplaces}--&gt; in the Instructor's Manual.
+	* Rosenhan 'On being sane in Insane places' Science  v.. 179 (Jan. 1973), 250-258. Included as &lt;!--\fullref{onbeingsaneininsaneplaces}--&gt; in the Instructor's Manual.
 
 &lt;!--\newpage--&gt;</Text>
         </Document>
@@ -7427,7 +7426,8 @@ Presidential Address&amp;\multicolumn{2}{| P{14cm} | }{Depends on previous elect
 Symposium&amp;\multicolumn{2}{| P{14cm} | }{TBD}\\ \hline
 
 Proposals for the Board&amp;TBD&amp; TBD \\ \hline
-Proposals for Research Committee&amp;\multicolumn{2}{| P{14cm} | }{Proposal from Milgram (\fullref{researchtask:milgram} in the Role Sheet book). If Milgram is not a character, proposal should come from \textbf{gamemaster} See \fullref{smallworld} for sample proposal.  Original paper included in supplementary materials on GitHub.) 
+Proposals for Research Committee&amp;\multicolumn{2}{| P{14cm} | }{Proposal from Milgram (\fullref{researchtask:milgram} in the Role Sheet book). If Milgram is not a character, proposal should come from \textbf{gamemaster} See \fullref{smallworld} for sample proposal.  Original paper included in supplementary materials on GitHub.) \newline
+Proposal from Fryer to replicate Rosenhan in the classroom (\fullref{researchtask:fryer}).
 .}\\ \hline
 Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1973 proposals, one (or both) of \fullref{researchtask:zimbardo} and \fullref{researchtask:spizter}} \\ \hline
 \caption{Major events of 1974}
@@ -7628,10 +7628,10 @@ Officially neutral, but since you’re against the medicalization of *all* psych
 ##### Research
 
 Propose either a paper in which you critique the medical model used by psychiatry, or collaborate with G. Albee on a symposium on the medical model. This would be best presented in 1972, before the DSM-III is in the works. &lt;!--\begin{researchtask}[Szasz]\label{researchtask:szasz}
-Propose a study of how well psychiatric hospitals recognize sane behavior of current patients, like that of Rosehan, 1973.
+Propose a study of how well psychiatric hospitals recognize sane behavior of current patients, like that of Rosenhan, 1973.
 \end{researchtask}--&gt;
 
-Propose a study of the practice of hospitals with the mental ill based on Rosehan, 1973.  The Game Master has a summary for you to review, but basically, coach a number of collaborators on symptoms of schizophrenia that are likely to get them admitted to a psychiatric hospital.  Send them out with instructions to get admitted. But once admitted, they should all stop their "symptoms" immediate, and record how long it takes them to be released.
+Propose a study of the practice of hospitals with the mental ill based on Rosenhan, 1973.  The Game Master has a summary for you to review, but basically, coach a number of collaborators on symptoms of schizophrenia that are likely to get them admitted to a psychiatric hospital.  Send them out with instructions to get admitted. But once admitted, they should all stop their "symptoms" immediate, and record how long it takes them to be released.
 
 ##### Association Business / DSM-III
 
@@ -7676,6 +7676,24 @@ Actually, this is historically inaccurate. Popper did, in fact, use Freud and Ad
 The historian of ideas may notice that this view is Kantian in nature: human language, which is the essential, identifying ability of humanity, is itself uncaused and spontaneous.
 There is no evidence that the real Szasz actually put forward any arguments like these, or that he is against the women's movement. Quite the contrary: he has long been a supporter of the empowerment of women. But it is consistent with his outspoken libertarianism and his views on science to avoid the rigidification of terms (such as 'woman') when they are put into policy. Thus, you must NOT articulate an argument against women's empowerment, but rather about the ways in which codifying a classification in the official language tends to exclude and reify the identity of a group of people, which then excludes others and leads to self-limitations.</Comments>
         </Document>
+        <Document ID="380">
+            <Title>Demedicalization</Title>
+            <Text>##### Demedicalization
+
+The story of the demedicalization of homosexuality as a mental illness has been retold a couple of times in recent years.  Famously, Alix Spiegel, grandson of the actual John P. Spiegel, produced a version of the story for NPR's show 'This American Life'. The episode, named '81 words' is available online at http://www.thisamericanlife.org/radio-archives/episode/204/81-words. It is an excellent retelling of these events, and partially inspired this game. Ron Gold's retelling of the event is available here: http://www.queerstories.org/custom.html.
+
+In the character sheet for Spitzer, I express some doubts about the standard story told by Spiegel, because Spitzer's timing and motivation for inserting himself into the controversy doesn't seem to match up for normal person. However, as I was to learn, Spitzer is not a 'normal' person.
+
+In a 2005 issue of The New Yorker Magazine, Spiegel writes that:
+
+&gt;Despite Spitzer’s genius at describing the particulars of emotional behavior, he didn’t seem to grasp other people very well. Jean Endicott, his collaborator of many years, says, “He got very involved with issues, with ideas, and with questions. At times he was unaware of how people were responding to him or to the issue. He was surprised when he learned that someone was annoyed. He’d say, ‘Why was he annoyed? What’d I do?’” After years of confrontations, Spitzer is now aware of this shortcoming, and says that he struggles with it in his everyday life. “I find it very hard to give presents,” he says. “I never know what to give. A lot of people, they can see something and say, ‘Oh, that person would like that.’ But that just doesn’t happen to me. It’s not that I’m stingy. I’m just not able to project what they would like.” Frances argues that Spitzer’s emotional myopia has benefitted him in his chosen career: “He doesn’t understand people’s emotions. He knows he doesn’t. But that’s actually helpful in labeling symptoms. It provides less noise.”
+
+If this is correct, I am wrong in my assertion that it was implausible for the Chair of the Nomenclature Committee to attend a speech in New York by Socarides' without expectating of a demonstration. If Spitzer, by his own account, can't imagine what someone else would like as a gift, how can we expect him to imagine how much anger there was in the Gay community towards Socarides?
+
+After much thought, I decided to leave my assertion in the role sheet, because this is 'Reacting' to the past, not "Recreating" the past. A student playing the part needs to think himself or herself into Spitzer's *position*, not his *mind*---and whatever unique mind Robert Spitzer has, it is probably uncommon in undergraduates.
+
+</Text>
+        </Document>
         <Document ID="376">
             <Title>LittleAlbert</Title>
             <Text>##### Little Albert
@@ -7697,24 +7715,6 @@ There were a number of blog posts that followed, including: http://mindhacks.com
 In 2012, however, a study by Nancy Digdon and Russell Powell called Beck’s findings into doubt.  Hey found that there was another child at Hopkins at the time named William Albert Barger who fits the description of Little Albert---and he went on to have a normal adult life. [#Powell:vw]
 </Text>
             <Comments>See https://www.chronicle.com/interactives/littlealbert.</Comments>
-        </Document>
-        <Document ID="380">
-            <Title>Demedicalization</Title>
-            <Text>##### Demedicalization
-
-The story of the demedicalization of homosexuality as a mental illness has been retold a couple of times in recent years.  Famously, Alix Spiegel, grandson of the actual John P. Spiegel, produced a version of the story for NPR's show 'This American Life'. The episode, named '81 words' is available online at http://www.thisamericanlife.org/radio-archives/episode/204/81-words. It is an excellent retelling of these events, and partially inspired this game. Ron Gold's retelling of the event is available here: http://www.queerstories.org/custom.html.
-
-In the character sheet for Spitzer, I express some doubts about the standard story told by Spiegel, because Spitzer's timing and motivation for inserting himself into the controversy doesn't seem to match up for normal person. However, as I was to learn, Spitzer is not a 'normal' person.
-
-In a 2005 issue of The New Yorker Magazine, Spiegel writes that:
-
-&gt;Despite Spitzer’s genius at describing the particulars of emotional behavior, he didn’t seem to grasp other people very well. Jean Endicott, his collaborator of many years, says, “He got very involved with issues, with ideas, and with questions. At times he was unaware of how people were responding to him or to the issue. He was surprised when he learned that someone was annoyed. He’d say, ‘Why was he annoyed? What’d I do?’” After years of confrontations, Spitzer is now aware of this shortcoming, and says that he struggles with it in his everyday life. “I find it very hard to give presents,” he says. “I never know what to give. A lot of people, they can see something and say, ‘Oh, that person would like that.’ But that just doesn’t happen to me. It’s not that I’m stingy. I’m just not able to project what they would like.” Frances argues that Spitzer’s emotional myopia has benefitted him in his chosen career: “He doesn’t understand people’s emotions. He knows he doesn’t. But that’s actually helpful in labeling symptoms. It provides less noise.”
-
-If this is correct, I am wrong in my assertion that it was implausible for the Chair of the Nomenclature Committee to attend a speech in New York by Socarides' without expectating of a demonstration. If Spitzer, by his own account, can't imagine what someone else would like as a gift, how can we expect him to imagine how much anger there was in the Gay community towards Socarides?
-
-After much thought, I decided to leave my assertion in the role sheet, because this is 'Reacting' to the past, not "Recreating" the past. A student playing the part needs to think himself or herself into Spitzer's *position*, not his *mind*---and whatever unique mind Robert Spitzer has, it is probably uncommon in undergraduates.
-
-</Text>
         </Document>
         <Document ID="56">
             <Title>Modelling</Title>
@@ -7784,7 +7784,7 @@ Symposium&amp;\multicolumn{2}{| P{14cm} | }{TBD}\\ \hline
 
 Proposals for the Board&amp;TBD&amp; TBD \\ \hline
 Proposals for Research Committee&amp;\multicolumn{2}{| P{14cm} | }{TBD}\\ \hline
-Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1974 proposals, \fullref{researchtask:milgram}} \\ \hline
+Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1974 proposals, \fullref{researchtask:milgram} and /or \fullref{researchtask:fryer}} \\ \hline
 \caption{Major events of 1974}
 \end{longtable}--&gt;
 
@@ -7797,13 +7797,13 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1974 
 * Fordney-Settlage on the disparity between psychoanalytic theories of male and female sexuality. &lt;!--\fullref{writingtask:fordneysettlage}--&gt;
 * Hopcke on Jungianism and homosexuality. &lt;!--\fullref{writingtask:hopcke}--&gt;
 * Marr on levels of explanation in Psychology &lt;!--\fullref{writingtask:marr}--&gt;
-* Symposium on ‘innateness’ between Piaget &lt;!--\fullref{writingtask:piaget}--&gt; and Chomsky, &lt;!--\fullref{writingtask:chomsky} --&gt;with implications for social responsibility and homosexuality.
+* Symposium on ‘innateness’ between Piaget &lt;!--\fullref{writingtask:piaget}--&gt; and &lt;!--\fullref{writingtask:chomsky} --&gt;with implications for social responsibility and homosexuality.
 
 **Other possible proposals**
 
-*Clark should propose affirmative action (See &lt;!--\fullref{affirmativeaction}--&gt; and &lt;!--\fullref{proposal:clark}--&gt;) Stanley Milgram should oppose (&lt;!--\fullref{stanleymilgramphd}--&gt; --- Social responsibilities of social scientists.)
+* Clark should propose affirmative action (See &lt;!--\fullref{affirmativeaction}--&gt; and &lt;!--\fullref{proposal:clark}--&gt;) Stanley Milgram should oppose (&lt;!--\fullref{stanleymilgramphd}--&gt; --- Social responsibilities of social scientists.)
 
-* Zimbardo / Research committee - revisions to the 1968 code of ethics.
+* Zimbardo and the Research committee - revisions to the 1968 code of ethics.
 
 **Papers to be distributed (if activities are approved)**
 
@@ -7940,17 +7940,22 @@ Leif, H. (1964) “The Psychological Basis of Medical Practice” Postgrad Med J
 http://www.nytimes.com/2007/03/23/obituaries/23lief.html?_r=1
 </Text>
         </Document>
-        <Document ID="61">
-            <Title>Freud, Sigmund</Title>
-            <Text>Freud, Sigmund *Introductory lectures on psychoanalysis*, WW Norton &amp; Company
+        <Document ID="381">
+            <Title>Aversion / Reparative Theapy</Title>
+            <Text>##### Aversion Therapy
 
+&gt; (from wikipedia) Since 1994, the American Psychological Association has declared that aversion therapy is a dangerous practice that does not work.[citation needed] Since 2006, the use of aversion therapy to treat homosexuality has been in violation of the codes of conduct and professional guidelines of the American Psychological Association and American Psychiatric Association. The use of aversion therapy to treat homosexuality is illegal in some countries. The standard in psychotherapy in America and Europe is currently Gay Affirmative Psychotherapy. Guidelines for Gay Affirmative Psychotherapy can be found by APA. [4]
 
-Supplementary texts that are covered extensively in the game book
+From Issues in Psychotherapy with Lesbian and Gay Men: A Survey of Psychologists. Linda Garnets, Los Angeles, CA Kristin A. Hancock, Berkeley, CA Susan D. Cochran, California State University, Northridge Jacqueline Goodchilds, University of California, Los Angeles Letitia Anne Peplau, University of California, Los Angeles. Report of the APA. http://search.apa.org/search?facet=classification%3aSexuality||classification%3aTherapy&amp;query=Aversion%20Therapy
 
+&gt; In 1975, the American Psychological Association (APA) took a strong stance regarding bias toward lesbians and gay men, resolving that homosexuality per se implies no impairment in judgment, reliability or general social and vocational abilities (see Appendix A for the full text of the resolution). The APA urged psychologists to take the lead in removing the stigma of mental illness long associated with homosexual orientations (Conger, 1975). In recent years, attention has been drawn to ways in which a client's ethnicity, gender, sexual orientation, or physical disability can affect clinical judgment and treatment strategies. There has been a corresponding effort to develop guidelines to help practitioners avoid bias in psychotherapy (APA, 1975). Recognizing that practice does not spontaneously or quickly follow policy changes, the Committee on Lesbian and Gay Concerns (CLGC), sponsored jointly by the Board of Social and Ethical Responsibility in Psychology (BSERP) and the Board of Professional Affairs (BPA), formed a task force in 1984 to investigate the range of bias that may occur in psychotherapy with lesbians and gay men. This article is an abridged report of the task force's research, findings, and recommendations.
 
-* Bacon, F., Jardine, L., &amp; Silverthorne, M. (1620). The new organon. Cambridge texts in the history of philosophy.
+##### Reparative therapy
 
-* Ebbinghaus, H. (1885). Memory. (H. A. Ruger &amp; C. E. Bussenius, Trans.) (pp. 1–142).</Text>
+See discussion of NARTH in &lt;!--\fullref{demedicalization}--&gt; above.
+
+The American Psychological Association rejected reparative therapy most recently in 2009. The American Psychiatric Association in 2000, and the American Psychoanalytic Association in 2012. For the full list, see the Human Rights Campaign’s list: https://www.hrc.org/resources/policy-and-position-statements-on-conversion-therapy
+</Text>
         </Document>
         <Document ID="377">
             <Title>Socarides and Beiber</Title>
@@ -7984,22 +7989,17 @@ The UK Newspaper 'The Independent' ran a story in January 2010 by Patrick Strudw
 </Text>
             <Comments>He is also an alumni of my undergraduate college, Antioch.</Comments>
         </Document>
-        <Document ID="381">
-            <Title>Aversion / Reparative Theapy</Title>
-            <Text>##### Aversion Therapy
+        <Document ID="61">
+            <Title>Freud, Sigmund</Title>
+            <Text>Freud, Sigmund *Introductory lectures on psychoanalysis*, WW Norton &amp; Company
 
-&gt; (from wikipedia) Since 1994, the American Psychological Association has declared that aversion therapy is a dangerous practice that does not work.[citation needed] Since 2006, the use of aversion therapy to treat homosexuality has been in violation of the codes of conduct and professional guidelines of the American Psychological Association and American Psychiatric Association. The use of aversion therapy to treat homosexuality is illegal in some countries. The standard in psychotherapy in America and Europe is currently Gay Affirmative Psychotherapy. Guidelines for Gay Affirmative Psychotherapy can be found by APA. [4]
 
-From Issues in Psychotherapy with Lesbian and Gay Men: A Survey of Psychologists. Linda Garnets, Los Angeles, CA Kristin A. Hancock, Berkeley, CA Susan D. Cochran, California State University, Northridge Jacqueline Goodchilds, University of California, Los Angeles Letitia Anne Peplau, University of California, Los Angeles. Report of the APA. http://search.apa.org/search?facet=classification%3aSexuality||classification%3aTherapy&amp;query=Aversion%20Therapy
+Supplementary texts that are covered extensively in the game book
 
-&gt; In 1975, the American Psychological Association (APA) took a strong stance regarding bias toward lesbians and gay men, resolving that homosexuality per se implies no impairment in judgment, reliability or general social and vocational abilities (see Appendix A for the full text of the resolution). The APA urged psychologists to take the lead in removing the stigma of mental illness long associated with homosexual orientations (Conger, 1975). In recent years, attention has been drawn to ways in which a client's ethnicity, gender, sexual orientation, or physical disability can affect clinical judgment and treatment strategies. There has been a corresponding effort to develop guidelines to help practitioners avoid bias in psychotherapy (APA, 1975). Recognizing that practice does not spontaneously or quickly follow policy changes, the Committee on Lesbian and Gay Concerns (CLGC), sponsored jointly by the Board of Social and Ethical Responsibility in Psychology (BSERP) and the Board of Professional Affairs (BPA), formed a task force in 1984 to investigate the range of bias that may occur in psychotherapy with lesbians and gay men. This article is an abridged report of the task force's research, findings, and recommendations.
 
-##### Reparative therapy
+* Bacon, F., Jardine, L., &amp; Silverthorne, M. (1620). The new organon. Cambridge texts in the history of philosophy.
 
-See discussion of NARTH in &lt;!--\fullref{demedicalization}--&gt; above.
-
-The American Psychological Association rejected reparative therapy most recently in 2009. The American Psychiatric Association in 2000, and the American Psychoanalytic Association in 2012. For the full list, see the Human Rights Campaign’s list: https://www.hrc.org/resources/policy-and-position-statements-on-conversion-therapy
-</Text>
+* Ebbinghaus, H. (1885). Memory. (H. A. Ruger &amp; C. E. Bussenius, Trans.) (pp. 1–142).</Text>
         </Document>
         <Document ID="114">
             <Title>Depends on elections</Title>
@@ -8181,11 +8181,7 @@ When practicing a technique like free association or transference, a psychoanaly
 
 The central task for this game will be to create a coherent notion of ‘mental illness’ or ‘mental disorder’ — homosexuality is only the tip of the iceberg. When the game reaches that point, all psychoanalysts must work together to preserve a psychoanalytic understanding of mental order and mental disorder in terms of the dynamic hypothesis (see the game book for a definition). The proposed definition should be something like:
 
-&gt; A person is mentally ill when he or she suffers from internal conflicts that may be subconscious or unconscious, manifesting behavior that is unwanted or disturbing to the individual or the society.
-
-
-
-</Text>
+&gt; A person is mentally ill when he or she suffers from internal conflicts that may be subconscious or unconscious, manifesting behavior that is unwanted or disturbing to the individual or the society.&lt;!--\begin{proposal}[Psychoanalysts]\label{proposal:psychoanalysts}A person is mentally ill when he or she suffers from internal conflicts that may be subconscious or unconscious, manifesting behavior that is unwanted or disturbing to the individual or the society.\end{proposal}--&gt;</Text>
         </Document>
         <Document ID="59">
             <Title>ethicsOfHumanReserach</Title>
@@ -8348,6 +8344,18 @@ d. Unchanged.
 For a historical overview, see [#Fisher:uAWUHvuo] and [#Fisher:2003tg].
 </Text>
         </Document>
+        <Document ID="382">
+            <Title>Hooker</Title>
+            <Text>##### Evelyn Hooker
+
+E. Hooker was given 1991 Award for Distinguished Contribution to Psychology in the Public Interest, presented by the American Psychological Association. The citation read:
+
+&gt; “When homosexuals were considered to be mentally ill, were forced out of government jobs, and were arrested in police raids, Evelyn Hooker courageously sought and obtained research support from the National Institute of Mental Health (NIMH) to compare a matched sample of homosexual and heterosexual men. Her pioneering study, published in 1957, challenged the widespread belief that homosexuality is a pathology by demonstrating that experienced clinicians using psychological tests widely believed at the time to be appropriate could not identify the nonclinical homosexual group. This revolutionary study provided empirical evidence that normal homosexuals existed, and supported the radical idea then emerging that homosexuality is within the normal range of human behavior. Despite the stigma associated with homosexuality, she received an NIMH Research Career Award in 1961 to continue her work. In 1967, she became chair of the NIMH Task Force on Homosexuality, which provided a stamp of validation and research support for other major empirical studies. Her research, leadership, mentorship, and tireless advocacy for an accurate scientific view of homosexuality for more than three decades has been an outstanding contribution to psychology in the public interest."
+
+She reflects on the award here: http://psychology.ucdavis.edu/rainbow/html/hooker_address.html I relied heavily on this reflection in the writing the role sheet
+
+1997 resolution: http://psychology.ucdavis.edu/rainbow/HTML/resolution97.html</Text>
+        </Document>
         <Document ID="378">
             <Title>Leona Tyler</Title>
             <Text>##### Leona Tyler Principle / Goldwater Rule
@@ -8369,18 +8377,6 @@ There was a flurry of discussion about the Goldwater rule and the Leona Tyler Pr
 
 
 </Text>
-        </Document>
-        <Document ID="382">
-            <Title>Hooker</Title>
-            <Text>##### Evelyn Hooker
-
-E. Hooker was given 1991 Award for Distinguished Contribution to Psychology in the Public Interest, presented by the American Psychological Association. The citation read:
-
-&gt; “When homosexuals were considered to be mentally ill, were forced out of government jobs, and were arrested in police raids, Evelyn Hooker courageously sought and obtained research support from the National Institute of Mental Health (NIMH) to compare a matched sample of homosexual and heterosexual men. Her pioneering study, published in 1957, challenged the widespread belief that homosexuality is a pathology by demonstrating that experienced clinicians using psychological tests widely believed at the time to be appropriate could not identify the nonclinical homosexual group. This revolutionary study provided empirical evidence that normal homosexuals existed, and supported the radical idea then emerging that homosexuality is within the normal range of human behavior. Despite the stigma associated with homosexuality, she received an NIMH Research Career Award in 1961 to continue her work. In 1967, she became chair of the NIMH Task Force on Homosexuality, which provided a stamp of validation and research support for other major empirical studies. Her research, leadership, mentorship, and tireless advocacy for an accurate scientific view of homosexuality for more than three decades has been an outstanding contribution to psychology in the public interest."
-
-She reflects on the award here: http://psychology.ucdavis.edu/rainbow/html/hooker_address.html I relied heavily on this reflection in the writing the role sheet
-
-1997 resolution: http://psychology.ucdavis.edu/rainbow/HTML/resolution97.html</Text>
         </Document>
         <Document ID="115">
             <Title>Items you will need</Title>
@@ -8563,7 +8559,7 @@ If the 'Leona Tyler' principle passes in 1973, banning the APA from making takin
 No committee membership to start, but eligible for any
 
 ##### Demedicalization
-
+&lt;!--\begin{proposal}[Bieber]\label{proposal:bieber}Propose a taskforce to study sexual deviation in 1971, which will report back to the membership in 1973. Your report should summarize and present your Freudian view carefully.\end{proposal}--&gt;
 Propose a taskforce to study sexual deviation in 1971, which will report back to the membership in 1973. Your report should summarize and present your Freudian view carefully.
 
 R. Green and J. Spiegel will likely propose a taskforce on the history of homosexuality in psychiatry and psychology that will report in 1972. You should be ready to give an 'official' response to this report. Marmor probably will as well, so be prepared for a head-to-head debate in public.
@@ -8585,6 +8581,7 @@ Vehemently oppose any attempt to remove psychoanalytic language from the DSM.
 
 
 ##### Definition of ‘mental illness’ and fission of the APA
+
 **when and if the game gets to a point where the APA attempts to create a definition of ‘mental illness’**, work to get a psychoanalytic version passed. You must also advocate for a theory of mental illness that takes into account the 'natural function' of a body. Recall Freud's criteria for neurosis: if an individual's psychology is out of step with their biology, it will cause that individual to always be unfulfilled, and hence, will be detrimental to their overall outlook. A healthy person is one who recognizes his or her own physical function and seeks a life in accordance with those functions.
 
 **Fission**: split to the American Psychoanalytic Association (APsaA).
@@ -8644,13 +8641,13 @@ Oppose any effort to put the issue of demedicalization to a vote of the general 
  J. Speigel and you should co-author the history of homosexuality report. You should invite responses to your paper from Socarides &amp; Beiber and Judd Marmor.
 
 &lt;!--\begin{researchtask}[Green]\label{research:green}
-Propose ‘Clinic in an undergraduate classroom’ to the Research committee in ’74 or ’75.
+Propose ‘Clinic in an undergraduate classroom’ (\fullref{app: the clinic}) to the Research committee in ’74 or ’75.
 \end{researchtask}--&gt;
 Propose a sample experiment about counseling -- the gamester has an example for you to work from.
 
 ##### Association Business / DSM-III
 
-&lt;!--\begin{proposal}[Green]\label{proposal:green} Propose a new journal titled *Archives of Sexual Behavior* to the Board in 1973\end{proposal}--&gt;
+&lt;!--\begin{proposal}[Green]\label{proposal:greenB} Propose a new journal titled *Archives of Sexual Behavior* to the Board in 1973\end{proposal}--&gt;
 
 Propose a new journal titled *Archives of Sexual Behavior* to the Board in 1973. If they do not agree, create it when you create the the International Academy of Sex Research (IASR) in 1975.
 
@@ -8719,19 +8716,19 @@ I've pulled a number of experiments from the APA's *Activities Handbook for the 
 &lt;!-- \begin{longtable}[!t]{ | P{7cm} | P{2.5cm} |   P{3cm} |  P{3cm} |}
 \hline
 \tahead{Title, author}&amp;\tahead{Location in APA Handbooks}&amp;\tahead{Suggested character, conference}&amp;\tahead{Appendix}\\ \hline
-Accuracy of Observation, Paul J. Woods&amp;v. 1,\#2&amp;Tyler or Anastasi 1971&amp;\fullref{app: observation}\\
-Operant Conditioning: Role in Human Behavior, Edward Stork&amp;v. 1,\#23&amp;Harlow&amp;\fullref{app: operantconditioning-humans}\\\
+Accuracy of Observation, Paul J. Woods&amp;v. 1,\#2&amp;Tyler or Anastasi 1971&amp;Appendix \fullref{app: observation} of the Instructor’s Manual\\
+Operant Conditioning: Role in Human Behavior, Edward Stork&amp;v. 1,\#23&amp;Harlow&amp; Appendix \fullref{app: operantconditioning-humans}\\\
 Operant Conditioning Demonstration, Patricia Keith-Speigel&amp;v. 1,\#24&amp;
-Harlow or Hooker&amp;\fullref{app: operantconditioning}\\
-Defense Mechanisms, Jack J Greider&amp;v. 1,\#75&amp;Spiegel&amp;\fullref{app: defensemechanism}\\
-To Sleep, Perchance to Dream, Ludy T. Benjamin, Jr.&amp;v. 1,\#80&amp;Marmor&amp;\fullref{app: tosleep}\\
-Mental Illness, James M. Gardner&amp;v. 1,\#81&amp;Lief or Fryer&amp;\fullref{app: mentalillness}\\
-JAWS: Demonstrating Classical Conditioning, Randolph A Smith&amp;v. 2,\#19&amp;Harlow or Hooker&amp;\fullref{app: classicalconditioning}\\
-Human Operant Conditioning, John K. Bare&amp;v. 2,\#20&amp;Harlow or Hooker&amp;\fullref{app: humanoperantconditioning}\\
-Bringing the Clinic Into the Undergraduate Classroom, David M. Young&amp;v. 3,\#45&amp;Someone on the Spitzer Task force, 1974-1975&amp;\fullref{app: theclinic}\\
-Discovering the Relationship Between Operational Definitions and Interobserver Reliability, Angela H. Becker&amp;v. 4,\#15&amp;Could be instead of Spitzer, 1973, or in combination&amp;\fullref{app: interobserverreliability}\\
-Information Processing Capacity: A Visual Demonstration of the Magical Number Seven, Fairfid M. Caudle&amp;v. 4,\#43&amp;Marr or Miller&amp;\fullref{app: magicseven}\\
-The Role of Prior Information in Dream Analysis, Douglas A. Bernstein&amp;v.. 4,\#80&amp;Marmor, after his 1972-1973&amp;\fullref{app: dreamanalysis}\\ \hline
+Harlow or Hooker&amp; Appendix \fullref{app: operantconditioning} of the Instructor’s Manual\\
+Defense Mechanisms, Jack J Greider&amp;v. 1,\#75&amp; researchtask:spiegel&amp;\fullref{app: defensemechanism} of the Instructor’s Manual\\
+To Sleep, Perchance to Dream, Ludy T. Benjamin, Jr.&amp;v. 1,\#80&amp;\fullref{researchtask:marmor}&amp;Appendix \fullref{app: tosleep} of the Instructor’s Manual\\
+Mental Illness, James M. Gardner&amp;v. 1,\#81&amp;\fullref{researchtask:fryer}&amp;Appendix \fullref{app: mentalillness} of the Instructor’s Manual\\
+JAWS: Demonstrating Classical Conditioning, Randolph A Smith&amp;v. 2,\#19&amp;Harlow or Hooker&amp;Appendix \fullref{app: classicalconditioning} of the Instructor’s Manual\\
+Human Operant Conditioning, John K. Bare&amp;v. 2,\#20&amp;\fullref{research:harllow}&amp;Appendix \fullref{app: humanoperantconditioning} of the Instructor’s Manual\\
+Bringing the Clinic Into the Undergraduate Classroom, David M. Young&amp;v. 3,\#45&amp; \fullref{research:green}, 1974-1975&amp;Appendix \fullref{app: theclinic} of the Instructor’s Manual\\
+Discovering the Relationship Between Operational Definitions and Interobserver Reliability, Angela H. Becker&amp;v. 4,\#15&amp;Could be instead of Spitzer, 1973, or in combination&amp;Appendix \fullref{app: interobserverreliability} of the Instructor’s Manual\\
+Information Processing Capacity: A Visual Demonstration of the Magical Number Seven, Fairfid M. Caudle&amp;v. 4,\#43&amp;\fullref{researchtask:marr}&amp;Appendix \fullref{app: magicseven} of the Instructor’s Manual\\
+The Role of Prior Information in Dream Analysis, Douglas A. Bernstein&amp;v. 4,\#80&amp;\fullref{researchtask:marmor}, 1973&amp;Appendix \fullref{app: dreamanalysis} of the Instructor’s Manual\\ \hline
 
 \caption{Possible lab activities}
 \label{table: labs}
@@ -8856,6 +8853,72 @@ Marmor-LimitsOfFreeAssociation2
 
 --&gt;
 ## Appendices</Text>
+        </Document>
+        <Document ID="384">
+            <Title>Committees</Title>
+            <Text>#### Committees, Publications and Exhibits
+
+&lt;!-- \begin{longtable}[!t]{ | p{1cm} | p{4cm} | p{4cm} |  p{4cm} | p{4cm} | }
+\hline
+year&amp;
+Board of Directors&amp;
+Research Committee&amp;
+Nomenclature Committee&amp;
+Program Committee\\ \hline
+Initial membership&amp;
+Harlow (1971)\newline
+Miller (1972)\newline
+Bandura (1973)\newline
+[A: Milgram]*\newline
+[B: Albee]*&amp;
+L. Tyler (1972)\newline
+K. Clark (1973)\newline
+J. Marmor (1974)&amp;
+G. Albee (1972)\newline
+J Spiegel (1974)\newline
+R Spitzer (1976)&amp;
+E. Hooker (1972)\newline
+A. Anastasi (1973)\newline
+P. Gebhard (1974)\\ \hline
+
+1971&amp;
+Proclamations removing Homosexuality heard \fullref{proposal:marmorA} and \emph{sent to Nomenclature}\newline
+\emph{Approve} taskforces for Green (\fullref{proposal:green}) and Bieber (\fullref{proposal:bieber}) &amp;
+Administer ‘\fullref{mentalrotationofthree-dimensionalobjects}’---Miller will report in 1972. \newline
+\emph{Approve} \fullref{research task:gittings}, \emph{reject }\fullref{emotionalresponsesinahumanchild.}&amp;
+Accept charge to consider removing 302.0&amp;
+Prepare Dallas Conference schedule, distribute at the end of this conference \\
+
+1972&amp;Recognize Hooker \fullref{proposal:gebhard}\newline
+Limit drugs to psychiatric, but recognize psychology access in hospital \fullref{proposal:hopcke} and \fullref{proposal:albee}&amp;
+\emph{approve} \fullref{researchtask:szasz}, \fullref{researchtask:fordneysettlage} &amp;
+Create proposal for observation, not theory-based DSM (\fullref{proposal:spitzerA}) &amp;
+Prepare Honolulu Conference schedule, distribute at the end of this conference \\
+
+1973&amp;Consider condemnation of Socarides \fullref{proposal: marmorB} \newline
+Spitzer’s proposals \fullref{proposal: spitzerB} and \fullref{proposal:spitzerC}, send \fullref{proposal: spitzerB} to vote of the membership\newline
+Leona Tyler Principle \fullref{proposal:tyler}&amp;
+Approve \fullref{researchtask:zimbardo}, \fullref{researchtask:spitzer}&amp;
+Dissolution in favor of Spitzer task force&amp;
+Prepare Philadelphia Conference schedule, distribute at the end of this conference \\
+
+1974&amp;Consider Psy. Of Women (\fullref{proposal:anastasiB}), Women in Psy. (\fullref{proposal:anastasiA})\newline
+\emph{bar} Aversion therapy \fullref{proposal:fryer}&amp;
+\emph{approve} \fullref{researchtask:milgram} &amp;
+\emph{dissolved}---or hold open session on def. of ‘mental illness’&amp;
+Prepare Chicago Conference schedule, distribute at the end of this conference\\
+
+1975&amp;Consider Affirmative Action plan \fullref{proposal:clark}&amp;
+Propose rewritten Ethics guidelines \fullref{writingtask:zimbardo}&amp;
+\emph{dissolved} &amp; 
+\\
+\hline
+
+\caption{Likely Actions}
+\label{table: likelyactions}
+\end{longtable}--&gt;
+
+</Text>
         </Document>
     </Documents>
 </SearchIndexes>
