@@ -133,26 +133,30 @@
 \defcounter {refsection}{2}\relax 
 \contentsline {table}{\numberline {5.13}{Timeline of critical events}}{54}{table.5.13}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.14}{Major Issues for debate}}{58}{table.5.14}
+\contentsline {table}{\numberline {5.14}{Major Issues for debate}}{59}{table.5.14}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.15}{Core text reading list}}{60}{table.5.15}
+\contentsline {table}{\numberline {5.15}{Core text reading list}}{61}{table.5.15}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.16}{Overview of specific assignments, by character}}{64}{table.5.16}
+\contentsline {table}{\numberline {5.16}{Overview of specific assignments, by character}}{65}{table.5.16}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.17}{Overview by topic}}{65}{table.5.17}
+\contentsline {table}{\numberline {5.17}{Overview by topic}}{66}{table.5.17}
 \defcounter {refsection}{2}\relax 
 \contentsline {table}{\numberline {5.18}{Elections to be held each year}}{66}{table.5.18}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.19}{Likely Actions}}{66}{table.5.19}
+\contentsline {table}{\numberline {5.19}{Likely Actions}}{67}{table.5.19}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.20}{Possible lab activities}}{68}{table.5.20}
+\contentsline {table}{\numberline {5.20}{Possible lab activities}}{70}{table.5.20}
 \defcounter {refsection}{2}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {6.1}{Real APA (psychological) Presidents}}{87}{table.6.1}
+\contentsline {table}{\numberline {6.1}{Real APA (psychological) Presidents}}{89}{table.6.1}
 \defcounter {refsection}{2}\relax 
 \addvspace {10\p@ }
 \ttl@stoptoc {instructors@1}
+\defcounter {refsection}{3}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{3}\relax 
+\addvspace {10\p@ }
 \defcounter {refsection}{3}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{3}\relax 
