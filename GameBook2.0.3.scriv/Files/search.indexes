@@ -340,6 +340,10 @@ Grinker, R. &amp; Spiegel, J. P. (1945) Men Under Stress American Psychological 
 </Text>
             <Comments>Richard Green's actual paper of the same title was published in 1972 (see 'Must Read').</Comments>
         </Document>
+        <Document ID="386">
+            <Title>WorksCited</Title>
+            <Text>&lt;!--\printbibliography[heading=subbibliography]--&gt;</Text>
+        </Document>
         <Document ID="171">
             <Title>EHooker-bio</Title>
             <Text>## Evelyn Hooker, PhD
@@ -3073,7 +3077,7 @@ Note that while these questions overlap, none of them ought to determine any of 
             <Comments>See, e.g. [#Spence:1950fx]. I am indebted to Hothersall for pointing out the ‘switchboard’ metaphor in his explanation of the ‘Neobehaviorism’ of Skinner in his 1984 *History of Psychology* [p. 411][#Hothersall:1984te]</Comments>
         </Document>
         <Document ID="137">
-            <Title>frontMatter</Title>
+            <Title>AppendixFrontMatter</Title>
             <Text>## Instructors Manual Appendices
 
 &lt;!--\begin{appendices}
@@ -3132,6 +3136,7 @@ Game play may take many forms in the classroom. You may be questioning  the Pres
         <Document ID="142">
             <Title>End Instructors manual</Title>
             <Text>&lt;!--\end{appendices}
+
 
 \end{refsection}
 \stoplist[instructors]{lot}% stops main list of tables
@@ -6142,7 +6147,6 @@ In contemporary academic English, the word ‘paradigm’ is used to mean, rough
 \usepackage{tabularx}
 \usepackage{titletoc}
 
-
 \setcounter{secnumdepth}{1}
 %\setsecnumdepth{subsection}
 \setcounter{tocdepth}{3}
@@ -8386,6 +8390,15 @@ There was a flurry of discussion about the Goldwater rule and the Leona Tyler Pr
 
 
 </Text>
+        </Document>
+        <Document ID="63">
+            <Title>Works Cited</Title>
+            <Text>&lt;!--
+\printbibliography[heading=subbibliography]
+\printindex
+
+
+--&gt;</Text>
         </Document>
         <Document ID="115">
             <Title>Items you will need</Title>
