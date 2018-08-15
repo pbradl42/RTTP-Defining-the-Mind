@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="PIC-142B-Desktop" Modified="2018-08-14 11:43:42 -0400" ModID="351A5CA6-3063-4EB3-B91D-3B91B3CF9024">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-3" Modified="2018-08-15 08:42:56 -0400" ModID="71CBEC11-0040-4A03-B7DD-F05CD8D7D3F8">
     <Binder>
         <BinderItem ID="0" UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -1098,14 +1098,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="108" UUID="CF171996-2683-4B43-B554-244DFCAEA467" Type="Text" Created="2014-07-21 03:52:01 -0400" Modified="2018-08-13 10:37:22 -0400">
+                                <BinderItem ID="108" UUID="CF171996-2683-4B43-B554-244DFCAEA467" Type="Text" Created="2014-07-21 03:52:01 -0400" Modified="2018-08-15 08:42:55 -0400">
                                     <Title>Narrative</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>644,0</TextSelection>
+                                        <TextSelection>2488,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem ID="117" UUID="4147FDCD-4966-4DA2-A68F-B6866D977668" Type="Text" Created="2013-07-25 00:09:28 -0400" Modified="2018-08-01 16:17:53 -0400">
@@ -1125,7 +1125,7 @@
                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2090,0</TextSelection>
+                                                <TextSelection>1497,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem ID="110" UUID="2AEF57D4-6D63-4B8F-9684-4740AAD04500" Type="Text" Created="2018-03-02 14:27:57 -0500" Modified="2018-08-13 12:44:51 -0400">
@@ -1301,7 +1301,7 @@
                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1694,0</TextSelection>
+                                                <TextSelection>1627,0</TextSelection>
                                             </TextSettings>
                                             <Children>
                                                 <BinderItem ID="368" UUID="DCCDD828-1CE9-4DD3-894D-F23DD171AFE2" Type="Text" Created="2018-07-31 12:04:37 -0400" Modified="2018-08-13 21:04:00 -0400">
@@ -2910,7 +2910,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <MediaSettings>
-                                <CurrentPDFPage>0</CurrentPDFPage>
+                                <CurrentPDFPage>15</CurrentPDFPage>
                             </MediaSettings>
                             <References>
                                 <Reference BinderID="78">DSMII</Reference>
@@ -4214,7 +4214,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="4" Date="2018-08-14 11:22:59 -0400"></PreviousSession>
+        <PreviousSession Words="228" Characters="1413" Date="2018-08-15 08:33:16 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
     <UserProjectData>
