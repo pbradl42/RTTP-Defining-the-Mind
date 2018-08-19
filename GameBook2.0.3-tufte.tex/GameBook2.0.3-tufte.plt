@@ -29,53 +29,53 @@
 \defcounter {refsection}{1}\relax 
 \contentsline {table}{\numberline {3.3}{Factional Definitions of Mental Illness}}{87}{table.3.3}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {3.4}{Sample call for proposals for APA conference}}{97}{subsubsection*.69}
+\contentsline {table}{\numberline {3.4}{Sample call for proposals for APA conference}}{98}{subsubsection*.69}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {3.5}{Call for Research Grants}}{101}{subsubsection*.86}
+\contentsline {table}{\numberline {3.5}{Call for Research Grants}}{102}{subsubsection*.86}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {3.6}{Outline of game sessions}}{103}{table.3.6}
+\contentsline {table}{\numberline {3.6}{Outline of game sessions}}{104}{table.3.6}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {3.7}{Board of Directors Membership}}{104}{table.3.7}
+\contentsline {table}{\numberline {3.7}{Board of Directors Membership}}{105}{table.3.7}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {3.8}{Terms for Board of Directors members}}{105}{table.3.8}
+\contentsline {table}{\numberline {3.8}{Terms for Board of Directors members}}{106}{table.3.8}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {3.9}{Sample Schedule: Board of Directors}}{107}{Item.32}
+\contentsline {table}{\numberline {3.9}{Sample Schedule: Board of Directors}}{108}{Item.32}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {3.10}{Elections to be held each year}}{112}{table.3.10}
+\contentsline {table}{\numberline {3.10}{Elections to be held each year}}{113}{table.3.10}
 \defcounter {refsection}{1}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.1}{Mechanisms of Representation}}{116}{table.4.1}
+\contentsline {table}{\numberline {4.1}{Mechanisms of Representation}}{118}{table.4.1}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.2}{Abstract from \nobreakspace {}\citep {Rao:2004ku} }}{137}{table.4.2}
+\contentsline {table}{\numberline {4.2}{Abstract from \nobreakspace {}\citep {Rao:2004ku} }}{139}{table.4.2}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.3}{Newton’s Experimentum Crucis}}{141}{Item.62}
+\contentsline {table}{\numberline {4.3}{Newton’s Experimentum Crucis}}{143}{Item.62}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.4}{Affirming the consequent}}{146}{table.4.4}
+\contentsline {table}{\numberline {4.4}{Affirming the consequent}}{148}{table.4.4}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.5}{Modus Tollens / Denying the consequent}}{146}{table.4.5}
+\contentsline {table}{\numberline {4.5}{Modus Tollens / Denying the consequent}}{148}{table.4.5}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.6}{Brown’s first example}}{150}{table.4.6}
+\contentsline {table}{\numberline {4.6}{Brown’s first example}}{152}{table.4.6}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.7}{Brown’s second example}}{150}{table.4.7}
+\contentsline {table}{\numberline {4.7}{Brown’s second example}}{152}{table.4.7}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.8}{Generative Grammar}}{151}{table.4.8}
+\contentsline {table}{\numberline {4.8}{Generative Grammar}}{153}{table.4.8}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.9}{Variables in sample experimental design}}{156}{table.4.9}
+\contentsline {table}{\numberline {4.9}{Variables in sample experimental design}}{158}{table.4.9}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.10}{Nightlights and myopia}}{158}{table.4.10}
+\contentsline {table}{\numberline {4.10}{Nightlights and myopia}}{160}{table.4.10}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.11}{Vasectomy Study}}{161}{table.4.11}
+\contentsline {table}{\numberline {4.11}{Vasectomy Study}}{163}{table.4.11}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.12}{The Nuremberg Code}}{168}{table.4.12}
+\contentsline {table}{\numberline {4.12}{The Nuremberg Code}}{170}{table.4.12}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.13}{The Declaration of Helsinki}}{170}{table.4.13}
+\contentsline {table}{\numberline {4.13}{The Declaration of Helsinki}}{172}{table.4.13}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.14}{APA Ethical Standards: 1959}}{171}{table.4.14}
+\contentsline {table}{\numberline {4.14}{APA Ethical Standards: 1959}}{173}{table.4.14}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.15}{APA Ethical standards 1963}}{172}{table.4.15}
+\contentsline {table}{\numberline {4.15}{APA Ethical standards 1963}}{174}{table.4.15}
 \defcounter {refsection}{1}\relax 
-\contentsline {table}{\numberline {4.16}{APA Ethical standards 1968}}{173}{table.4.16}
+\contentsline {table}{\numberline {4.16}{APA Ethical standards 1968}}{175}{table.4.16}
 \defcounter {refsection}{1}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{1}\relax 
@@ -103,53 +103,65 @@
 \defcounter {refsection}{2}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {4.1}{Proposals for Mental Illness}}{30}{table.4.1}
+\contentsline {table}{\numberline {4.1}{Proposals for Mental Illness}}{31}{table.4.1}
+\defcounter {refsection}{2}\relax 
+\contentsline {table}{\numberline {4.2}{Sample rubric for research reports}}{32}{table.4.2}
+\defcounter {refsection}{2}\relax 
+\contentsline {table}{\numberline {4.3}{Sample rubric for writing papers}}{33}{table.4.3}
+\defcounter {refsection}{2}\relax 
+\contentsline {table}{\numberline {4.4}{Sample rubric for speaking}}{34}{table.4.4}
 \defcounter {refsection}{2}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.1}{Schedule for first conference}}{36}{paragraph*.192}
+\contentsline {table}{\numberline {5.1}{Schedule for first conference}}{39}{paragraph*.194}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.2}{Major events of 1971}}{37}{table.5.2}
+\contentsline {table}{\numberline {5.2}{Major events of 1971}}{41}{table.5.2}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.3}{Possible events of 1972}}{39}{table.5.3}
+\contentsline {table}{\numberline {5.3}{Possible events of 1972}}{44}{table.5.3}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.4}{Major events of 1973}}{41}{table.5.4}
+\contentsline {table}{\numberline {5.4}{Major events of 1973}}{45}{table.5.4}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.5}{Major events of 1974}}{43}{table.5.5}
+\contentsline {table}{\numberline {5.5}{Major events of 1974}}{47}{table.5.5}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.6}{Major events of 1974}}{45}{table.5.6}
+\contentsline {table}{\numberline {5.6}{Major events of 1974}}{49}{table.5.6}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.7}{Leona Tyler Principle (L Tyler, when president)}}{47}{table.5.7}
+\contentsline {table}{\numberline {5.7}{Leona Tyler Principle (L Tyler, when president)}}{51}{table.5.7}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.8}{Position Statement: Hospital Privileges for Psychologists}}{47}{table.5.8}
+\contentsline {table}{\numberline {5.8}{Position Statement: Hospital Privileges for Psychologists}}{51}{table.5.8}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.9}{Position Statement: Affirmative Action}}{48}{table.5.9}
+\contentsline {table}{\numberline {5.9}{Position Statement: Affirmative Action}}{52}{table.5.9}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.10}{Credibility costs for service to the APA}}{50}{table.5.10}
+\contentsline {table}{\numberline {5.10}{\ignorespaces Credibility Points}}{53}{table.5.10}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.11}{Excerpt from APA Guidelines for an Undergraduate Major in Psychology, 2007}}{52}{table.5.11}
+\contentsline {table}{\numberline {5.11}{Credibility costs for service to the APA}}{54}{table.5.11}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.12}{Excerpt from APA Guidelines for an Undergraduate Major in Psychology 2.0, 2013}}{53}{table.5.12}
+\contentsline {table}{\numberline {5.12}{Excerpt from APA Guidelines for an Undergraduate Major in Psychology, 2007}}{56}{table.5.12}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.13}{Timeline of critical events}}{55}{table.5.13}
+\contentsline {table}{\numberline {5.13}{Excerpt from APA Guidelines for an Undergraduate Major in Psychology 2.0, 2013}}{57}{table.5.13}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.14}{Major Issues for debate}}{60}{table.5.14}
+\contentsline {table}{\numberline {5.14}{Timeline of critical events}}{59}{table.5.14}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.15}{Core text reading list}}{62}{table.5.15}
+\contentsline {table}{\numberline {5.15}{Learning Objectives}}{61}{table.5.15}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.16}{Overview of specific assignments, by character}}{66}{table.5.16}
+\contentsline {table}{\numberline {5.16}{Major Issues for debate}}{63}{table.5.16}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.17}{Overview by topic}}{67}{table.5.17}
+\contentsline {table}{\numberline {5.17}{Core text reading list}}{65}{table.5.17}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.18}{Elections to be held each year}}{67}{table.5.18}
+\contentsline {table}{\numberline {5.18}{Overview of reading assignments, by character}}{70}{table.5.18}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.19}{Likely Actions}}{68}{table.5.19}
+\contentsline {table}{\numberline {5.19}{Overview of specific assignments, by character}}{74}{table.5.19}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.20}{Possible lab activities}}{71}{table.5.20}
+\contentsline {table}{\numberline {5.20}{Overview by topic}}{75}{table.5.20}
+\defcounter {refsection}{2}\relax 
+\contentsline {table}{\numberline {5.21}{Elections to be held each year}}{75}{table.5.21}
+\defcounter {refsection}{2}\relax 
+\contentsline {table}{\numberline {5.22}{Likely Actions by Committee}}{77}{table.5.22}
+\defcounter {refsection}{2}\relax 
+\contentsline {table}{\numberline {5.23}{Possible lab activities}}{79}{table.5.23}
 \defcounter {refsection}{2}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {6.1}{Real APA (psychological) Presidents}}{89}{table.6.1}
+\contentsline {table}{\numberline {6.1}{Real APA (psychological) Presidents}}{97}{table.6.1}
 \defcounter {refsection}{2}\relax 
 \addvspace {10\p@ }
 \ttl@stoptoc {instructors@1}
