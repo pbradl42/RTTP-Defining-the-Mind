@@ -143,7 +143,7 @@
 \defcounter {refsection}{2}\relax 
 \contentsline {table}{\numberline {5.15}{Learning Objectives}}{61}{table.5.15}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.16}{Major Issues for debate}}{63}{table.5.16}
+\contentsline {table}{\numberline {5.16}{Major Issues for debate}}{64}{table.5.16}
 \defcounter {refsection}{2}\relax 
 \contentsline {table}{\numberline {5.17}{Core text reading list}}{65}{table.5.17}
 \defcounter {refsection}{2}\relax 
@@ -162,6 +162,8 @@
 \addvspace {10\p@ }
 \defcounter {refsection}{2}\relax 
 \contentsline {table}{\numberline {6.1}{Real APA (psychological) Presidents}}{97}{table.6.1}
+\defcounter {refsection}{2}\relax 
+\addvspace {10\p@ }
 \defcounter {refsection}{2}\relax 
 \addvspace {10\p@ }
 \ttl@stoptoc {instructors@1}
