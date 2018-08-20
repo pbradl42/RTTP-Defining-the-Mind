@@ -7081,6 +7081,43 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1971 
 
 &lt;!--\newpage--&gt;</Text>
         </Document>
+        <Document ID="106">
+            <Title>Speaking</Title>
+            <Text>#### Speaking
+
+Attached is a rubric borrowed from the National honors society for Human sciences. I prefer it for a science-based speaking assignment to others I have seen, as it emphasizes clarity of content over rhetoric.
+
+
+&lt;!-- \begin{longtable}[!t]{ | P{2cm} | P{3.5cm} | P{3.5cm} | P{3.5cm} |}
+\hline
+\tahead{Standards} &amp; \tahead{Exemplary} &amp; \tahead{Satisfactory} &amp; \tahead{Unacceptable} \\ \hline
+Organization&amp;
+Has a clear opening statement that catches audience’s interest; maintains focus throughout; summarizes main points&amp;
+Has opening statement relevant to topic and gives outline of speech; is mostly organized; provides adequate “road map” for the listener&amp;
+Has no opening statement or has an irrelevant statement; gives listener no focus or outline of the presentation \\ \hline
+Content&amp;
+Demonstrates substance and depth; is comprehensive; shows mastery of material&amp;
+Covers topic; uses appropriate sources; is objective&amp;
+Does not give adequate coverage of topic; lacks sources \\ \hline
+Quality of conclusion&amp;
+Delivers a conclusion that is well documented and persuasive&amp;
+Summarizes presentation’s main points; draws conclusions based upon these points&amp;
+Has missing or poor conclusion; is not tied to analysis; does not summarize points that support the conclusion \\ \hline
+Delivery&amp;
+Has natural delivery; modulates voice; is articulate; projects enthusiasm, interest, and confidence; uses body language effectively&amp;
+Has appropriate pace; has no distracting mannerisms; is easily understood; &amp;
+Is often hard to understand; has voice that is too soft or too loud; has a pace that is too quick or too slow; demonstrates one or more distracting mannerisms \\ \hline
+Response to Questions&amp;
+Demonstrates full knowledge of topic; explains and elaborates on all questions&amp;
+Shows ease in answering questions but does not elaborate&amp;
+Demonstrates little grasp of information; has undeveloped or unclear answers to questions \\ \hline
+\caption{Sample rubric for speaking}
+\label{table: speakingrubric}
+\end{longtable}
+--&gt;
+
+Adapted from https://rubrics.kon.org/about.html (National Honors society for the Human sciences) </Text>
+        </Document>
         <Document ID="154">
             <Title>LTyler</Title>
             <Text>## Leona Tyler, PhD
@@ -7213,43 +7250,6 @@ In 1964, a magazine called Fact asked 12,000 psychiatrists if they would be will
 
 
 \mainmatter--&gt;</Text>
-        </Document>
-        <Document ID="106">
-            <Title>Speaking</Title>
-            <Text>#### Speaking
-
-Attached is a rubric borrowed from the National honors society for Human sciences. I prefer it for a science-based speaking assignment to others I have seen, as it emphasizes clarity of content over rhetoric.
-
-
-&lt;!-- \begin{longtable}[!t]{ | P{2cm} | P{3.5cm} | P{3.5cm} | P{3.5cm} |}
-\hline
-\tahead{Standards} &amp; \tahead{Exemplary} &amp; \tahead{Satisfactory} &amp; \tahead{Unacceptable} \\ \hline
-Organization&amp;
-Has a clear opening statement that catches audience’s interest; maintains focus throughout; summarizes main points&amp;
-Has opening statement relevant to topic and gives outline of speech; is mostly organized; provides adequate “road map” for the listener&amp;
-Has no opening statement or has an irrelevant statement; gives listener no focus or outline of the presentation \\ \hline
-Content&amp;
-Demonstrates substance and depth; is comprehensive; shows mastery of material&amp;
-Covers topic; uses appropriate sources; is objective&amp;
-Does not give adequate coverage of topic; lacks sources \\ \hline
-Quality of conclusion&amp;
-Delivers a conclusion that is well documented and persuasive&amp;
-Summarizes presentation’s main points; draws conclusions based upon these points&amp;
-Has missing or poor conclusion; is not tied to analysis; does not summarize points that support the conclusion \\ \hline
-Delivery&amp;
-Has natural delivery; modulates voice; is articulate; projects enthusiasm, interest, and confidence; uses body language effectively&amp;
-Has appropriate pace; has no distracting mannerisms; is easily understood; &amp;
-Is often hard to understand; has voice that is too soft or too loud; has a pace that is too quick or too slow; demonstrates one or more distracting mannerisms \\ \hline
-Response to Questions&amp;
-Demonstrates full knowledge of topic; explains and elaborates on all questions&amp;
-Shows ease in answering questions but does not elaborate&amp;
-Demonstrates little grasp of information; has undeveloped or unclear answers to questions \\ \hline
-\caption{Sample rubric for speaking}
-\label{table: speakingrubric}
-\end{longtable}
---&gt;
-
-Adapted from https://rubrics.kon.org/about.html (National Honors society for the Human sciences) </Text>
         </Document>
         <Document ID="48">
             <Title>The Logic of evidence</Title>
