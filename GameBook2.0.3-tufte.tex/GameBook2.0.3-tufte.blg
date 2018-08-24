@@ -1,13 +1,13 @@
 [0] Config.pm:343> INFO - This is Biber 2.5
 [0] Config.pm:346> INFO - Logfile is 'GameBook2.0.3-tufte.blg'
-[35] biber-darwin:290> INFO - === Mon Aug 20, 2018, 14:59:18
-[52] Biber.pm:351> INFO - Reading 'GameBook2.0.3-tufte.bcf'
-[142] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[142] Biber.pm:776> INFO - Found 112 citekeys in bib section 1
-[143] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[143] Biber.pm:776> INFO - Found 28 citekeys in bib section 2
-[143] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[143] Biber.pm:776> INFO - Found 7 citekeys in bib section 3
-[143] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[166] Biber.pm:3493> INFO - Processing section 1
+[35] biber-darwin:290> INFO - === Thu Aug 23, 2018, 13:50:58
+[53] Biber.pm:351> INFO - Reading 'GameBook2.0.3-tufte.bcf'
+[140] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[141] Biber.pm:776> INFO - Found 112 citekeys in bib section 1
+[141] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[141] Biber.pm:776> INFO - Found 28 citekeys in bib section 2
+[141] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[141] Biber.pm:776> INFO - Found 7 citekeys in bib section 3
+[141] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[163] Biber.pm:3493> INFO - Processing section 1
 [178] Biber.pm:3657> INFO - Looking for bibtex format file '../APA.bib' for section 1

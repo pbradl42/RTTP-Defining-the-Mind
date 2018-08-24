@@ -605,7 +605,7 @@ See. e/g/ Skinner (1953) pg. 27-30</Comments>
             <Title>ByCharacter</Title>
             <Text>##### Overview of assignments, by character
 
-&lt;!-- \begin{longtable}[!t]{ | p{6cm} |  p{5cm} |  p{5cm} | }
+&lt;!-- \begin{longtable}[!t]{ | p{3cm} |  p{12cm} |  }
 \hline
 
 Paper&amp;
@@ -631,7 +631,7 @@ Chomsky, N. (1967). “The Responsibility of Intellectuals” The New York Revie
 \\ \hline
 
 K. Clark&amp;
-Phillips, L. “Recontextualizing Kenneth B. Clark: An Afrocentric Perspective on the Paradoxial Legacy of a Model Psychologist-Activist” from Evolving Perspectives on the History of Psychology, Pinkren, W &amp; Dewsbury, D.
+Phillips, L. “Recontextualizing Kenneth B. Clark: An Afrocentric Perspective on the Paradoxial Legacy of a Model Psychologist-Activist” from Evolving Perspectives on the History of Psychology, Pinkren, W and Dewsbury, D.
 \newline
 Clark, K. (1971) “The pathos of power: A psychological perspective” American Psychologist 26(12) 1047-1057 \\ \hline
 
@@ -639,7 +639,7 @@ D. Fordney Settlage&amp;Fordney Settlage, DS, Baroff S, Cooper D 1973. Sexual ex
 \newline
 Fordney-Settlage DS 1975. Heterosexual dysfunction: Evaluation of treatment procedures. Archives of Sexual Behavior, Volume 4, Number 4 / July, 1975 (DOI: 10.1007/BF01541722)\\ \hline
 
-J. Fryer&amp;Scasta, D. (2002) “John E. Fryer, MD, and the Dr. H. Anonymous Episode” Journal of Gane &amp; Lesbian Psychotherapy 6(4) 73-84 \\ \hline
+J. Fryer&amp;Scasta, D. (2002) “John E. Fryer, MD, and the Dr. H. Anonymous Episode” Journal of Gay and Lesbian Psychotherapy 6(4) 73-84 \\ \hline
 
 P. Gebhard&amp;Cornbach, L. J. (1956) “The Two Disciplines of Scientific Psychology” American Psychologist, 12: 671-684. Available at http://psychclassics.yorku.ca/Cronbach/Disciplines/\\ \hline
 
@@ -647,11 +647,11 @@ R. Gold&amp;Gold, R. “Three Stories of Gay Liberation” http://www.queerstori
 Moor, Paul (2001) The view from Irving Bieber's couch: “Heads I win, tails you lose.” J. Gay and Lesbian Psychotherapy, 5(3/4):25-36. (also reprinted Sexual Conversion Therapy (Ariel Shidlo, Michael Schroeder (PsyD.), Michael Schroeder, Jack Drescher)
 \\ \hline
 
-R. Green&amp;Green, R. &amp; Money, J. (1961) “Effeminacy in prepubertal boys; Summary of eleven cases and recommendations for case management.” Pediatrics 27(2), p. 286-291
+R. Green&amp;Green, R. \&amp; Money, J. (1961) “Effeminacy in prepubertal boys; Summary of eleven cases and recommendations for case management.” Pediatrics 27(2), p. 286-291
 \newline
 Green, R. (1972) “Homosexuality as a Mental Illness” International Journal of Psychiatry 10:77-98
 \newline
-Fox, K. “Vancouver – The Richard Green Interview” http://web.archive.org/web/20030609051314/http://www.rfts.a.se/rich_greene.html, accessed 2/17/2011 \\ \hline
+Fox, K. “Vancouver – The Richard Green Interview” \url{http://web.archive.org/web/20030609051314/http://www.rfts.a.se/rich_greene.html}, accessed 2/17/2011 \\ \hline
 
 H. Harlow&amp;Harlow, H. (1958) “The nature of love” American Psychologist 13(12) 673-685 On Psych Classics: http://psychclassics.yorku..ca/Harlow/love.htm.
 \newline
@@ -663,7 +663,7 @@ Hooker, E. (1957). The adjustment of the male overt homosexual. Journal of Proje
 \newline
 Hooker, E. (1958). Male homosexuality in the Rorschach. Journal of Projective Techniques, 23, 278-281.
 \newline
-Hooker, E. (1961). Homosexuality: Summary of studies. In E. M. Duvall &amp; S. M. Duvall (Eds.), Sex ways in fact and faith. New York: Association Press.
+Hooker, E. (1961). Homosexuality: Summary of studies. In E. M. Duvall \&amp; S. M. Duvall (Eds.), Sex ways in fact and faith. New York: Association Press.
  \\ \hline
 
 R. Hopcke&amp;Hopcke, R. (1988) “Jung and Homosexuality: A Clearer Vision” Journal of Analytical Psychology 33, p. 65-80 \\ \hline
@@ -688,8 +688,8 @@ Marmor, J. (Ed.) (1965). Sexual inversion: The multiple roots of homosexuality (
 D. Marr&amp;Marr, D. (1982). Vision: A Computational Investigation into the Human Representation and Processing of Visual Information MIT Press (esp. Ch 1)
 \\ \hline
 
-S. Milgram&amp; Milgram, S. (1963) “Behavioral study of obedience.” Journal of Abnormal and Social Psychology, 67, 371–378. Available at http://www.wadsworth.com/psychology_d/templates/student_resources/0155060678_rathus/ps/ps01.html with permission from Alexandra Milgram.
-\Newline
+S. Milgram&amp; Milgram, S. (1963) “Behavioral study of obedience.” Journal of Abnormal and Social Psychology, 67, 371–378. Available at \url{http://www.wadsworth.com/psychology_d/templates/student_resources/0155060678_rathus/ps/ps01.html} with permission from Alexandra Milgram.
+\newline
 Milgram, S. (1967). "The Small World Problem" Psychology Today, 2 p. 60 – 67
 \\ \hline
 
@@ -698,7 +698,7 @@ G. Miller&amp;Miller, G. A. (1956). The magical number seven, plus or minus two:
 Miller, G. A. (1969). Psychology as a means of promoting human welfare. American Psychologist, 24(12), 1063-1075.
  \\ \hline
 
-J. Piaget&amp;Piatelli-Palmarini, M. (Ed.) (1980). Language and Learning: The Debate between Jean Piaget and Noam Chomsky, London: Routledge &amp; Kegan Paul . Reviewed at: http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=5843312
+J. Piaget&amp;Piatelli-Palmarini, M. (Ed.) (1980). Language and Learning: The Debate between Jean Piaget and Noam Chomsky, London: Routledge \&amp; Kegan Paul . Reviewed at: \url{http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=5843312}
 \\ \hline
 L. Tyler&amp;Tyler, L.E. (1969). The Work of the Counselor, Prentice Hall
 \newline
@@ -713,7 +713,7 @@ Socarides, C. W. (1968).The Overt Homosexual. Jason Aronson, Inc.
 Socarides, C.W. (1970). “Homosexuality and Medicine” Journal of the American Medical Association 212 (7): 1199
  \\ \hline
 
-J. Spiegel &amp;Grinker, R. &amp; Spiegel, J. P. (1945) Men Under Stress American Psychological Association. Was once available print-on-demand, but is not currently: ww.apa.org/pubs/books/4320127.aspx
+J. Spiegel \&amp;Grinker, R. &amp; Spiegel, J. P. (1945) Men Under Stress American Psychological Association. Was once available print-on-demand, but is not currently: www.apa.org/pubs/books/4320127.aspx
 \\ \hline
 
 R. Spitzer&amp;Spitzer, R. L. and Endicott, J. “Medical and Mental Disorder: Proposed Definition and Criteria” in Critical Issues in Psychiatric Diagnosis, Spitzer and Klein, e.d. See also Klein, D. “A Proposed Definition of Mental Illness”, in the same volume.
@@ -727,7 +727,7 @@ T. Szasz&amp; Popper, K. R. (1959). The Logic of Scientific Discovery. New York:
 Szasz, T. (1960). “The Myth of Mental Illness” American Psychologist, 15, p. 113-118 available at http://psychclassics.yorku.ca/Szasz/myth.htm
 \\ \hline
 
-P. Zimbardo&amp;Haney, C. Banks, C. &amp; Zimbardo, P. (1973). “Interpersonal Dynamics in a Simulated Prison” International Journal of Criminology and Penology 1, p. 69-97
+P. Zimbardo&amp;Haney, C. Banks, C. \&amp; Zimbardo, P. (1973). “Interpersonal Dynamics in a Simulated Prison” International Journal of Criminology and Penology 1, p. 69-97
 Zimbardo, P. G. (1972). The Stanford Prison Experiment a Simulation Study of the Psychology of Imprisonment. Philip G. Zimbardo, Inc.
 \\ \hline
 

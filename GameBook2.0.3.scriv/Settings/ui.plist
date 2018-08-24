@@ -11,7 +11,7 @@
 	</dict>
 	<key>binderSelection</key>
 	<array>
-		<integer>171</integer>
+		<integer>112</integer>
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
@@ -957,7 +957,7 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>0 106 1440 771 0 0 1440 877 </string>
+	<string>557 646 1440 771 0 0 2560 1417 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -982,7 +982,7 @@
 	<false/>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>159</integer>
+		<integer>388</integer>
 	</array>
 	<key>supportingDocumentEditor.currentEditorViewMode</key>
 	<integer>0</integer>
@@ -994,14 +994,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>384</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
@@ -1798,12 +1790,20 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>388</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 1812}, {526, 670}}</string>
+	<string>{{0, 0}, {526, 669.79395}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
-	<string>{5626, 0}</string>
+	<string>{89, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
