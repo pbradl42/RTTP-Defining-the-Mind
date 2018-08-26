@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="PIC-142B-Desktop" Modified="2018-08-23 13:48:02 -0400" ModID="DE904E68-CC85-4CA6-8655-64D086D78A11">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-3" Modified="2018-08-26 19:15:38 -0400" ModID="DA7F2D0F-944F-4360-8C93-9F3238D524B2">
     <Binder>
         <BinderItem ID="0" UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -1063,26 +1063,24 @@
                                         <TextSelection>30,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem ID="105" UUID="FDBB76FB-2C67-477A-8906-6A7AA4FC6531" Type="Text" Created="2014-07-21 03:51:42 -0400" Modified="2018-08-18 21:43:09 -0400">
+                                        <BinderItem ID="105" UUID="FDBB76FB-2C67-477A-8906-6A7AA4FC6531" Type="Text" Created="2014-07-21 03:51:42 -0400" Modified="2018-08-26 18:30:05 -0400">
                                             <Title>Writing</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>0,0</NotesTextSelection>
-                                                <IconFileName>Warning.tiff</IconFileName>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2684,0</TextSelection>
+                                                <TextSelection>3306,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem ID="106" UUID="C69EDCAD-6E9E-428C-95C1-8067A68105D7" Type="Text" Created="2014-07-21 03:51:49 -0400" Modified="2018-08-18 19:08:17 -0400">
+                                        <BinderItem ID="106" UUID="C69EDCAD-6E9E-428C-95C1-8067A68105D7" Type="Text" Created="2014-07-21 03:51:49 -0400" Modified="2018-08-26 18:30:33 -0400">
                                             <Title>Speaking</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>0,0</NotesTextSelection>
-                                                <IconFileName>Warning.tiff</IconFileName>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>533,0</TextSelection>
+                                                <TextSelection>286,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -1404,7 +1402,7 @@
                                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                                             </MetaData>
                                                             <TextSettings>
-                                                                <TextSelection>383,0</TextSelection>
+                                                                <TextSelection>1614,0</TextSelection>
                                                             </TextSettings>
                                                         </BinderItem>
                                                         <BinderItem ID="125" UUID="51C44A81-0C3B-44A0-BED2-9A815D6BC04A" Type="Text" Created="2018-07-10 15:42:12 -0400" Modified="2018-08-19 14:21:13 -0400">
@@ -1415,7 +1413,7 @@
                                                                 <IconFileName>Warning.tiff</IconFileName>
                                                             </MetaData>
                                                             <TextSettings>
-                                                                <TextSelection>196,0</TextSelection>
+                                                                <TextSelection>178,0</TextSelection>
                                                             </TextSettings>
                                                         </BinderItem>
                                                     </Children>
@@ -1680,7 +1678,7 @@
                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>51,0</TextSelection>
+                                                <TextSelection>1133,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -1881,7 +1879,7 @@
                                 <IconFileName>To Do.tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2575,285</TextSelection>
+                                <TextSelection>2850,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="157" UUID="F47C7309-EDC0-4DC3-A489-6E2653EEFCDE" Type="Folder" Created="2014-06-27 16:18:57 -0400" Modified="2014-06-27 16:19:01 -0400">
@@ -4214,7 +4212,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="CADF5D6E-EF6B-400A-8C7F-CFF850A380D1" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">wadsworth.com/</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">Ulli</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
@@ -4248,7 +4246,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-08-24 17:10:59 -0400"></PreviousSession>
+        <PreviousSession Words="77" Characters="612" Date="2018-08-26 18:04:50 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
     <UserProjectData>

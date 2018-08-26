@@ -6574,7 +6574,7 @@ shaded={rulecolor=ferrisred, rulewidth=0.5pt, bgcolor={rgb}{1,1,1}}
 
 ##### For research reports: 
 
-&lt;!-- \begin{longtable}[!t]{ | P{2cm} | P{3.5cm} | P{3.5cm} | P{3.5cm} |}
+&lt;!-- \begin{longtable}[!t]{ | P{2cm} | P{5cm} | P{3.5cm} | P{3.5cm} |}
 \hline
 \tahead{Standards} &amp; \tahead{Exemplary} &amp; \tahead{Satisfactory} &amp; \tahead{Unacceptable} \\ \hline
 
@@ -6598,17 +6598,17 @@ The student makes no connection \\ \hline
 
 For other writing tasks, the objectives are a bit more abstract:
 
-&lt;!-- \begin{longtable}[!t]{ | P{2cm} | P{3.5cm} | P{3.5cm} | P{3.5cm} |}
+&lt;!-- \begin{longtable}[!t]{ | P{2cm} | P{5cm} | P{3.5cm} | P{3.5cm} |}
 \hline
 \tahead{Standards} &amp; \tahead{Exemplary} &amp; \tahead{Satisfactory} &amp; \tahead{Unacceptable} \\ \hline
 
-Legitimacy&amp;Student is able to identify where the legitimacy of evidence may be called into question by evidence.  (See \fullref{table: learninggoals} 2) \\ \hline
+Legitimacy&amp;Student raises, or preemptively addresses (depending on role), questions  regarding the legitimacy of evidence. (See \fullref{table: learninggoals} 2) &amp; Student recognizes questions of legitimacy but does not raise or address them &amp; Student accepts all evidence as legitimate. \\ \hline
 
-Context&amp;Where appropriate, student is able to contextualize views under discussion into their historical context (See \fullref{table: learninggoals} 1 and 4). \\ \hline
+Context&amp;Where appropriate, student is able to contextualize views under discussion into their historical context (See \fullref{table: learninggoals} 1 and 4). &amp; Student recognizes context, but does not use it in analyses. &amp; Student treats all theories as authoriative\\ \hline
 
-Primary sources&amp;Student uses historically appropriate primary sources (See \fullref{table: learninggoals} 5) \\ \hline
+Primary sources&amp;Student uses historically appropriate primary sources (See \fullref{table: learninggoals} 5) &amp; Student cites historically appropriate primary sources, but does not engage with them &amp; Student does not include historically appropriate primary sources -- sources not primary, or not historically appropriately. \\ \hline
 
-Implications&amp;Student is able to distinguish between the major theoretical positions represented in the game, and interpret evidence as bearing on those positions in some way. (\fullref{table: learninggoals} 6)\\ \hline
+Implications&amp;Student is able to distinguish between the major theoretical positions represented in the game, and interpret evidence as bearing on those positions in some way. (\fullref{table: learninggoals} 6) &amp; Student can ‘rehearse/ distinctions between theoretical positions, but cannot connect theories with evidence&amp; Student mistakes or confuses theoretical positions.\\ \hline
 \caption{Sample rubric for writing papers}
 \label{table: speakingrubric}
 \end{longtable}
@@ -7077,7 +7077,7 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1971 
 Attached is a rubric borrowed from the National honors society for Human sciences. I prefer it for a science-based speaking assignment to others I have seen, as it emphasizes clarity of content over rhetoric.
 
 
-&lt;!-- \begin{longtable}[!t]{ | P{2cm} | P{3.5cm} | P{3.5cm} | P{3.5cm} |}
+&lt;!-- \begin{longtable}[!t]{ | P{2cm} | P{4cm} | P{4cm} | P{4cm} |}
 \hline
 \tahead{Standards} &amp; \tahead{Exemplary} &amp; \tahead{Satisfactory} &amp; \tahead{Unacceptable} \\ \hline
 Organization&amp;
