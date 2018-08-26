@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-3" Modified="2018-08-26 19:15:38 -0400" ModID="DA7F2D0F-944F-4360-8C93-9F3238D524B2">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-3" Modified="2018-08-26 19:25:55 -0400" ModID="A6CB6A4E-3DDD-4700-8E9E-5F0EA884125C">
     <Binder>
         <BinderItem ID="0" UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -2789,49 +2789,6 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="234" UUID="1D8D450B-804D-4FC9-95B3-C5779E0913D8" Type="PDF" Created="2013-07-25 00:09:28 -0400" Modified="2013-07-25 00:09:28 -0400">
-                    <Title>Frances_DSM-5</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>pdf</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <MediaSettings>
-                        <CurrentPDFPage>1</CurrentPDFPage>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem ID="235" UUID="82888906-96AE-4E01-A0B9-7EA4B3A6F7E8" Type="PDF" Created="2013-07-25 00:09:28 -0400" Modified="2013-07-25 00:09:28 -0400">
-                    <Title>psymajor-guidelines</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>pdf</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <MediaSettings>
-                        <CurrentPDFPage>18</CurrentPDFPage>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem ID="266" UUID="B4953DA7-4CD9-495B-B514-398FBBF4D61E" Type="PDF" Created="2018-07-27 09:46:19 -0400" Modified="2018-07-27 15:36:37 -0400">
-                    <Title>psymajor-guidelines-v2</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>pdf</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <MediaSettings>
-                        <CurrentPDFPage>18</CurrentPDFPage>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem ID="236" UUID="91896C9A-BCD1-4342-89F3-E03D2BE57D7E" Type="Text" Created="2013-07-25 00:09:28 -0400" Modified="2013-07-25 00:09:28 -0400">
-                    <Title>Zimbardo-Proposal</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1389,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
                 <BinderItem ID="237" UUID="AF41AC40-7C1C-4D1D-BF06-9A26B38F21ED" Type="Folder" Created="2016-07-11 00:38:53 -0400" Modified="2016-07-11 00:39:28 -0400">
                     <Title>primary sources</Title>
                     <MetaData>
@@ -2923,17 +2880,6 @@
                                 <Reference BinderID="76">APA Ethics 1968</Reference>
                             </References>
                         </BinderItem>
-                        <BinderItem ID="244" UUID="4B2FAB6E-C545-4B61-8C83-40F1B37C6CEF" Type="PDF" Created="2013-07-25 00:09:28 -0400" Modified="2013-07-25 00:09:28 -0400">
-                            <Title>AmNervousness_Beard</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>pdf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <MediaSettings>
-                                <CurrentPDFPage>0</CurrentPDFPage>
-                            </MediaSettings>
-                        </BinderItem>
                         <BinderItem ID="245" UUID="50BE1CA7-A7BD-4D7B-A33B-CDC72F7C6BAC" Type="PDF" Created="2013-07-25 00:09:28 -0400" Modified="2013-07-25 00:09:28 -0400">
                             <Title>DSMII</Title>
                             <MetaData>
@@ -2947,17 +2893,6 @@
                             <References>
                                 <Reference BinderID="78">DSMII</Reference>
                             </References>
-                        </BinderItem>
-                        <BinderItem ID="246" UUID="9F8C9105-91F7-4780-AF61-408766EDE321" Type="PDF" Created="2018-07-24 19:42:40 -0400" Modified="2018-07-24 19:42:40 -0400">
-                            <Title>anoutlinepsycho06titcgoog</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>pdf</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <MediaSettings>
-                                <CurrentPDFPage>90</CurrentPDFPage>
-                            </MediaSettings>
                         </BinderItem>
                         <BinderItem ID="247" UUID="5E4E7636-C59E-4A43-90B1-1568F11987BE" Type="PDF" Created="2012-05-28 16:05:42 -0400" Modified="2012-05-28 16:05:42 -0400">
                             <Title>Socarides-1970-JAMA</Title>
@@ -3633,6 +3568,73 @@
                                 <Reference BinderID="18">HistoryOfGayRightsMovement2</Reference>
                             </References>
                         </BinderItem>
+                        <BinderItem ID="244" UUID="4B2FAB6E-C545-4B61-8C83-40F1B37C6CEF" Type="PDF" Created="2013-07-25 00:09:28 -0400" Modified="2013-07-25 00:09:28 -0400">
+                            <Title>AmNervousness_Beard</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="246" UUID="9F8C9105-91F7-4780-AF61-408766EDE321" Type="PDF" Created="2018-07-24 19:42:40 -0400" Modified="2018-07-24 19:42:40 -0400">
+                            <Title>anoutlinepsycho06titcgoog</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>7</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="389" UUID="9EA88575-BBBC-4F6C-83AF-A5AE8D8C71F0" Type="Folder" Created="2018-08-26 19:25:25 -0400" Modified="2018-08-26 19:25:39 -0400">
+                    <Title>conteporary sources</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="234" UUID="1D8D450B-804D-4FC9-95B3-C5779E0913D8" Type="PDF" Created="2013-07-25 00:09:28 -0400" Modified="2013-07-25 00:09:28 -0400">
+                            <Title>Frances_DSM-5</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>1</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="235" UUID="82888906-96AE-4E01-A0B9-7EA4B3A6F7E8" Type="PDF" Created="2013-07-25 00:09:28 -0400" Modified="2013-07-25 00:09:28 -0400">
+                            <Title>psymajor-guidelines</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>18</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="266" UUID="B4953DA7-4CD9-495B-B514-398FBBF4D61E" Type="PDF" Created="2018-07-27 09:46:19 -0400" Modified="2018-07-27 15:36:37 -0400">
+                            <Title>psymajor-guidelines-v2</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>18</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
             </Children>
@@ -4180,6 +4182,26 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="236" UUID="91896C9A-BCD1-4342-89F3-E03D2BE57D7E" Type="Text" Created="2013-07-25 00:09:28 -0400" Modified="2013-07-25 00:09:28 -0400">
+                    <Title>Zimbardo-Proposal</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1389,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="390" UUID="951C3ECB-B73B-4838-843C-97EA2E88E2CE" Type="Text" Created="2018-08-26 19:25:33 -0400" Modified="2018-08-26 19:25:33 -0400">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="360" UUID="B45FE74E-72EB-4100-AD69-2450DAECE84B" Type="Folder" Created="2018-07-19 14:05:10 -0400" Modified="2018-07-19 14:05:10 -0400">
@@ -4246,7 +4268,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="77" Characters="612" Date="2018-08-26 18:04:50 -0400"></PreviousSession>
+        <PreviousSession Words="77" Characters="612" Date="2018-08-26 19:22:53 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
     <UserProjectData>
