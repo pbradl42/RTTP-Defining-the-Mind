@@ -545,6 +545,13 @@ If it is impossible to do this, because of class schedule or internet access or 
 
 &lt;!--\newpage--&gt;</Text>
         </Document>
+        <Document ID="77">
+            <Title>DSMI</Title>
+            <Text>### APA *Diagnostic and Statistical Manual* Mental Disorders, 1952
+
+&lt;!--\label{app: DSMI}
+\includepdf[pages={1-}]{../Appendices/dsm-i.pdf}--&gt;</Text>
+        </Document>
         <Document ID="168">
             <Title>BehavioristOverview</Title>
             <Text>## Behaviorist Overview
@@ -736,6 +743,13 @@ Zimbardo, P. G. (1972). The Stanford Prison Experiment a Simulation Study of the
 \label{table: readingsbycharacter}
 \end{longtable}--&gt;
 </Text>
+        </Document>
+        <Document ID="78">
+            <Title>DSMII</Title>
+            <Text>### APA *Diagnostic and Statistical Manual II*, 1968
+
+&lt;!--\label{app: DSMII}
+\includepdf[pages={1-}]{../Appendices/DSMII-excerpted.pdf}--&gt;</Text>
         </Document>
         <Document ID="83">
             <Title>Introduction</Title>
@@ -6971,26 +6985,26 @@ The real-world examples are summaries of existing psychological experiments duri
 #### Mental rotation
 
 &lt;!--\label{paper: mentalrotation}
-\includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1971_Science_Shepard.pdf}--&gt;
+\includepdf[pages={1-}]{../charactersResources/GMiller/1971-ShepardAndMetzler.pdf}--&gt;
 
 #### Adjustment of Homosexual and Heterosexual Women
 
 &lt;!--\label{paper: observation}
-\includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1972-Siegelman-AdjustmentofHomosexualWomen.pdf}--&gt;
+\includepdf[pages={1-}]{../charactersResources/BGittings/1972-Siegelman-AdjustmentofHomosexualWomen.pdf}--&gt;
 
 #### On being sane in insane places
 &lt;!--\label{paper: rosenhan}
-\includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1973-Rosenhan-OnBeingSaneInInsanePlaces.pdf}--&gt;
+\includepdf[pages={1-}]{../PrimarySourceMaterials/1973-Rosenhan-OnBeingSaneInInsanePlaces.pdf}--&gt;
 
 #### Interpersonal Dynamics in a Simulated Prison
 
 &lt;!--\label{paper: zimbardo}
-\includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1973-Zimbardo-InternationalJournalofCriminologyandPenology1973Haney.pdf}--&gt;
+\includepdf[pages={1-}]{../charactersResources/PZimbardo/1973-Zimbardo-InternationalJournalofCriminologyandPenology1973Haney.pdf}--&gt;
 
 #### A Re-analysis of the Reliability of Psychiatric Diagnosis
 
 &lt;!--\label{paper: spitzer}
-\includepdf[pages={1-}]{../PrimarySourceMaterials/OtherPrimarySources/1974-SpitzerAndFleiss341.pdf}--&gt;
+\includepdf[pages={1-}]{../charactersResources/RSpitzer/1974-SpitzerAndFleiss341.pdf}--&gt;
 </Text>
         </Document>
         <Document ID="7">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-3" Modified="2018-08-26 19:25:55 -0400" ModID="A6CB6A4E-3DDD-4700-8E9E-5F0EA884125C">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="PIC-142B-Desktop" Modified="2018-08-27 11:01:30 -0400" ModID="5C77CC8F-656A-4FD8-A43B-AC9B0946446E">
     <Binder>
         <BinderItem ID="0" UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -799,24 +799,24 @@
                                         <TextSelection>76,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="77" UUID="00A7B092-6412-469D-B9E1-2D5E04DC0CDF" Type="Text" Created="2018-03-02 08:53:52 -0500" Modified="2018-07-13 16:41:54 -0400">
+                                <BinderItem ID="77" UUID="00A7B092-6412-469D-B9E1-2D5E04DC0CDF" Type="Text" Created="2018-03-02 08:53:52 -0500" Modified="2018-08-27 10:52:01 -0400">
                                     <Title>DSMI</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>153,0</TextSelection>
+                                        <TextSelection>125,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="78" UUID="6A2602F7-E822-40A4-8E17-9514A3443871" Type="Text" Created="2014-07-21 04:21:20 -0400" Modified="2018-07-13 16:41:54 -0400">
+                                <BinderItem ID="78" UUID="6A2602F7-E822-40A4-8E17-9514A3443871" Type="Text" Created="2014-07-21 04:21:20 -0400" Modified="2018-08-27 10:54:12 -0400">
                                     <Title>DSMII</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>128,0</TextSelection>
+                                        <TextSelection>130,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="79" UUID="9B3D3F09-795C-4AAF-B697-6D4A13DF2F79" Type="Text" Created="2014-07-21 04:21:23 -0400" Modified="2018-07-13 16:41:54 -0400">
@@ -1413,7 +1413,7 @@
                                                                 <IconFileName>Warning.tiff</IconFileName>
                                                             </MetaData>
                                                             <TextSettings>
-                                                                <TextSelection>178,0</TextSelection>
+                                                                <TextSelection>196,0</TextSelection>
                                                             </TextSettings>
                                                         </BinderItem>
                                                     </Children>
@@ -1622,14 +1622,14 @@
                                         <TextSelection>240,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="369" UUID="8F86FEA2-8CFB-4028-86FD-3E0DEC3103D4" Type="Text" Created="2018-07-31 12:19:55 -0400" Modified="2018-08-13 21:44:55 -0400">
+                                <BinderItem ID="369" UUID="8F86FEA2-8CFB-4028-86FD-3E0DEC3103D4" Type="Text" Created="2018-07-31 12:19:55 -0400" Modified="2018-08-27 11:00:58 -0400">
                                     <Title>### Real-world papers</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>655,0</TextSelection>
+                                        <TextSelection>1083,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="367" UUID="2DF9493F-3F5E-4C5F-A94E-EDEFE57E6BED" Type="Text" Created="2018-07-31 10:48:49 -0400" Modified="2018-08-12 17:37:11 -0400">
@@ -4234,7 +4234,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="CADF5D6E-EF6B-400A-8C7F-CFF850A380D1" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">Ulli</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">1971_science</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
@@ -4268,7 +4268,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="77" Characters="612" Date="2018-08-26 19:22:53 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-08-28 08:41:02 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
     <UserProjectData>
