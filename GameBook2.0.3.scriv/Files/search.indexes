@@ -608,6 +608,13 @@ See. e/g/ Skinner (1953) pg. 27-30</Comments>
 
 </Text>
         </Document>
+        <Document ID="78">
+            <Title>DSMII</Title>
+            <Text>### APA *Diagnostic and Statistical Manual II*, 1968
+
+&lt;!--\label{app: DSMII}
+\includepdf[pages={1-}]{../Appendices/DSMII-excerpted.pdf}--&gt;</Text>
+        </Document>
         <Document ID="388">
             <Title>ByCharacter</Title>
             <Text>##### Overview of assignments, by character
@@ -743,13 +750,6 @@ Zimbardo, P. G. (1972). The Stanford Prison Experiment a Simulation Study of the
 \label{table: readingsbycharacter}
 \end{longtable}--&gt;
 </Text>
-        </Document>
-        <Document ID="78">
-            <Title>DSMII</Title>
-            <Text>### APA *Diagnostic and Statistical Manual II*, 1968
-
-&lt;!--\label{app: DSMII}
-\includepdf[pages={1-}]{../Appendices/DSMII-excerpted.pdf}--&gt;</Text>
         </Document>
         <Document ID="83">
             <Title>Introduction</Title>
