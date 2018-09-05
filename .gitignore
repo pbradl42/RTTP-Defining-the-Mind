@@ -1,4 +1,3 @@
-
 GameBook2.0.scriv/Settings/recents.txt
 GameBook2.0.scriv/Settings/ui.plist
 GameBook2.0.scriv/Settings/ui.plist
@@ -7,7 +6,7 @@ GameBook2.0.scriv/QuickLook/Thumbnail.jpg
 GameBook2.0.scriv/GameBook2.0.scrivx
 GameBook2.0.scriv/Files/binder.backup
 GameBook2.0.scriv/Files/binder.autosave
-.DS_Store
+.*Store
 GameBook2.0.scriv/Files/binder.autosave
 GameBook2.0.scriv/Files/binder.backup
 GameBook2.0.scriv/GameBook2.0.scrivx
