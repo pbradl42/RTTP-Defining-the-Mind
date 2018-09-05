@@ -16,3 +16,6 @@ GameBook2.0.scriv/Settings/recents.txt
 GameBook2.0.scriv/Settings/ui.plist
 RoleSheets2.0.scriv/Files/binder.autosave
 .DS_Store
+.gitattributes
+.Rhistory
+*.swp
