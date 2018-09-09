@@ -1,13 +1,5 @@
-[0] Config.pm:343> INFO - This is Biber 2.5
-[0] Config.pm:346> INFO - Logfile is 'GameBook2.0.3-tufte.blg'
-[38] biber-darwin:290> INFO - === Mon Aug 27, 2018, 11:06:24
-[57] Biber.pm:351> INFO - Reading 'GameBook2.0.3-tufte.bcf'
-[141] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[141] Biber.pm:776> INFO - Found 112 citekeys in bib section 1
-[142] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[142] Biber.pm:776> INFO - Found 28 citekeys in bib section 2
-[142] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[142] Biber.pm:776> INFO - Found 7 citekeys in bib section 3
-[142] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[164] Biber.pm:3493> INFO - Processing section 1
-[177] Biber.pm:3657> INFO - Looking for bibtex format file '../APA.bib' for section 1
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'GameBook2.0.3-tufte.blg'
+[61] biber-darwin:303> INFO - === Sat Sep  8, 2018, 20:06:40
+[100] Utils.pm:180> ERROR - GameBook2.0.3-tufte.bcf is malformed, last biblatex run probably failed. Deleted GameBook2.0.3-tufte.bbl
+[100] Biber.pm:113> INFO - ERRORS: 1
