@@ -153,11 +153,13 @@
 \defcounter {refsection}{2}\relax 
 \contentsline {table}{\numberline {5.20}{Overview by topic}}{74}{table.5.20}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.21}{Elections to be held each year}}{74}{table.5.21}
+\contentsline {table}{\numberline {5.21}{Elections to be held each year}}{75}{table.5.21}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.22}{Likely Actions by Committee}}{76}{table.5.22}
+\contentsline {table}{\numberline {5.22}{Initial credibility}}{76}{table.5.22}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.23}{Possible lab activities}}{78}{table.5.23}
+\contentsline {table}{\numberline {5.23}{Likely Actions by Committee}}{77}{table.5.23}
+\defcounter {refsection}{2}\relax 
+\contentsline {table}{\numberline {5.24}{Possible lab activities}}{79}{table.5.24}
 \defcounter {refsection}{2}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{2}\relax 

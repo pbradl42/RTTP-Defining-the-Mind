@@ -538,21 +538,6 @@ Milar, K. S. (2011) “The Myth Buster: Evelyn Hooker's Groundbreaking Research 
 
 \stopcontents[gamebook]--&gt;</Text>
         </Document>
-        <Document ID="387">
-            <Title>PreGame</Title>
-            <Text>#### Prior to 1971
-
-It’s important that the first week set the pattern for all weeks after.  Each conference should have research reports and research proposals.  *Proposals* propose research to be carried out by the class. *Reports* report to the class on the result of that research.  So if a student *proposes* a research task in 1971, he or she will *report* on that research in 1972.
-
-That means we need to set up a research task prior to the meeting of the class in 1971, so it can be *reported*.  I’ve given the task of reporting on ‘Mental Rotation of 3-dimension objects’ to George Miller. I’ve chosen this task because it is a classic of cognitive psychology, and there is a freely-available demonstration on the APA’s website.
-
-The **best** approach here would be to register for an account here: &lt;!--\url{http://opl.apa.org/Experiments/About/AboutMentalRotation.aspx}--&gt;, and have all the students in the class participate in the experiment, then collect the data and pass it to the student playing Miller.
-
-If it is impossible to do this, because of class schedule or internet access or whatever, have the ‘Miller’ student read the actual paper---which is included in the ‘Primary Source’ directory of the game archive. The student ought to present the paper data *as if* it was class data.
-
-
-&lt;!--\newpage--&gt;</Text>
-        </Document>
         <Document ID="391">
             <Title>Iniital Credibility</Title>
             <Text>#### Initial credibility of each character
@@ -592,6 +577,21 @@ Zimbardo&amp;0\\ \hline
 \end{longtable}--&gt;
 
 </Text>
+        </Document>
+        <Document ID="387">
+            <Title>PreGame</Title>
+            <Text>#### Prior to 1971
+
+It’s important that the first week set the pattern for all weeks after.  Each conference should have research reports and research proposals.  *Proposals* propose research to be carried out by the class. *Reports* report to the class on the result of that research.  So if a student *proposes* a research task in 1971, he or she will *report* on that research in 1972.
+
+That means we need to set up a research task prior to the meeting of the class in 1971, so it can be *reported*.  I’ve given the task of reporting on ‘Mental Rotation of 3-dimension objects’ to George Miller. I’ve chosen this task because it is a classic of cognitive psychology, and there is a freely-available demonstration on the APA’s website.
+
+The **best** approach here would be to register for an account here: &lt;!--\url{http://opl.apa.org/Experiments/About/AboutMentalRotation.aspx}--&gt;, and have all the students in the class participate in the experiment, then collect the data and pass it to the student playing Miller.
+
+If it is impossible to do this, because of class schedule or internet access or whatever, have the ‘Miller’ student read the actual paper---which is included in the ‘Primary Source’ directory of the game archive. The student ought to present the paper data *as if* it was class data.
+
+
+&lt;!--\newpage--&gt;</Text>
         </Document>
         <Document ID="77">
             <Title>DSMI</Title>
@@ -3325,15 +3325,6 @@ See the section on behaviorism in the 'Public Character info' section for more o
 See, e.g. interview with Skinner, p. 39 pf Baars.
 You can read more about the life of Alan Turing, who is one of the greatest, yet least well known, scientists of the 20th century, in the section Brief History of Homosexuality.</Comments>
         </Document>
-        <Document ID="136">
-            <Title>Supplemental Documents copy</Title>
-            <Text>&lt;!-- \renewcommand*{\thechapter}{}
-\renewcommand*{\thesection}{\Alph{section}}
-\setcounter{chapter}{0}
-\renewcommand*{\thesubsection}{\arabic{subsection}}
-
---&gt;</Text>
-        </Document>
         <Document ID="140">
             <Title>Obits and Tributes</Title>
             <Text>### Obituaries and Tributes 
@@ -3386,6 +3377,15 @@ Fox, M. “Charles W Socarides, Psychiatrist and Psychoanalyst, Is Dead at 83”
 
 Cook, J. “John P. Spiegel, 80, Expert on Violence And Combat Stress” New York Times, July 19, 1991. &lt;!--\url{http://www.nytimes.com/1991/07/19/obituaries/john-p-spiegel-80-expert-on-violence-and-combat-stress.html}--&gt;.
 </Text>
+        </Document>
+        <Document ID="136">
+            <Title>Supplemental Documents copy</Title>
+            <Text>&lt;!-- \renewcommand*{\thechapter}{}
+\renewcommand*{\thesection}{\Alph{section}}
+\setcounter{chapter}{0}
+\renewcommand*{\thesubsection}{\arabic{subsection}}
+
+--&gt;</Text>
         </Document>
         <Document ID="18">
             <Title>HistoryOfGayRightsMovement2</Title>
@@ -3553,21 +3553,6 @@ What is the proper role of an intellectual---specifically a social scientist---i
 Note that while these questions overlap, none of them ought to determine any of the others.  One could believe, for example, that psychoanalysis is scientific, but *bad* science. Or one could believe that the medical model *is* a suitable approach, but classifying mental disorders under any criteria is a mistake. The range of positions on these issues can be found in the characters in this game.</Text>
             <Comments>See, e.g. [#Spence:1950fx]. I am indebted to Hothersall for pointing out the ‘switchboard’ metaphor in his explanation of the ‘Neobehaviorism’ of Skinner in his 1984 *History of Psychology* [p. 411][#Hothersall:1984te]</Comments>
         </Document>
-        <Document ID="137">
-            <Title>AppendixFrontMatter</Title>
-            <Text>## Instructors Manual Appendices
-
-&lt;!--\begin{appendices}
-\let\svaddcontentsline\addcontentsline
-\renewcommand\addcontentsline[3]{%
-  \ifthenelse{\equal{#1}{lof}}{}%
-  {\ifthenelse{\equal{#1}{lot}}{}{\svaddcontentsline{#1}{#2}{#3}}}}
-
-
-
---&gt;
-</Text>
-        </Document>
         <Document ID="141">
             <Title>Other citations not mentioned previously</Title>
             <Text>
@@ -3598,6 +3583,21 @@ Marcus, E. (2002). Making Gay History: the half-century fight for lesbian and ga
 Rosario, V. A. (2002). Homosexuality and science: a guide to the debates, ABC-CLIO
 
 Wilson, K. K. (20XX) The Disparate Classification of Gender and Sexual Orientation in American Psychiatry, online at &lt;!--\url{http://priory.com/psych/disparat.htm}--&gt;. Accessed 2/18/2011
+</Text>
+        </Document>
+        <Document ID="137">
+            <Title>AppendixFrontMatter</Title>
+            <Text>## Instructors Manual Appendices
+
+&lt;!--\begin{appendices}
+\let\svaddcontentsline\addcontentsline
+\renewcommand\addcontentsline[3]{%
+  \ifthenelse{\equal{#1}{lof}}{}%
+  {\ifthenelse{\equal{#1}{lot}}{}{\svaddcontentsline{#1}{#2}{#3}}}}
+
+
+
+--&gt;
 </Text>
         </Document>
         <Document ID="24">
@@ -4999,7 +4999,7 @@ Anastasi, A. (1954) Psychological Testing 1st Edition. Macmillian
 
 Goode, E. (2001) “Anne Anastasi, the 'Test Guru' of Psychology, Is Dead at 92”, NY Times Published: May 16, 2001
 
-Spearman, C. (1904) '"GENERAL INTELLIGENCE," OBJECTIVELY DETERMINED AND MEASURED' American Journal of Psychology 15, 201-293 Available on Psych Classics: &lt;!--\url{http://psychclassics.yorku.ca/Spearman/--&gt;.
+Spearman, C. (1904) '"GENERAL INTELLIGENCE," OBJECTIVELY DETERMINED AND MEASURED' American Journal of Psychology 15, 201-293 Available on Psych Classics: &lt;!--\url{http://psychclassics.yorku.ca/Spearman/}--&gt;.
 
 Mendick, M. &amp; Urbanski, L. (1991). “The Origins and Activities of Apa's Division of the Psychology of Woemn” Psychology of Women Quarterly, 15: 651. available at &lt;!--\url{http://pwq.sagepub.com/content/15/4/651.full.pdf}--&gt;.
 
