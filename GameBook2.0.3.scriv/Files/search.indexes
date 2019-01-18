@@ -8,11 +8,11 @@
 
 ##### Background
 
-However much mental health practitioners may be personally convinced that we can tell the normal from the abnormal, the evidence is simply not compelling. It is commonplace, for example, to read about murder trials wherein eminent psychiatrists for the defense are contradicted by equally eminent psychiatrists for the prosecution on the matter of the defendant's sanity. More generally, there are a great deal of conflicting data on the reliability, utility, and meaning of such terms as “sanity,” “insanity,” “mental illness” and “schizophrenia.” Finally, as early as 1934, Ruth Benedict suggested that normality and abnormality are not universal. What is viewed as normal in one culture may be seen as quite aberrant in another.
+However much mental health practitioners may be personally convinced that we can tell the normal from the abnormal, the evidence is simply not compelling. It is commonplace, for example, to read about murder trials wherein eminent psychiatrists for the defense are contradicted by equally eminent psychiatrists for the prosecution on the matter of the defendant's sanity. More generally, there are conflicting datasets on the reliability, utility, and meaning of such terms as “sanity,” “insanity,” “mental illness” and “schizophrenia.” Finally, as early as 1934, Ruth Benedict suggested that normality and abnormality are not universal. What is viewed as normal in one culture may be seen as quite aberrant in another.
 
 ##### Rationale
 
-How do we know precisely what constitutes “normality” or mental illness? Conventional wisdom suggests that specially trained professionals have the ability to make resolably accurate diagnoses. In this research, however, we intend to challenge that assumption. What is—and what is not-- “normal” may have to do with the labels that are applied to people in particular settings.
+How do we know precisely what constitutes “normality” or mental illness? Conventional wisdom suggests that specially trained professionals have the ability to make reliably accurate diagnoses. In this research, however, we intend to challenge that assumption. What is---and what is not--- “normal” may have to do with the labels that are applied to people in particular settings.
 
 ##### Experimental Design
 
@@ -187,6 +187,55 @@ Cornbach, L. J. (1956) “The Two Disciplines of Scientific Psychology” Americ
 
 &lt;!--\label{app: pinel}
 \includepdf[pages={1-}]{../Appendices/1806-Pinel-A_treatise_on_insanity-Excerpt.pdf}--&gt;</Text>
+        </Document>
+        <Document ID="122">
+            <Title>Siegelman</Title>
+            <Text>&lt;!--\newpage--&gt;
+#### Adjustment of Homosexual and Heterosexual Women
+
+##### Background 
+
+The traditional psychiatric belief that homosexual men are emotionally unstable has recently been challenged by Evelyn Hooker's study of non-prisoner non-patient homosexual men.  There have been a few similar studies on women.  The contention that homosexual women are neurotic has typically been voiced by clinicians reporting on their own patients. One exception is the recent psychometric investigation by Kenyon (1968) who studied a non-clinical group of English homosexual women, and concluded that they were higher in neuroticism than a comparison group of heterosexuals. In contrast to the 'illness' notion of homosexuality, the authors of three psychometric studies dealing with non-clinical homosexuals and heterosexuals reported that heterosexual women were not better adjusted than homosexuals. (Armon, 1960; Freedman, 1968;)
+
+##### Rationale
+
+The paucity of research in this area is exemplified by the fact that a total of only four studies, noted above, have been found to date. Even the clinical literature, which is replete with case studies and therapeutic discussions concerning male homosexuality, is strikingly sparse in the area of lesbianism. The present study is proposed to add to the small body of data we now have on the adjustment of homosexual versus heterosexual women.
+
+##### Experimental Design
+
+Working with the leadership of the New York branch of the Daughters of Bilitis, a questionnaire will be sent out to recruit members for the study. An additional questionnaire will be distributed through a popular homophile bookstore in Greenwich Village, New York. And equivalent number of heterosexual women will be recruited from the undergraduate and graduate population of local colleges and universities.
+
+Several different instruments will be used to measure the overall psychological adjustment of the participants, including Scheier and Cattal's Neuroticism Scale Questionnaire (NSQ) (1961) tests of Alienation and Trust (Struening &amp; Richardson, 1965), Goal Directedness, Self-Acceptance and Sense of Self (Dignan, 1965), Dependency (Comry, 1964), Nurturance (Harvey et al. 1966) and Neuroticism (MacGuire 1966). The Crowne and Marlow Social Desirability Scale (1960) will also be used.  The differences on these measures between the homosexual and heterosexual women will be compared to test the 'illness' model of homosexuality in women.
+
+##### Significance and Contribution
+
+Recent interest in and discussions of the 'illness' model of male homosexuality have almost completely ignored the parallel issues for homosexual women. This study is a small step towards closing that gap.
+
+##### Works Cited.
+
+Armon, V. (1960) “Some personality variables in overt female homosexuality.” Journal of Protective Techniques, 24, 292-309
+
+Freedman, M.J. (1968) “Homosexuality amoung women and psychological adjustment.” Dissertation Abstracts, 28, 4294B.
+
+Hopkins, J.H. (1969). “The lesbian personality.” British Journal of Psychiatry, 115, 1433-6
+
+Kenyon, F.E. (1968). “Studies in female homosexuality: IV. Social and psychiatric aspects.” British Journal of Psychiatry, 114, 1337-50.
+Psychometric Tests
+
+Scheier, I. H. &amp; Cattell, R.B. (1961). The Neuroticism Scale Questionnaire, Champaign, Ill: Institute for Personality and Ability Testing
+
+Struening, E.I. &amp; Richardson, A.H. (1965). “A factor analytic exploration of the alienation, anomia and authoritarian domain.” American Sociological Review, 30, 768-78.
+
+Dignan, M.H. (1965). “Ego identity and maternal identification.” Journal of Personality and Social Psychology 1, 476-83
+
+Comry, A.L. (1964). “Personality factors compulsion, dependence hostility and neuroticism.” Educational and Psychological Measurement, 24, 75-84
+
+Harvey, O.J., Prather, M.S. White, J. and Alter, R.D. (1966).”'Teachers' belief systems and preschool atmospheres.” Journal of Educational Psychology 57, 373-81
+
+McGuire, R.G. (1966). “An inquiry into attitudes and value systems of a minority group.” Unpublished Doctoral Dissertation, NYU
+
+Crowne, D.P. &amp; Marlowe, D. (1960). “A new scale of social desirability independent of psychopathology.” Journal of Consulting Psychology, 24, 349-54
+</Text>
         </Document>
         <Document ID="118">
             <Title>Research Committee Proposals</Title>
@@ -364,6 +413,84 @@ Grinker, R. &amp; Spiegel, J. P. (1945) Men Under Stress American Psychological 
             <Title>WorksCited</Title>
             <Text>&lt;!--\printbibliography[heading=subbibliography]--&gt;</Text>
         </Document>
+        <Document ID="123">
+            <Title>Spitzer</Title>
+            <Text>&lt;!--\newpage--&gt;
+#### A Re-analysis of the Reliability of Psychiatric Diagnosis
+
+##### Introduction
+
+Classification systems such as diagnosis have two primary properties, reliability and validity. Reliability refers to the consistency with which subjects are classified; validity, to the utility of the system for its various purposes. In the case of psychiatric diagnosis, the purposes of the classification system are communication about clinical features, aetiology, course of illness and treatment. A necessary constraint on the validity of the system is its reliability. There is no guarantee that a reliable system is valid, but assuredly an unreliable system must be invalid.
+
+##### Background
+
+Studies of the reliability of psychiatric diagnosis provide information on the upper limits of its validity. This study will consider some of the difficulties in appraising diagnostic reliability, offers a re-analysis of the available data from the literature, and suggests a possible course of action to improve psychiatric diagnosis.
+
+##### Rationale
+
+Zubin (1967) reviewed the major studies of reliability of psychiatric diagnosis performed until 1966. He noted that diagnostic reliability is referred to in three different ways: agreement between independent diagnosticians examining the same patients, stability in diagnosis over time, and similarity in diagnostic frequencies for comparable samples. It is the first sense—interjudge agreement—that is fundamental.
+
+Recent studies of interjudge agreement of psychiatric (Schmidt and Fonda, 1956; Kreitman, 1961; Beck et al., 1962; Sandifer et al., 1964) report on agreement as to the presence of absence of a diagnosis, but they neglect to consider the rate at which diagnoses are made.
+
+Cohen (1960) has recently developed a statistical measure (called 'kappa') of interjudge agreement that incorrporates a correction for chance agreement. This study proposes to recalculate the reliability of psychiatric diagnosis from these studies based on Cohen's Kappa.
+
+##### Experimental Design
+
+The study will use existing data, culled from five recent papers measuring the interjudge agreement of psychiatric diagnosis.
+
+##### Significance and Contributions
+
+There is little doubt that the reliability of psychiatric diagnosis is being questioned at this time. If the presumed agreement of previous work depends merely on the rate of chance agreement, psychiatry must reevaluate it classification system immediately.
+
+##### Works Cited
+
+Cohen, J. (1960) “A coefficient of agreement for nominal scales.” Educ. Psychol. Measmt., 20, 37-46.
+
+Beck, A.T., Ward, C.H., Mendelson, M., Mock, J.E., &amp; Erbaugh, J.K. (1962). “Reliability of psychiatric diagnosis: 2. A study of consistency of clinical judgments and ratings.” Amer. J. Psychiat., 119, 351-7
+
+Sandifer, M.G., Pettus, C. &amp; Quade, D. (1964). “A study of psychiatric diagnosis.” J nerv. ment. Dis., 139, 350-6
+
+Kreitman, N. (1961) “The reliability of psychiatric diagnosis.” J. ment. Sci. 107, 876-86.
+
+Schmidt, H.). &amp; Fonda, C.P. (1956). “The reliability of Psychiatric Diagnosis: A new look.” J. abnor. soc., Psychol. 52, 262-7
+
+Zubin J. (1967) “Classification of the behavior disorders.” in Annual Review of Psychology (eds. P. R. Farnsworth &amp; O. McNemar). Palo Alto, California, Annual Reviews, pp. 373-406.
+</Text>
+        </Document>
+        <Document ID="119">
+            <Title>Watson</Title>
+            <Text>&lt;!--\newpage--&gt;
+#### Emotional responses in a human child.
+
+##### Background: 
+
+Many psychologists--Freud included--have held, with little evidence in support, that the human mind is built on a variety of instincts, such as self-preservation, sexual activity, etc. Emotional responses to fearful stimuli, such as rats and spiders, is commonly considered to be innate, possibly as a result of evolutionary pressures to avoid infectious or poisonous creatures.  This experiment seeks to condition a fear-response in a human infant, thus establishing that there is no need for theoretical innate entities in our explanation of emotion in humans.
+
+##### Rationale: 
+
+The success of Pavlov's work conditioning reflex responses to novel stimuli in canines has shown that behaviors previously believed to be instinctual are likely to have resulted from conditioning.  The current experiment seeks to determine if that insight can be extended to humans, by conditioning an emotional response in a child—fear—that is widely believed to be instinctual. Demonstrating that these reflexes can appear without appeal to 'instinct' or 'adaptation' undermines the need for theoretically innate entities in our understanding of human behavior.
+
+##### Experimental Design: 
+
+A child of a single destitute mother, currently employed as a wet nurse at a local hospital (Hopkins), has been recruited for the experiment. Given the nature of his mother's employment, the child is familiar with the clinical setting of a hospital, and hence an ideal subject for this experimental protocol. Previous work with this subject at the age of 8 months has demonstrated that he exhibits fear-like responses to loud sounds: the experimenter stood behind the subject, outside of eye sight and struck a steel bar with a hammer. On the first presentation, the subject startled and raised his hands. On the second, he began to tremble. On the third, he cried and seemed to be having a fit.
+
+The experimenter proposes the following:
+
+&gt; At 9 months of age, we will present the subject with (randomly): a white rat, a rabbit, a dog, a monkey, with masks with and without hair, cotton wool, and burning newspapers. Given the child's upbringing, it is unlikely that he has ever encountered any of these objects before.  We expect him to have no emotional response to any of them, but if he responds, that object will be removed from the study before proceeding.
+
+&gt; At the age of 11 months, one of the objects will be presented to him again. When he moves towards contact with the object, the experimenter will make the loud noise already established as causing a fear reaction.  Each movement towards the stimulus object will cause another loud noise stimulus.  Once the fear reaction is well conditioned, the experimenter will present the subject with the fear-conditioned object and record the response.  The child's reaction than will be compared with other similarly-aged children's reaction for typicality of fear-reactions in children.
+
+&gt; The fear-conditioned object will be reintroduced over the subsequent weeks and months at regular intervals to determine the persistence of the conditioned response. 
+
+##### Significance and Contribution
+
+This research has the potential to experimentally confirm or deny the commonly held belief that the fear response is innate, or at least instinctual. Pavlov's experiments with classical conditioning in dogs has shown that reflexes that were previously believed to be instinctual—such as salivation—could be conditioned in response to novel stimuli. If Pavlov's approach is to be applied to humans, it is incumbent that psychologists determine the existence and nature of human instinctual reactions, and if they can be conditioned like those of the canine.
+
+##### References
+
+Pavlov, I. P. (1927). Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex. 
+</Text>
+        </Document>
         <Document ID="171">
             <Title>EHooker-bio</Title>
             <Text>## Evelyn Hooker, PhD
@@ -538,27 +665,12 @@ Milar, K. S. (2011) “The Myth Buster: Evelyn Hooker's Groundbreaking Research 
 
 \stopcontents[gamebook]--&gt;</Text>
         </Document>
-        <Document ID="387">
-            <Title>PreGame</Title>
-            <Text>#### Prior to 1971
-
-It’s important that the first week set the pattern for all weeks after.  Each conference should have research reports and research proposals.  *Proposals* propose research to be carried out by the class. *Reports* report to the class on the result of that research.  So if a student *proposes* a research task in 1971, he or she will *report* on that research in 1972.
-
-That means we need to set up a research task prior to the meeting of the class in 1971, so it can be *reported*.  I’ve given the task of reporting on ‘Mental Rotation of 3-dimension objects’ to George Miller. I’ve chosen this task because it is a classic of cognitive psychology, and there is a freely-available demonstration on the APA’s website.
-
-The **best** approach here would be to register for an account here: &lt;!--\url{http://opl.apa.org/Experiments/About/AboutMentalRotation.aspx}--&gt;, and have all the students in the class participate in the experiment, then collect the data and pass it to the student playing Miller.
-
-If it is impossible to do this, because of class schedule or internet access or whatever, have the ‘Miller’ student read the actual paper---which is included in the ‘Primary Source’ directory of the game archive. The student ought to present the paper data *as if* it was class data.
-
-
-&lt;!--\newpage--&gt;</Text>
-        </Document>
         <Document ID="391">
             <Title>Iniital Credibility</Title>
             <Text>#### Initial credibility of each character
 Before the game begins, the credibility of each character ought to be established. The values displayed in table &lt;!--\fullref{table: initialcredibility}--&gt; are on the top of each individual’s game sheet. It is important, however, for everyone in the game to know how much credibility the various players have. To that end, it is advisable for the game master to start the game by publicly distributing the actual ‘credibility tokens’ (&lt;!--\fullref{credibilitypoints}--&gt;) during the start of the first class, announcing who has what credibility.
 
-&lt;!-- \begin{longtable}[!t]{ | P{3.4cm} | P{6.5cm} | }
+&lt;!-- \begin{longtable}[!t]{ | P{4cm} | P{1.5cm} | }
 \hline 
 \tahead{Name}&amp;\tahead{Initial Credibility} \\ \hline
 Robert Spitzer&amp;5 \\ \hline
@@ -588,10 +700,25 @@ Marr&amp;0\\ \hline
 Milgram&amp;15\\ \hline
 Zimbardo&amp;0\\ \hline
 \caption{Initial credibility}
-\label{table: characterlarge}
+\label{table: initialcredibility}
 \end{longtable}--&gt;
 
 </Text>
+        </Document>
+        <Document ID="387">
+            <Title>PreGame</Title>
+            <Text>#### Prior to 1971
+
+It’s important that the first week set the pattern for all weeks after.  Each conference should have research reports and research proposals.  *Proposals* propose research to be carried out by the class. *Reports* report to the class on the result of that research.  So if a student *proposes* a research task in 1971, he or she will *report* on that research in 1972.
+
+That means we need to set up a research task prior to the meeting of the class in 1971, so it can be *reported*.  I’ve given the task of reporting on ‘Mental Rotation of 3-dimension objects’ to George Miller. I’ve chosen this task because it is a classic of cognitive psychology, and there is a freely-available demonstration on the APA’s website.
+
+The **best** approach here would be to register for an account here: &lt;!--\url{http://opl.apa.org/Experiments/About/AboutMentalRotation.aspx}--&gt;, and have all the students in the class participate in the experiment, then collect the data and pass it to the student playing Miller.
+
+If it is impossible to do this, because of class schedule or internet access or whatever, have the ‘Miller’ student read the actual paper---which is included in the ‘Primary Source’ directory of the game archive. The student ought to present the paper data *as if* it was class data.
+
+
+&lt;!--\newpage--&gt;</Text>
         </Document>
         <Document ID="77">
             <Title>DSMI</Title>
@@ -599,6 +726,36 @@ Zimbardo&amp;0\\ \hline
 
 &lt;!--\label{app: DSMI}
 \includepdf[pages={1-}]{../Appendices/dsm-i.pdf}--&gt;</Text>
+        </Document>
+        <Document ID="124">
+            <Title>Zimbardo</Title>
+            <Text>&lt;!--\newpage--&gt;
+#### Interpersonal Dynamics in a Simulated Prison
+
+##### Background
+
+After spending four years in a Siberian prison, the great Russian novelist Dostoevsky commented, surprisingly, that his time in prison had created in him a deep optimism about the ultimate future of mankind because, as he put it, if man could survive the horrors of prison life he must surely be a “creature who could withstand anything.” In the century which has passed since Dostoevsky’s imprisonment, little has changed to render the main thrust of his statement less relevant. Although we have passed through periods of enlightened humanitarian reform, in which physical conditions within prisons have improved somewhat and the rhetoric of rehabilitation has replaced the language of punitive incarceration., the social institution of prison has continued to fail. On purely pragmatic grounds, there is substantial evidence that prisons neither “rehabilitate” nor act as deterrent to future crime—in America, recidivism rates upwards of 75% speak quite decisively to these criteria. On humanitarian grounds, as well, prisons have failed: our mass media are increasingly filled with accounts of atrocities committed daily, man against man, in reaction to the penal system or in the name of it. The prison undeniably creates, almost to the point of cliché, an intense hatred and disrespect in most inmates for the authority and the established order of society into which they will eventually return. And the toll which it takes on the deterioration of human spirit for those who must administer it as well as for those upon whom it is inflicted, is incalculable.
+
+##### Rationale
+
+Attempts to provide an explanation for the deplorable condition of our penal system and its dehumanizing effects upon prisoners and guards often focus upon what might be called the *dispositional hypothesis*. While this explanation is rarely expressed explicitly, it is central to a prevalent non-conscious ideology: that the state of the social institution of the prison is due to the “nature” of the people who administer it, or the “nature” of the people who populate it, or both. That is, a major contributing cause to despicable conditions, violence, brutality, dehumanization and degradation existing with any prison can be traced to some innate or acquired characteristic of the correctional and inmate population.
+
+The dispositional hypothesis has been embraced by the proponents of the prison *status quo* (blaming conditions on the evil in the prisoners), as well as by its critics (attributing the evil to guards and staff with their evil motives and deficient personality structures).  A critical evaluation of the dispositional hypothesis cannot be made directly through observation in existing prison settings, since such naturalistic observation necessarily confounds the acute effects of the environment with the chronic characteristics of the inmate and guard populations. To separate the effects of the prison environment per se from those attributable to a priori dispositions of its inhabitants requires a research strategy in which a “new” prison is constructed, comparable in its fundamental social-psychological milieu to existing prison systems, but entirely populated by individuals who are undifferentiated in all essential dimensions form the rest of society.
+
+##### Experimental Design
+
+Interpersonal dynamics in a prison environment are to be studied experimentally by designing a functional simulation of a prison in which subjects role-play prisoners and guards for an extended period of time. To assess the power of the social forces on the emergent behavior in this situation, alternative explanations in terms of pre-existing dispositions are to be eliminated through subject selection. A homogeneous “normal” sample is to be chosen after extensive interviewing and diagnostic testing of a large group of volunteer male college students. Half of the subjects are to be randomly assigned to role-play prison guards for eight hours each day, while the others role-play prisoners incarcerated for nearly one full week. Neither group will receive any specific training in these roles. The primary investigator will role-play the prison warden, and consultants from the real prison population (both prisoners and prison officials) will be recruited to assist in the planning and implementation of the prison environment.
+
+Continuous, direct observation of behavioral interactions will be supplemented by video-taped recording, questionnaires, self-report scales and interviews. All these data sources are likely to converge on the conclusion that this simulated prison will develop into a psychologically compelling prison environment.
+
+##### Significance and Contributions
+
+The authors believe that this demonstration will reveal new dimensions in the social psychology of imprisonment worth pursuing in future research, In addition, this research will provide a paradigm and information base for studying alternatives to existing guard training, as well as for questioning the basic operating principles of which penal institutions rest. There is great need today for prison reforms that recognize the dignity and humanity of both prisoners and guards who are constantly forced into one of the most intimate and potentially deadly encounters known to man. This study has the potential to inform those reforms.
+
+##### Works Cited
+
+
+</Text>
         </Document>
         <Document ID="168">
             <Title>BehavioristOverview</Title>
@@ -693,7 +850,7 @@ Chomsky, N. (1967). “The Responsibility of Intellectuals” The New York Revie
 \\ \hline
 
 K. Clark&amp;
-Phillips, L. “Recontextualizing Kenneth B. Clark: An Afrocentric Perspective on the Paradoxial Legacy of a Model Psychologist-Activist” from Evolving Perspectives on the History of Psychology, Pinkren, W and Dewsbury, D.
+Phillips, L. “Recontextualizing Kenneth B. Clark: An Afrocentric Perspective on the Paradoxical Legacy of a Model Psychologist-Activist” from Evolving Perspectives on the History of Psychology, Pinkren, W and Dewsbury, D.
 \newline
 Clark, K. (1971) “The pathos of power: A psychological perspective” American Psychologist 26(12) 1047-1057 \\ \hline
 
@@ -747,7 +904,7 @@ J. Marmor&amp;Marmor, J. (1970) “The Limits of Free Association” Arch. Gen. 
 \newline
 Marmor, J. (Ed.) (1965). Sexual inversion: The multiple roots of homosexuality (pp. 83107). New York: Basic Books. \\ \hline
 
-D. Marr&amp;Marr, D. (1982). Vision: A Computational Investigation into the Human Representation and Processing of Visual Information MIT Press (esp. Ch 1)
+D. Marr&amp;Marr, D. (1982). \emph{Vision: A Computational Investigation into the Human Representation and Processing of Visual Information} MIT Press (esp. Ch 1)
 \\ \hline
 
 S. Milgram&amp; Milgram, S. (1963) “Behavioral study of obedience.” Journal of Abnormal and Social Psychology, 67, 371–378. Available at \url{http://www.wadsworth.com/psychology_d/templates/student_resources/0155060678_rathus/ps/ps01.html} with permission from Alexandra Milgram.
@@ -755,12 +912,12 @@ S. Milgram&amp; Milgram, S. (1963) “Behavioral study of obedience.” Journal 
 Milgram, S. (1967). "The Small World Problem" Psychology Today, 2 p. 60 – 67
 \\ \hline
 
-G. Miller&amp;Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63, 81-97.
+G. Miller&amp;Miller, G. A. (1956). “The magical number seven, plus or minus two: Some limits on our capacity for processing information.” Psychological Review, 63, 81-97.
 \newline
 Miller, G. A. (1969). Psychology as a means of promoting human welfare. American Psychologist, 24(12), 1063-1075.
  \\ \hline
 
-J. Piaget&amp;Piatelli-Palmarini, M. (Ed.) (1980). Language and Learning: The Debate between Jean Piaget and Noam Chomsky, London: Routledge \&amp; Kegan Paul . Reviewed at: \url{http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=5843312}
+J. Piaget&amp;Piatelli-Palmarini, M. (Ed.) (1980). \emph{Language and Learning: The Debate between Jean Piaget and Noam Chomsky}, London: Routledge \&amp; Kegan Paul . Reviewed at: \url{http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=5843312}
 \\ \hline
 L. Tyler&amp;Tyler, L.E. (1969). The Work of the Counselor, Prentice Hall
 \newline
@@ -770,12 +927,12 @@ Tyler, L. E. (1973) “Design for a hopeful psychology” American Psychologist,
 
 C. Socarides&amp;Socarides, C.W. (1963). “Homosexuality: A Psychoanalytic Study: By Irving Bieber, et. al. New York: Basic Books Inc., 1962 385 pp.” Psychoanalytic Quarterly, 32: 111-114
 \newline
-Socarides, C. W. (1968).The Overt Homosexual. Jason Aronson, Inc.
+Socarides, C. W. (1968). \emph{The Overt Homosexual}. Jason Aronson, Inc.
 \newline
 Socarides, C.W. (1970). “Homosexuality and Medicine” Journal of the American Medical Association 212 (7): 1199
  \\ \hline
 
-J. Spiegel \&amp;Grinker, R. &amp; Spiegel, J. P. (1945) Men Under Stress American Psychological Association. Was once available print-on-demand, but is not currently: \url{www.apa.org/pubs/books/4320127.aspx}
+J. Spiegel \&amp;Grinker, R. &amp; Spiegel, J. P. (1945) \emph{Men Under Stress} American Psychological Association. Was once available print-on-demand, but is not currently: \url{www.apa.org/pubs/books/4320127.aspx}
 \\ \hline
 
 R. Spitzer&amp;Spitzer, R. L. and Endicott, J. “Medical and Mental Disorder: Proposed Definition and Criteria” in Critical Issues in Psychiatric Diagnosis, Spitzer and Klein, e.d. See also Klein, D. “A Proposed Definition of Mental Illness”, in the same volume.
@@ -784,7 +941,7 @@ Spitzer. Research diagnostic criteria (RDC). Biometrics research (1975) pp. 34 (
 \newline
 Spitzer, R. and Fleiss, J. (1974). “A Re-analysis of the Reliability of Psychiatric Diagnosis” Brit. J. Psychiat. 125, 341-7 \\ \hline
 
-T. Szasz&amp; Popper, K. R. (1959). The Logic of Scientific Discovery. New York: Basic Books
+T. Szasz&amp; Popper, K. R. (1959). \emph{The Logic of Scientific Discovery}. New York: Basic Books
 \newline
 Szasz, T. (1960). “The Myth of Mental Illness” American Psychologist, 15, p. 113-118 available at \url{http://psychclassics.yorku.ca/Szasz/myth.htm}
 \\ \hline
@@ -1186,7 +1343,7 @@ See, e.g. K MacCorquodale (1970) “On Chomsky's Review of Skinner's Verbal Beha
 
 #### Learning Objectives
 
-In many ways, this is not a game about Psychology or Psychiatry, it is a game about the Philosophy of Science. This shouldn't really be surprising, as the history of the Psychology and Psychiatry is intimately linked to the history of the Philosophy of Science. Arguments made by Wundt, Freud, Watson, Hull Skinner and Miller all rely heavily on claims regarding what is or is not a legitimate scientific claim. This issues has not disappeared from undergraduate Psychological classroom either.  The APA's guidelines for the Undergraduate Major in Psychology, published 2007, lists 10 learning outcomes for a major. The first is in box &lt;!--\fullref{excerptfromapaguidelinesforanundergraduatemajorinpsychology2007}--&gt;, and the second in &lt;!--\fullref{excerptfromapaguidelinesforanundergraduatemajorinpsychology2.02013}--&gt;.
+In many ways, this is not a game about Psychology or Psychiatry, it is a game about the Philosophy of Science. This shouldn't really be surprising, as the history of Psychology and Psychiatry is intimately linked to the history of Philosophy of Science. Arguments made by Wundt, Freud, Watson, Hull Skinner and Miller all rely heavily on claims regarding what is or is not a legitimate scientific claim. This issue has not disappeared from undergraduate Psychological classroom either.  The APA's guidelines for the Undergraduate Major in Psychology, published 2007, lists 10 learning outcomes for a major. The first is in box &lt;!--\fullref{excerptfromapaguidelinesforanundergraduatemajorinpsychology2007}--&gt;, and the second in &lt;!--\fullref{excerptfromapaguidelinesforanundergraduatemajorinpsychology2.02013}--&gt;.
 
 
 &lt;!--\begin{apatextbox}{Excerpt from APA Guidelines for an Undergraduate Major in Psychology, 2007}--&gt;
@@ -1230,16 +1387,16 @@ If the reader compares to the definitions offered by the various historical figu
 
 Version 2.0 instrumentalizes the ‘nature of psychology as a discipline’ into the measurable phrase "use basic psychological terminology, concepts and theories."  It is also notable that the phrase “and mental processes” appears in three of the subpoints (1.1a, 1.1b and 1.1c), rather than just one (b).  One might be tempted to assert that behaviorism is well and truly dead in Psychology. 
 
- My main for quoting this document is, however, 2007 (a) and 2013 (1.1b).
+ My main reason for quoting this document is, however, 2007 (a) and 2013 (1.1b).
 
-The question *if* psychology is a science is a question of demarcation – the classic issue in the Philosophy of Science. But answering *why* psychology is a science assumes a affirmative answer to the demarcation problem, and hence, a particular view in the Philosophy of Science.  This has not been a settled issue until recently.
+The question “is psychology a science” is a question of demarcation – the classic issue in the Philosophy of Science. But answering *why* psychology is a science assumes an affirmative answer to the demarcation problem and, hence, a particular view in the Philosophy of Science.  This is not a settled issue.
 
-For example, Wundt charged Hebart with non-scientific investigations into introspection, because Hebart did not adequately control the environment. Watson charged that McDougall's notion of behaviors having a 'purpose' was non-scientific, because McDougall did not follow strict verificationism in the philosophy of science. When Hull charged that Tolman's explanations were unscientific because they positing internal entities, he did so by citing Newton (1935). Miller and Chomsky rejected Skinner's arguments by citing Philosophers of Science such as Patrick Suppes, who contend that the history of science shows that scientists do posit internal entities, if they can modeled mathematically.
+For example, Wundt charged Hebart with non-scientific investigations into introspection, because Hebart did not adequately control the environment. Watson charged that McDougall's notion of behaviors having a 'purpose' was non-scientific, because McDougall did not follow strict verificationism in the Philosophy of Science. When Hull charged that Tolman's explanations were unscientific because they posited internal entities, he did so by citing Newton (1935). Miller and Chomsky rejected Skinner's arguments by citing Philosophers of Science such as Patrick Suppes, who contend that the history of science shows that scientists do posit internal entities, if they can be modeled mathematically.
 
 
 ##### Textbooks
 
-Most *Introduction to Psychology* textbooks address Goal 1 in Chapter 1. The all include a brief historical overview, and all note Wundt, James, Freud and Pavlov.  
+Most *Introduction to Psychology* textbooks address Goal 1 in Chapter 1. They all include a brief historical overview, and all note Wundt, James, Freud and Pavlov.  
 
 &lt;!--\begin{longtable}[!t]{ | P{2cm} | P{5cm} | P{7cm} | }
 \hline
@@ -1256,7 +1413,7 @@ Most *Introduction to Psychology* textbooks address Goal 1 in Chapter 1. The all
 \label{table: timeline}
 \end{longtable}--&gt;
 
-When one reviews these offerings, one is struct by the lack of variation. All cite the same historical movements---including, somewhat surprisingly, humanistic psychology. They *all* define science as a method or procedure, and all reject the notion that science is a body of knowledge to be memorized.  This cannot be random. No equivalent set of texts in Philosophy would be as uniform.
+When one reviews these offerings, one is struck by the lack of variation. All cite the same historical movements---including, somewhat surprisingly, humanistic psychology. They *all* define science as a method or procedure, and all reject the notion that science is a body of knowledge to be memorized.  This cannot be random. No equivalent set of texts in Philosophy would be as uniform.
 
 Moreover, the idea that science can be distinguished from non-science or pseudoscience based on method alone is highly questionable. Ptolemaic astronomy based its work on careful observation, and applied the rigorous methods of mathematics in order to describe and predict the movements of the heavens.  So does astrology.  On the other side of the dialectic, there is little in relativistic physics or quantum mechanics that is observable or was subject to experiment *before* it was accepted as scientific.  
 
@@ -1365,36 +1522,34 @@ Retiring members in parenthesis
 
 At the completion of this game, the students will be able to:
 
-&lt;!--\begin{apatextbox}{Learning Objectives}
-1. Recognize that the historical contingency of the concepts, principles and overarching themes that define and distinguish of our contemporary disciplines of the mind. \\
+&lt;!--\begin{apatextbox}{Learning Objectives} --&gt;
+1. Recognize that the historical contingency of the concepts, principles and overarching themes that define and distinguish our contemporary disciplines that study the mind. &lt;!--\\--&gt;
 
-2. Identify and respond to historical examples where debates about evidence shift into debates whether or not the evidence is scientific---i.e., about the philosophy of science, and the legitimacy of evidence.  \\
+2. Identify and respond to historical examples where debates about evidence shift into debates on whether or not the evidence is scientific---i.e., about the philosophy of science, and the legitimacy of evidence.  &lt;!--\\--&gt;
 
-3. Demonstrate, using actual examples from historical psychology, a more sophisticated understanding of the process of scientific inquiry than the simplistic experimental model. \\
+3. Demonstrate, using actual examples from historical psychology, a more sophisticated understanding of the process of scientific inquiry than the simplistic experimental model. &lt;!--\\--&gt;
 
-&gt; 3.1 Understand the concept of a ‘paradigm’ as Kuhn originally meant it: as a ‘model’ experiment that defines an era of a discipline or a scientific culture. \\
+&gt; 3.1 Understand the concept of a ‘paradigm’ as Kuhn originally meant it: as a ‘model’ experiment that defines an era of a discipline or a scientific culture. &lt;!--\\--&gt;
 
-&gt; 3.2 Distinguish between observational studies, experimental interventions and modeling, and the scientific value of each. \\
+&gt; 3.2 Distinguish between observational studies, experimental interventions and modeling, and the scientific value of each. &lt;!--\\--&gt;
 
-&gt; 3.3 Apply their understanding of paradigm cases like Newton’s *Experimentum Crucis*, and Hermann Ebbinghaus’ memory experiments as *the* paradigm of experimental psychology, to judge the validity of new and novel research proposals. \\
+&gt; 3.3 Apply their understanding of paradigm cases like Newton’s *Experimentum Crucis*, and Hermann Ebbinghaus’ memory experiments as *the* paradigm of experimental psychology, to judge the validity of new and novel research proposals. &lt;!--\\--&gt;
 
-&gt; 3.4 Recognize and manipulate the logical structure of scientific proposals (i.e. The H-D method), including correctly interpreting evidence gathered as bearing on the hypothesis being tested. As this is historical, the students should also recognize that the reasoning of real, historical scientists frequently fails to follow this ideal. \\
+&gt; 3.4 Recognize and manipulate the logical structure of scientific proposals (i.e. The H-D method), including correctly interpreting evidence gathered as bearing on the hypothesis being tested. As this is historical, the students should also recognize that the reasoning of real, historical scientists frequently fails to follow this ideal. &lt;!--\\--&gt;
 
- &gt; 3.5 Identify potential confounding variables in basic experimental design, and suggest ways those variables may be controlled. \\
+ &gt; 3.5 Identify potential confounding variables in basic experimental design, and suggest ways those variables may be controlled. &lt;!--\\--&gt;
 
-&gt;3.6 Identify the strengths and weaknesses of non-experimental social science methods, specifically observational research (both naturalistic and participant-observation) and modeling; and apply this analysis to real-word cases (--&gt;[#Rosenhan:1973uq], [#Haney:1973wf], e.g.). &lt;!--\\
+&gt;3.6 Identify the strengths and weaknesses of non-experimental social science methods, specifically observational research (both naturalistic and participant-observation) and modeling; and apply this analysis to real-word cases ([#Rosenhan:1973uq], [#Haney:1973wf], e.g.). &lt;!--\\--&gt;
 
-4. Demonstrate a working knowledge of the intellectual ‘environment’ that gave rise to behaviorism and psychoanalysis. \\
+4. Demonstrate a working knowledge of the intellectual ‘environment’ that gave rise to behaviorism and psychoanalysis. &lt;!--\\--&gt;
 
-5.  Engage with primary sources in the history of psychology. \\
+5.  Engage with primary sources in the history of psychology. &lt;!--\\--&gt;
 
-6.  Demonstrate a working knowledge of the major distinctions in the study of the mind: psychodynamic, behavioristic and cognitive, including being able to correctly categorize major views / works, and discuss the complexity of cases on the margins (i.e. Tolman, Bandura) \\
+6.  Demonstrate a working knowledge of the major distinctions in the study of the mind: psychodynamic, behavioristic and cognitive, including being able to correctly categorize major views / works, and discuss the complexity of cases on the margins (i.e. Tolman, Bandura) &lt;!--\\--&gt;
 
-7. Appreciate the social impact taxonomies and labels can have on others, and the social significance thereof. \\
+7. Appreciate the social impact taxonomies and labels can have on others, and the social significance thereof. &lt;!--\\
 \label{table: learninggoals}
 \end{apatextbox}--&gt;</Text>
-            <Comments>Find / write section pointing out places where this occurs: Watson / Skinner appeal to verificationism. From footnote 2 in instructor’s manual ee, e.g. Wundt (1902, pg 5–6) Freud XX, Watson (Mathematical paper), Skinner XX, Hull, (1935), Miller (citing Suppes) 
-</Comments>
         </Document>
         <Document ID="175">
             <Title>DMarr-bio</Title>
@@ -1481,9 +1636,9 @@ The APA guidelines cited above do not report *what* the key terminology, concept
 
 * Conditioning: classical, operant and vicarious: Section &lt;!--\fullref{behaviorists}--&gt;, articulated by Bandura, Harlow and Hooker. Specific experiments to be considered include Lab &lt;!--\fullref{emotionalresponsesinahumanchild.}--&gt;
 
-* Social Psychology: Zimbardo (Lab: Zimbardo proposes &lt;!--\fullref{interpersonaldynamicsinasimulatedprison}--&gt; to Research committee and, if time allows, &lt;!--\fullref{smallworld}--&gt; from Milgrim.)
+* Social Psychology: Milgrim and Zimbardo --- two labs: Zimbardo proposes &lt;!--\fullref{interpersonaldynamicsinasimulatedprison}--&gt; to Research committee and, if time allows, &lt;!--\fullref{smallworld}--&gt; from Milgrim.)
 
-* Statistical concepts: Hooker’s paper ([#Psychology:tf]) sets the stage, but it will reappear in the game play of Anastasi and Spitzer. Spitzer’s presentation on the Feighner Criteria should cover statistical concepts. Anastasi should present a paper about ‘norms’ and whether ‘normal’ is a statistical function of a population, or an ideal. Lab includes &lt;!--\fullref{are-analysisofthereliabilityofpsychiatricdiagnosis}--&gt;
+* Statistical concepts: Hooker’s paper ([#Psychology:tf]) sets the stage, but it will reappear in the game play of Anastasi and Spitzer. Spitzer’s presentation on the Feighner Criteria should cover statistical concepts. Anastasi should present a paper about ‘norms’ and whether ‘normal’ is a statistical function of a population, or an ideal. Lab: &lt;!--\fullref{are-analysisofthereliabilityofpsychiatricdiagnosis}--&gt;
 
 * Experimental Design: Research committee should have a number of distinct research designs to consider. See Section &lt;!--\fullref{basicscientificresearch}--&gt; in the game book as well as Section &lt;!--\fullref{ethicsofhumanresearch}--&gt;.
 
@@ -1495,9 +1650,9 @@ The Philosophy of Science concepts and theories that arise are:
 
 * Hypothetical-Deductive model of scientific reasoning, including verificationism and falsificationism. &lt;!--\fullref{thelogicofevidence}--&gt;, Research committee discussions.
 
-* Modeling in scientific inquiry---Section &lt;!--\fullref{modelsinscience}--&gt;. Lab includes &lt;!--\fullref{mentalrotationofthree-dimensionalobjects}--&gt;.
+* Modeling in scientific inquiry---Section &lt;!--\fullref{modelsinscience}--&gt;. Lab: &lt;!--\fullref{mentalrotationofthree-dimensionalobjects}--&gt;.
 
-* Complications of observation ---  Section &lt;!--\fullref{observationalresearch}--&gt;. Lab includes &lt;!--\fullref{onbeingsaneininsaneplaces}--&gt;.
+* Complications of observation ---  Section &lt;!--\fullref{observationalresearch}--&gt;. Lab: &lt;!--\fullref{onbeingsaneininsaneplaces}--&gt;.
 
 
 I've noted where in the games these issues arise.
@@ -1514,7 +1669,7 @@ Homosexuality \emph{is / is not} a mental disorder&amp;Spitzer, Socarides, Biebe
 1972 \fullref{writingtask:green} and \fullref{writingtask:spiegel}) \newline
  \fullref{writingtask:socarides} and \fullref{writingtask:bieber} \newline
 \fullref{proposal:socarides} \newline
-1973 Nomenclature Sumpoisum. Include \fullref{writingtask:goldA} \\ \hline
+1973 Nomenclature Sympoisum. Include \fullref{writingtask:goldA} \\ \hline
 The ‘medical model’ \emph{is / is not} a suitable approach to understanding the human mind.&amp;Szasz, Albee v Spitzer and all the MDs&amp;1972 Symposium: \fullref{writingtask:szasz}, \fullref{writingtask:marmor} and \fullref{writingtask:albee} \newline
 \\ \hline
 The mentally ill \emph{must / should be} treated exclusively by \emph{psychiatrists / psychiatrists} and \emph{psychologists / exclusively psychologists} &amp;Albee&amp;1972 \fullref{proposal:hopcke} and \fullref{proposal:albee} \newline Mediated by \fullref{proposal:fordneysettlage} in the Role Sheet Book \newline
@@ -1549,11 +1704,11 @@ How do we define a mental illness / disorder?&amp;Spitzer, main factions&amp;\fu
 
 I’ve included a ‘textbook’ style section (&lt;!--\fullref{testingcausalclaimsexperimentally}--&gt;) of the game book that introduces the standard independent variable-dependent variable-controlled variable logic that is included in most research methods in psychology courses. I prefer, of course, to introduce these ideas with real historical examples, as I do in Section &lt;!--\fullref{theparadigmaticexperiments}--&gt;.
 
-I included the ‘textbook’ section to give the research committee a quick and dirty heuristic for judging the validity of proposed experiments. But this simplistic approach is largely misguided and the research committee may stumble as a result. For example, they will encounter these real, historical examples that simply don’t fit the model:
+I included the ‘textbook’ section to give the research committee a quick heuristic for judging the validity of proposed experiments. But this simplistic approach is largely misguided and the research committee may stumble as a result. For example, they will encounter these real, historical examples that simply don’t fit the model:
 
 * We know that Rosenhan measured the time spent inside a mental health institution as a dependent variable, but what was the IV? Was there a control group?
 
-* We know that the IV in  Zimbardo’s prison ‘experiment’ is assignment to either ‘prisoner’ or ‘guard’ role, but what is his DV?
+* We know that the IV in  Zimbardo’s prison ‘experiment’ is assignment to either ‘prisoner’ or ‘guard’ role, but what is his DV? Is he measuring anything?
 
 * Milgrim measured the number of hops a letter would take in his ‘small world’ experiment, but what is his manipulation of the IV?
 
@@ -1836,15 +1991,15 @@ If the game master chooses, he or she may introduce or encourage the development
 With something like the 7 part definition included therein:
 
 *Features*
-&gt;&gt;A a clinically significant behavioral or psychological syndrome or pattern that occurs in an individual
+&gt;&gt;A. a clinically significant behavioral or psychological syndrome or pattern that occurs in an individual
 
-&gt;&gt;B is associated with present distress (e.g., a painful symptom) or disability (i.e., impairment in one or more important areas of functioning) or with a significantly increased risk of suffering death, pain, disability, or an important loss of freedom
+&gt;&gt;B. is associated with present distress (e.g., a painful symptom) or disability (i.e., impairment in one or more important areas of functioning) or with a significantly increased risk of suffering death, pain, disability, or an important loss of freedom
 
-&gt;&gt;C must not be merely an expectable and culturally sanctioned response to a particular event, for example, the death of a loved one
+&gt;&gt;C. must not be merely an expectable and culturally sanctioned response to a particular event, for example, the death of a loved one
 
-&gt;&gt;D a manifestation of a behavioral, psychological, or biological dysfunction in the individual
+&gt;&gt;D. a manifestation of a behavioral, psychological, or biological dysfunction in the individual
 
-&gt;&gt;E neither deviant behavior (e.g., political, religious, or sexual) nor conflicts that are primarily between the individual and society are mental disorders unless the deviance or conflict is a symptom of a dysfunction in the individual
+&gt;&gt;E. neither deviant behavior (e.g., political, religious, or sexual) nor conflicts that are primarily between the individual and society are mental disorders unless the deviance or conflict is a symptom of a dysfunction in the individual
 
 
 *Other Considerations*
@@ -1858,7 +2013,7 @@ With something like the 7 part definition included therein:
 
 #### Not grasping importance of DSMIII
 
-In my experience, and perhaps it is because I'm a philosopher teaching philosophy students, students tend towards the radical positions of Albee and Szasz in a way no real, practicing psychologist or psychiatrist would.  If this occurs, the game master ought to intervene to help students understand that with the advent of health insurance, if it can't be labeled, you probably won't get paid to treat it.
+In my experience, and perhaps it is because I'm a Philosopher teaching Philosophy students, students tend towards the radical positions of Albee and Szasz in a way no real, practicing psychologist or psychiatrist would.  If this occurs, the game master ought to intervene to help students understand that with the advent of health insurance, if it can't be labeled, you probably won't get paid to treat it.
 
 #### Failed Research cycle
 
@@ -3325,15 +3480,6 @@ See the section on behaviorism in the 'Public Character info' section for more o
 See, e.g. interview with Skinner, p. 39 pf Baars.
 You can read more about the life of Alan Turing, who is one of the greatest, yet least well known, scientists of the 20th century, in the section Brief History of Homosexuality.</Comments>
         </Document>
-        <Document ID="136">
-            <Title>Supplemental Documents copy</Title>
-            <Text>&lt;!-- \renewcommand*{\thechapter}{}
-\renewcommand*{\thesection}{\Alph{section}}
-\setcounter{chapter}{0}
-\renewcommand*{\thesubsection}{\arabic{subsection}}
-
---&gt;</Text>
-        </Document>
         <Document ID="140">
             <Title>Obits and Tributes</Title>
             <Text>### Obituaries and Tributes 
@@ -3386,6 +3532,15 @@ Fox, M. “Charles W Socarides, Psychiatrist and Psychoanalyst, Is Dead at 83”
 
 Cook, J. “John P. Spiegel, 80, Expert on Violence And Combat Stress” New York Times, July 19, 1991. &lt;!--\url{http://www.nytimes.com/1991/07/19/obituaries/john-p-spiegel-80-expert-on-violence-and-combat-stress.html}--&gt;.
 </Text>
+        </Document>
+        <Document ID="136">
+            <Title>Supplemental Documents copy</Title>
+            <Text>&lt;!-- \renewcommand*{\thechapter}{}
+\renewcommand*{\thesection}{\Alph{section}}
+\setcounter{chapter}{0}
+\renewcommand*{\thesubsection}{\arabic{subsection}}
+
+--&gt;</Text>
         </Document>
         <Document ID="18">
             <Title>HistoryOfGayRightsMovement2</Title>
@@ -3553,21 +3708,6 @@ What is the proper role of an intellectual---specifically a social scientist---i
 Note that while these questions overlap, none of them ought to determine any of the others.  One could believe, for example, that psychoanalysis is scientific, but *bad* science. Or one could believe that the medical model *is* a suitable approach, but classifying mental disorders under any criteria is a mistake. The range of positions on these issues can be found in the characters in this game.</Text>
             <Comments>See, e.g. [#Spence:1950fx]. I am indebted to Hothersall for pointing out the ‘switchboard’ metaphor in his explanation of the ‘Neobehaviorism’ of Skinner in his 1984 *History of Psychology* [p. 411][#Hothersall:1984te]</Comments>
         </Document>
-        <Document ID="137">
-            <Title>AppendixFrontMatter</Title>
-            <Text>## Instructors Manual Appendices
-
-&lt;!--\begin{appendices}
-\let\svaddcontentsline\addcontentsline
-\renewcommand\addcontentsline[3]{%
-  \ifthenelse{\equal{#1}{lof}}{}%
-  {\ifthenelse{\equal{#1}{lot}}{}{\svaddcontentsline{#1}{#2}{#3}}}}
-
-
-
---&gt;
-</Text>
-        </Document>
         <Document ID="141">
             <Title>Other citations not mentioned previously</Title>
             <Text>
@@ -3598,6 +3738,21 @@ Marcus, E. (2002). Making Gay History: the half-century fight for lesbian and ga
 Rosario, V. A. (2002). Homosexuality and science: a guide to the debates, ABC-CLIO
 
 Wilson, K. K. (20XX) The Disparate Classification of Gender and Sexual Orientation in American Psychiatry, online at &lt;!--\url{http://priory.com/psych/disparat.htm}--&gt;. Accessed 2/18/2011
+</Text>
+        </Document>
+        <Document ID="137">
+            <Title>AppendixFrontMatter</Title>
+            <Text>## Instructors Manual Appendices
+
+&lt;!--\begin{appendices}
+\let\svaddcontentsline\addcontentsline
+\renewcommand\addcontentsline[3]{%
+  \ifthenelse{\equal{#1}{lof}}{}%
+  {\ifthenelse{\equal{#1}{lot}}{}{\svaddcontentsline{#1}{#2}{#3}}}}
+
+
+
+--&gt;
 </Text>
         </Document>
         <Document ID="24">
@@ -4713,7 +4868,7 @@ Every character has at least one writing assignment included in their role sheet
         </Document>
         <Document ID="102">
             <Title>Voting</Title>
-            <Text>#### Possible Mod: Voting
+            <Text>#### Possible Modification: Voting
 
 I've left the issue of membership in the APA, and the right to vote on many of the main issues, intentionally vague. This is to allow for some flexibility for the instructor. The issue of who can practice mental health treatment is a game issue, realized in competing proposals in 1973.  As a corollary then, the issue of membership in the APA may be brought forward. This can also play out as one of the causes of the APA’s ‘fission' that may occur starting in 1975.
 
@@ -5014,7 +5169,7 @@ Unger, R. K. (2004). Handbook of the Psychology of Women and Gender, Wiley. (the
 
 See &lt;!--\fullref{table: majorissues}--&gt;.
 
-&lt;!-- \begin{longtable}[!t]{ | p{3cm} |  p{3cm} |  p{3cm} | p{3cm} |  p{5cm} |}
+&lt;!-- \begin{longtable}[!t]{ | p{3cm} |  p{2.5cm} |  p{2.5cm} | p{2.5cm} |  p{5cm} |}
 \hline
 \tahead{Issue / Year}&amp;\tahead{Proposer}&amp;\tahead{Objections}&amp;\tahead{Mediator}&amp;\tahead{Related papers} \\ \hline
 Demedicalization (1971)&amp;Marmor&amp;Socarides and Bieber&amp;Spiegel and Green&amp; \\ \hline
@@ -5776,14 +5931,14 @@ Honor of E. Hooker '72 (\fullref{proposal:gebhard})&amp;
 \\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{R. Gold}*} \\ \hline
-Symposium on nomenclature '73 (\fullref{writingtask:goldA})&amp;
+Symposium on Nomenclature '73 (\fullref{writingtask:goldA})&amp;
 Support Marmor's '71 proposal\newline
 Draft proposal with Spitzer '73&amp;
 \\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{R. Green}*} \\ \hline
 Report on history of homosexuality '72 (\fullref{writingtask:green}) (with J. Spiegel)\newline
-Task force symposium on nomenclature '74&amp;
+Task force symposium on Nomenclature '74&amp;
 Taskforce on the history of homosexuality in Psych '71 (with Spiegel)&amp;
 Propose “Bringing the Clinic into the Undergraduate Classroom” (\fullref{app: theclinic})* \fullref{research:green}\\ \hline
 
@@ -5794,7 +5949,7 @@ Propose “Operant Conditioning: Role in Human Behavior” \fullref{app: operant
 
 \multicolumn{3}{| P{16cm} |}{\tahead{E. Hooker}---Program \fullref{service:hooker} ’71-'72}\\ \hline
 “The mental health of non-patient male homosexuals” - symposium '71 (\fullref{writingtask:hooker})&amp;
-Oppose dissolution of nomenclature committee.&amp;
+Oppose dissolution of Nomenclature committee.&amp;
 \\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{R. Hopcke}*} \\ \hline
@@ -5819,7 +5974,7 @@ Oppose Spitzer's nomenclature proposal to write the DSMIII without the genetic h
 \multicolumn{3}{| P{16cm} |}{\tahead{J. Marmor}---Research '71-'74}\\ \hline
 “Limitations of Free Association” - Symposium on the ‘Medical Model’ '72 \fullref{writingtask:marmor} \newline
 Comment on Green / debate Bieber '72\newline
-Symposium on nomenclature '73&amp;
+Symposium on Nomenclature '73&amp;
 Propose 'homosexuality' be removed from category 302. (\fullref{proposal:marmorA}) ’71\newline
 Propose a condemnation of Socarides' JAMA paper. (\fullref{proposal:marmorB})  '73&amp;
 Propose ‘To Sleep, Perchance to Dream’--- \fullref{app: tosleep} (\fullref{researchtask:marmor})\\ \hline
@@ -5867,16 +6022,16 @@ Propose, with Green, a task force on the history of the treatment of homosexuali
 “The Feighner Criteria” \fullref{writingtask:spitzer}’72\newline
 Nomenclature / Task Force sponsored symposium on homosexuality in '73\newline
 With the committee / task force, open symposium in ’74 on mental illness&amp; 
-As nomenclature committee: proposal write DSM according to description of symptoms, not causes (\fullref{proposal:spitzerA} ’72
-Proposal to disband nomenclature and form Spitzer Taskforce (\fullref{proposal:spitzerC} ’73\newline
+As Nomenclature committee: proposal write DSM according to description of symptoms, not causes (\fullref{proposal:spitzerA} ’72 \newline
+Proposal to disband Nomenclature and form Spitzer Taskforce (\fullref{proposal:spitzerC} ’73\newline
 With R. Gold, draft proposal to remove 'homosexuality' immediately in '73 (\fullref{proposal:spitzerB})
 Propose Taskforce definition of mental illness (\fullref{proposal:spitzerD}) ’75&amp;
 
 Meta-analysis of reliability of psychiatric diagnosis (\fullref{researchtask:spitzer} ’73\\ \hline
 
 \multicolumn{3}{| P{16cm} |}{\tahead{T. Szasz}} \\ \hline
-As part of the symposium (with Albee) on the “Medical Model”, present “The myth of mental illness”  \fullref{writingtask:szasz} '72&amp;
-Oppose committee on psychology of women '73 (on grounds of reification)
+As part of the symposium (with Albee) on the “Medical Model”, present: “The myth of mental illness,”  \fullref{writingtask:szasz} '72&amp;
+Oppose committee on psychology of women '73 (on grounds of reification)\newline
 Propose there is no definition of mental illness (\fullref{proposal:szasz}) ’75&amp;
 \\ \hline
 
@@ -7298,10 +7453,10 @@ Proposals for the Board&amp; Proposal to recognize the contributions of Evelyn H
 Proposals for Research Committee&amp;\multicolumn{2}{| P{14cm} | }{
 \begin{itemize}
 
-\item{Proposal from Fordney-Settlage to study the sexual experience of girls seeking contraception for the first time (\fullref{researchtask:fordneysettlage} in the Role Sheet book).}\end{itemize}}  \\ \hline
+\item{Proposal from Fordney-Settlage to study the sexual experience of teenage girls seeking contraception for the first time (\fullref{researchtask:fordneysettlage} in the Role Sheet book).}\end{itemize}}  \\ \hline
 Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1971 proposals, one (or all) of:
 \begin{itemize}
-\item{\fullref{writingtask2:gittings}, “Adjustment of homosexual and heterosexual women”}
+\item{\fullref{writingtask2:gittings}, “Adjustment of Homosexual and Heterosexual Women”}
 \item{Distribute the actual report of the ‘Little Albert’ experiment. Paper is available on psych classics: \url{http://psychclassics.yorku.ca/Watson/emotion.htm} }
 \item{Socarides on Sexual Deviation (\fullref{writingtask:socarides})} 
 \item{ Green (\fullref{writingtask:green}) and Spiegel (\fullref{writingtask:spiegel}) on history of homosexuality, with responses from Bieber (\fullref{writingtask:bieber}), Marmor (\fullref{proposal:marmorB})}\end{itemize}} \\ \hline
@@ -7312,7 +7467,7 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1971 
 **Other papers to expect**
 
 * Paper by Spitzer on Feighner Criteria (&lt;!--\fullref{writingtask:spitzer}--&gt; of the Role Sheet book), Anastasi in support (&lt;!--\fullref{writingtask:anastasi}--&gt; of the Role Sheet book)
-* Paper by Gebhard on the Kinsey report. (&lt;!--\fullref{writingtask:gebhard}--&gt; of the Role Sheet book)
+* Paper by Gebhard on the Kinsey report (&lt;!--\fullref{writingtask:gebhard}--&gt; of the Role Sheet book)
 * Paper by Harlow “Lust, latency and love” (&lt;!--\fullref{writingtask:harlow}--&gt; of the Role Sheet book)
 
 **Other possible proposals**
@@ -7329,7 +7484,7 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1971 
 **Papers to be distributed (if activities are approved)**
 
 * 1972---Following research report by &lt;!--\fullref{researchtask:gittings}--&gt; of the Role Sheet book:
-	* Siegelman, “Adjustment of Homosexual and Heterosexual Women” The British Journal of Psychiatry (1972) 120: 477-481. Included as &lt;!--\fullref{adjustmentofhomosexualandheterosexualwomen}--&gt; in the Instructor's Manual.
+	* Siegelman, “Adjustment of Homosexual and Heterosexual Women” The British Journal of Psychiatry (1972) 120: 477-481. Included in appendix as &lt;!--\fullref{adjustmentofhomosexualandheterosexualwomen}--&gt; in the Instructor's Manual.
 
 &lt;!--\newpage--&gt;</Text>
         </Document>
@@ -7745,14 +7900,14 @@ Kameny/Gittings, Green, Spitzer and Socarides/Bieber to be panelists, but they w
 
 Proposals for the Board&amp;\begin{itemize}
 \item{Removal of homosexuality immediately (\fullref{proposal:spitzerB} of the Role Sheet book)}
-\item{Proposal from Green create a journal titled emph{Archives of Sexual Behavior} (\fullref{proposal:greenB} in the Role Sheet book)}
+\item{Proposal from Green create a journal titled \emph{Archives of Sexual Behavior} (\fullref{proposal:greenB} in the Role Sheet book)}
 \item{Spitzer task force, dissolution of nomenclature committee (\fullref{proposal:spitzerB} of the Role Sheet book.)}\end{itemize}&amp;
  (likely / possible):\begin{itemize}
 \item{Creation of the committee on Women in Psychology (\fullref{proposal:anastasiA} in the Role Sheet book)}
 \item{Creation of the Society for the Psychology of Women (\fullref{proposal:anastasiB} in the Role Sheet book)} \end{itemize}  \\ \hline
 Proposals for Research Committee&amp;\multicolumn{2}{| P{14cm} | }{\begin{itemize}
-\item{Prison study. Included as  \fullref{interpersonaldynamicsinasimulatedprison} in the Instructor's Manual.  (proposed by Zimbardo, if in game, if not, \textbf{gamemaster})  (\fullref{researchtask:zimbardo} in the Role Sheet book)}
-\item{“A re-analysis of the reliability of psychiatric diagnosis” Included as \fullref{are-analysisofthereliabilityofpsychiatricdiagnosis} of the Instructor's Manual. (proposed by \fullref{researchtask:spitzer}) .} \end{itemize}}\\ \hline
+\item{Prison study. Included in appendix as  \fullref{interpersonaldynamicsinasimulatedprison} in the Instructor's Manual.  (proposed by Zimbardo, if in game, if not, \textbf{gamemaster})  (\fullref{researchtask:zimbardo} in the Role Sheet book)}
+\item{“A re-analysis of the reliability of psychiatric diagnosis,” Included in appendix as \fullref{are-analysisofthereliabilityofpsychiatricdiagnosis} of the Instructor's Manual. (proposed by \fullref{researchtask:spitzer}) .} \end{itemize}}\\ \hline
 Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1972 proposals, one (or both) of:\begin{itemize}
 \item{ Fordney-Settlage “Sexual experience of younger teenage girls seeking contraceptive assistance for the first time.” (\fullref{researchtask:fordneysettlage} in the Role Sheet book)} \end{itemize}}\\ \hline
 \caption{Major events of 1973}
@@ -7766,7 +7921,7 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1972 
 
 **Other potential proposals**
 
-* Marmor - if not in 1972: official condemnation / censure of Socarides JAMA paper as nonscientific and a “Monstorous attach on homosexuality." (&lt;!--\fullref{proposal:marmorB}--&gt; of the Role Sheet book)
+* Marmor - if not in 1972: official condemnation / censure of Socarides JAMA paper as nonscientific and a “Monstorous attack on homosexuality." (&lt;!--\fullref{proposal:marmorB}--&gt; of the Role Sheet book)
 
 * Leona Tyler principle (&lt;!--\fullref{proposal:tyler}--&gt; of the Role Sheet book).
 
@@ -7777,7 +7932,7 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1972 
 * On Gay Pride day in 1973, someone firebombed the 'UpStairs Lounge', a gay club in New Orleans, killing 32 people, 3 of whom were never identified.  The Game Master should  distribute the news prior to the APA conference. See &lt;!--\url{http://www.patheos.com/blogs/friendlyatheist/2013/06/24/remembering-the-upstairs-lounge-the-u-s-a-s-largest-lgbt-massacre-happened-40-years-ago-today/}--&gt;  for a blog-length history, or “Let the Faggots Burn: The UpStairs Lounge Fire” by Johnny Towsend for a book-length history.
 
 * 1973---Following research presentation of &lt;!--\fullref{researchtask:szasz} of the Role Sheet book--&gt;:
-	* Rosenhan 'On being sane in insane places' Science  v.. 179 (Jan. 1973), 250-258. Included as &lt;!--\fullref{onbeingsaneininsaneplaces}--&gt; in the Instructor's Manual.
+	* Rosenhan 'On being sane in insane places' Science  v.. 179 (Jan. 1973), 250-258. Included in appendix as &lt;!--\fullref{onbeingsaneininsaneplaces}--&gt; in the Instructor's Manual.
 
 &lt;!--\newpage--&gt;</Text>
         </Document>
@@ -8090,14 +8245,14 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1973 
 
 **Other papers to expect**
 
-* Symposium on “Social responsibility of Intellectuals” --- Proposed by Clark &lt;!--\fullref{writingtask:clark2}--&gt;
+* Symposium on “Social Responsibility of Intellectuals” --- Proposed by Clark &lt;!--\fullref{writingtask:clark2}--&gt;
 	* &lt;!--\fullref{writingtask:clark}--&gt;
 	* &lt;!--\fullref{writingtask:chomskyB}--&gt;
 
 * Obedience - &lt;!--\fullref{writingtask:milgram}--&gt;
-* Genetic hypothesis and diagnostic taxa. &lt;!--\fullref{writingtask:leif}--&gt;
+* Genetic hypothesis and diagnostic taxa - &lt;!--\fullref{writingtask:leif}--&gt;
 
-Open hearings / symposium on the Spitzer Task Force def of ‘mental illness’. 
+Open hearings / symposium on the Spitzer Task Force definition of ‘mental illness’. 
 
 
 **Other possible proposals**
@@ -8109,12 +8264,13 @@ In opposition: Harlow.
 **Papers to be distributed (if activities are approved)**
 
 * Following research presentation by &lt;!--\fullref{researchtask:zimbardo} of the Role Sheet book--&gt;:
-	* Haney, C. Banks, C. &amp; Zimbardo, P. (1973). “Interpersonal Dynamics in a Simulated Prison” International Journal of Criminology and Penology 1, p. 69-97 Included as &lt;!--\fullref{interpersonaldynamicsinasimulatedprison}--&gt; in the Instructor's Manual.
+	* Haney, C. Banks, C. &amp; Zimbardo, P. (1973). “Interpersonal Dynamics in a Simulated Prison,” International Journal of Criminology and Penology 1, p. 69-97, Included in appendix as &lt;!--\fullref{interpersonaldynamicsinasimulatedprison}--&gt; in the Instructor's Manual.
 
 * Following research presentation by &lt;!--\fullref{researchtask:spitzer} of the Role Sheet book--&gt;
-	* Spitzer, R. and Fleiss, J. (1974). “A Re-analysis of the Reliability of Psychiatric Diagnosis” Brit. J. Psychiat. 125, 341-7 Included as &lt;!--\fullref{are-analysisofthereliabilityofpsychiatricdiagnosis}--&gt; in the Instructor's Manual.
+	* Spitzer, R. and Fleiss, J. (1974). “A Re-analysis of the Reliability of Psychiatric Diagnosis” Brit. J. Psychiat. 125, 341-7. Included in appendix as &lt;!--\fullref{are-analysisofthereliabilityofpsychiatricdiagnosis}--&gt; in the Instructor's Manual.
 
 &lt;!--\newpage--&gt;</Text>
+            <Comments>Peter Bradley, 9/30/18, 5:50 PM</Comments>
         </Document>
         <Document ID="108">
             <Title>Narrative</Title>
@@ -8364,13 +8520,13 @@ There is no evidence that the real Szasz actually put forward any arguments like
 
 The story of the demedicalization of homosexuality as a mental illness has been retold a couple of times in recent years.  Famously, Alix Spiegel, grandson of the actual John P. Spiegel, produced a version of the story for NPR's show 'This American Life'. The episode, named '81 words' is available online at &lt;!--\url{http://www.thisamericanlife.org/radio-archives/episode/204/81-words}--&gt;. It is an excellent retelling of these events, and partially inspired this game. Ron Gold's retelling of the event is available here: &lt;!--\url{http://www.queerstories.org/custom.html}--&gt;.
 
-In the character sheet for Spitzer, I express some doubts about the standard story told by Spiegel, because Spitzer's timing and motivation for inserting himself into the controversy doesn't seem to match up for normal person. However, as I was to learn, Spitzer is not a 'normal' person.
+In the role sheet for Spitzer, I express some doubts about the standard story told by Spiegel, because Spitzer's timing and motivation for inserting himself into the controversy doesn't seem to match up for a normal person. However, as I was to learn, Spitzer is not a 'normal' person.
 
 In a 2005 issue of The New Yorker Magazine, Spiegel writes that:
 
 &gt;Despite Spitzer’s genius at describing the particulars of emotional behavior, he didn’t seem to grasp other people very well. Jean Endicott, his collaborator of many years, says, “He got very involved with issues, with ideas, and with questions. At times he was unaware of how people were responding to him or to the issue. He was surprised when he learned that someone was annoyed. He’d say, ‘Why was he annoyed? What’d I do?’” After years of confrontations, Spitzer is now aware of this shortcoming, and says that he struggles with it in his everyday life. “I find it very hard to give presents,” he says. “I never know what to give. A lot of people, they can see something and say, ‘Oh, that person would like that.’ But that just doesn’t happen to me. It’s not that I’m stingy. I’m just not able to project what they would like.” Frances argues that Spitzer’s emotional myopia has benefitted him in his chosen career: “He doesn’t understand people’s emotions. He knows he doesn’t. But that’s actually helpful in labeling symptoms. It provides less noise.”
 
-If this is correct, I am wrong in my assertion that it was implausible for the Chair of the Nomenclature Committee to attend a speech in New York by Socarides' without expectating of a demonstration. If Spitzer, by his own account, can't imagine what someone else would like as a gift, how can we expect him to imagine how much anger there was in the Gay community towards Socarides?
+If this is correct, I am wrong in my assertion that it was implausible for the Chair of the Nomenclature Committee to attend a speech in New York by Socarides' without expecting a demonstration. If Spitzer, by his own account, can't imagine what someone else would like as a gift, how can we expect him to imagine how much anger there was in the Gay community towards Socarides?
 
 After much thought, I decided to leave my assertion in the role sheet, because this is 'Reacting' to the past, not "Recreating" the past. A student playing the part needs to think himself or herself into Spitzer's *position*, not his *mind*---and whatever unique mind Robert Spitzer has, it is probably uncommon in undergraduates.
 
@@ -8380,9 +8536,9 @@ After much thought, I decided to leave my assertion in the role sheet, because t
             <Title>LittleAlbert</Title>
             <Text>##### Little Albert
 
-Contrary to most textbooks that repeat the myth that 'Little Albert' was successfully deconditioned by Watson, was adopted by a family in North Baltimore and went on to live a long, happy, normal life; there is recent evidence to suggest that Little Albert died as a child. 
+Contrary to most textbooks that repeat the myth that 'Little Albert' was successfully deconditioned by Watson and was adopted by a family in North Baltimore and went on to live a long, happy, normal life, there is recent evidence to suggest that Little Albert died as a child. 
 
-Using photographs from the family and FBI forensics experts, Beck et al. (2009) argue  that 'Little Albert' was likely Douglas Merritte, who died at age 6 of acquired hydrocephalus, after his mother had left Hopkins.  Watson never deconditioned Little Albert, and we simply have no evidence to determine if his conditioned fears remained until his death.  [#Beck:wk]
+Using photographs from the family and FBI forensics experts, Beck et al. (2009) argue  that 'Little Albert' was likely Douglas Merritte, who died at age 6 of acquired hydrocephalus after his mother had left Hopkins.  Watson never deconditioned Little Albert, and we simply have no evidence to determine if his conditioned fears remained until his death.  [#Beck:wk]
 
 The authors conclude:
 
@@ -8394,7 +8550,7 @@ The APA's Monitor carried the story January 2010 ([#LittleAlbertrega:2010ig])
 
 There were a number of blog posts that followed, including: &lt;!--\url{http://mindhacks.com/2009/10/22/little-albert-lost-and-found}--&gt;. And a BBC special: &lt;!--\url{https://www.youtube.com/watch?v=KJnJ1Q8PAJk}--&gt;
 
-In 2012, however, a study by Nancy Digdon and Russell Powell called Beck’s findings into doubt.  Hey found that there was another child at Hopkins at the time named William Albert Barger who fits the description of Little Albert---and he went on to have a normal adult life. [#Powell:vw]
+In 2012, however, a study by Nancy Digdon and Russell Powell called Beck’s findings into doubt.  He found that there was another child at Hopkins at the time named William Albert Barger who fits the description of Little Albert---and he went on to have a normal adult life. [#Powell:vw]
 </Text>
             <Comments>See &lt;!--\url{https://www.chronicle.com/interactives/littlealbert}--&gt;.</Comments>
         </Document>
@@ -8473,16 +8629,16 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1974 
 
 **Other papers to expect**
 
-* Open forum on definition of mental illness (called by Nomenclature / Spitzer Task Force) (See &lt;!--\fullref{proposal:spitzerD}--&gt;.
-* Zimbardo on the 1968 code of ethics &lt;!--\fullref{writingtask:zimbardo}--&gt;.
-* Fordney-Settlage on the disparity between psychoanalytic theories of male and female sexuality &lt;!--\fullref{writingtask:fordneysettlage}--&gt;.
-* Hopcke on Jungianism and homosexuality &lt;!--\fullref{writingtask:hopcke}--&gt;.
-* Marr on levels of explanation in Psychology &lt;!--\fullref{writingtask:marr}--&gt;.
-* Symposium on ‘innateness’ between Piaget &lt;!--\fullref{writingtask:piaget}--&gt; and &lt;!--\fullref{writingtask:chomsky} --&gt; with implications for social responsibility and homosexuality.
+* Open forum on definition of mental illness (called by Nomenclature / Spitzer Task Force) (See &lt;!--\fullref{proposal:spitzerD}--&gt;).
+* Zimbardo on the 1968 code of ethics - &lt;!--\fullref{writingtask:zimbardo}--&gt;.
+* Fordney-Settlage on the disparity between psychoanalytic theories of male and female sexuality - &lt;!--\fullref{writingtask:fordneysettlage}--&gt;.
+* Hopcke on Jungianism and homosexuality - &lt;!--\fullref{writingtask:hopcke}--&gt;.
+* Marr on levels of explanation in Psychology - &lt;!--\fullref{writingtask:marr}--&gt;.
+* Symposium on ‘innateness’ between Piaget  (&lt;!--\fullref{writingtask:piaget}--&gt;) and Chomsky (&lt;!--\fullref{writingtask:chomsky} --&gt;) with implications for social responsibility and homosexuality.
 
 **Other possible proposals**
 
-* Clark should propose affirmative action (See &lt;!--\fullref{affirmativeaction}--&gt; and &lt;!--\fullref{proposal:clark}--&gt;) Stanley Milgram should oppose (&lt;!--\fullref{stanleymilgramphd}--&gt;)
+* Clark should propose affirmative action (See &lt;!--\fullref{affirmativeaction}--&gt; and &lt;!--\fullref{proposal:clark}--&gt;). Stanley Milgram should oppose (See &lt;!--\fullref{stanleymilgramphd}--&gt;)
 
 * Zimbardo and the Research committee - revisions to the 1968 code of ethics.
 
@@ -8490,7 +8646,7 @@ Research Reports&amp;\multicolumn{2}{| P{14cm} | }{Depending on outcome of 1974 
 
 * Following research presentation by &lt;!--\fullref{researchtask:milgram}--&gt;:
 
-	* Experimental Study of the Small World Problem. (1969). An Experimental Study of the Small World Problem, 32(4), 425–443. &lt;!--\url{http://doi.org/10.2307/2786545?refreqid=search-gateway:a88fe1dd7db6336d575e302c0c15221e}--&gt; Included as &lt;!--\fullref{smallworld}--&gt; in the Instructor's Manual.
+	* Experimental Study of the Small World Problem. (1969). An Experimental Study of the Small World Problem, 32(4), 425–443. &lt;!--\url{http://doi.org/10.2307/2786545?refreqid=search-gateway:a88fe1dd7db6336d575e302c0c15221e}--&gt; Included in appendix as &lt;!--\fullref{smallworld}--&gt; in the Instructor's Manual.
 
 &lt;!--\newpage--&gt;</Text>
             <Comments>Milgram is the only psychologists of this era for whom I can find documentation of opposition to the affirmative action plan, although it was certainly more widespread. That documentation is, suffice it to say, sparse. It is mentioned once in Blass, T. (2009). *The Man Who Shocked The World: The Life and Legacy of Stanley Milgram*  Public Affairs, p. 201.</Comments>
@@ -8626,7 +8782,7 @@ Leif, H. (1964) “The Psychological Basis of Medical Practice” Postgrad Med J
             <Title>Aversion / Reparative Theapy</Title>
             <Text>##### Aversion Therapy
 
-&gt; (from wikipedia) Since 1994, the American Psychological Association has declared that aversion therapy is a dangerous practice that does not work.[citation needed] Since 2006, the use of aversion therapy to treat homosexuality has been in violation of the codes of conduct and professional guidelines of the American Psychological Association and American Psychiatric Association. The use of aversion therapy to treat homosexuality is illegal in some countries. The standard in psychotherapy in America and Europe is currently Gay Affirmative Psychotherapy. Guidelines for Gay Affirmative Psychotherapy can be found by APA. [4]
+&gt; (from wikipedia) Since 1994, the American Psychological Association has declared that aversion therapy is a dangerous practice that does not work. Since 2006, the use of aversion therapy to treat homosexuality has been in violation of the codes of conduct and professional guidelines of the American Psychological Association and American Psychiatric Association. The use of aversion therapy to treat homosexuality is illegal in some countries. The standard in psychotherapy in America and Europe is currently Gay Affirmative Psychotherapy. Guidelines for Gay Affirmative Psychotherapy can be found by APA. 
 
 From Issues in Psychotherapy with Lesbian and Gay Men: A Survey of Psychologists. Linda Garnets, Los Angeles, CA Kristin A. Hancock, Berkeley, CA Susan D. Cochran, California State University, Northridge Jacqueline Goodchilds, University of California, Los Angeles Letitia Anne Peplau, University of California, Los Angeles. Report of the APA. &lt;!--\url{http://search.apa.org/search?facet=classification%3aSexuality||classification%3aTherapy&amp;query=Aversion%20Therapy}--&gt;
 
@@ -8638,20 +8794,21 @@ See discussion of NARTH in &lt;!--\fullref{demedicalization}--&gt; above.
 
 The American Psychological Association rejected reparative therapy most recently in 2009. The American Psychiatric Association in 2000, and the American Psychoanalytic Association in 2012. For the full list, see the Human Rights Campaign’s list: &lt;!--\url{https://www.hrc.org/resources/policy-and-position-statements-on-conversion-therapy}--&gt;
 </Text>
+            <Comments>Peter Bradley, 9/30/18, 7:15 PM</Comments>
         </Document>
         <Document ID="377">
             <Title>Socarides and Beiber</Title>
             <Text>##### Socarides and Bieber
 
-The dates I used in the introduction are not exact, although I've tried to remain faithful where I could. Part of the problem here is that many of the stories that are circulated, even by eyewitnesses, vary.  Ron Gold, for example, dates the events in Hawaii to 1972, but the APA records the 1972 conference in Dallas, and the Hawaii conference to 1973.  
+The dates I used in the introduction are not exact, although I've tried to remain faithful where I could. Part of the problem here is that many of the stories that are circulated, even by eyewitnesses, vary.  Ron Gold, for example, dates the events in Hawaii to 1972, but the APA records the 1972 conference in Dallas, and the Hawaii conference in 1973.  
 
-The Dr. H. Anonymous speech actually happened in 1972 during a symposium titled “Psychiatry: Friend or Foe to Homosexuals: A Dialogue”. It also featured Kameny and Gittings in addition to John Fryer.
+The Dr. H. Anonymous speech actually happened in 1972 during a symposium titled “Psychiatry: Friend or Foe to Homosexuals: A Dialogue.” It also featured Kameny and Gittings in addition to John Fryer.
 
  In 1971, Kameny, and Gittings held a panel titled “Lifestyles of non-patient homosexuals,” which the participants joking referred to as “Lifestyles of impatient homosexuals.” It featured Larry Littlejohn of the Society for Individual Rights in San Francisco, Del Martin, a founder the Lesbian activist organization Daughters of Bilitis, Lilli Vincenz, another lesbian activists, and Jack Baker, the gay president-elect of the student body of the University of Minnesota. I've found a number of websites and personal stories that get these two distinct events confused. At the risk of perpetuating these confusions, I've combined them into a single event in 1971.
 
 Socarides petitioned the New York District branch  of the APA for his task force on sexual deviation---*NOT* the national organization. It was granted, and his report filed in 1972.  The leadership then rejected his report, on the grounds that its basis in psychoanalytic theory was unacceptable. 
 
-Complicating matters was the existence of NARTH---the National Association for Research and Treatment of Homosexuality---, which has been adopted by many on the religious right in recent years.  In 1995, Socarides gave an interview to the NY Times, promoting his book *Homosexuality: A Freedom Too Far - A Psychoanalyst Answers 1,000 Questions About Causes and Cure and the Impact of the Gay Rights Movement on American Society*, in which he claimed that the declassification occurred because of political pressure and not scientific evidence.  The themes of the interview will be familiar to anyone with even tangential knowledge of the rhetoric of the far right: persecution of conservatives, liberal media bias, gay agendas and conspiracies, etc. Charles Socarides' son, Richard Socarides, who is gay, became a gay activist, advised President Clinton on LGBT issues, and ultimately was elected to the presidency of the activist organization 'Equality Matters.'  That fact has lead many defenders of Socarides to accuse any press figure who mentions it of making an 'ad hominem' attacks against Socarides. 
+Complicating matters was the existence of NARTH---the National Association for Research and Treatment of Homosexuality---which has been adopted by many on the religious right in recent years.  In 1995, Socarides gave an interview to the NY Times, promoting his book *Homosexuality: A Freedom Too Far - A Psychoanalyst Answers 1,000 Questions About Causes and Cure and the Impact of the Gay Rights Movement on American Society*, in which he claimed that the declassification occurred because of political pressure and not scientific evidence.  The themes of the interview will be familiar to anyone with even tangential knowledge of the rhetoric of the far right: persecution of conservatives, liberal media bias, gay agendas and conspiracies, etc. Charles Socarides' son, Richard Socarides, who is gay, became a gay activist, advised President Clinton on LGBT issues, and ultimately was elected to the presidency of the activist organization 'Equality Matters.'  That fact has lead many defenders of Socarides to accuse any press figure who mentions it of making an 'ad hominem' attacks against Socarides. 
 
 NARTH continued until 2017 under the directorship of Socarides' student Joseph Nicolosi. Nicolosi passed away on March 8th, 2017, and NARTH shut down as a consequence.
 
@@ -8687,7 +8844,7 @@ Supplementary texts that are covered extensively in the game book
             <Title>Depends on elections</Title>
             <Text>#### Proposals that may come up according to game play
 
-&lt;!--\begin{apatextbox}{Leona Tyler Principle (L Tyler, when president)}--&gt;
+&lt;!--\begin{apatextbox}{Leona Tyler Principle (proposed by L. Tyler, when president)}--&gt;
 
 &gt; As citizens, members of the APA have the right to advocate for any cause through the myriad of political advocacy organizations, but when psychologists and psychiatrists speak for the profession through APA public stances and proclamations, it should be from science and professional experience. 
 
@@ -8696,7 +8853,7 @@ Supplementary texts that are covered extensively in the game book
 &lt;!--\label{leonatylerprinciple}
 \end{apatextbox}--&gt;
 
-&lt;!--\begin{apatextbox}{Position Statement: Hospital Privileges for Psychologists}--&gt;
+&lt;!--\begin{apatextbox}{Position Statement: Hospital Privileges for Psychologists (opposed by G. Albee}--&gt;
 
 &gt;POSITION STATEMENT  (1974)
 
@@ -8704,11 +8861,11 @@ Supplementary texts that are covered extensively in the game book
 
 &gt;&gt;This statement was prepared by the Committee on Psychiatry and Psychology.
 
-&gt;Because of professional and legal considerations, the ultimate medical responsibility for patients admitted to hospitals should remain with licensed physicians. Psychologists, like other nonmedical professionals, should be eligible for some type of hospital appointment
+&gt;Because of professional and legal considerations, the ultimate medical responsibility for patients admitted to hospitals should remain with licensed physicians. Psychologists, like other nonmedical professionals, should be eligible for some type of hospital appointment.
 
 &lt;!--\label{hospitalprivledges} \end{apatextbox}--&gt;
 
-&lt;!--\begin{apatextbox}{Position Statement: Affirmative Action}--&gt;
+&lt;!--\begin{apatextbox}{Position Statement: Affirmative Action (Proposed by K. Clark}--&gt;
 
 &gt;POSITION STATEMENT
 
@@ -8716,7 +8873,7 @@ Supplementary texts that are covered extensively in the game book
 
 &gt;&gt;Approved by the Assembly of District Branches, October 1977
 
-&lt;!--\rowgroup{--&gt;This statement was prepared by the Committee of Black Psychiatrists1 and recommended by the Council on National Affairs &lt;!--} \\--&gt;
+&lt;!--\rowgroup{--&gt;This statement was prepared by the Committee of Black Psychiatrists and recommended by the Council on National Affairs &lt;!--} \\--&gt;
 
 &lt;!--\rowgroup{--&gt;THERE IS a continuous need to increase the number of minority psychiatrists; the American Psychiatric Association has consistently demonstrated its commitment to the principle of affirmative action as reflected in its efforts of recruitment and training of minority psychiatrists. APA has previously developed and instituted policies recognizing and supporting the special mental health issues of minority populations; however, there are serious threats to affirmative action programs that have facilitated the following endeavors: APA reaffirms these commitments and policies by 1) issuing a public statement drawing attention to the potential deleterious effects that such threats pose to the delivery of health services to minority groups; 2) actively participating with other professional and educational groups to assure continued recruitment and training of minority candidates in medical disciplines; and 3) further exploring and developing, through its appropriate components, mechanisms to assure continued implementation of these commitments. &lt;!--} \\--&gt;
 
@@ -9030,7 +9187,7 @@ For a historical overview, see [#Fisher:uAWUHvuo] and [#Fisher:2003tg].
             <Title>Hooker</Title>
             <Text>##### Evelyn Hooker
 
-E. Hooker was given 1991 Award for Distinguished Contribution to Psychology in the Public Interest, presented by the American Psychological Association. The citation read:
+E. Hooker was given the 1991 Award for Distinguished Contribution to Psychology in the Public Interest, presented by the American Psychological Association. The citation read:
 
 &gt; “When homosexuals were considered to be mentally ill, were forced out of government jobs, and were arrested in police raids, Evelyn Hooker courageously sought and obtained research support from the National Institute of Mental Health (NIMH) to compare a matched sample of homosexual and heterosexual men. Her pioneering study, published in 1957, challenged the widespread belief that homosexuality is a pathology by demonstrating that experienced clinicians using psychological tests widely believed at the time to be appropriate could not identify the nonclinical homosexual group. This revolutionary study provided empirical evidence that normal homosexuals existed, and supported the radical idea then emerging that homosexuality is within the normal range of human behavior. Despite the stigma associated with homosexuality, she received an NIMH Research Career Award in 1961 to continue her work. In 1967, she became chair of the NIMH Task Force on Homosexuality, which provided a stamp of validation and research support for other major empirical studies. Her research, leadership, mentorship, and tireless advocacy for an accurate scientific view of homosexuality for more than three decades has been an outstanding contribution to psychology in the public interest."
 
@@ -9042,7 +9199,7 @@ She reflects on the award here: &lt;!--\url{http://psychology.ucdavis.edu/rainbo
             <Title>Leona Tyler</Title>
             <Text>##### Leona Tyler Principle / Goldwater Rule
 
-Following the Goldwater affair, the American Psychiatric Association added  section7.3 to their "The Principles of Medical Ethics With Annotations Especially Applicable to Psychiatry," which states:
+Following the Goldwater affair, the American Psychiatric Association added  section 7.3 to their "The Principles of Medical Ethics With Annotations Especially Applicable to Psychiatry," which states:
 
 &gt; On occasion psychiatrists are asked for an opinion about an individual who is in the light of public attention or who has disclosed information about himself/herself through public media. In such circumstances, a psychiatrist may share with the public his or her expertise about psychiatric issues in general. However, it is unethical for a psychiatrist to offer a professional opinion unless he or she has conducted an examination and has been granted proper authorization for such a statement.
 
@@ -9130,7 +9287,7 @@ Chair, Program Committee &amp;  3\\ \hline
 
 ##### Ads for Psychopharmaceuticals and Health Insurance
 
-To set the stage, and, to the observant student, to note that most of these drugs are marketed for use on women by men---all the while being tested almost exclusively on men.
+To set the stage, you might want to print out some of these ads and hang them around the room. The observant student might note that most of these drugs are marketed for use on women, but the marketing is to the men---all the while being tested almost exclusively on men.
 
 Many such can be found here: &lt;!--\url{https://prescriptiondrugs.procon.org/view.resource.php?resourceID=005597}--&gt; (1960s) and here: &lt;!--\url{https://prescriptiondrugs.procon.org/view.resource.php?resourceID=005598}--&gt; (1970s)
 
@@ -9145,18 +9302,18 @@ It might also be worth putting up some ads for health insurance, as this is impo
 
 	* &lt;!--\url{https://www.biopsychiatry.com/imipramine/tofranil.html}--&gt;
 
-* Librium: &lt;!--\begin{marginfigure}
+* Librium: &lt;!--\url{https://www.mmm-online.com/channel/med-ad-hall-of-fame-to-induct-lerner-girgenti-and-rubin/article/155796/}--&gt;&lt;!--\begin{marginfigure}
  \begin{center}
 
 
      \includegraphics{../images/librium_75651.jpg}
 \end{center}
- \caption{Advertisement for Librium, 1962. From \url{https://www.mmm-online.com/channel/med-ad-hall-of-fame-to-induct-lerner-girgenti-and-rubin/article/155796/}
+ \caption{Advertisement for Librium, 1962. From 
 }
 \label{fig: valium65}
 \end{marginfigure}--&gt; 
 
-* Valium: 
+* Valium: &lt;!--\url{http://faculty.weber.edu/ewalker/Medicinal_Chemistry/topics/Psycho/psycho.htm}--&gt;
 &lt;!--\begin{marginfigure}
  \begin{center}
 
@@ -9167,12 +9324,12 @@ It might also be worth putting up some ads for health insurance, as this is impo
 \label{fig: valium65}
 \end{marginfigure}
 --&gt;
-From &lt;!--\url{http://faculty.weber.edu/ewalker/Medicinal_Chemistry/topics/Psycho/psycho.htm}--&gt;
 
 
-At the same time,  we should remember that Medicare and Medicaid were created in 1965, and the health insurance industry was undergoing a simultaneous revolution:  
 
-* BlueCross 1960: 
+At the same time,  we should remember that Medicare and Medicaid were created in 1965, and the health insurance industry was undergoing a simultaneous revolution. 
+
+* BlueCross 1960: \url{http://www.decodog.com/inven/MD/md28530.jpg}
 
 &lt;!--\begin{marginfigure}
  \begin{center}
@@ -9180,7 +9337,7 @@ At the same time,  we should remember that Medicare and Medicaid were created in
 
      \includegraphics[scale=0.25]{../images/md28530.jpg}
 \end{center}
- \caption{Advertisement for Blue Cross, 1960. From \url{http://www.decodog.com/inven/MD/md28530.jpg} }
+ \caption{Advertisement for Blue Cross, 1960.}
 \label{fig: BlueCross}
 \end{marginfigure}
 --&gt;</Text>
@@ -9410,7 +9567,7 @@ David Marr joins Miller and Chomsky at MIT in 1977 and died in 1980 of Leukemia.
             <Text>	
 #### Labs and possible research proposals
 
-As shown in Table &lt;!--\fullref{table: labs}--&gt;, various roles are tasked with proposing research studies to the research committee, conducting that research if it is chosen, and presenting the findings at the following conference.  Not everything proposed can be carried out in an undergraduate classroom. When the proposal is impossible, the instructor should distribute the actual paper for evaluation *as if* it had been carried out. The instructors is, of course, encouraged to use classroom activities with which he or she is familiar. 
+Various roles are tasked with proposing research studies to the research committee, conducting that research if it is chosen, and presenting the findings at the following conference.  Not everything proposed can be carried out in an undergraduate classroom. When the proposal is impossible, the instructor should distribute the actual paper for evaluation *as if* it had been carried out. The instructors is, of course, encouraged to use classroom activities with which he or she is familiar. 
 
 I've pulled a number of experiments from the APA's *Activities Handbook for the Teaching of Psychology* v. 1-4 that correspond to many of the topics the class will be discussing. They are listed here, and attached as PDFs at the end of this document, if you do not have access to the *Handbooks*. The characters listed here are *suggestions*.  The instructor should distribute these as he or she sees fit.
 
@@ -9607,7 +9764,7 @@ P. Gebhard (1974)\\ \hline
 Proclamations removing Homosexuality heard \fullref{proposal:marmorA} and \emph{sent to Nomenclature}\newline
 \newthought{Approve} taskforces for Green (\fullref{proposal:green}) and Bieber (\fullref{proposal:bieber}) &amp;
 Miller reporting Mental Rotation \fullref{researchtask:miller}. \newline
-\ newthought{Approve} \fullref{researchtask:gittings}\newline \newthought{Reject}\fullref{emotionalresponsesinahumanchild.}&amp;
+\newthought{Approve} \fullref{researchtask:gittings}\newline \newthought{Reject} \fullref{emotionalresponsesinahumanchild.}&amp;
 Accept charge to consider removing 302.0&amp;
 Prepare Dallas Conference schedule, distribute at the end of this conference \\
 
