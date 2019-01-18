@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="PIC-142B-Desktop" Modified="2018-11-20 15:08:02 -0500" ModID="1473141C-A7FD-40E3-B511-8404D005EFC5">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-3" Modified="2019-01-18 10:07:53 -0500" ModID="5CCB1D85-809C-48DF-A184-40F77F257630">
     <Binder>
         <BinderItem ID="0" UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -2065,7 +2065,7 @@
                                         <TextSelection>1289,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="174" UUID="AE11ED3F-6F92-4BB9-BC1E-BCDC188CEEE0" Type="Text" Created="2011-03-11 10:18:38 -0500" Modified="2018-09-09 16:41:52 -0400">
+                                <BinderItem ID="174" UUID="AE11ED3F-6F92-4BB9-BC1E-BCDC188CEEE0" Type="Text" Created="2011-03-11 10:18:38 -0500" Modified="2019-01-18 10:07:15 -0500">
                                     <Title>NChomsky-bio</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2073,7 +2073,7 @@
                                         <IconFileName>To Do.tiff</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>14818,0</TextSelection>
+                                        <TextSelection>8434,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="175" UUID="6DD377D1-251B-457E-81EA-48D7C5B5C8BF" Type="Text" Created="2011-03-02 11:44:57 -0500" Modified="2018-09-09 16:42:05 -0400">
@@ -4277,7 +4277,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-11-20 15:07:57 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="4" Date="2019-01-18 10:04:14 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
     <UserProjectData>
