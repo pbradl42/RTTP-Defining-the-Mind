@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-3" Modified="2019-01-18 10:07:53 -0500" ModID="5CCB1D85-809C-48DF-A184-40F77F257630">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="PIC-142B-Desktop" Modified="2019-01-18 10:45:28 -0500" ModID="C29DFAB6-78BC-42F6-B1CE-107A3B227F76">
     <Binder>
         <BinderItem ID="0" UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -1107,14 +1107,14 @@
                                         <TextSelection>4286,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem ID="117" UUID="4147FDCD-4966-4DA2-A68F-B6866D977668" Type="Text" Created="2013-07-25 00:09:28 -0400" Modified="2018-09-08 19:57:48 -0400">
+                                        <BinderItem ID="117" UUID="4147FDCD-4966-4DA2-A68F-B6866D977668" Type="Text" Created="2013-07-25 00:09:28 -0400" Modified="2019-01-18 10:40:51 -0500">
                                             <Title>ConferenceSchedule-1971</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1180,0</TextSelection>
+                                                <TextSelection>418,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem ID="387" UUID="C161FA39-10B6-412F-9AAF-7B9DB7CCCA50" Type="Text" Created="2018-08-17 17:21:50 -0400" Modified="2018-09-09 16:15:28 -0400">
@@ -1209,14 +1209,14 @@
                                                 <TextSelection>1877,0</TextSelection>
                                             </TextSettings>
                                             <Children>
-                                                <BinderItem ID="87" UUID="BBE0EB60-B6D8-4AA2-BA30-626590C0160A" Type="Text" Created="2016-09-22 16:55:38 -0400" Modified="2018-09-30 18:24:24 -0400">
+                                                <BinderItem ID="87" UUID="BBE0EB60-B6D8-4AA2-BA30-626590C0160A" Type="Text" Created="2016-09-22 16:55:38 -0400" Modified="2019-01-18 10:45:13 -0500">
                                                     <Title>Learning Objectives</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                         <NotesTextSelection>0,0</NotesTextSelection>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>2025,0</TextSelection>
+                                                        <TextSelection>2861,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                                 <BinderItem ID="88" UUID="463390C3-FCFD-4035-9454-2EF24FDFEB5C" Type="Text" Created="2014-07-21 03:48:47 -0400" Modified="2018-09-30 18:31:10 -0400">
@@ -4243,7 +4243,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="CADF5D6E-EF6B-400A-8C7F-CFF850A380D1" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">Spearman</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">Learning Objectives</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
@@ -4277,7 +4277,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="4" Date="2019-01-18 10:04:14 -0500"></PreviousSession>
+        <PreviousSession Words="1" Characters="138" Date="2019-01-18 10:09:03 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
     <UserProjectData>

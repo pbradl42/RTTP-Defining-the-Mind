@@ -125,11 +125,11 @@
 \defcounter {refsection}{2}\relax 
 \contentsline {table}{\numberline {5.6}{Major events of 1974}}{49}{table.5.6}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.7}{Leona Tyler Principle (L Tyler, when president)}}{51}{table.5.7}
+\contentsline {table}{\numberline {5.7}{Leona Tyler Principle (proposed by L. Tyler, when president)}}{51}{table.5.7}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.8}{Position Statement: Hospital Privileges for Psychologists}}{51}{table.5.8}
+\contentsline {table}{\numberline {5.8}{Position Statement: Hospital Privileges for Psychologists (opposed by G. Albee}}{51}{table.5.8}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.9}{Position Statement: Affirmative Action}}{52}{table.5.9}
+\contentsline {table}{\numberline {5.9}{Position Statement: Affirmative Action (Proposed by K. Clark}}{52}{table.5.9}
 \defcounter {refsection}{2}\relax 
 \contentsline {table}{\numberline {5.10}{\ignorespaces Credibility Points}}{53}{table.5.10}
 \defcounter {refsection}{2}\relax 
@@ -141,25 +141,23 @@
 \defcounter {refsection}{2}\relax 
 \contentsline {table}{\numberline {5.14}{Timeline of critical events}}{59}{table.5.14}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.15}{Learning Objectives}}{61}{table.5.15}
+\contentsline {table}{\numberline {5.15}{Major Issues for debate}}{64}{table.5.15}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.16}{Major Issues for debate}}{64}{table.5.16}
+\contentsline {table}{\numberline {5.16}{Core text reading list}}{66}{table.5.16}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.17}{Core text reading list}}{65}{table.5.17}
+\contentsline {table}{\numberline {5.17}{Overview of reading assignments, by character}}{69}{table.5.17}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.18}{Overview of reading assignments, by character}}{69}{table.5.18}
+\contentsline {table}{\numberline {5.18}{Overview of specific assignments, by character}}{73}{table.5.18}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.19}{Overview of specific assignments, by character}}{73}{table.5.19}
+\contentsline {table}{\numberline {5.19}{Overview by topic}}{74}{table.5.19}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.20}{Overview by topic}}{74}{table.5.20}
+\contentsline {table}{\numberline {5.20}{Elections to be held each year}}{75}{table.5.20}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.21}{Elections to be held each year}}{75}{table.5.21}
+\contentsline {table}{\numberline {5.21}{Initial credibility}}{76}{table.5.21}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.22}{Initial credibility}}{76}{table.5.22}
+\contentsline {table}{\numberline {5.22}{Likely Actions by Committee}}{77}{table.5.22}
 \defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.23}{Likely Actions by Committee}}{77}{table.5.23}
-\defcounter {refsection}{2}\relax 
-\contentsline {table}{\numberline {5.24}{Possible lab activities}}{79}{table.5.24}
+\contentsline {table}{\numberline {5.23}{Possible lab activities}}{79}{table.5.23}
 \defcounter {refsection}{2}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{2}\relax 
