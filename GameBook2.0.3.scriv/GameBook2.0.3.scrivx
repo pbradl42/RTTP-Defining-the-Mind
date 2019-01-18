@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="SLS-Base-3" Modified="2018-10-17 14:05:48 -0400" ModID="A75C7908-201E-4210-A374-0C5D0CE349EE">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="PIC-142B-Desktop" Modified="2018-11-20 15:08:02 -0500" ModID="1473141C-A7FD-40E3-B511-8404D005EFC5">
     <Binder>
         <BinderItem ID="0" UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -1589,7 +1589,7 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem ID="135" UUID="E2CD94D1-7E17-40C5-9682-79035FE371B4" Type="Text" Created="2014-07-21 03:52:22 -0400" Modified="2018-09-09 16:24:28 -0400">
+                                <BinderItem ID="135" UUID="E2CD94D1-7E17-40C5-9682-79035FE371B4" Type="Text" Created="2014-07-21 03:52:22 -0400" Modified="2018-10-10 11:57:48 -0400">
                                     <Title>What happened afterwards</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1737,7 +1737,7 @@
                                 <TextSelection>7682,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="146" UUID="CD79F1BC-D690-4B2B-B74A-4AF72C06F710" Type="Text" Created="2011-03-03 00:25:36 -0500" Modified="2018-09-09 16:27:53 -0400">
+                        <BinderItem ID="146" UUID="CD79F1BC-D690-4B2B-B74A-4AF72C06F710" Type="Text" Created="2011-03-03 00:25:36 -0500" Modified="2018-09-11 08:11:04 -0400">
                             <Title>AAnastasi</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1745,7 +1745,7 @@
                                 <IconFileName>To Do.tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>12485,0</TextSelection>
+                                <TextSelection>12256,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="147" UUID="3B09B805-7A65-47EC-AE98-0D62E7473745" Type="Text" Created="2011-02-28 18:15:55 -0500" Modified="2018-09-09 16:28:33 -0400">
@@ -4243,7 +4243,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="CADF5D6E-EF6B-400A-8C7F-CFF850A380D1" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">http://</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">Spearman</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
@@ -4277,7 +4277,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-10-17 14:05:40 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-11-20 15:07:57 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
     <UserProjectData>
