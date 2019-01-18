@@ -41,3 +41,9 @@ The file 'APA-Complete-2.X.pdf' is the complete build, including all three books
 * 2014 RTTP Game Developer's conferece, Simpson College Iowa.
 
 * 2010, Minds and Machines. Peter Bradley, PhD., Assoc. Professor, Department of Philosophy, McDaniel College
+
+## Still to do
+
+* Add Kurt Freund as a character, to lead the condemnation of Aversion Therapy discussion / vote. (https://wellcomecollection.org/articles/W1buxiYAACgAqyV9)
+
+* Add some basic primer on history of Linguistics for Chomsky
