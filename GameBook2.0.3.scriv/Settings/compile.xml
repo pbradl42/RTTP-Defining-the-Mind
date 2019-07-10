@@ -11,9 +11,17 @@
         <Options>
             <RemoveComments>Yes</RemoveComments>
             <RemoveAnnotations>Yes</RemoveAnnotations>
+            <ResampleImages DPI="72">No</ResampleImages>
             <Links>
                 <ConvertDocumentLinksToHTML>Yes</ConvertDocumentLinksToHTML>
             </Links>
+            <PDF>
+                <Cover Source="FrontMatter" Bleed="9.0" BleedUnits="pt"/>
+                <Compression Enabled="No">
+                    <ImageResolutionCompressionType>None</ImageResolutionCompressionType>
+                    <ImageResolution>300</ImageResolution>
+                </Compression>
+            </PDF>
             <Scriptwriting>
                 <IncludeTitles>Yes</IncludeTitles>
                 <IncludeSynopses>Yes</IncludeSynopses>
@@ -23,7 +31,7 @@
             <Ebook>
                 <StartAfterFrontMatter>Yes</StartAfterFrontMatter>
                 <Cover>
-                    <ImageDocument Source="FrontMatter"></ImageDocument>
+                    <ImageDocument Source="FrontMatter"/>
                     <Title>Cover</Title>
                     <SVG Width="600" Height="800"><![CDATA[]]></SVG>
                 </Cover>
@@ -70,7 +78,6 @@
                 <Type ID="4D9A289A-C7D2-4EF2-ADDA-B7ECC0AE6FE9">AS-IS</Type>
             </SectionLayouts>
             <FrontAndBackMatter>
-                <DefaultFrontMatter>42D6F136-ADD3-4361-AADE-7F8EECBB8683</DefaultFrontMatter>
                 <PerFileTypeSettings>
                     <mmd-latex>
                         <Front Lock="Yes"></Front>

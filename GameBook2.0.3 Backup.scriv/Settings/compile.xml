@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included" IncludeGroupText="Yes">
+            <Filter State="Off" Exclude="No" Type="Label">
+                <CollectionID>CADF5D6E-EF6B-400A-8C7F-CFF850A380D1</CollectionID>
+                <Label>-1</Label>
+                <Status>-1</Status>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveComments>Yes</RemoveComments>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <Links>
+                <ConvertDocumentLinksToHTML>Yes</ConvertDocumentLinksToHTML>
+            </Links>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <FootnotesAsScriptNotes>Yes</FootnotesAsScriptNotes>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <StartAfterFrontMatter>Yes</StartAfterFrontMatter>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"></ImageDocument>
+                    <Title>Cover</Title>
+                    <SVG Width="600" Height="800"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC PandocDepth="3">
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <ProjectTitle>Defining the Mind</ProjectTitle>
+            <ProjectAbbreviatedTitle>Defining the Mind</ProjectAbbreviatedTitle>
+            <Authors>
+                <Author Role="aut">Peter Bradley</Author>
+            </Authors>
+            <Surname>Bradley</Surname>
+            <Forename>Peter</Forename>
+            <EbookLanguage>en</EbookLanguage>
+            <FountainTitlePageMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </FountainTitlePageMetaData>
+            <MMDMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </MMDMetaData>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>mmd-latex</CurrentFileType>
+    <FormatSettings>
+        <Format ID="DEFAULT">
+            <SectionLayouts>
+                <Type ID="7F9A0694-A1AB-4E7F-A708-A0BE9EBC93E7">NEW-PAGE-HEADER-WITH-TEXT</Type>
+                <Type ID="4589863E-944C-4CA2-9818-C41A7D3C3D0C">TEXT-SECTION</Type>
+                <Type ID="4D9A289A-C7D2-4EF2-ADDA-B7ECC0AE6FE9">AS-IS</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="mmd-latex-custom-modern">
+            <SectionLayouts>
+                <Type ID="7F9A0694-A1AB-4E7F-A708-A0BE9EBC93E7">72A8A17D-2FF3-4C8D-8A4C-7895908E7EE5</Type>
+                <Type ID="C51A50B7-8F06-44FF-8A4E-29DB28257141">778FA2E2-F67D-4803-B183-019F8B45528B</Type>
+                <Type ID="4589863E-944C-4CA2-9818-C41A7D3C3D0C">D1057067-9CF1-44C3-A4C8-34A90A393E89</Type>
+                <Type ID="4D9A289A-C7D2-4EF2-ADDA-B7ECC0AE6FE9">AS-IS</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter>42D6F136-ADD3-4361-AADE-7F8EECBB8683</DefaultFrontMatter>
+                <PerFileTypeSettings>
+                    <mmd-latex>
+                        <Front Lock="Yes"></Front>
+                    </mmd-latex>
+                </PerFileTypeSettings>
+            </FrontAndBackMatter>
+        </Format>
+    </FormatSettings>
+    <LastUsedFormats>
+        <Print>DEFAULT</Print>
+        <mmd-latex>mmd-latex-custom-modern</mmd-latex>
+    </LastUsedFormats>
+</CompileSettings>
