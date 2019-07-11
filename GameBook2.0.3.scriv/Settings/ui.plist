@@ -2,8 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CollectionSelections</key>
+	<dict>
+		<key>CADF5D6E-EF6B-400A-8C7F-CFF850A380D1</key>
+		<array>
+			<string>42D6F136-ADD3-4361-AADE-7F8EECBB8683</string>
+		</array>
+	</dict>
 	<key>CompileFolder</key>
-	<string>/Users/pbradley/Dropbox (Personal)/Apps/Scrivener/APAGame/GameBook2.0.3.tex</string>
+	<string>/Users/pbradley/Dropbox (Personal)/Apps/Scrivener/APAGame</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
 	<key>SCRSelectedCompileOptionsInfoSaveName</key>
@@ -19,8 +26,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {189, 749}}</string>
-		<string>{{190, 0}, {1250, 749}}</string>
+		<string>{{0, 0}, {322, 749}}</string>
+		<string>{{323, 0}, {1117, 749}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -104,6 +111,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>4DB125C7-F029-464E-959C-99C2A878D088</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>51C44A81-0C3B-44A0-BED2-9A815D6BC04A</key>
 		<dict>
 			<key>Row</key>
@@ -114,7 +126,27 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>68ABC9B6-DC0F-4003-A98D-F43A0155C00B</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>7EA402EC-9B00-48A6-9A29-1DBC052F8D30</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>8A9BFBB7-A966-4CAC-AE0B-545178CED1BD</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>9C4F3AD5-4ACA-4D2B-86D8-A512E7E47705</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>A9F2AC25-75F0-4BFB-910F-823DD140E2BF</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -124,7 +156,17 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>C69EDCAD-6E9E-428C-95C1-8067A68105D7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>D59DB2EA-E471-4E44-9A04-1366AD09F4EE</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>FE221019-3B13-496B-BFA9-B01D1AA1F4CC</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -132,7 +174,7 @@
 	</dict>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>1</integer>
+		<integer>0</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>101</real>
@@ -148,7 +190,7 @@
 	<key>editorSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {495, 719}}</string>
-		<string>{{496, 0}, {526, 719}}</string>
+		<string>{{496, 0}, {393, 719}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>2</integer>
@@ -158,8 +200,8 @@
 	<integer>5</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1022, 719}}</string>
-		<string>{{1023, 0}, {227, 719}}</string>
+		<string>{{0, 0}, {889, 719}}</string>
+		<string>{{890, 0}, {227, 719}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -1011,7 +1053,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>187</real>
+			<real>320</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>

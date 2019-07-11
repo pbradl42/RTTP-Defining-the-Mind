@@ -63,13 +63,6 @@
     </ProjectSettings>
     <CurrentFileType>mmd-latex</CurrentFileType>
     <FormatSettings>
-        <Format ID="DEFAULT">
-            <SectionLayouts>
-                <Type ID="7F9A0694-A1AB-4E7F-A708-A0BE9EBC93E7">NEW-PAGE-HEADER-WITH-TEXT</Type>
-                <Type ID="4589863E-944C-4CA2-9818-C41A7D3C3D0C">TEXT-SECTION</Type>
-                <Type ID="4D9A289A-C7D2-4EF2-ADDA-B7ECC0AE6FE9">AS-IS</Type>
-            </SectionLayouts>
-        </Format>
         <Format ID="mmd-latex-custom-modern">
             <SectionLayouts>
                 <Type ID="7F9A0694-A1AB-4E7F-A708-A0BE9EBC93E7">72A8A17D-2FF3-4C8D-8A4C-7895908E7EE5</Type>
@@ -80,14 +73,33 @@
             <FrontAndBackMatter>
                 <PerFileTypeSettings>
                     <mmd-latex>
-                        <Front Lock="Yes"></Front>
+                        <Front Add="Yes" Lock="Yes">7EA402EC-9B00-48A6-9A29-1DBC052F8D30</Front>
                     </mmd-latex>
                 </PerFileTypeSettings>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="DEFAULT">
+            <SectionLayouts>
+                <Type ID="7F9A0694-A1AB-4E7F-A708-A0BE9EBC93E7">NEW-PAGE-HEADER-WITH-TEXT</Type>
+                <Type ID="4589863E-944C-4CA2-9818-C41A7D3C3D0C">TEXT-SECTION</Type>
+                <Type ID="4D9A289A-C7D2-4EF2-ADDA-B7ECC0AE6FE9">AS-IS</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="749A88A9-6D8C-4F13-A5DF-C32AC57F1268">
+            <SectionLayouts>
+                <Type ID="7F9A0694-A1AB-4E7F-A708-A0BE9EBC93E7">72A8A17D-2FF3-4C8D-8A4C-7895908E7EE5</Type>
+                <Type ID="C51A50B7-8F06-44FF-8A4E-29DB28257141">778FA2E2-F67D-4803-B183-019F8B45528B</Type>
+                <Type ID="4589863E-944C-4CA2-9818-C41A7D3C3D0C">D1057067-9CF1-44C3-A4C8-34A90A393E89</Type>
+                <Type ID="4D9A289A-C7D2-4EF2-ADDA-B7ECC0AE6FE9">AS-IS</Type>
+                <Type ID="737DDD77-7577-4310-9733-2816F6CDD948">AS-IS</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">7EA402EC-9B00-48A6-9A29-1DBC052F8D30</DefaultFrontMatter>
             </FrontAndBackMatter>
         </Format>
     </FormatSettings>
     <LastUsedFormats>
         <Print>DEFAULT</Print>
-        <mmd-latex>mmd-latex-custom-modern</mmd-latex>
+        <mmd-latex>749A88A9-6D8C-4F13-A5DF-C32AC57F1268</mmd-latex>
     </LastUsedFormats>
 </CompileSettings>
