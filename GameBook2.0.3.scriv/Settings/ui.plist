@@ -6,11 +6,11 @@
 	<dict>
 		<key>CADF5D6E-EF6B-400A-8C7F-CFF850A380D1</key>
 		<array>
-			<string>550B9B3B-46FB-42F1-9BBB-F0980AEB2172</string>
+			<string>7B3156F7-D111-432E-BE66-3977028E0BAA</string>
 		</array>
 	</dict>
 	<key>CompileFolder</key>
-	<string>/Users/pbradley/Dropbox (Personal)/Apps/Scrivener/APAGame</string>
+	<string>/Users/Peter/Dropbox (Personal)/Apps/Scrivener/APAGame</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
 	<key>SCRSelectedCompileOptionsInfoSaveName</key>
@@ -26,8 +26,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {322, 749}}</string>
-		<string>{{323, 0}, {1117, 749}}</string>
+		<string>{{0, 0}, {327.5, 1104}}</string>
+		<string>{{328.5, 0}, {1138.5, 1104}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -179,7 +179,7 @@
 	</dict>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>8</integer>
+		<integer>1</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>101</real>
@@ -194,8 +194,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {495, 719}}</string>
-		<string>{{496, 0}, {393, 719}}</string>
+		<string>{{0, 0}, {495, 1074}}</string>
+		<string>{{496, 0}, {414.5, 1074}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>2</integer>
@@ -205,8 +205,8 @@
 	<integer>5</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {889, 719}}</string>
-		<string>{{890, 0}, {227, 719}}</string>
+		<string>{{0, 0}, {910.5, 1074}}</string>
+		<string>{{911.5, 0}, {227, 1074}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -1035,7 +1035,7 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {495, 663}}</string>
+	<string>{{0, 0}, {495, 1018}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{3578, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -1048,7 +1048,7 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>13 106 1440 771 0 0 1440 877 </string>
+	<string>226 291 1467 1126 0 0 2560 1417 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -1058,7 +1058,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>320</real>
+			<real>326.5</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>
@@ -1884,7 +1884,7 @@
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {393, 663}}</string>
+	<string>{{0, 6566}, {414, 1018}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{2863, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
