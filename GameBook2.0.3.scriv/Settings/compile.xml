@@ -94,7 +94,8 @@
                 <Type ID="737DDD77-7577-4310-9733-2816F6CDD948">AS-IS</Type>
             </SectionLayouts>
             <FrontAndBackMatter>
-                <DefaultFrontMatter Add="Yes">7EA402EC-9B00-48A6-9A29-1DBC052F8D30</DefaultFrontMatter>
+                <DefaultFrontMatter Add="Yes">BD4523F6-E2A1-4F1B-A717-E67A685CA067</DefaultFrontMatter>
+                <DefaultBackMatter Add="Yes">569193F4-3638-4962-824B-6D885B164B1F</DefaultBackMatter>
             </FrontAndBackMatter>
         </Format>
     </FormatSettings>

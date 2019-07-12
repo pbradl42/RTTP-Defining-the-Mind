@@ -6,11 +6,11 @@
 	<dict>
 		<key>CADF5D6E-EF6B-400A-8C7F-CFF850A380D1</key>
 		<array>
-			<string>42D6F136-ADD3-4361-AADE-7F8EECBB8683</string>
+			<string>550B9B3B-46FB-42F1-9BBB-F0980AEB2172</string>
 		</array>
 	</dict>
 	<key>CompileFolder</key>
-	<string>/Users/pbradley/Dropbox (Personal)/Apps/Scrivener/APAGame</string>
+	<string>/Users/Peter/Dropbox (Personal)/Apps/Scrivener/APAGame</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
 	<key>SCRSelectedCompileOptionsInfoSaveName</key>
@@ -174,7 +174,7 @@
 	</dict>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>0</integer>
+		<integer>8</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>101</real>
@@ -1030,7 +1030,7 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 1467}, {495, 663}}</string>
+	<string>{{0, 0}, {495, 663}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{3578, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -1043,7 +1043,7 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>123 646 1440 771 0 0 2560 1417 </string>
+	<string>375 510 1440 771 0 0 2560 1417 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -1879,7 +1879,7 @@
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 621}, {526, 663}}</string>
+	<string>{{0, 0}, {393, 663}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{2863, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
@@ -1892,6 +1892,6 @@
 		<false/>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<true/>
+	<false/>
 </dict>
 </plist>
