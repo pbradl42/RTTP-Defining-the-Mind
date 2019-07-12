@@ -10,7 +10,7 @@
 		</array>
 	</dict>
 	<key>CompileFolder</key>
-	<string>/Users/Peter/Dropbox (Personal)/Apps/Scrivener/APAGame</string>
+	<string>/Users/pbradley/Dropbox (Personal)/Apps/Scrivener/APAGame</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
 	<key>SCRSelectedCompileOptionsInfoSaveName</key>
@@ -162,6 +162,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>D59DB2EA-E471-4E44-9A04-1366AD09F4EE</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>DABCA638-03B3-40DF-A82F-202CFE7BB775</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1043,7 +1048,7 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>375 510 1440 771 0 0 2560 1417 </string>
+	<string>13 106 1440 771 0 0 1440 877 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
