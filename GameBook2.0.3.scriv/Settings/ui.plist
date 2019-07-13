@@ -10,7 +10,7 @@
 		</array>
 	</dict>
 	<key>CompileFolder</key>
-	<string>/Users/Peter/Dropbox (Personal)/Apps/Scrivener/APAGame</string>
+	<string>/Users/pbradley/Dropbox (Personal)/Apps/Scrivener/APAGame</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
 	<key>SCRSelectedCompileOptionsInfoSaveName</key>
@@ -26,8 +26,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {327.5, 1104}}</string>
-		<string>{{328.5, 0}, {1138.5, 1104}}</string>
+		<string>{{0, 0}, {322, 782}}</string>
+		<string>{{323, 0}, {1117, 782}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -86,6 +86,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>0D22FC6A-0995-4A99-9E3B-03B14A5AC055</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>0F272927-82DB-4454-B429-7B37CAA33B87</key>
 		<dict>
 			<key>Row</key>
@@ -101,12 +106,27 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>3FF1B480-115C-4644-9E9A-88715BFBDA1A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>40DD62FF-8C2C-4E43-868C-1108C3F015A9</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>423ED2F7-3121-4660-B2C1-6686EDC749E0</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>42D6F136-ADD3-4361-AADE-7F8EECBB8683</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>49F6A3B6-9F33-4800-BF6E-0D36AEB825D9</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -122,6 +142,26 @@
 			<integer>-1</integer>
 		</dict>
 		<key>550B9B3B-46FB-42F1-9BBB-F0980AEB2172</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>59A1C041-650E-4BD1-9FD1-431FDE555E82</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>5B0B23C3-FDA6-44A2-8940-07CB74BD178B</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>5C6DE563-B10F-4E14-B5CE-7B173E5EFD80</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>626208A0-B500-411C-A57B-4B3FE5E121F4</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -151,12 +191,27 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>B316B800-3992-4C58-A018-AF36E4354175</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>BBE0EB60-B6D8-4AA2-BA30-626590C0160A</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>C544093C-C97B-4F92-B486-60C66CA4DEFE</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>C69EDCAD-6E9E-428C-95C1-8067A68105D7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>D4AE98C6-9420-4B12-89FE-2D749B503723</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -171,7 +226,32 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>DE3E2D61-6C59-41A1-876B-C6C89839650C</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>E68F910C-01EE-4393-A1ED-78A67D6F9F8B</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>EC9BA70A-4309-412C-9759-F98EA610FEFC</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>FB39FFBB-7470-4FA6-9228-64EBF1BB8004</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>FE221019-3B13-496B-BFA9-B01D1AA1F4CC</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>FEE70BBB-C216-444E-A474-7EEC184400B4</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -194,8 +274,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {495, 1074}}</string>
-		<string>{{496, 0}, {414.5, 1074}}</string>
+		<string>{{0, 0}, {495, 752}}</string>
+		<string>{{496, 0}, {393, 752}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>2</integer>
@@ -205,8 +285,8 @@
 	<integer>5</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {910.5, 1074}}</string>
-		<string>{{911.5, 0}, {227, 1074}}</string>
+		<string>{{0, 0}, {889, 752}}</string>
+		<string>{{890, 0}, {227, 752}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
