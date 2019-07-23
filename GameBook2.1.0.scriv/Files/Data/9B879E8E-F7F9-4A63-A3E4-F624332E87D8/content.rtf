@@ -1,0 +1,407 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+{\fonttbl\f0\fnil\fcharset0 Cochin;\f1\fnil\fcharset0 Consolas;\f2\fswiss\fcharset0 ArialMT;
+\f3\fnil\fcharset0 Monaco;\f4\fmodern\fcharset0 Courier-Bold;\f5\fmodern\fcharset0 Courier;
+\f6\froman\fcharset0 Times-Roman;\f7\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red118\green57\blue12;\red235\green236\blue237;\red180\green0\blue20;
+\red36\green38\blue41;\red38\green38\blue38;\red255\green255\blue255;\red43\green39\blue19;\red115\green115\blue115;
+\red129\green39\blue43;\red15\green112\blue1;\red246\green247\blue249;\red0\green0\blue0;\red26\green26\blue26;
+\red42\green42\blue42;\red241\green241\blue241;}
+{\*\expandedcolortbl;;\cssrgb\c54118\c29020\c4314;\cssrgb\c93725\c94118\c94510;\cssrgb\c76471\c9412\c9412;
+\cssrgb\c18824\c20000\c21176;\cssrgb\c20000\c20000\c20000;\cssrgb\c100000\c100000\c100000;\cssrgb\c22353\c20000\c9412;\cssrgb\c52549\c52549\c52549;
+\cssrgb\c58431\c21961\c21961;\cssrgb\c0\c50196\c0;\cssrgb\c97255\c97647\c98039;\cssrgb\c0\c0\c0;\cssrgb\c13333\c13333\c13333;
+\cssrgb\c21569\c21569\c21569;\cssrgb\c95686\c95686\c95686;}
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf0 \\def\\mysubtitle\{A Guide for the Intentional Student\}\
+ \
+\\input\{mmd-tufte-header.tex\}\
+\\addbibresource\{./APA.bib\}\
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\\DeclareBibliographyAlias\cf4 \{\cf5 webpage\cf4 \}\{\cf5 online\cf4 \}\cf5  \
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\pardeftab720\fi360\sl288\slmult1\partightenfactor0
+
+\f2 \cf0 \\definecolor\{ferrisred\}\{RGB\}\{186,18,43\}
+\fs24 \
+
+\fs28 \\definecolor\{ferrsgold\}\{RGB\}\{252,201,23\}\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\pardeftab720\fi360\sl288\slmult1\partightenfactor0
+
+\f0 \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural\partightenfactor0
+\cf0 % For nicely typeset tabular material\
+\\usepackage\{booktabs\}\
+\pard\pardeftab720\sl352\partightenfactor0
+
+\f3\fs32 \cf6 \cb7 \expnd0\expndtw0\kerning0
+\
+\\makeindex\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+%%\
+% For graphics / images\
+\\usepackage\{graphicx\}\
+\\usepackage\{environ\}\
+\\usepackage\{varioref\}\
+\\usepackage\{marginfix\}\
+\\usepackage\{morefloats\}\
+\pard\pardeftab720\sl390\partightenfactor0
+
+\f1\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\\extrafloats\cf4 \{\cf5 100\cf4 \}\cf8 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\pardeftab720\sl390\partightenfactor0
+
+\f1\fs26 \cf8 \cb3 \expnd0\expndtw0\kerning0
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\
+\\setkeys\{Gin\}\{width=\\linewidth,totalheight=\\textheight,keepaspectratio\}\
+\\graphicspath\{\{graphics/\}\}\
+\
+% The fancyvrb package lets us customize the formatting of verbatim\
+% environments.  We use a slightly smaller font.\
+\\usepackage\{fancyvrb\}\
+\\fvset\{fontsize=\\normalsize\}\
+\
+%%\
+% Prints argument within hanging parentheses (i.e., parentheses that take\
+% up no horizontal space).  Useful in tabular environments.\
+\\newcommand\{\\hangp\}[1]\{\\makebox[0pt][r]\{(\}#1\\makebox[0pt][l]\{)\}\}\
+\
+%%\
+% Prints an asterisk that takes up no horizontal space.\
+% Useful in tabular environments.\
+\\newcommand\{\\hangstar\}\{\\makebox[0pt][l]\{*\}\}\
+\
+%%\
+% Prints a trailing space in a smart way.\
+\\usepackage\{xspace\}\
+% Prints an epigraph and speaker in sans serif, all-caps type.\
+\\newcommand\{\\openepigraph\}[2]\{%\
+  %\\sffamily\\fontsize\{14\}\{16\}\\selectfont\
+  \\begin\{fullwidth\}\
+  \\sffamily\\large\
+  \\begin\{doublespace\}\
+  \\noindent\\allcaps\{#1\}\\\\% epigraph\
+  \\noindent\\allcaps\{#2\}% author\
+  \\end\{doublespace\}\
+  \\end\{fullwidth\}\
+\}\
+\
+% Inserts a blank page\
+\\newcommand\{\\blankpage\}\{\\newpage\\hbox\{\}\\thispagestyle\{empty\}\\newpage\}\
+\
+\\usepackage\{units\}\
+\
+% Typesets the font size, leading, and measure in the form of 10/12x26 pc.\
+\\newcommand\{\\measure\}[3]\{#1/#2$\\times$\\unit[#3]\{pc\}\}\
+\
+% Macros for typesetting the documentation\
+\\newcommand\{\\hlred\}[1]\{\\textcolor\{Maroon\}\{#1\}\}% prints in red\
+\\newcommand\{\\hangleft\}[1]\{\\makebox[0pt][r]\{#1\}\}\
+\\newcommand\{\\hairsp\}\{\\hspace\{1pt\}\}% hair space\
+\\newcommand\{\\hquad\}\{\\hskip0.5em\\relax\}% half quad space\
+\\newcommand\{\\TODO\}\{\\textcolor\{red\}\{\\bf TODO!\}\\xspace\}\
+\\newcommand\{\\na\}\{\\quad--\}% used in tables for N/A cells\
+\\providecommand\{\\XeLaTeX\}\{X\\lower.5ex\\hbox\{\\kern-0.15em\\reflectbox\{E\}\}\\kern-0.1em\\LaTeX\}\
+\\newcommand\{\\tXeLaTeX\}\{\\XeLaTeX\\index\{XeLaTeX@\\protect\\XeLaTeX\}\}\
+% \\index\{\\texttt\{\\textbackslash xyz\}@\\hangleft\{\\texttt\{\\textbackslash\}\}\\texttt\{xyz\}\}\
+\\newcommand\{\\tuftebs\}\{\\symbol\{'134\}\}% a backslash in tt type in OT1/T1\
+\\newcommand\{\\doccmdnoindex\}[2][]\{\\texttt\{\\tuftebs#2\}\}% command name -- adds backslash automatically (and doesn't add cmd to the index)\
+\\newcommand\{\\doccmddef\}[2][]\{%\
+  \\hlred\{\\texttt\{\\tuftebs#2\}\}\\label\{cmd:#2\}%\
+  \\ifthenelse\{\\isempty\{#1\}\}%\
+    \{% add the command to the index\
+      \\index\{#2 command@\\protect\\hangleft\{\\texttt\{\\tuftebs\}\}\\texttt\{#2\}\}% command name\
+    \}%\
+    \{% add the command and package to the index\
+      \\index\{#2 command@\\protect\\hangleft\{\\texttt\{\\tuftebs\}\}\\texttt\{#2\} (\\texttt\{#1\} package)\}% command name\
+      \\index\{#1 package@\\texttt\{#1\} package\}\\index\{packages!#1@\\texttt\{#1\}\}% package name\
+    \}%\
+\}% command name -- adds backslash automatically\
+\\newcommand\{\\doccmd\}[2][]\{%\
+  \\texttt\{\\tuftebs#2\}%\
+  \\ifthenelse\{\\isempty\{#1\}\}%\
+    \{% add the command to the index\
+      \\index\{#2 command@\\protect\\hangleft\{\\texttt\{\\tuftebs\}\}\\texttt\{#2\}\}% command name\
+    \}%\
+    \{% add the command and package to the index\
+      \\index\{#2 command@\\protect\\hangleft\{\\texttt\{\\tuftebs\}\}\\texttt\{#2\} (\\texttt\{#1\} package)\}% command name\
+      \\index\{#1 package@\\texttt\{#1\} package\}\\index\{packages!#1@\\texttt\{#1\}\}% package name\
+    \}%\
+\}% command name -- adds backslash automatically\
+\\newcommand\{\\docopt\}[1]\{\\ensuremath\{\\langle\}\\textrm\{\\textit\{#1\}\}\\ensuremath\{\\rangle\}\}% optional command argument\
+\\newcommand\{\\docarg\}[1]\{\\textrm\{\\textit\{#1\}\}\}% (required) command argument\
+\\newenvironment\{docspec\}\{\\begin\{quotation\}\\ttfamily\\parskip0pt\\parindent0pt\\ignorespaces\}\{\\end\{quotation\}\}% command specification environment\
+\\newcommand\{\\docenv\}[1]\{\\texttt\{#1\}\\index\{#1 environment@\\texttt\{#1\} environment\}\\index\{environments!#1@\\texttt\{#1\}\}\}% environment name\
+\\newcommand\{\\docenvdef\}[1]\{\\hlred\{\\texttt\{#1\}\}\\label\{env:#1\}\\index\{#1 environment@\\texttt\{#1\} environment\}\\index\{environments!#1@\\texttt\{#1\}\}\}% environment name\
+\\newcommand\{\\docpkg\}[1]\{\\texttt\{#1\}\\index\{#1 package@\\texttt\{#1\} package\}\\index\{packages!#1@\\texttt\{#1\}\}\}% package name\
+\\newcommand\{\\doccls\}[1]\{\\texttt\{#1\}\}% document class name\
+\\newcommand\{\\docclsopt\}[1]\{\\texttt\{#1\}\\index\{#1 class option@\\texttt\{#1\} class option\}\\index\{class options!#1@\\texttt\{#1\}\}\}% document class option name\
+\\newcommand\{\\docclsoptdef\}[1]\{\\hlred\{\\texttt\{#1\}\}\\label\{clsopt:#1\}\\index\{#1 class option@\\texttt\{#1\} class option\}\\index\{class options!#1@\\texttt\{#1\}\}\}% document class option name defined\
+\\newcommand\{\\docmsg\}[2]\{\\bigskip\\begin\{fullwidth\}\\noindent\\ttfamily#1\\end\{fullwidth\}\\medskip\\par\\noindent#2\}\
+\\newcommand\{\\docfilehook\}[2]\{\\texttt\{#1\}\\index\{file hooks!#2\}\\index\{#1@\\texttt\{#1\}\}\}\
+\\newcommand\{\\doccounter\}[1]\{\\texttt\{#1\}\\index\{#1 counter@\\texttt\{#1\} counter\}\}\
+\
+\pard\pardeftab720\sl300\partightenfactor0
+\cf0 \\renewcommand\{\\maketitlepage\}[0]\{%\
+  \\cleardoublepage%\
+  \{%\
+  \\sffamily%\
+  \\begin\{fullwidth\}%\
+  \\fontsize\{18\}\{20\}\\selectfont\\par\\noindent\\textcolor\{darkgray\}\{\\allcaps\{\\myauthor\}\}%\
+  \\vspace\{11.5pc\}%\
+  \\fontsize\{36\}\{40\}\\selectfont\\par\\noindent\\textcolor\{darkgray\}\{\\allcaps\{\\mytitle\}\}%\
+  \\fontsize\{18\}\{20\}\\selectfont\\par\\noindent\\textcolor\{ferrisred\}\{\\mysubtitle\}%\
+  \\vfill%\
+  \\fontsize\{14\}\{16\}\\selectfont\\par\\noindent\\allcaps\{\\thanklesspublisher\}%\
+  \\end\{fullwidth\}%\
+  \}\
+  \\thispagestyle\{empty\}%\
+  \\clearpage%\
+\}\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural\partightenfactor0
+\cf0 \
+\pard\pardeftab720\sl390\partightenfactor0
+
+\f1\fs26 \cf9 \cb3 \expnd0\expndtw0\kerning0
+% part format\
+\pard\pardeftab720\sl390\partightenfactor0
+
+\f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\pardeftab720\sl390\partightenfactor0
+
+\f1\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\\titleformat\{\\part\}%\
+  \{\\Huge\\rmfamily\\bfseries\\color\{ferrisred\}\}% format applied to label+text\
+  \{\\Huge\\rmfamily\\bfseries\\color\{ferrisred\}\\thepart\}% label\
+  \{10pt\}% horizontal separation between label and title body\
+  \{\}% before the title body\
+  []% after the title body\cf8 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\
+  \\titlecontents\{part\}% FIXME\
+    [0em] % distance from left margin\
+    \{\\vspace\{1.5\\baselineskip\}\\begin\{fullwidth\}\\LARGE\\rmfamily\\itshape\\color\{ferrisred\}\} % above (global formatting of entry)\
+    \{\\contentslabel\{2em\}\} % before w/label (label = ``II'')\
+    \{\} % before w/o label\
+    \{\\rmfamily\\upshape\\qquad\\thecontentspage\} % filler + page (leaders and page num)\
+    [\\end\{fullwidth\}] % after\
+\
+\
+% Chapter format\
+\pard\pardeftab720\sl390\partightenfactor0
+
+\f1\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\\titleformat\cf4 \{\cf2 \\chapter\cf4 \}\cf9 %\cf5 \
+  \cf4 \{\cf2 \\huge\\rmfamily\\itshape\\color\cf4 \{\cf5 ferrisred\cf4 \}\}\cf9 % format applied to label+text\cf5 \
+  \cf4 \{\cf2 \\llap\cf4 \{\cf2 \\colorbox\cf4 \{\cf5 ferrisred\cf4 \}\{\cf2 \\parbox\cf4 \{\cf10 1.5cm\cf4 \}\{\cf2 \\hfill\\itshape\\huge\\color\cf4 \{\cf5 white\cf4 \}\cf2 \\thechapter\cf4 \}\}\}\}\cf9 % label\cf5 \
+  \cf4 \{\cf10 5pt\cf4 \}\cf9 % horizontal separation between label and title body\cf5 \
+  \cf4 \{\}\cf9 % before the title body\cf5 \
+  \cf4 []\cf9 % after the title body\cf8 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\
+\pard\pardeftab720\sl390\partightenfactor0
+
+\f1\fs26 \cf8 \cb3 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720\sl390\partightenfactor0
+\cf9 % section format\cf5 \
+\pard\pardeftab720\sl390\partightenfactor0
+\cf2 \\titleformat\cf4 \{\cf2 \\section\cf4 \}\cf9 %\cf5 \
+  \cf4 \{\cf2 \\normalfont\\Large\\itshape\\color\cf4 \{\cf5 ferrisred\cf4 \}\}\cf9 % format applied to label+text\cf5 \
+  \cf4 \{\cf2 \\llap\cf4 \{\cf2 \\colorbox\cf4 \{\cf5 ferrisred\cf4 \}\{\cf2 \\parbox\cf4 \{\cf10 1.5cm\cf4 \}\{\cf2 \\hfill\\color\cf4 \{\cf5 white\cf4 \}\cf2 \\thesection\cf4 \}\}\}\}\cf9 % label\cf5 \
+  \cf4 \{\cf10 1em\cf4 \}\cf9 % horizontal separation between label and title body\cf5 \
+  \cf4 \{\}\cf9 % before the title body\cf5 \
+  \cf4 [
+\f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \\color\{black\}
+\f1\fs26 \cf4 \cb3 \expnd0\expndtw0\kerning0
+]\cf9 % after the title body\cf5 \
+\
+\pard\pardeftab720\sl390\partightenfactor0
+\cf9 % subsection format\cf5 \
+\pard\pardeftab720\sl390\partightenfactor0
+\cf2 \\titleformat\cf4 \{\cf2 \\subsection\cf4 \}\cf9 %\cf5 \
+  \cf4 \{\cf2 \\normalfont\\large\\itshape\\color\cf4 \{\cf5 ferrisred\cf4 \}\}\cf9 % format applied to label+text\cf5 \
+  \cf4 \{\cf2 \\llap\cf4 \{\cf2 \\colorbox\cf4 \{\cf5 white\cf4 \}\{\cf2 \\parbox\cf4 \{\cf10 1.5cm\cf4 \}\{\cf2 \\hfill\\color\cf4 \{\cf5 ferrisred\cf4 \}\cf2 \\thesubsection\cf4 \}\}\}\}\cf9 % label\cf5 \
+  \cf4 \{\cf10 1em\cf4 \}\cf9 % horizontal separation between label and title body\cf5 \
+  \cf4 \{\}\cf9 % before the title body\cf5 \
+  \cf4 [
+\f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \\color\{black\}
+\f1\fs26 \cf4 \cb3 \expnd0\expndtw0\kerning0
+]\cf9 % after the title body\cf8 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+% Add subsubsection\
+\pard\pardeftab720\sl390\partightenfactor0
+
+\f1\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
+% Add subsubsection\
+\\makeatletter\
+\\renewcommand\{\\subsubsection\}\{\\ttl@straightclass\{subsubsection\}\}\
+\\makeatother\
+\\titleformat\{\\subsubsection\}\
+  \{\\bfseries\\normalsize\}\
+  \{\\thesubsubsection\}\
+  \{1em\}\
+  \{\}\
+  []\cf8 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\
+\pard\pardeftab720\sl364\partightenfactor0
+
+\f4\b \cf11 \cb12 \expnd0\expndtw0\kerning0
+\\newcounter
+\f5\b0 \{\cf13 \cb12 purpose\cf11 \cb12 \}\cf13 \cb12 \
+
+\f4\b \cf11 \cb12 \\newcounter
+\f5\b0 \{\cf13 \cb12 thesis\cf11 \cb12 \}\cf13 \cb12 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f0 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\
+\\declaretheoremstyle[\
+  headfont=\\color\{ferrisred\}\\normalfont\\bfseries,\
+  bodyfont=\\color\{black\}\\normalfont\\itshape,\
+]\{colored\}\
+\
+\\declaretheorem[\
+  style=colored,\
+  name=Purpose,\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f6\fs24 \cf13 \expnd0\expndtw0\kerning0
+shaded=\{rulecolor=ferrisred, rulewidth=0.5pt, bgcolor=\{rgb\}\{1,1,1\}\},
+\f0\fs28 \cf0 \kerning1\expnd0\expndtw0 \
+\pard\pardeftab720\sl390\partightenfactor0
+
+\f1\fs26 \cf5 \cb3 \expnd0\expndtw0\kerning0
+numberwithin\cf4 =\cf5 chapter
+\f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 ]\{mypurpose\}\
+\
+\\declaretheorem[\
+  style=colored,\
+  name=Thesis,\
+\pard\pardeftab720\sl390\partightenfactor0
+
+\f1\fs26 \cf5 \cb3 \expnd0\expndtw0\kerning0
+numberwithin\cf4 =\cf5 chapter
+\f0\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 ]\{mythesis\}\
+\
+\\declaretheorem[\
+  style=colored,\
+  name=Subjects,\
+  parent=mypurpose\
+]\{myentities\}\
+\
+\\declaretheorem[\
+  style=colored,\
+  name=Object,\
+  parent=mypurpose\
+]\{myobjects\}\
+\
+\\declaretheorem[\
+  style=colored,\
+  name=Discussion Question,\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f6\fs24 \cf13 \expnd0\expndtw0\kerning0
+shaded=\{rulecolor=black, rulewidth=0.5pt, bgcolor=\{rgb\}\{1,1,1\}\} 
+\f0\fs28 \cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 ]\{myquestion\}\
+\
+% \\newtheorem\{theorem\}\{Definition\}[chapter]\
+\
+\\makeatletter\
+\\NewEnviron\{purpose\}[1][]\{\
+\\refstepcounter\{purpose\} \
+\\protected@edef\\@currentlabelname\{#1\}% addition here\
+\\noindent \\marginnote\{\
+ \\begin\{mypurpose\}[#1]\\BODY\\end\{mypurpose\}\
+ \}\
+\}\
+\\numberwithin\{mypurpose\}\{chapter\}\
+\
+\\NewEnviron\{question\}[1][]\{\
+\\protected@edef\\@currentlabelname\{#1\}% addition here\
+\\noindent \\marginnote\{\
+ \\begin\{myquestion\}\\BODY\\end\{myquestion\} \
+\}\}\
+\
+\\NewEnviron\{thesis\}[1][]\{\
+\\refstepcounter\{thesis\}\
+\\protected@edef\\@currentlabelname\{#1\}% addition here\
+ \\noindent \\marginnote\{\
+ \\begin\{mythesis\}[#1]\\BODY\\end\{mythesis\}\
+\}\
+\}\
+\\numberwithin\{thesis\}\{chapter\}\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f7\fs22 \cf0 \expnd0\expndtw0\kerning0
+\
+\\NewEnviron\{entities\}[1][]\{\\protected@edef\\@currentlabelname\{#1\}% addition here\
+\\noindent \\marginnote\{\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf0 \kerning1\expnd0\expndtw0  \\begin\{myentities\}[#1]\\BODY\\end\{myentities\}\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f7\fs22 \cf0 \expnd0\expndtw0\kerning0
+\}\}\
+\
+\\NewEnviron\{objects\}[1][]\{\\protected@edef\\@currentlabelname\{#1\}% addition here\
+\\noindent \\marginnote\{\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf0 \kerning1\expnd0\expndtw0  \\begin\{myobjects\}[#1]\\BODY\\end\{myobjects\}\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f7\fs22 \cf0 \expnd0\expndtw0\kerning0
+\}\}\
+\
+\\makeatother\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\fi360\sl288\slmult1\pardirnatural\partightenfactor0
+\cf0 % Bug fix - {\field{\*\fldinst{HYPERLINK "https://groups.google.com/forum/#!msg/tufte-latex-commits/JcgGP-1R138/-Srf_tzAKHkJ"}}{\fldrslt https://groups.google.com/forum/#!msg/tufte-latex-commits/JcgGP-1R138/-Srf_tzAKHkJ}}\
+\pard\pardeftab720\sl300\partightenfactor0
+
+\f2\fs26 \cf14 \cb7 \expnd0\expndtw0\kerning0
+% Set up the spacing using fontspec features\
+\\renewcommand\\allcapsspacing[1]\{\{\\addfontfeature\{LetterSpace=15\}#1\}\}\
+\\renewcommand\\smallcapsspacing[1]\{\{\\addfontfeature\{LetterSpace=10\}#1\}\}\
+% {\field{\*\fldinst{HYPERLINK "https://abnormaldata.wordpress.com/2015/01/14/configuring-scrivener-latex/"}}{\fldrslt https://abnormaldata.wordpress.com/2015/01/14/configuring-scrivener-latex/}}\
+\pard\pardeftab720\sl380\partightenfactor0
+
+\f5 \cf15 \cb16 \\ifx\\citep\\undefined\
+   \\let\\citep\\cite\
+   \\let\\citet\\cite\
+\\else\
+   \\renewcommand\\citep\{\\cite\}\
+   \\renewcommand\\citet\{\\cite\}\
+\\fi}
