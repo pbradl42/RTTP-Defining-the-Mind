@@ -6,7 +6,7 @@ The documents are maintained in Scrivener, and published via LauLatex.  Changes 
 
 The current Scrivener file is 'GameBook2.0.3.scriv.' It contains the Game Book, the Instructor's Manual and the Role Sheets in 'RTTP2.0' format. Most of the primary source PDF files are contained in the 'research' section.  Previous versions are archived in 'Obsolete'.
 
-The file 'APA-Complete-2.X.pdf' is the complete build, including all three books. As I complete a version, I will update this file.  The current working version is 2.0.3.  Books will eventually be separated once I have a full, viable, version.  They are kept together for hte sake of cross-referencing.
+The file 'APA-Complete-2.X.pdf' is the complete build, including all three books. As I complete a version, I will update this file.  The current working version is 2.1.0.  Books will eventually be separated once I have a full, viable, version.  They are kept together for the sake of cross-referencing.
 
 ## Contents
 
@@ -25,6 +25,10 @@ The file 'APA-Complete-2.X.pdf' is the complete build, including all three books
 * README.md -- this file
 * RelationsCount.csv -- Experimental data to map character relations according to mention in the materials
 * GenerateCount -- Experimental script to generate character relations map.
+
+## Tables and figures
+
+With Scrivener 3 updated (Version 2.1.0), I've tried to use MMD tables as much as possible. Long tables, either by height or width, require direct coding in LaTeX. These passages are escaped from MMD processing by ` and `{=latex}
 
 ## Playtest Record
 
@@ -45,5 +49,7 @@ The file 'APA-Complete-2.X.pdf' is the complete build, including all three books
 ## Still to do
 
 * Add Kurt Freund as a character, to lead the condemnation of Aversion Therapy discussion / vote. (https://wellcomecollection.org/articles/W1buxiYAACgAqyV9)
+  
+  * In Progress, 7/23/19
 
 * Add some basic primer on history of Linguistics for Chomsky
