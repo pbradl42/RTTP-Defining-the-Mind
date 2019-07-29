@@ -6,6 +6,7 @@
     </SupportedTypes>
     <SectionLayouts>
         <Layout Name="Heading" ID="72A8A17D-2FF3-4C8D-8A4C-7895908E7EE5">
+            <Include Text="Yes"/>
             <BlankLineSeparator SkipStyles="Yes"></BlankLineSeparator>
             <Formatting Override="No" EbooksUseBaseFormatting="Yes">
                 <Title><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf400
