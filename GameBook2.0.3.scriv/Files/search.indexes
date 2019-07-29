@@ -836,9 +836,9 @@ On January 5th 1968, the Czechslovakian Communist Party elected Alexander Dubče
 
 `\begin{marginfigure}
  \begin{center}
-     \includegraphics{./images/KAS-Prager_Frühling_1968-Bild-12906-1.jpg}
+     \includegraphics{./images/KAS-Prager_Frühling_1968-Bild-12906-1.jpg}
 \end{center}
- \caption{CDU (CC BY-SA 3.0 de (https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)), via Wikimedia Commons, \url{https://commons.wikimedia.org/wiki/File:KAS-Prager_Frühling_1968-Bild-12906-1.jpg} }
+ \caption{CDU (CC BY-SA 3.0 de (https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)), via Wikimedia Commons, \url{https://commons.wikimedia.org/wiki/File:KAS-Prager_Frühling_1968-Bild-12906-1.jpg} }
 \label{fig: 1968Prague}
 \end{marginfigure}
 `{=latex}
@@ -851,9 +851,16 @@ Complicating this is your research flies in the face of the standard Behavoristi
 
 
 ### Game Objectives
+You are horrified that the supposedly ‘advanced’ Western countries still use Aversion therapy for homosexuality.  One would think with all their talk of ‘freedom’ and communist repression, they would be ahead of Czechoslovakia in these matters.
 
+Your goal is to get the APA to ban the use of Aversion therapy for homosexuality.  Remember that you are a scientist first, and you need to make the case based on the evidence you have gathered during your research.  So you must *first* present a paper on your findings. Unfortunately, when you fled Czechoslovakia, you left all your equipment and designs in Prague. So you are unable to conduct direct research at the moment--and will not be able to until after 1975. And shockingly, all western versions of your apparatus have suddenly broken and can’t be used until after 1975. So don’t even try to proposal a research lab.
+What you should do is get a paper accepted describing your research up to this point, and how the Czechoslovakia and Hungarian Communist Parties accepted your conclusions.  Then make a proposal to the board banning aversion therapy.
 
 #### Specific Assignment
+Present a paper on your research (see margin note to the right).
+`\begin{writingtask}[Freund]\label{writingtask:freund}
+present a paper detailing your research on Aversion therapy and how it was banned in your home country (probably during or before 1973)
+\end{writingtask}`{=latex}
 
 **Initial Committee Membership**
 None, but eligible to run for any.
@@ -861,20 +868,19 @@ None, but eligible to run for any.
 
 ##### Demedicalization
 
+You lack the conceptual basis of psychoanalysis that drives research on homosexuality, but you certainly understand their prejudice.  You do not believe that homosexuality can be ‘cured’ by aversion therapy, but you are neutral on whether or not other therapies might help. As a result, you lean towards those who want ‘homosexuality’ removed from the DSM, but you are open to the idea of replacing it with something like ‘homodysphilia’ or ‘Ego-dystonic homosexuality’ to preserve the ability of practitioners to treat those seeking treatment.
 
 ##### Research
 
 ##### Association Business / DSM-III
 
+In 1974,  propose that as Aversion therapy is ineffective in changing a person’s homosexual orientation, and therefore is nothing more than inflicting discomfort for no end, aversion therapy should be not be allowed in the treatment of homosexuality. `\begin{proposal}[Freund]\label{proposal:freud} ban aversion therapy in the treatment of homosexuality\end{proposal}`{=latex}
 
-In 1974, propose that the APA deem the use of aversion therapy in the treatment of homosexuality immoral. You should research some of the first-hand stories available on &lt;http://www.treatmentshomosexuality.org.uk/&gt; to make your case.
-
-`\begin{proposal}[Freund]\label{proposal:freund}
-propose that the APA deem the use of aversion therapy in the treatment of homosexuality immoral\end{proposal}`{=latex}
+If you have the votes, you may want to push for something a little stronger--not just that aversion therapy is ineffective, but that it is cruel and immoral, tantamount to tortue. You should research some of the first-hand stories available on &lt;http://www.treatmentshomosexuality.org.uk/&gt; to make your case.
 
 ##### Social responsibilities of social scientists
 
-Indeterminant
+Supporter of Chomsky and Clark.
 
 ##### Definition of ‘mental illness’ and fission of the APA
 
@@ -884,14 +890,15 @@ You are neutral on the **definition of mental illness.**
 ### Must Read
 
 #### Secondary Sources
-[][#Helmore:1996vw]
 
-[][#Wilson:2015cu]
+`\fullcite{Helmore:1996vw}`{=latex}
 
-https://cuni.cz/UKEN-106.html
+`\fullcite{Wilson:2015cu}`{=latex}
+
+`\fullcite{Anonymous:P78AbmAH`{=latex}
 
  `\index{Freund, Kurt |)}`{=latex}</Text>
-            <Comments>https://www.nudz.cz/en/employee/?id=306</Comments>
+            <Comments>See, e.g. &lt;https://www.nudz.cz/en/employee/?id=306&gt;</Comments>
         </Document>
         <Document ID="BDC10306-8CBF-4B73-88B7-C65C434C48FA">
             <Title>Aversion / Reparative Theapy</Title>
@@ -1931,7 +1938,8 @@ You'll recall that Freud and the psychoanalytic tradition that followed him beli
 The often repeated statistic that 10% of any given population is gay or lesbian originates with Kinsey’s study.
 The 'Society for Human Rights' was founded in 1924, but never gained national prominence.
 Hooker, Evelyn. "The Adjustment of the Male Overt Homosexual." Journal of Projective Techniques 21(1957): 18-31.
-The use of the word 'gay' as a replacement for 'homosexual' dates from precisely this time with precisely these people. The Mattachine society and the older organizations used 'homosexual' and 'homophile' to refer to themselves. Ironically, the use of ’Gay'  to mean ‘homosexual’ is no attributed to Frank Kameny himself, who started a “Gay is good” campaign in 1968, to parallel the “Black is beautiful” campaign.</Comments>
+The use of the word 'gay' as a replacement for 'homosexual' dates from precisely this time with precisely these people. The Mattachine society and the older organizations used 'homosexual' and 'homophile' to refer to themselves. Ironically, the use of ’Gay'  to mean ‘homosexual’ is no attributed to Frank Kameny himself, who started a “Gay is good” campaign in 1968, to parallel the “Black is beautiful” campaign.
+A retrospective history of the short-lived GAA, and five protesters who were arrested for protesting at the Republican Headquarters. The ‘Rockefeller 5,’ as they became known, had all their charges dismissed later in 1970.  &lt;http://www.back2stonewall.com/2018/08/rockefeller-1970-gay-history-gaa.html&gt;</Comments>
         </Document>
         <Document ID="931F223C-D166-41E9-B41B-3EE3F16FA13D">
             <Title>Exiting the game</Title>
@@ -7241,7 +7249,11 @@ Moran, M. (2006) “Activists Forced Psychiatsts to Look Behind Closet Door” P
 
 Tobin, Kay and Wicker, Randy. (1975) The Gay Crusaders. Arno Press.
 `\index{Kameny, Frank|)}`{=latex}</Text>
-            <Comments>Quoted in Bullough, V.L. (2002). Before Stonewall, p. 210</Comments>
+            <Comments>Quoted in Bullough, V.L. (2002). Before Stonewall, p. 210
+Photos of a real-life ‘zap’ are on the NY Public Library’s page: http://digitalcollections.nypl.org/items/510d47e3-be50-a3d9-e040-e00a18064a99  
+
+This *may* be the same speech, as reported by the NY TImes--but it has no mention of the ‘Zap’ or gay rights protesters:
+https://www.nytimes.com/1970/06/09/archives/goldberg-visits-wall-st-scores-governors-aims.html</Comments>
         </Document>
         <Document ID="0738BB9A-2FA6-480C-802D-45C754DDAE6E">
             <Title>Zimbardo</Title>

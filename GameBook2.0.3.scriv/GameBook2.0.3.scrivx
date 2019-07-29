@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="AA12FA45-CF7F-45B1-BF99-90674B8FA9A0" Version="2.0" Creator="SCRMAC-3.1.3-11976" Device="PIC-142B-Desktop" Author="Peter Bradley" Modified="2019-07-29 11:29:30 -0400" ModID="13F00E56-071F-466E-835C-1A2E4A97B543">
+<ScrivenerProject Identifier="AA12FA45-CF7F-45B1-BF99-90674B8FA9A0" Version="2.0" Creator="SCRMAC-3.1.3-11976" Device="PIC-142B-Desktop" Author="Peter Bradley" Modified="2019-07-29 12:34:22 -0400" ModID="2A53AEDF-AE9A-4D63-B500-EA051863CAEA">
     <Binder>
         <BinderItem UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -124,7 +124,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>9364,13</TextSelection>
+                                                <TextSelection>13756,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="BC32CCF8-1AA4-4473-BD23-C863D0F4CD5B" Type="Text" Created="2013-07-25 00:09:28 -0400" Modified="2019-07-22 10:50:00 -0400">
@@ -1619,17 +1619,17 @@
                                 <IconFileName>To Do (Ticked)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1663,0</TextSelection>
+                                <TextSelection>2786,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="92DE4D17-E3C4-475D-9A3E-1003C35F3456" Type="Text" Created="2011-03-02 17:38:07 -0500" Modified="2019-07-22 19:37:44 -0400">
+                        <BinderItem UUID="92DE4D17-E3C4-475D-9A3E-1003C35F3456" Type="Text" Created="2011-03-02 17:38:07 -0500" Modified="2019-07-29 12:34:12 -0400">
                             <Title>KFreund</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>To Do (Ticked)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5731,0</TextSelection>
+                                <TextSelection>8311,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="73348FAC-7664-4D39-9A66-EED559D6BEC3" Type="Text" Created="2018-07-18 10:00:39 -0400" Modified="2019-07-22 10:47:49 -0400">
@@ -1699,7 +1699,7 @@
                                 <IconFileName>To Do (Ticked)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1994,0</TextSelection>
+                                <TextSelection>10912,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="D6EAB27A-F9D0-49F9-8B15-E09B2312D7A6" Type="Text" Created="2013-07-02 16:58:29 -0400" Modified="2019-07-22 10:48:57 -0400">
@@ -1709,7 +1709,7 @@
                                 <IconFileName>To Do (Ticked)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>13264,0</TextSelection>
+                                <TextSelection>22133,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="59328533-35FA-476B-8CCB-94A3CF2CE11F" Type="Text" Created="2011-03-02 23:54:54 -0500" Modified="2019-07-21 21:49:25 -0400">
@@ -5957,11 +5957,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-07-30 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-07-29 11:21:44 -0400"/>
+        <PreviousSession Words="364" Characters="2275" Date="2019-07-29 11:21:44 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2019-07-29 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+        <DraftWordCount>364</DraftWordCount>
+        <DraftCharCount>2275</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
