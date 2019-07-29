@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="AA12FA45-CF7F-45B1-BF99-90674B8FA9A0" Version="2.0" Creator="SCRMAC-3.1.3-11976" Device="SLS-Base-3" Author="Peter Bradley" Modified="2019-07-23 08:59:08 -0400" ModID="598556B1-C3DA-49C3-8699-0F85317E5B55">
+<ScrivenerProject Identifier="AA12FA45-CF7F-45B1-BF99-90674B8FA9A0" Version="2.0" Creator="SCRMAC-3.1.3-11976" Device="PIC-142B-Desktop" Author="Peter Bradley" Modified="2019-07-29 11:29:30 -0400" ModID="13F00E56-071F-466E-835C-1A2E4A97B543">
     <Binder>
         <BinderItem UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -118,7 +118,7 @@
                                                 <TextSelection>61768,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="4FCF9F86-80A4-4C89-BC5A-7E1AA0B51F54" Type="Text" Created="2013-09-18 16:33:28 -0400" Modified="2019-07-22 20:09:10 -0400">
+                                        <BinderItem UUID="4FCF9F86-80A4-4C89-BC5A-7E1AA0B51F54" Type="Text" Created="2013-09-18 16:33:28 -0400" Modified="2019-07-29 11:29:30 -0400">
                                             <Title>HistoryOfGayRightsMovement2</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1121,7 +1121,7 @@
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>5784,7</TextSelection>
+                                                        <TextSelection>5191,3</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                             </Children>
@@ -1386,7 +1386,7 @@
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>484,11</TextSelection>
+                                                        <TextSelection>624,0</TextSelection>
                                                     </TextSettings>
                                                 </BinderItem>
                                                 <BinderItem UUID="8EEDA8E8-1390-481D-AF39-7479CF3F7E4C" Type="Text" Created="2018-08-13 10:51:54 -0400" Modified="2019-07-21 21:29:44 -0400">
@@ -1652,14 +1652,14 @@
                                 <TextSelection>9212,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="CBFA4E8C-EE56-4CB5-8464-9A495BA33949" Type="Text" Created="2013-07-02 16:21:41 -0400" Modified="2019-07-22 20:26:09 -0400">
+                        <BinderItem UUID="CBFA4E8C-EE56-4CB5-8464-9A495BA33949" Type="Text" Created="2013-07-02 16:21:41 -0400" Modified="2019-07-29 11:26:49 -0400">
                             <Title>FKameny</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>To Do (Ticked)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>11782,0</TextSelection>
+                                <TextSelection>5976,7</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="C8139EDB-C085-4683-9B80-D96C8F913281" Type="Text" Created="2013-07-02 16:21:41 -0400" Modified="2019-07-22 20:32:05 -0400">
@@ -5956,14 +5956,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-07-24 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-07-23 08:59:06 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-07-30 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2019-07-29 11:21:44 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-07-23 00:00:00 -0400">
+    <RecentWritingHistory Date="2019-07-29 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
