@@ -101,6 +101,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>05A73C55-E46F-40C2-B154-C0F0B4644141</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>05FB9692-2FAB-40A8-99B0-E0F2B8F0BEC8</key>
 		<dict>
 			<key>Row</key>
@@ -466,6 +471,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>4CDF7714-CEFD-4882-9263-0230E2C2E099</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>4DB125C7-F029-464E-959C-99C2A878D088</key>
 		<dict>
 			<key>Row</key>
@@ -637,6 +647,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>7079890C-A483-4A32-8E8A-8EA547179AC2</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>7121EF2B-2F5C-4311-87BB-7D58AD2950DB</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2125,7 +2140,7 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 2040}, {495, 694}}</string>
+	<string>{{0, 74}, {495, 694}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{3578, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
