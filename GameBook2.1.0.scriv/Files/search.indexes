@@ -1022,7 +1022,7 @@ Support the psychoanalytic definition of mental illness.
             <Title>Iniital Credibility</Title>
             <Text>#### Initial credibility of each character
 Before the game begins, the credibility of each character ought to be established. The values displayed in table `\fullref{table: initialcredibility}`{=latex} are on the top of each individual’s game sheet. It is important, however, for everyone in the game to know how much credibility the various players have. To that end, it is advisable for the game master to start the game by publicly distributing the actual ‘credibility tokens’ (`\fullref{credibilitypoints}`{=latex}) during the start of the first class, announcing who has what credibility.
-
+Ron Gold, because of his position as a journalist for a well-known and respected magazine, starts the game with 10 credibility points that he *must* distribute before the game begins.  His own credibility, as a non-academic is ‘0.’
 `\begin{longtable}[!t]{  P{7cm}  P{2cm}   }`{=latex}
 `\toprule`{=latex}
 `\tahead{ Name} &amp; \tahead{Initial Credibility } \\ \hline `{=latex}
@@ -1051,6 +1051,7 @@ Before the game begins, the credibility of each character ought to be establishe
 ` Kameny  &amp; 0 \\ `{=latex}
 ` Gittings &amp; 0 \\ `{=latex}
 ` Marr &amp; 0 \\ `{=latex}
+`Gold &amp; 0 \\ `{=latex}
 ` Milgram &amp; 15 \\ `{=latex}
 ` Zimbardo &amp; 0 \\ \bottomrule`{=latex}
 `\caption{Initial credibility}`{=latex}
@@ -1143,7 +1144,7 @@ Present a paper during a symposium on the suitability of the medical model of ps
 
 There will likely be a proposal to limit the treatment of mentally disordered patients to psychiatrists, you should not only fight against it, but propose a separate system of treatment run entirely by psychologists. Your proposal should call for the establishment of various centers that would train, certify and deliver mental health services, in competition with psychiatry. 
 
-In your continued fight against Psychiatry, check out `\fullref{sample: APAEthics1968}`{=latex}, point e, which was added in 1968. You should work to get this removed or changed so psychologists can also work with psychotropics in their practice as well.
+In your continued fight against Psychiatry, check out `\fullref{app: APAEthics}`{=latex}, point e, which was added in 1968. You should work to get this removed or changed so psychologists can also work with psychotropics in their practice as well.
 
 ##### Social responsibilities of social scientists
 
@@ -1451,13 +1452,19 @@ Professor of Psychology and UCLA, Green is most well known for his groundbreakin
 
 *Notable Work*
 
-Green, R. &amp; Money, J. (1961) “Effeminacy in prepubertal boys; Summary of eleven cases and recommendations for case management.” Pediatrics  27(2), p. 286-291
+* `\fullcite{Green:1961vu}`{=latex}
 
-Green R. &amp; Money J (eds) (1969). Transsexualism and Sex Reassignment. The Johns Hopkins University Press (November 1, 1969) ISBN 0-8018-1038-8.
+* `\fullcite{Green:QRAikcvC}`{=latex}
 
 ##### Robert Hopcke Psychotherapist, San Francisco, CA (Jungian)* `\index[gamebook]{Hopcke, Robert}`{=latex}
 
 Robert Hopcke is a counselor, with degrees in both psychotherapy and pastoral counseling, best known for his successful Jungian practice in Bay Area in California.
+
+*Notable Work*
+
+* `\fullcite{Hopcke:NUCRTy9d}`{=latex}
+
+* `\fullcite{HOPCKE:1988by}`{=latex}
 
 ##### Harold Lief, MD Professor of Psychiatry at the University of Pennsylvania (Jungian)* `\index[gamebook]{Leif, Harold}`{=latex}
 
@@ -1466,7 +1473,7 @@ President of the American Academy of Psychoanalysis in 1967, Harold Lief is Prof
 
 *Notable Work*
 
-Leif, H. (1964) “The Psychological Basis of Medical Practice” Postgrad Med J 40:355 doi:10.1136/pgmj.40.464.355-a
+* Leif, H. (1964) “The Psychological Basis of Medical Practice” Postgrad Med J 40:355 doi:10.1136/pgmj.40.464.355-a
 
 ##### Judd Marmor, MD Psychiatrist, Hollywood, CA (Freudian) `\index[gamebook]{Marmor, Judd}`{=latex}
 
@@ -1476,19 +1483,24 @@ Initial Member of the Research committee, term expiring 1974.
 
 *Notable Work:*
 
-Marmor, J. (ed.) (1965). Sexual inversion: The multiple roots of homosexuality (pp. 83107). New York: Basic Books.
+* `\fullcite{Marmor:1965tja}`{=latex}
 
 ##### Charles W. Socarides, MD Professor of Psychiatry, Columbia University 
 
+`\index[gamebook]{Socarides, Charles}`{=latex}
 Charles Socarides is a Professor of Psychiatry at Columbia University.  Socarides and Bieber have spent most of their career treating and studying male homosexuality. Bieber is primary author of the 1962 study Homosexuality: A Psychoanalytic Study of Male Homosexuals is, in many ways, a response to the Kinsey Report. It reports on you study of 106 male homosexuals and 100 male heterosexuals seeking psychoanalysis for various problems.  According to Socarides and Bieber,  homosexuality is a neurotic adaptation to unresolved conflict, usually originating in the Oedipal stage of development.
 
-##### Irving Bieber, MD Professor of Psychiatry, NYU Medical College (Freudian) `\index[gamebook]{Socarides, Charles}`{=latex} `\index[gamebook]{Bieber, Irving}`{=latex}
+*Notable work*
+
+* `\fullcite{Socarides:1978uc}`{=latex}
+
+##### Irving Bieber, MD Professor of Psychiatry, NYU Medical College (Freudian)`\index[gamebook]{Bieber, Irving}`{=latex}
 
 Irving Bieber is Professor of Psychiatry at New York University Medical College and Charles Socarides at Columbia University.  Socarides and Bieber have spent most of their career treating and studying male homosexuality. Bieber is primary author of the 1962 study Homosexuality: A Psychoanalytic Study of Male Homosexuals is, in many ways, a response to the Kinsey Report. It reports on you study of 106 male homosexuals and 100 male heterosexuals seeking psychoanalysis for various problems.  According to Socarides and Bieber,  homosexuality is a neurotic adaptation to unresolved conflict, usually originating in the Oedipal stage of development.
 
 *Notable work*
 
- Bieber, I. (1962). Homosexuality: A Psychoanalytic Study: By Irving Bieber, et. al. New York: Basic Books, New York
+* `\fullcite{Bieber:b7I-LTQo}`{=latex}
 
 ##### John P. Spiegel, MD  Director, Lemberg Center for the Study of Violence, Brandeis University `\index[gamebook]{Spiegel, John}`{=latex}
 
@@ -1499,7 +1511,7 @@ Initial member of the nomenclature committee, term expiring 1974.
 
 *Notable Work*
 
-Grinker, R. &amp; Spiegel, J. P. (1945) Men Under Stress American Psychological Association. Was once available print-on-demand, but is not currently: ww.apa.org/pubs/books/4320127.aspx
+* `\fullcite{Grinker:1945tc}`{=latex}
 
 #### Behaviorists
 
@@ -1513,7 +1525,7 @@ Bandura was elected as a Fellow of the APA in 1964.
 
 *Notable work*
 
- Bandura, A. (1965). Vicarious processes: A case of no-trial learning. In L. Berkowitz (Ed.), Advances in experimental social psychology (Vol. 2, pp. 1-55). New York: Academic Press.
+* `\fullcite{Bandura:1965vu}`{=latex}
 
 ##### Harry Harlow, PhD Professor of Psychology, University of Wisconsin `\index[gamebook]{Harlow, Harry}`{=latex}
 
@@ -1524,7 +1536,7 @@ Harlow is most well known for his series of experiments on separation anxiety in
 
 *Notable work*
 
-Harlow, H. (1958) “The nature of love” American Psychologist 13(12) 673-685 On Psych Classics: &lt;http://psychclassics.yorku..ca/Harlow/love.htm&gt;.
+* `\fullcite{Harlow:1958dt}`{=latex} On Psych Classics: &lt;http://psychclassics.yorku..ca/Harlow/love.htm&gt;.
 
 ##### Evelyn Hooker, PhD  Emeritus Professor of Psychology, UCLA `\index[gamebook]{Hooker, Evelyn}`{=latex}
 
@@ -1537,7 +1549,7 @@ Initial member of the Program committee, term expiring 1972.
 
 *Notable work*
 
-Hooker, E. (1956). A preliminary analysis of group behavior of homosexuals. Journal of Psychology, 42, 217-225.
+* `\fullcite{Hooker:1956fo}`{=latex}
 
 #### Cognitivists
 
@@ -1548,9 +1560,9 @@ In 1971, Noam Chomsky is a quickly rising star in academia. Currently a professo
 
 *Notable work*
 
-Chomsky, N. (1959). "Review of Skinner's Verbal Behaviour" Language 35: 26-58. Electronic copy of ‘review’ with preface: &lt;http://cogprints.org/1148/0/chomsky.htm&gt; (included in the appendix)
+* `\fullcite{Chomsky:1959vs}`{=latex} Electronic copy of ‘review’ with preface: &lt;http://cogprints.org/1148/0/chomsky.htm&gt; (included in the appendix)
 
-Chomsky, N. (1966). Cartesian Linguistics New York, 1966
+* `\fullcite{Chomsky:2009dn}`{=latex}
 
 ##### George Miller, PhD Professor of Psychology, Harvard  `\index[gamebook]{Miller, George}`{=latex}
 
@@ -1559,9 +1571,10 @@ President of the APA in 1971. When the game begins, Miller is serving on the boa
 
 *Notable Work*
 
-Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63, 81-97.
+* `\fullcite{Miller:1956trb}`{=latex}
 
-Miller, G. A. (1962). Psychology, the science of mental life ([1st ed.). New York,: Harper &amp; Row.
+
+* `\fullcite{Miller:1962vk}`{=latex}
 
 ##### David Marr, ABD Graduate Student, MIT* `\index[gamebook]{Marr, David}`{=latex}
 
@@ -1581,9 +1594,9 @@ Initial member of the nomenclature committee, term expiring 1972. In classes ove
 
 *Notable Work*
 
-Albee, G. W. and M. Dickey (1957). "Manpower Trends in Three Mental Health Professions." The American Psychologist 12: 57-69.
+* `\fullcite{Albee:1957wh}`{=latex}
 
-Albee, G. W. (1970) “The uncertain future of clinical psychology” American Psychologist 1071-1080
+* `\fullcite{Albee:1970wt}`{=latex}
 
 ##### Anne Anastasi, PhD Professor of Psychology, Fordham University (Psychologist) `\index[gamebook]{Anastasi, Anne}`{=latex}
 
@@ -1594,11 +1607,11 @@ Initial member of the Program committee, term expiring 1974.
 
 *Notable Work*
 
-Anastasi. (1967). “Psychology, psychologists, and psychological testing.” American Psychologist  22 (4), p. 297-306
+* `\fullcite{Anastasi:1967uo}`{=latex}
 
-Anastasi, A. (1964) Differential Psychology 3rd Edition. Macmillan
+* `\fullcite{Anastasi:1945vg}`{=latex}
 
-Anastasi, A. (1954) Psychological Testing 1st Edition. Macmillian
+* `\fullcite{Anastasi:1968wq}`{=latex}
 
 ##### Kenneth Clark, PhD Professor of Psychology, CCNY (psychologist). `\index[gamebook]{Clark, Kenneth}`{=latex}
 
@@ -1609,13 +1622,16 @@ Initial member of the Research committee, term expiring 1973.
 
 *Notable Work*
 
-Clark, Kenneth B. &amp; Clark, Mamie K. (1939). The development of consciousness of self and the emergence of racial identification in negro preschool children. Journal of Social Psychology, S.P.S.S.I. Bulletin, 10, 591-599. [Available at psychclassics: &lt;http://psychclassics.yorku.ca/Clark/Self-cons/&gt;]
+* `\fullcite{Clark:1939tj}`{=latex} (Available at psychclassics: &lt;http://psychclassics.yorku.ca/Clark/Self-cons/&gt;)
 
-Clark, Kenneth B. &amp; Clark, Mamie K. (1940). Skin color as a factor in racial identification of negro preschool children. Journal of Social Psychology, S.P.S.S.I. Bulletin, 11, 159-169. [Available at psychclassics: &lt;http://psychclassics.yorku.ca/Clark/Skin-color/&gt;]
+* `\fullcite{Clark:1940wn}`{=latex} (Available at psychclassics: &lt;http://psychclassics.yorku.ca/Clark/Skin-color/&gt;)
 
 ##### D Fordney-Settlage, MD Assistant Professor, Obstetrics and Gynecology Division of Reproductive Biology at the Los Angeles County-USC Medical Center(en.wikipedia.org/wiki/Los_Angeles_County-USC_Medical_Center). (gynecologist)* `\index[gamebook]{Fordney-Settlage, Diane}`{=latex}
 
 Assistant Professor of Obstetrics and Gynecology Division of Reproductive Biology at the Los Angeles County-USC Medical Center. Diane Fordney-Settlage has recently come to national prominence as an advocate for women's sexual health following the wide-spread adoption of oral contraceptive.
+*Notable work*
+
+* `\fullcite{Settlage:1973vv}`{=latex}
 
 ##### John Fryer, MD Professor of Psychiatry, Temple University (psychiatrist)`\index[gamebook]{Fryer, John}`{=latex}
 
@@ -1634,11 +1650,9 @@ Initial member of the Program committee, term expiring 1973.
 
 *Kinsey Report*
 
-Kinsey, Alfred C. et al. (1948/1998). Sexual Behavior in the Human Male. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Currently out of print, but on google books.
+* `\fullcite{Kinsey:1998ur}`{=latex} Currently out of print, but on google books.
 
-Kinsey, Alfred C. et al. (1953/1998). Sexual Behavior in the Human Female. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Preview available on google books.
-
-Gebhard, Paul H. and Johnson, Alan B. (1979/1998). The Kinsey Data: Marginal Tabulations of 1938-1963 Interviews Conducted by the Institute for Sex Research. Philadelphia: W.B. Saunders; Bloomington, IN: Indiana U. Press. Preview available on google books.
+* `\fullcite{Kinsey:1998uk}`{=latex} Preview available on google books.
 
 ##### Ron Gold Journalist for Variety (Journalist)* `\index[gamebook]{Gold, Ron}`{=latex}
 
@@ -1657,7 +1671,9 @@ Former Director of Harvard's Department of Social Relations, currently director 
 
 *Notable Work*
 
-Milgram, Stanley. (1967). "The Small World Problem" Psychology Today, 2 p. 60 – 67
+* `\fullcite{Thesmallworldprob:1967jc}`{=latex}
+
+* `\fullcite{Travers:1969dw}`{=latex}
 
 ##### Jean Piaget, PhD Director of the International Center for Genetic Epistemology in Geneva, Switzerland (Developmental psychologist)* `\index[gamebook]{Piaget, Jean}`{=latex}
 
@@ -1666,15 +1682,16 @@ Director of the International Center for Genetic Epistemology in Geneva, Switzer
 
 *Notable Work*
 
-Piaget, J. (1924). Judgment and reasoning in the child, London: Routledge &amp; Kegan Paul, 1928. available at &lt;http://www.archive.org/details/judgmentandreaso007972mbp&gt;
+* `\fullcite{Piaget:2002cg}`{=latex} available at &lt;http://www.archive.org/details/judgmentandreaso007972mbp&gt;
 
-Piaget, J. (1936). Origins of intelligence in the child, London: Routledge &amp; Kegan Paul, 1953.
+* `\fullcite{Piaget:Hj1jWh7p}`{=latex}
 
-Piaget, J. (1957). Construction of reality in the child, London: Routledge &amp; Kegan Paul, 1954.
+* `\fullcite{Piaget:2013fg}`{=latex}
 
-Piaget, J. (1941). Child's conception of number (with Alina Szeminska), London: Routledge &amp; Kegan Paul, 1952.
+* `\fullcite{Piaget:1952vg}`{=latex}
 
-Piaget, J. (1945). Play, dreams and imitation in childhood, London: Heinemann, 1951.
+* `\fullcite{Piaget:1962uj}`{=latex}
+
 
 ##### Robert Spitzer, MD Researcher at Columbia Center for Psychoanalytic Training and Research (Psychiatrist) `\index[gamebook]{Spitzer, Robert}`{=latex}
 
@@ -1685,7 +1702,7 @@ Initial member of the nomenclature committee, term expiring 1976.
 
 *Notable Work*
 
-Spitzer, R. (1953). “An Examination of Wilhelm Reich's Demonstrations of Orgone Energy” available at `&lt;http://www.srmhp.org/0401/reich.html&gt;
+* `\fullcite{Spitzer:2005uua}`{=latex}
 
 ##### Thomas Szasz, MD Professor of Psychiatry, State Hospital of New York at Syracuse (Psychiatrist) `\index[gamebook]{Szasz, Thomas}`{=latex}
 
@@ -1696,11 +1713,12 @@ On the program for 1971.
 
 *Notable Work*
 
-Szasz, T. (1960). “The Myth of Mental Illness” American Psychologist, 15, p. 113-118 available at &lt;http://psychclassics.yorku.ca/Szasz/myth.htm&gt;
+* `\fullcite{Szasz:1960uf}`{=latex} available at &lt;http://psychclassics.yorku.ca/Szasz/myth.htm&gt;
 
-Szasz, T. (1974). The Myth of Mental Illness: Foundations of a Theory of Personal Conduct New York: Harper &amp; Row.
+* `\fullcite{Szasz:2011uf}`{=latex}
 
-Szasz, T. (1970). The Manufacture of Madness: a comparative study of the Inquisition and the mental health movement New York: Harper &amp; Row (See esp. the chapter titled “The Modern Psychiatric Scapegoat - The Homosexual”)
+* `\fullcite{Szasz:NwtccbNe}`{=latex} (See esp. the chapter titled “The Modern Psychiatric Scapegoat - The Homosexual”)
+
 
 ##### Leona Tyler, PhD Emeritus Dean and Professor of Psychology, University of Oregon, (Psychologist) `\index[gamebook]{Tyler, Leona}`{=latex}
 
@@ -1711,13 +1729,15 @@ Initial member of the Research committee, term expiring 1972.
 
 *Notable Work*
 
-Tyler, L.E. (1969). The Work of the Counselor, Prentice Hall
+* `\fullcite{Tyler:1953wk}`{=latex}
 
 ##### Philip Zimbardo, PhD Professor of Social Psychology at Stanford (Social psychologist)* `\index[gamebook]{Zimbardo, Philip}`{=latex}
 
 Philip Zimbardo has a great deal of promise as a researcher in social psychology, but has yet to gain national prominence.
 </Text>
-            <Comments>For the purposes of the game, 1970. In reality, 1958-1959.</Comments>
+            <Comments>Ordered, still waiting for arrival
+For the purposes of the game, 1970. In reality, 1958-1959.
+Waiting on Felix</Comments>
         </Document>
         <Document ID="8EB48B5A-0AAB-44D7-BF10-E4F5041A2688">
             <Title>Watson</Title>
@@ -1915,7 +1935,16 @@ See. e/g/ Skinner (1953) pg. 27-30</Comments>
 
 `\printbibliography[heading=subbibliography]`{=latex}
 
-`\printindex[instructors]`{=latex}</Text>
+## Indicies
+
+
+`\printindex[instructors]`{=latex}
+
+**Full index**
+
+Game book page numbers are in plain arabic, Instructor’s are preceded by ‘GM’ and Rolesheets by ‘R’.
+
+`\printindex`{=latex}</Text>
         </Document>
         <Document ID="91BD71DB-01DA-4716-A312-3B0F4D1091CF">
             <Text>#### The Second Revolution: Cognitive Science
@@ -2105,7 +2134,9 @@ A posited mechanism must allow for at least these three methods of investigation
             <Title>Milgrim - small world</Title>
             <Text>`\newpage`{=latex}
 
-#### Small World  `\index[instructors]{Milgrim, Stanley}`{=latex}
+#### Small World  
+
+`\index[instructors]{Milgrim, Stanley}`{=latex}
 
 “Given any two people In the world , person X and person Z, how many intermediate acquaintance links are needed before 1 and 2 are connected?”
 
@@ -2979,7 +3010,7 @@ In the interest of unifying these different classification schema, the American 
 `\end{longtable}`{=latex}
 
 
-`\index[gamebook]{DSM-I}`{=latex}Again, while the major classification here is 'Psychotic Disorders', the word "reaction" appears in 41 of the 48 diagnoses. The major categories are, like `\ref{table: 1948Classification}`{=latex}, the classical Freudian categories: Psychotic disorders (psychoses), ’Psychoneurotic disorders’ and ‘other’---except now, we have the modern term ‘Personality disorder.’ See the overview of Classical Psychoanalysis in section `\ref{classical}`{=latex} on page `\pageref{classical}`{=latex}.
+`\index[gamebook]{DSM-I}`{=latex}Again, while the major classification here is 'Psychotic Disorders', the word "reaction" appears in 41 of the 48 diagnoses. The major categories are, like `\ref{table: 1949Classification}`{=latex}, the classical Freudian categories: Psychotic disorders (psychoses), ’Psychoneurotic disorders’ and ‘other’---except now, we have the modern term ‘Personality disorder.’ See the overview of Classical Psychoanalysis in section `\ref{classical}`{=latex} on page `\pageref{classical}`{=latex}.
 
 The APA published the revised `\index[gamebook]{DSM-II}`{=latex}DSM-II in 1968. It is included as Appendix `\ref{app: DSMII}`{=latex}.
 
@@ -3252,7 +3283,7 @@ But everything changed forever on Saturday, June 28, 1969 at 1:20 AM, when the p
 On July 4th, the gay community’s attention turned to Independence Hall in Philadelphia and the Mattachine society’s annual march. As usual, Frank Kameny and Barbara Gittings, long time leaders of that gay and lesbian advocacy group, required the women to wear skirts and men suits. But the tide had turned. The young protestors from Stonewall would not conform. Kameny’s approach of assimilation  to “straight” behavior had been surpassed by the direct action begun at Stonewall. Militant groups such as the Gay Liberation Front and the Gay Activist Alliance sprouted up overnight (both started in New York). Plans were made to confront those who continued to classify homosexuality as a mental disorder, and directly challenge those who continued to treat homosexuals using barbaric methods.
 
 `\begin{figure*}\includegraphics{./images/nypl-digitalcollections.jpg}\caption{Manuscripts and Archives Division, The New York Public Library. (1970).Frank Kameny and Mattachine Society of Washington members marching Retrieved from http://digitalcollections.nypl.org/items/510d47e3-af4c-a3d9-e040-e00a18064a99}\label{fig:kameny1970}\end{figure*}`{=latex}
-Those plans included San Francisco, site of the 1970 American Psychiatric Association’s annual convention. And you already know what happened there. (See `\fullref{prolouge}`{=latex} if you need a refresher). `\index[gamebook]{Stonewall|)}`{=latex}</Text>
+Those plans included San Francisco, site of the 1970 American Psychiatric Association’s annual convention. And you already know what happened there. (See `\fullref{prologue}`{=latex} if you need a refresher). `\index[gamebook]{Stonewall|)}`{=latex}</Text>
             <Comments>In Victorian England, 'gross indecency' was defined as sexual acts between men that did not rise to the level of 'buggery'.
 There is a superb website in the UK that is collecting stories of patients, doctors and nurses from this era. All are deeply disturbing, some downright terrifying.  See `\url{http://treatmenthomosexuality.co.uk/}`{=latex}.  I'll quote just one example here, as it so perfectly illustrates classical conditioning:
 “We need to remember that the discussions that went on at Maudsley in the early 50s were constantly searching for ways in which we could understand the relationship between events, so again referring to the ideas put forward by Pavlov, Skinner and Wolpe, if a situation produces anxiety and at the same time there is another even occurring then buy the process of conditioning it's quite likely that the reaction of  anxiety will become associated with the unconditioned stimulus. By thinking along those lines it seemed to me that if the process of sexual arousal and gratification is linked with something, it may well become the preferred method of seeking gratification. It seemed to me that if a person wanted to stop being involved in and interested in make figures—so long as he had bisexual potential or interests—we might be able to utilize the other half of the spectrum of potential arousal signals. And, if we did that often enough, he then might be gratified by femininity.”
@@ -3479,7 +3510,7 @@ Major 'eras' are separated for ease of reference.
 `\begin{longtable}[!t]{  P{2cm}   P{11.8cm}   }`{=latex}
 `\toprule`{=latex}
 `\tahead{Year} &amp; \tahead{Event}  \\ \hline`{=latex}
-`1792 &amp; \index[gamebook]{Pinel, Philippe}Philippe Pinel appointed physician at the \index[gamebook]{Bicêtre}Bicêtre hospital in Paris \fullref{foundationinempiricism:Philipepinel} \\`{=latex}
+`1792 &amp; \index[gamebook]{Pinel, Philippe}Philippe Pinel appointed physician at the \index[gamebook]{Bicêtre}Bicêtre hospital in Paris \fullref{foundationinempiricism:philipepinel} \\`{=latex}
 `1794 &amp; Pinel appointed chief physician of the \index[gamebook]{Salpêtrière}Hospice de la Salpêtrière \\ `{=latex}
 `1801&amp;Pinel publishes \emph{A Treatise on Insanity}, with his 4-fold classification of mental illness (translated in English in 1806) \fullref{app: pinel} \\`{=latex}
 `1805&amp;\index[gamebook]{Esquirol, Jean Etienne} Esquirol published \emph{Mental Maladies}, with a 5-fold classification of mental illness \fullref{mentalalienation-esquirol} \\`{=latex}
@@ -4581,7 +4612,9 @@ The story of Hooker`\index{Hooker, Evelyn}`{=latex} and Fromm is retold in a num
 
 At the beginning of each conference (each ‘week’ on the standard schedule), distribute 1 credibility point to every student entering the game.  Each student *must* give this point to the individual that he or she believes gave the best speech, research report or symposium presentation by the end of the week.  
 
-Running for office ‘costs’ credibility.  Table `\fullref{table: credibilitymenu}`{=latex} in the Game Book shows the suggested costs of running for a seat. You are welcome to adjust this table for your own purposes, but if you do so, make sure to provide a copy to all the students.  A blank version is included on page `\pageref{sample: credibilitypointsmenu}`{=latex} of the Instructor's Manual.
+The character of Ron Gold, as a journalist, starts the game with 10 credibility points that he *must* distribute at the beginning of the game.
+
+Running for office ‘costs’ credibility.  Table `\fullref{credibilitycostsforservicetotheapa}`{=latex} in the Game Book shows the suggested costs of running for a seat. You are welcome to adjust this table for your own purposes, but if you do so, make sure to provide a copy to all the students.  A blank version is included on page `\pageref{sample: credibilitypointsmenu}`{=latex} of the Instructor's Manual.
 
 Credibility can be given or traded for favors, **but**, like a block-chain, all credibility transfers must be recorded in public by the board of the APA. If a senior member of the APA, say A. Bandura `\index[instructors]{Bandura, Albert}`{=latex}, wants to lend some of his credibility to an issue pushed by a junior member with less credibility, he is welcome to do so, **but** he must formally declare the transfer of credibility during a Board meeting of the APA so that everyone is aware of said transfer. </Text>
         </Document>
@@ -5646,11 +5679,11 @@ Indeterminate
 `\toprule`{=latex}
 `\multicolumn{3}{  P{13.8cm}  }{\tahead{ Standards }} \\ \hline`{=latex}
 ` Exemplary &amp; Satisfactory &amp; Unacceptable \\ \hline `{=latex}
-`\multicolumn{3}{  P{13.8cm}  }{\tahead{ Presentation of Evidence. (See \fullref{table: learninggoals} 3) }} \\ `{=latex}
+`\multicolumn{3}{  P{13.8cm}  }{\tahead{ Presentation of Evidence. (See item 3 in \fullref{table:learninggoals}) }} \\ `{=latex}
 `  The student identifies any possible confounding variables that are controlled in the experiment, and can explain *how* they are controlled. The student identifies the relationship identified between the independent and dependent variable, and is able to explain the statistical test proficiently. &amp; The student correctly identifies the hypothesis being tested, the experimental design and the independent variable and dependent variable. &amp;  The student misidentifies the hypothesis, the variables and  or the experimental design.   \\  \hline`{=latex}
-`\multicolumn{3}{  P{13.8cm}  }{\tahead{ Interpretation of results.  (See \fullref{table: learninggoals} 3) }} \\  \hline`{=latex}
+`\multicolumn{3}{  P{13.8cm}  }{\tahead{ Interpretation of results.  (See item 3 in \fullref{table:learninggoals}) }} \\  \hline`{=latex}
 ` The student is able to relate this result to other results presented in class---is this finding consistent with other data presented so far? &amp; The student correctly interprets the results: was the hypothesis confirmed? Disconfirmed? Etc. &amp; The student is unable to connect the results of the study to the hypothesis being tested, or any overarching theoretical positions being explored.   \\ \hline`{=latex}
-`\multicolumn{3}{  P{13.8cm}  }{\tahead{ Application to theoretical positions in game play. (See \fullref{table: learninggoals} 6) }} \\ \hline `{=latex}
+`\multicolumn{3}{  P{13.8cm}  }{\tahead{ Application to theoretical positions in game play. (See item 6 in \fullref{table:learninggoals}) }} \\ \hline `{=latex}
 ` The student is clearly connects the experiment directly to the major theoretical frameworks in game play, demonstrating understanding of more than one position. &amp; The student makes a connection, but it isn’t clear or it isn’t direct. &amp; The student makes no connection \\`{=latex}
 `\caption{Sample rubric for research reports}`{=latex}
 `\label{table: researchRubric}`{=latex}
@@ -5667,13 +5700,13 @@ For other writing tasks, the objectives are a bit more abstract:
 `\multicolumn{3}{  P{13.8cm}  }{\tahead{ Standards }} \\  \hline`{=latex}
 ` Exemplary &amp; Satisfactory &amp; Unacceptable \\ \hline `{=latex}
 `\multicolumn{3}{  P{13.8cm}  }{\tahead{  Legitimacy }}  \\ \hline `{=latex}
- `Student raises, or preemptively addresses (depending on role), questions  regarding the legitimacy of evidence. (See \fullref{table: learninggoals} 2)  &amp;  Student recognizes questions of legitimacy but does not raise or address them  &amp;  Student accepts all evidence as legitimate. \\ \hline`{=latex}
+ `Student raises, or preemptively addresses (depending on role), questions  regarding the legitimacy of evidence. (See item 2 in  \fullref{table:learninggoals})  &amp;  Student recognizes questions of legitimacy but does not raise or address them  &amp;  Student accepts all evidence as legitimate. \\ \hline`{=latex}
 `\multicolumn{3}{  P{13.8cm}  }{\tahead{  Context }}  \\ \hline `{=latex}
-` Where appropriate, student is able to contextualize views under discussion into their historical context (See \fullref{table: learninggoals} 1 and 4).  &amp;  Student recognizes context, but does not use it in analyses.  &amp;  Student treats all theories as authoritative.  \\ \hline`{=latex}
+` Where appropriate, student is able to contextualize views under discussion into their historical context (See items 1 and 4 in \fullref{table:learninggoals}).  &amp;  Student recognizes context, but does not use it in analyses.  &amp;  Student treats all theories as authoritative.  \\ \hline`{=latex}
 `\multicolumn{3}{  P{13.8cm}  }{\tahead{  Primary sources }}  \\ \hline `{=latex}
-` Student uses historically appropriate primary sources (See \fullref{table: learninggoals} 5)  &amp;  Student cites historically appropriate primary sources, but does not engage with them  &amp;  Student does not include historically appropriate primary sources -- sources not primary, or not historically appropriately. \\  \hline`{=latex}
+` Student uses historically appropriate primary sources (See item 5 in \fullref{table:learninggoals})  &amp;  Student cites historically appropriate primary sources, but does not engage with them  &amp;  Student does not include historically appropriate primary sources -- sources not primary, or not historically appropriately. \\  \hline`{=latex}
 `\multicolumn{3}{  P{13.8cm}  }{\tahead{  Implications }} \\  \hline `{=latex}
-` Student is able to distinguish between the major theoretical positions represented in the game, and interpret evidence as bearing on those positions in some way. (\fullref{table: learninggoals} 6)  &amp;  Student can ‘rehearse’ distinctions between theoretical positions, but cannot connect theories with evidence &amp;  Student mistakes or confuses theoretical positions. \\  \hline`{=latex}
+` Student is able to distinguish between the major theoretical positions represented in the game, and interpret evidence as bearing on those positions in some way. (Item 6 in \fullref{table:learninggoals} )  &amp;  Student can ‘rehearse’ distinctions between theoretical positions, but cannot connect theories with evidence &amp;  Student mistakes or confuses theoretical positions. \\  \hline`{=latex}
 `\caption{Sample rubric for writing papers}`{=latex}
 `\label{table: writingRubric}`{=latex}
 `\end{longtable}`{=latex}
@@ -6012,7 +6045,8 @@ Wundt sought to reduce Hume’s four standard 'Laws of Association' of ideas---s
             <Title>Zimbardo</Title>
             <Text>`\newpage`{=latex}
 
-#### Interpersonal Dynamics in a Simulated Prison`\index[instructors]{Zimbardo, Philip: Research|(}`{=latex}
+#### Interpersonal Dynamics in a Simulated Prison
+`\index[instructors]{Zimbardo, Philip: Research|(}`{=latex}
 
 ##### Background
 
@@ -6397,7 +6431,7 @@ David Marr joins Miller`\index[instructors]{Miller, George}`{=latex} and Chomsky
             <Text>#### Sample Conference Schedule for 1971
 
 
-`\begin{longtable}[!t]{   p{2cm}   p{7cm}   p{7cm}   } \toprule`{=latex}
+`\label{1971}\begin{longtable}[!t]{   p{2cm}   p{7cm}   p{7cm}   } \toprule`{=latex}
 `\tahead{Item} &amp; \tahead{First session} &amp; \tahead{Second session} \\ \hline \hline`{=latex}
 `Presidential Address&amp;\multicolumn{2}{  P{14cm}   }{Miller “Psychology as a means of promoting human welfare” (See \fullref{writingtask:miller} of the Role Sheet book)} \\ \hline`{=latex}
 `Symposium&amp;\multicolumn{2}{  P{14cm}   }{“Psychiatry: Friend or Foe to Homosexuals: A Dialogue,” Fryer \index[instructors]{Fryer, John}(\fullref{writingtask:fryer} of the Role Sheet book), Hooker \index[instructors]{Hooker, Evelyn}(\fullref{writingtask:hooker} of the Role Sheet book), Kameny (\fullref{writingtask:kameny}) \index[instructors]{Kameny, Frank} / Gittings \index[instructors]{Gittings, Barbara}(\fullref{writingtask:gittings} of the Role Sheet book)} \\ \hline`{=latex}
@@ -6437,7 +6471,7 @@ Psychology is a heterogeneous field, and including Psychiatry in the game makes 
 
 ##### Common reading
 
-As such, each student ought to read the readings contained on his or her role sheet, a full summary of which is included in table `\fullref{table: readingsbycharacter}`{=latex}.
+As such, each student ought to read the readings contained on his or her role sheet, a full summary of which is included in table `\fullref{overviewofreadingassignmentsbycharacter}`{=latex}.
 
 The challenge of this game is to ensure that there is a common base among the various approaches to the mind to ensure productive discussion.  I’ve chosen Freud’s *Introductory Lectures on Psychoanalysis* because everyone---friend and foe---would have needed to understand and respond to Freud during this period. 
 
@@ -6772,7 +6806,7 @@ Many of the research tasks specified are classics in the field, or easy in-class
 
 The game master ought to distribute the *real* paper relating to each lab activity **after** it has been presented by the student.  These are listed in each year’s schedule below, and included on the GitHub site for the book.
 
-The twist to the research committee is Zimbardo.`\index[instructors]{Zimbardo, Philip}`{=latex}  If Zimbardo proposes the prison study in 1973 or 1974, and **if** it is approved by the research committee, the game master ought to intervene and claim (as the high voice of reason) that the experiment is clearly unethical.  As the research committee was probably correct in assessing that there was nothing in Zimbardo’s proposal that violated the 1968 ethical standards (`\fullref{sample: APAEthics1968}`{=latex} of the game book), the game master ought to charge the research committee with drafting a proposed revision to the APA Ethical Standards.
+The twist to the research committee is Zimbardo.`\index[instructors]{Zimbardo, Philip}`{=latex}  If Zimbardo proposes the prison study in 1973 or 1974, and **if** it is approved by the research committee, the game master ought to intervene and claim (as the high voice of reason) that the experiment is clearly unethical.  As the research committee was probably correct in assessing that there was nothing in Zimbardo’s proposal that violated the 1968 ethical standards (`\fullref{app: APAEthics}`{=latex}), the game master ought to charge the research committee with drafting a proposed revision to the APA Ethical Standards.
 
 `\newthought{The final vote:}`{=latex} The final vote on the definition of mental illness these threads together. In one view, this is merely a nomenclature matter for a scientific community---a physicist would not care if their definition of ‘force’ matched the public views or not. On another view, this definition, as it is put forward by an authoritative body, will profoundly impact the lives of millions of people: whether or not they can get insurance coverage for treatment, whether or not their views can be dismissed as those of a ‘diseased’ mind, etc.
 
@@ -6938,7 +6972,7 @@ Write a paper, to be presented at the 1975 conference, on the ethical problems o
 
 `\setcounter{chapter}{0}`{=latex}
 
-`\renewcommand{\thepage}{\roman{page}}`{=latex}
+`\renewcommand{\thepage}{GM\arabic{page}}`{=latex}
 
 `\mainmatter`{=latex}
 
@@ -6957,7 +6991,7 @@ Write a paper, to be presented at the 1975 conference, on the ethical problems o
             <Title>Assignments</Title>
             <Text>### Assignments
 
-Every character has at least one writing assignment included in their role sheet.  Guidelines for formatting, word count, etc. vary by context, but all formal requirements are included in sections `\ref{callsforpapersandsymposia}`{=latex}.</Text>
+Every character has at least one writing assignment included in their role sheet.  Guidelines for formatting, word count, etc. vary by context, but all formal requirements are included in sections `\fullref{sample:callforpapersandsymposia}`{=latex}.</Text>
         </Document>
         <Document ID="626208A0-B500-411C-A57B-4B3FE5E121F4">
             <Title>Speaking</Title>
@@ -7299,7 +7333,7 @@ At the completion of this game, the students will be able to:
             <Text>#### Sample Conference Schedule for 1975
 
 Papers / Proposals other than the Presidential address are *likely* to be presented, but all depend on game play.
-`\begin{longtable}[!t]{   p{2cm}   p{7cm}   p{7cm}   } \toprule`{=latex}
+`\label{1975}\begin{longtable}[!t]{   p{2cm}   p{7cm}   p{7cm}   } \toprule`{=latex}
 `\tahead{Item} &amp; \tahead{First session} &amp; \tahead{Second session} \\ \hline \hline`{=latex}
 `Presidential Address&amp;\multicolumn{2}{  P{14cm}   }{Depends on previous elections, but possible: Spiegel\index[instructors]{Spiegel, John}, Clark, Anastasi} \index[instructors]{Anastasi, Anne}\\ \hline`{=latex}
 `Symposium&amp;\multicolumn{2}{  P{14cm}   }{TBD}\\ \hline`{=latex}
@@ -8690,7 +8724,7 @@ In opposition: Harlow`\index[instructors]{Harlow, Harry}`{=latex}.
 **Papers to be distributed (if activities are approved)**
 
 * Following research presentation by `\fullref{researchtask:zimbardo} of the Role Sheet book`{=latex}:
-	* Haney, C. Banks, C. &amp; Zimbardo, P. (1973). “Interpersonal Dynamics in a Simulated Prison,” International Journal of Criminology and Penology 1, p. 69-97, Included in appendix as `\fullref{interpersonaldynamicsinasimulatedprison}`{=latex} in the Instructor's Manual.`\index[instructors]{Zimbardo, Philip}`{=latex}
+	* Haney, C. Banks, C. &amp; Zimbardo, P. (1973). “Interpersonal Dynamics in a Simulated Prison,” International Journal of Criminology and Penology 1, p. 69-97, Included in appendix as `\fullref{paper: zimbardo}`{=latex} in the Instructor's Manual.`\index[instructors]{Zimbardo, Philip}`{=latex}
 
 * Following research presentation by `\fullref{researchtask:spitzer} of the Role Sheet book`{=latex}
 	* Spitzer, R. and Fleiss, J. (1974). “A Re-analysis of the Reliability of Psychiatric Diagnosis” Brit. J. Psychiat. 125, 341-7. Included in appendix as `\fullref{are-analysisofthereliabilityofpsychiatricdiagnosis}`{=latex} in the Instructor's Manual.
@@ -9198,7 +9232,7 @@ The final vote is tallied in credibility.  To win, a definition *must* have more
             <Text>`\newpage`{=latex}
 Sample call for papers and symposia.
 
-`\begin{apatextbox}{Sample call for proposals for APA conference} `{=latex}
+`\label{sample:callforpapersandsymposia}\begin{apatextbox}{Sample call for proposals for APA conference} `{=latex}
 
 `\rowgroup{`{=latex}
 #### Call for Papers and Symposia `} \\`{=latex}
@@ -9260,7 +9294,7 @@ Sample call for papers and symposia.
 
 ** Research Reports**`} \\`{=latex}
 
-`\rowgroup{`{=latex}*Each author of a research report must submit a 100-word abstract (1 copy) for publication if the paper is accepted, and also a 300-word summary (4 copies) for committee publication.*  If the author desires, tables presenting results may be submitted with the 300-word summary. Not more than one page of tables should be submitted. This means that all the data should have been obtained and the analysis completed at the time the abstract and summary are submitted to the Program Committee.`} \\`{=latex}
+`\label{forresearchreports}\rowgroup{`{=latex}*Each author of a research report must submit a 100-word abstract (1 copy) for publication if the paper is accepted, and also a 300-word summary (4 copies) for committee publication.*  If the author desires, tables presenting results may be submitted with the 300-word summary. Not more than one page of tables should be submitted. This means that all the data should have been obtained and the analysis completed at the time the abstract and summary are submitted to the Program Committee.`} \\`{=latex}
 
 `\rowgroup{`{=latex} 
 
@@ -9375,14 +9409,14 @@ Author(s): &amp;Sponsor (if any):  \\ \hline
 
 `\rowgroup{`{=latex}APA members are encouraged to exhibit apparatus, teaching aids, and other materials of scientific and applied interest. Commercial agencies are invited to request arrangements for exhibits. All commercial exhibitors will be charged for space. Those wishing to arrange for exhibits must write to the chairman of the Program Committee.`} \\`{=latex}
 
-`\label{sample:callforpapersandsymposia}
+`
 \end{apatextbox}
  %\captionof{InfoBox}{Sample call for proposals for APA conference\label{sample:cfp}} `{=latex}
 
 
 `\newpage`{=latex}
 Sample call for research grants.
-`
+`\label{sample:callforresearchgrants}
 \begin{apatextbox}{Call for Research Grants} `{=latex}
 
 `\rowgroup{`{=latex}
@@ -9517,10 +9551,9 @@ Sample call for research grants.
 
 ##### Reports`} \\`{=latex}
 
-`\rowgroup{`{=latex}Research findings should be submitted to the conference committee for the annual national conference following the awarding of the grant. The primary investigator should follow the guidelines found under 'Research Reports' (see `\ref{researchreports----}`{=latex} in the  `\fullref{sample:callforpapersandsymposia}`{=latex}) in drafting his research report. Winning a grant in no way guarantees inclusion in the following year's conference program.`} \\`{=latex}
+`\rowgroup{`{=latex}Research findings should be submitted to the conference committee for the annual national conference following the awarding of the grant. The primary investigator should follow the guidelines found under 'Research Reports' (see `\ref{forresearchreports}`{=latex} in the  `\fullref{sample:callforpapersandsymposia}`{=latex}) in drafting his research report. Winning a grant in no way guarantees inclusion in the following year's conference program.`} \\`{=latex}
 
-`\label{sample:callforresearchgrants}
-\end{apatextbox}
+`\end{apatextbox}
  %\captionof{InfoBox}{Sample call for research grants\label{sample:cfg}} `{=latex}
 </Text>
             <Comments>This entire section is adapted from the “Call for Papers and Symposia” from the 1957 *American Psychologist*.
@@ -10151,7 +10184,7 @@ Various roles are tasked with proposing research studies to the research committ
 
 I've pulled a number of experiments from the APA's *Activities Handbook for the Teaching of Psychology* v. 1-4 that correspond to many of the topics the class will be discussing. They are listed here, and attached as PDFs at the end of this document, if you do not have access to the *Handbooks*. The characters listed here are *suggestions*.  The instructor should distribute these as he or she sees fit.
 
-`\begin{longtable}[!t]{ P{4cm} P{2.5cm}   P{3cm}  P{5cm} |}`{=latex}
+`\begin{longtable}[!t]{ P{4cm} P{2.5cm}   P{3cm}  P{5cm} }`{=latex}
 `\toprule`{=latex}
 `\tahead{Title, author}&amp;\tahead{Location in APA Handbooks}&amp;\tahead{Suggested character, conference}&amp;\tahead{Appendix}\\ \hline`{=latex}
 `Accuracy of Observation, Paul J. Woods&amp;v. 1,\#2&amp;Tyler \index[instructors]{Tyler, Leona} or Anastasi 1971&amp;Appendix \fullref{app: observation} of the Instructor’s Manual\\`{=latex}
