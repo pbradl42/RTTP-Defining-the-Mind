@@ -46,6 +46,7 @@ Updated to 'RTTP2.0' format, Summer 2018. Still need:
 2. Clean up mmd / latex tables.
 3. in-document formatted citations from old OO files. Need to update to LaTeX.
 4. Split page # / index / works cited by book (LaTeX part).
+5. Updated to 'tufte' LaTeX style.
 
 
 ## Playtest Record
