@@ -2155,7 +2155,7 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 344}, {495, 694}}</string>
+	<string>{{0, 2546}, {495, 693.60624999999982}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{3578, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -3004,7 +3004,7 @@
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {393, 694}}</string>
+	<string>{{0, 5133}, {393, 694}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{2863, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
@@ -3017,6 +3017,6 @@
 		<false/>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<true/>
+	<false/>
 </dict>
 </plist>

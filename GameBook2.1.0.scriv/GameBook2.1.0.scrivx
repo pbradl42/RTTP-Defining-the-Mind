@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="AA12FA45-CF7F-45B1-BF99-90674B8FA9A0" Version="2.0" Creator="SCRMAC-3.1.3-11976" Device="SLS-Base-3" Author="Peter Bradley" Modified="2019-08-06 15:22:13 -0400" ModID="F7E336F0-7479-4290-A9BD-90F9BDE13F65">
+<ScrivenerProject Identifier="AA12FA45-CF7F-45B1-BF99-90674B8FA9A0" Version="2.0" Creator="SCRMAC-3.1.3-11976" Device="SLS-Base-3" Author="Peter Bradley" Modified="2019-08-13 09:47:25 -0400" ModID="BCA70468-A330-45C8-895F-DAFA4837A8C0">
     <Binder>
         <BinderItem UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -664,13 +664,13 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="9BD2F9B0-B293-4E96-A2E9-1F48208E8321" Type="Text" Created="2016-07-10 21:48:04 -0400" Modified="2019-07-31 11:11:12 -0400">
+                                <BinderItem UUID="9BD2F9B0-B293-4E96-A2E9-1F48208E8321" Type="Text" Created="2016-07-10 21:48:04 -0400" Modified="2019-08-13 09:42:59 -0400">
                                     <Title>Overview of Characters</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>18304,0</TextSelection>
+                                        <TextSelection>10395,35</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1568,7 +1568,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1004,0</TextSelection>
+                                                <TextSelection>2737,0</TextSelection>
                                             </TextSettings>
                                             <Children>
                                                 <BinderItem UUID="F3F0DB1E-1686-4896-A136-8FD138CD3314" Type="Text" Created="2018-07-31 12:04:37 -0400" Modified="2019-07-10 21:56:59 -0400">
@@ -1936,14 +1936,14 @@
                                 <TextSelection>423,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="17D4C325-844B-4C39-9BFE-BB62328A0CFD" Type="Text" Created="2011-03-03 00:26:14 -0500" Modified="2019-07-31 10:52:11 -0400">
+                        <BinderItem UUID="17D4C325-844B-4C39-9BFE-BB62328A0CFD" Type="Text" Created="2011-03-03 00:26:14 -0500" Modified="2019-08-13 09:47:05 -0400">
                             <Title>GAlbee</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>To Do (Ticked)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7123,0</TextSelection>
+                                <TextSelection>7938,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="6E1F0A24-B92D-4D2B-8086-8E1620105416" Type="Text" Created="2011-03-03 00:25:36 -0500" Modified="2019-07-30 19:57:40 -0400">
@@ -2006,14 +2006,14 @@
                                 <TextSelection>22,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="1E8ACE17-C14A-4C90-B848-9347FF653C18" Type="Text" Created="2011-03-02 16:49:33 -0500" Modified="2019-08-02 20:38:48 -0400">
+                        <BinderItem UUID="1E8ACE17-C14A-4C90-B848-9347FF653C18" Type="Text" Created="2011-03-02 16:49:33 -0500" Modified="2019-08-13 09:47:05 -0400">
                             <Title>RGold</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>To Do (Ticked)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4011,0</TextSelection>
+                                <TextSelection>11154,35</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="CBFA4E8C-EE56-4CB5-8464-9A495BA33949" Type="Text" Created="2013-07-02 16:21:41 -0400" Modified="2019-07-30 19:58:45 -0400">
@@ -6387,12 +6387,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-08-07 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-08-06 15:22:06 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-08-14 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="18" Characters="160" Date="2019-08-13 09:41:43 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-08-06 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2019-08-13 00:00:00 -0400">
+        <DraftWordCount>18</DraftWordCount>
+        <DraftCharCount>160</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

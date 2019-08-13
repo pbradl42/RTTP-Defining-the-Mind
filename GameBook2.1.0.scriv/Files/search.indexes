@@ -1163,6 +1163,8 @@ George W. Albee was Emeritus Professor of Psychiatry at the University of Vermon
 
 #### Primary Sources
 
+ `\fullcite{Albee:1967ut}`{=latex} (included in ‘Character resources’)
+
 `\fullcite{Albee:1970wt}`{=latex}
 
 `\fullcite{Albee:1971wn}`{=latex}
@@ -1595,6 +1597,8 @@ Initial member of the nomenclature committee, term expiring 1972. In classes ove
 *Notable Work*
 
 * `\fullcite{Albee:1957wh}`{=latex}
+
+* `\fullcite{Albee:1967ut}`{=latex}
 
 * `\fullcite{Albee:1970wt}`{=latex}
 
@@ -9038,7 +9042,7 @@ As a non-member of the APA, you cannot vote on the definition of mental illness.
 
 #### Must read
 
-[][#Gold:2004vw] 
+`\fullcite{Gold:2004vw}`{=latex} (included in ‘Character resources’)
 
 `\fullcite{Moor:2002wd}`{=latex}
 
