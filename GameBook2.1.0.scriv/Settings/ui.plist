@@ -2155,7 +2155,7 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 344.5}, {495, 694}}</string>
+	<string>{{0, 344}, {495, 694}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{3578, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
