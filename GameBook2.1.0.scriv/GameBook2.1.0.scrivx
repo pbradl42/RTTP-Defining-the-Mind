@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="AA12FA45-CF7F-45B1-BF99-90674B8FA9A0" Version="2.0" Creator="SCRMAC-3.1.3-11976" Device="PIC-142B-Desktop" Author="Peter Bradley" Modified="2019-07-31 11:34:28 -0400" ModID="92D2B285-EB95-423C-BF04-5FE910B2047B">
+<ScrivenerProject Identifier="AA12FA45-CF7F-45B1-BF99-90674B8FA9A0" Version="2.0" Creator="SCRMAC-3.1.3-11976" Device="SLS-Base-3" Author="Peter Bradley" Modified="2019-08-06 15:22:13 -0400" ModID="F7E336F0-7479-4290-A9BD-90F9BDE13F65">
     <Binder>
         <BinderItem UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -2006,14 +2006,14 @@
                                 <TextSelection>22,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="1E8ACE17-C14A-4C90-B848-9347FF653C18" Type="Text" Created="2011-03-02 16:49:33 -0500" Modified="2019-07-30 19:58:27 -0400">
+                        <BinderItem UUID="1E8ACE17-C14A-4C90-B848-9347FF653C18" Type="Text" Created="2011-03-02 16:49:33 -0500" Modified="2019-08-02 20:38:48 -0400">
                             <Title>RGold</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>To Do (Ticked)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>25,0</TextSelection>
+                                <TextSelection>4011,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="CBFA4E8C-EE56-4CB5-8464-9A495BA33949" Type="Text" Created="2013-07-02 16:21:41 -0400" Modified="2019-07-30 19:58:45 -0400">
@@ -6387,14 +6387,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-08-01 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-320" Characters="-1898" Date="2019-07-31 09:56:55 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-08-07 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2019-08-06 15:22:06 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-07-31 00:00:00 -0400">
-        <DraftWordCount>-320</DraftWordCount>
-        <DraftCharCount>-1898</DraftCharCount>
+    <RecentWritingHistory Date="2019-08-06 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
