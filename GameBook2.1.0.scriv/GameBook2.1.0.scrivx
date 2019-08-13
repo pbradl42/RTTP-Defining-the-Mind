@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="AA12FA45-CF7F-45B1-BF99-90674B8FA9A0" Version="2.0" Creator="SCRMAC-3.1.3-11976" Device="SLS-Base-3" Author="Peter Bradley" Modified="2019-08-13 09:47:25 -0400" ModID="BCA70468-A330-45C8-895F-DAFA4837A8C0">
+<ScrivenerProject Identifier="AA12FA45-CF7F-45B1-BF99-90674B8FA9A0" Version="2.0" Creator="SCRMAC-3.1.3-11976" Device="PIC-142B-Desktop" Author="Peter Bradley" Modified="2019-08-13 09:50:42 -0400" ModID="BA013B98-05E1-4FE2-AB19-AE6F0F30D3AE">
     <Binder>
         <BinderItem UUID="4725A4D8-ED4C-4A11-868F-959371E871B3" Type="DraftFolder" Created="2014-07-21 03:40:46 -0400" Modified="2018-03-01 15:43:18 -0500">
             <Title>Game Book v2.0</Title>
@@ -6388,7 +6388,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-07-21 19:40:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-08-14 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="18" Characters="160" Date="2019-08-13 09:41:43 -0400"/>
+        <PreviousSession Words="18" Characters="160" Date="2019-08-13 09:50:23 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2019-08-13 00:00:00 -0400">
         <DraftWordCount>18</DraftWordCount>
@@ -6396,5 +6396,5 @@
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="611.999999,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
