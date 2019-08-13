@@ -2155,7 +2155,7 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 2546}, {495, 693.60624999999982}}</string>
+	<string>{{0, 2545.5}, {495, 694}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{3578, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -2168,7 +2168,7 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>27 615 1440 802 0 0 2560 1417 </string>
+	<string>25 615 1440 802 0 0 2560 1417 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
