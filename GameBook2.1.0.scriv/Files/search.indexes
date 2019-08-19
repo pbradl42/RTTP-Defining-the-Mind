@@ -1260,7 +1260,7 @@ In about 1847, four friends, three of them students of Johannes Müller (1801-18
 &gt;No other forces than the common physical-chemical ones are active within the organism. In those cases which cannot at the time be explained by these forces one has either to find the specific way or form of their action by means of the physical –mathematical method or assume new forces equal in dignity to the chemical-physical forces inherent in matter, reducible to the force of attraction and repulsion. (Quoted in [#Bernfeld:1949ji])
 
 
-These Anti-Vitalists went on to found physiological psychology. They were `\index[gamebook]{von Helmholtz, Hermann|(}\index[gamebook]{Ludwig, Carl}\index[gamebook]{du Bois-Reymond, Emil}\index[gamebook]{von Brücke, Ernst Wilhelm}`{=latex}Hermann von Helmholtz (1821-1894), Carl Ludwig (1816-1895), Emil du Bois-Reymond (1818-1896) and Ernst Wilhelm von Brücke (1819-1892). They were joined shortly thereafter by `\index[gamebook]{Lotze, Hermann}\index[gamebook]{Fechner, Gustav}`{=latex}Hermann Lotze (1817-1891) and his student Gustav Fechner (1801-1887) and came to dominate the training of the next generation of psychologist and psychiatrists: Helmholtz hired `\index[gamebook]{Ladd-Franklin, Christine}`{=latex}Christine Ladd-Franklin as his assistant, who went on to be one of the first woman members of the APA, and the first woman to hold a professorship at the `\index[gamebook]{University of Chicago}`{=latex}University of Chicago. `\index[gamebook]{Freud, Sigmund}`{=latex}Sigmund Freud studied under Brücke; `\index[gamebook]{Pavlov, Ivan}`{=latex}Ivan Pavlov under Ludwig and `\index[gamebook]{Wundt, Wilhelm}`{=latex}Wilhelm Wundt under du Bois-Reymond. Wundt went on to work in Helmholtz’s lab after Ladd-Franklin returned to America.
+These Anti-Vitalists went on to found physiological psychology. They were `\index[gamebook]{von Helmholtz, Hermann|(}\index[gamebook]{Ludwig, Carl}\index[gamebook]{du Bois-Reymond, Emil}\index[gamebook]{von Brücke, Ernst Wilhelm}`{=latex}Hermann von Helmholtz (1821-1894), Carl Ludwig (1816-1895), Emil du Bois-Reymond (1818-1896) and Ernst Wilhelm von Brücke (1819-1892). They were joined shortly thereafter by `\index[gamebook]{Lotze, Hermann}\index[gamebook]{Fechner, Gustav}`{=latex}Hermann Lotze (1817-1891) and his student Gustav Fechner (1801-1887) and came to dominate the training of the next generation of psychologist and psychiatrists: Helmholtz hired `\index[gamebook]{Ladd-Franklin, Christine}`{=latex}Christine Ladd-Franklin as his assistant, who went on to be one of the first woman members of the APA. She was eventually granted a professorship at the Columbia University, albeit unpaid. `\index[gamebook]{Freud, Sigmund}`{=latex}Sigmund Freud studied under Brücke; `\index[gamebook]{Pavlov, Ivan}`{=latex}Ivan Pavlov under Ludwig and `\index[gamebook]{Wundt, Wilhelm}`{=latex}Wilhelm Wundt under du Bois-Reymond. Wundt went on to work in Helmholtz’s lab after Ladd-Franklin returned to America.
 
 While all of these thinkers had a profound influence on the founding and development of psychology as a discipline, we’ll focus attention for the moment on Helmholtz.  
 
@@ -1274,7 +1274,8 @@ Unconscious inferences that produce stable representations (I.e. experience of a
 
 
 </Text>
-            <Comments>I can illustrate some of the differences in theoretical approach here with the example of color perception: Helmholtz posited that there were three basic primary colors: red, green and purple.  Ladd-Franklin argued that purple perceptually appeared to be (i.e. ‘looked like’) a mixture of red and blue, whereas yellow appeared to be primary. Thus, she theorized, there are in fact four psychologically primary colors: red, green, blue and yellow.  Helmholtz responded (quoted in Hering) that one could not draw conclusions about facts of physiology from direct psychological experience (i.e. introspection), therefore Ladd-Franklin’s observation had no bearing on the science of psychology.  While Ladd-Franklin’s point seems obvious and definitive against Helmholtz’s theory, it was widely rejected, on the basis of the unreliability of introspective reports and observations, in favor of the physiological reductionism of Helmholtz. In fact, it wasn’t until a plausible mathematical model based on Ladd-Franklin’s observation was proposed by Jameson and Hurvich in 1957 that the psychological community rejected Helmholtz’s theory in favor of Ladd-Franklin’s.
+            <Comments>See [][#Cadwallader:tz].
+I can illustrate some of the differences in theoretical approach here with the example of color perception: Helmholtz posited that there were three basic primary colors: red, green and purple.  Ladd-Franklin argued that purple perceptually appeared to be (i.e. ‘looked like’) a mixture of red and blue, whereas yellow appeared to be primary. Thus, she theorized, there are in fact four psychologically primary colors: red, green, blue and yellow.  Helmholtz responded (quoted in Hering) that one could not draw conclusions about facts of physiology from direct psychological experience (i.e. introspection), therefore Ladd-Franklin’s observation had no bearing on the science of psychology.  While Ladd-Franklin’s point seems obvious and definitive against Helmholtz’s theory, it was widely rejected, on the basis of the unreliability of introspective reports and observations, in favor of the physiological reductionism of Helmholtz. In fact, it wasn’t until a plausible mathematical model based on Ladd-Franklin’s observation was proposed by Jameson and Hurvich in 1957 that the psychological community rejected Helmholtz’s theory in favor of Ladd-Franklin’s.
 Experienced Reactors may recognize Helmholtz’ name from the Darwin Game.
 *a priori* is a philosophical term meaning ‘prior to experience.’ It is frequently used to describe philosophical positions like Descartes’ that believe knowledge can be gained by reflection alone. In this case, it means that the nerves have assumptions about the world ‘built in’ before experience.  If you wanted to use a computer analogy, Müller believes that knowledge about time and space is encoded in our hardware, where the empiricists like Hobbes, Locke and Hume believe it is in software that is built through experience.</Comments>
         </Document>
@@ -4412,6 +4413,7 @@ Other than assuring non-gender specific definitions, you are neutral.
 
 #### Secondary Sources and Other Relevant Work
 
+	`\fullcite{StaudtSexton:ww}`{=latex}
 
 `\fullcite{Spearman:1904tx}`{=latex} Available on Psych Classics: &lt;http://psychclassics.yorku.ca/Spearman/&gt;.
 
@@ -7288,16 +7290,14 @@ You are neutral on the issue of the definition of mental illness, so long as it 
 
 #### Secondary Sources and Other Relevant Work
 
-Zilber, S. M. &amp; Osipow, S. H. “Leona E. Tyler (1906- )” in Women in Psychology: a bio-bibliographic sourcebook, O'Connell, A. N. &amp; Russo, N. F. (1990). Greenwood Publishing
-
+`\fullcite{Zilber:vs]}`{=latex}
 
 `\index[rolesheets]{Tyler, Leona|)}`{=latex}</Text>
             <Comments>Many of the first-person stories on the 'treatments' of homosexuality that are collected at &lt;http://treatmentshomosexuality.org.uk/&gt; come from Maudsley.
 In 1964, a magazine called Fact asked 12,000 psychiatrists if they would be willing to diagnose conservative presidential candidate Barry Goldwater. Of the more than 2000 that responded 1,189 responded that he appeared to have a 'personality disorder'--that slippery category between psychosis and neurosis. The headline proclaimed (under the magazine's title 'fact:') that “1,198 Psychiatrists Say Goldwater Is Psychologically Unfit To Be President! You may recall that the 1964 election witnessed Johnson's famous 'Daisy' ad, which suggested that the election of Barry Goldwater would lead to nuclear annihilation.⁠
 
 
-For a brief history see Pinsker, H. (2007). “Goldwater Rule' History”, Psychiatric News, 42 (15), p. 33 (&lt;http://pn.psychiatryonline.org/content/42/15/33.1.full&gt;)
-ORdered from Amazon, 7/29/10</Comments>
+For a brief history see Pinsker, H. (2007). “Goldwater Rule' History”, Psychiatric News, 42 (15), p. 33 (&lt;http://pn.psychiatryonline.org/content/42/15/33.1.full&gt;)</Comments>
         </Document>
         <Document ID="1383231C-1412-4061-AEBA-44CDF787C667">
             <Title>Learning Objectives</Title>
