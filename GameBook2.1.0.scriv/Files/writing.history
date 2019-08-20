@@ -18,5 +18,7 @@
     <Day dwc="-320" dcc="-1898" dtwc="0" owc="0" occ="0" dtcc="0">2019-07-31</Day>
     <Day dwc="-10" dcc="-61" owc="0" occ="0">2019-08-02</Day>
     <Day dwc="18" dcc="160" dtwc="0" owc="0" occ="0" dtcc="0">2019-08-13</Day>
-    <Day dwc="4" dcc="38" owc="0" occ="0">2019-08-18</Day>
+    <Day dwc="-25" dcc="-141" dtwc="0" owc="0" occ="0" dtcc="0">2019-08-18</Day>
+    <Day dwc="0" dcc="-1" dtwc="136555" owc="0" occ="0" dtcc="933136">2019-08-19</Day>
+    <Day dwc="22" dcc="144" owc="0" occ="0">2019-08-20</Day>
 </WritingHistory>

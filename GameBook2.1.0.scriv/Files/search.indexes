@@ -1469,14 +1469,14 @@ Robert Hopcke is a counselor, with degrees in both psychotherapy and pastoral co
 
 * `\fullcite{HOPCKE:1988by}`{=latex}
 
-##### Harold Lief, MD Professor of Psychiatry at the University of Pennsylvania (Jungian)* `\index[gamebook]{Leif, Harold}`{=latex}
+##### Harold Lief, MD Professor of Psychiatry at the University of Pennsylvania (Jungian)* `\index[gamebook]{Lief, Harold}`{=latex}
 
 President of the American Academy of Psychoanalysis in 1967, Harold Lief is Professor of Psychiatry at the University of Pennsylvania.  He is best known for his advocacy for greater emphasis on sexual education in medical schools.
 
 
 *Notable Work*
 
-* Leif, H. (1964) “The Psychological Basis of Medical Practice” Postgrad Med J 40:355 doi:10.1136/pgmj.40.464.355-a
+* Lief, H. (1964) “The Psychological Basis of Medical Practice” Postgrad Med J 40:355 doi:10.1136/pgmj.40.464.355-a
 
 ##### Judd Marmor, MD Psychiatrist, Hollywood, CA (Freudian) `\index[gamebook]{Marmor, Judd}`{=latex}
 
@@ -2401,7 +2401,7 @@ Indeterminate
 `&amp; Siegelman, M. (1972). “Adjustment of Homosexual and Heterosexual Women.” British Journal of Psychiatry 120, 477-81. \\ `{=latex}
 `F. Kameny&amp;Read the legal and personal documents of Frank Kameny at \url{http://www.kamenypapers.org/index.htm} \\ `{=latex}
 `&amp; Read the story of the 1971 APA in DC: \url{http://www.rainbowhistory.org/html/apazap.htm} \\ `{=latex}
-`H. Lief&amp;Leif, H. (1964) “The Psychological Basis of Medical Practice” Postgrad Med J 40:355 doi:10.1136/pgmj.40.464.355-a  \\ `{=latex}
+`H. Lief&amp;Lief, H. (1964) “The Psychological Basis of Medical Practice” Postgrad Med J 40:355 doi:10.1136/pgmj.40.464.355-a  \\ `{=latex}
 `J. Marmor&amp;Marmor, J. (1970) “The Limits of Free Association” \emph{Arch. Gen. Psychiat.} 22, p. 160-165 \\ `{=latex}
 `&amp; Marmor, J. (Ed.) (1965). \emph{Sexual inversion: The multiple roots of homosexuality} (pp. 83107). New York: Basic Books.  \\ `{=latex}
 `D. Marr&amp;Marr, D. (1982). \emph{Vision: A Computational Investigation into the Human Representation and Processing of Visual Information} MIT Press (esp. Ch 1) \\ `{=latex}
@@ -4413,7 +4413,7 @@ Other than assuring non-gender specific definitions, you are neutral.
 
 #### Secondary Sources and Other Relevant Work
 
-	`\fullcite{StaudtSexton:ww}`{=latex}
+`\fullcite{StaudtSexton:ww}`{=latex}
 
 `\fullcite{Spearman:1904tx}`{=latex} Available on Psych Classics: &lt;http://psychclassics.yorku.ca/Spearman/&gt;.
 
@@ -6342,7 +6342,7 @@ Task force symposium on Nomenclature '74 &amp; Taskforce on the history of homos
 `\multicolumn{3}{  l }{ F. Kameny* } \\ \hline `{=latex}
 ` “Gay, Proud and Healthy” - symposium '71 (\ref{writingtask:kameny}) &amp; Organize and Chair the 'big' symposium “Should 'homosexuality' be in the DSM-III?' in '73 where Green, Marmor, Bieber, Gold, Socarides, Spitzer should speak. &amp;  \\ \hline`{=latex}
 ` \multicolumn{3}{  l }{H. Lief}   \\ \hline`{=latex}
-` Paper on genetic hypothesis and diagnostic taxa '74 (\ref{writingtask:leif}) &amp; Oppose Spitzer's nomenclature proposal to write the DSMIII without the genetic hypothesis '72 &amp;   \\ \hline`{=latex}
+` Paper on genetic hypothesis and diagnostic taxa '74 (\ref{writingtask:lief}) &amp; Oppose Spitzer's nomenclature proposal to write the DSMIII without the genetic hypothesis '72 &amp;   \\ \hline`{=latex}
 `\multicolumn{3}{  l }{ J. Marmor---Research '71-'74 } \\ \hline`{=latex}
 ` “Limitations of Free Association” - Symposium on the ‘Medical Model’ '72, \ref{writingtask:marmor}, Comment on Green / debate Bieber '72,  Symposium on Nomenclature '73 &amp; Propose 'homosexuality' be removed from category 302. (\ref{proposal:marmorA}) ’71  Propose a condemnation of Socarides' JAMA paper. (\ref{proposal:marmorB})  '73 &amp; Propose ‘To Sleep, Perchance to Dream’--- \ref{app: tosleep} (\ref{researchtask:marmor}) \\ \hline`{=latex}
 ` \multicolumn{3}{  l }{D. Marr*}  \\ \hline`{=latex}
@@ -8111,9 +8111,9 @@ Breuer communicated this to his friend Sigmund Freud, who offered to co-author a
             <Comments>See, for example, Drellich, Marvin G. “Classical Psychoanalytic School” in [#Arieti:1974tm]</Comments>
         </Document>
         <Document ID="3E7344C9-1EA0-42A6-9551-17E5C9DE626D">
-            <Title>HLeif-Bio</Title>
-            <Text>## Harlod Leif, MD 
-`\index[rolesheets]{Leif, Harold|(}`{=latex}
+            <Title>HLief-Bio</Title>
+            <Text>## Harlod Lief, MD 
+`\index[rolesheets]{Lief, Harold|(}`{=latex}
 
 Starting Credibility: 2
 
@@ -8153,7 +8153,7 @@ The Nomenclature committee will probably propose to do away with the etiological
 
 *How* you oppose this is up to you. You could demand a vote of the membership, in which case you have the support of your faction. Or you may offer a counter-proposal demanding that any additions to the DSM follow the conceptual structures of the previous two editions.  Or you could look for a compromise. 
 
-If the Nomenclature---or Spitzer`\index[rolesheets]{Spitzer, Robert}`{=latex}, who seems a bit of a control freak---starts a task force for the DSM-III, you must get on the task force or committee that is in charge of writing it. Your primary interlocutor in the previous section was probably Spitzer, so you may have some work to get appointed by him. Therefore you have two options to consider: first, you can oppose the creation of the task force entirely, and then get elected to the nomenclature committee, or you can convince Spitzer to add you to his taskforce once it is created.`\begin{writingtask}[Leif]\label{writingtask:leif}
+If the Nomenclature---or Spitzer`\index[rolesheets]{Spitzer, Robert}`{=latex}, who seems a bit of a control freak---starts a task force for the DSM-III, you must get on the task force or committee that is in charge of writing it. Your primary interlocutor in the previous section was probably Spitzer, so you may have some work to get appointed by him. Therefore you have two options to consider: first, you can oppose the creation of the task force entirely, and then get elected to the nomenclature committee, or you can convince Spitzer to add you to his taskforce once it is created.`\begin{writingtask}[Lief]\label{writingtask:lief}
 Paper defending the genetic hypothesis as core to taxonomy in 1974, in opposition Spitzer and his proposed 'Feighner criteria.'
 \end{writingtask}`{=latex}
 
@@ -8171,15 +8171,13 @@ When, and if, the game reaches a point of trying to define mental illness, you m
 
 #### Primary Sources
 
-Leif, H. (1964) The Psychological Basis of Medical Practice
+`\fullcite{Filler:1963tz}`{=latex} This is a reference work, not written for a general audience, but it gives insight into Lief’s  melding of psychiatric and medical practice in treating sexual problems.
 
 #### Secondary Sources and Other Relevant Work
 
 `\fullcite{Pearce:2007wn}`{=latex}
 
-`\index[rolesheets]{Leif, Harold|)}`{=latex}</Text>
-            <Comments>Citation was to book review - ordered book from amazon 7/29/19
-</Comments>
+`\index[rolesheets]{Lief, Harold|)}`{=latex}</Text>
         </Document>
         <Document ID="33ADCA3B-E71A-4C20-863A-66A172A58BC6">
             <Title>Acknolwedgments</Title>
@@ -8713,7 +8711,7 @@ Papers / Proposals other than the Presidential address are *likely* to be presen
 	* `\fullref{writingtask:chomskyB}`{=latex}
 
 * Obedience - `\fullref{writingtask:milgram}`{=latex}
-* Genetic hypothesis and diagnostic taxa - `\fullref{writingtask:leif}`{=latex}`\index[instructors]{Leif, Harold}`{=latex}
+* Genetic hypothesis and diagnostic taxa - `\fullref{writingtask:lief}`{=latex}`\index[instructors]{Lief, Harold}`{=latex}
 
 Open hearings / symposium on the Spitzer Task Force `\index[instructors]{Spitzer Taskforce}`{=latex}definition of ‘mental illness’. 
 
@@ -8835,7 +8833,7 @@ See `\fullref{table: majorissues}`{=latex}.
 `Limitation of care to hospital settings and psychiatrists (1972)&amp;Hopcke&amp;Albee\index[instructors]{Albee, George}&amp;&amp;\fullref{writingtask:albee} \\ \hline`{=latex}
 `Psychology of Women (1973) &amp;Anastasi \index[instructors]{Anastasi, Anne}&amp;Szasz \index[instructors]{Szasz, Thomas}&amp; &amp; \fullref{writingtask:fordneysettlage} \\ \hline`{=latex}
 `Leona Tyler principle (1973) \index[instructors]{Tyler, Leona: Leona Tyler Principle}&amp;Tyler&amp;Chomsky\index[instructors]{Chomsky, Noam}, Clark&amp;&amp;\fullref{writingtask:chomsky} \\ \hline`{=latex}
-`DSMIII according to symptoms not causes (1973)&amp;Spitzer \index[instructors]{Spitzer, Robert}/ Nomenclature&amp;Leif &amp; &amp;\fullref{writingtask:spitzer},  \fullref{writingtask:leif} \\ \hline`{=latex}
+`DSMIII according to symptoms not causes (1973)&amp;Spitzer \index[instructors]{Spitzer, Robert}/ Nomenclature&amp;Lief &amp; &amp;\fullref{writingtask:spitzer},  \fullref{writingtask:lief} \\ \hline`{=latex}
 `Ban Aversion Therapy in the treatment of homosexuality (1974)&amp;Freund \index[instructors]{Freund, Kurt}&amp;Harlow\index[instructors]{Harlow, Harry}&amp;&amp; \\ \hline`{=latex}
 `Affirmative Action  (1975) &amp;Clark&amp;Milgram \index[instructors]{Milgram, Stanley}&amp; &amp; \fullref{writingtask:clark}, \fullref{writingtask:clark2} \\ \bottomrule`{=latex}
 `\caption{Overview by topic}`{=latex}
@@ -9943,7 +9941,7 @@ The final vote---and consequently ‘victory’ in the game---is regarding the d
 `\begin{longtable}[!t]{  P{2cm}  P{11.8cm}  }`{=latex}
 `\toprule`{=latex}
 `\tahead{Proposal} &amp; \tahead{Those 'normally' affiliated}  \\ \hline`{=latex}
-` APA Task Force  &amp;  Spitzer\index[instructors]{Spitzer, Robert}, Gebhard, Leif\index[instructors]{Leif, Harold}, Green\index[instructors]{Green, Richard} \\ `{=latex}
+` APA Task Force  &amp;  Spitzer\index[instructors]{Spitzer, Robert}, Gebhard, Lief\index[instructors]{Lief, Harold}, Green\index[instructors]{Green, Richard} \\ `{=latex}
 ` Psychoanalytic  &amp;  Bieber\index[instructors]{Bieber, Irving} / Socarides\index[instructors]{Socarides, Charles}, Marmor\index[instructors]{Marmor, Judd}, Speigel, Hopcke\index[instructors]{Hopcke, Robert} \\ `{=latex}
 ` Behaviorist  &amp;  Bandura \index[instructors]{Bandura, Albert}, Harlow\index[instructors]{Harlow, Harry}, Hooker\index[instructors]{Hooker, Evelyn} \\ `{=latex}
 ` Szasz\index[instructors]{Szasz, Thomas}  &amp;  Szasz, maybe Albee \\ \bottomrule `{=latex}
@@ -10224,7 +10222,7 @@ There are three factions, representing the three major theoretical frameworks in
 | I.Bieber`\index[instructors]{Bieber, Irving}`{=latex} / C. Socarides, MD`\index[instructors]{Socarides, Charles}`{=latex} | G. Miller, PhD`\index[instructors]{Miller, George}`{=latex} | A. Bandura, PhD | T. Szasz, MD `\index[instructors]{Szasz, Thomas}`{=latex} |
 | J.Marmor, MD `\index[instructors]{Marmor, Judd}`{=latex} | N. Chomsky, PhD`\index[instructors]{Chomsky, Noam}`{=latex} | A. Bandura, PhD `\index[instructors]{Bandura, Albert}`{=latex}  | G. Albee, PhD `\index[instructors]{Albee, George}`{=latex} |
 | J. Spiegel, MD `\index[instructors]{Spiegel, John}`{=latex} | D. Marr, ABD  `\index[instructors]{Marr, David}`{=latex} | H. Harlow, PhD`\index[instructors]{Harlow, Harry}`{=latex} | J. Fryer, MD |
-| H. Lief, MD`\index[instructors]{Leif, Harold}`{=latex} | | E. Hooker, MD`\index[instructors]{Hooker, Evelyn}`{=latex} | K. Clark, PhD `\index[instructors]{Clark, Kenneth}`{=latex} |
+| H. Lief, MD`\index[instructors]{Lief, Harold}`{=latex} | | E. Hooker, MD`\index[instructors]{Hooker, Evelyn}`{=latex} | K. Clark, PhD `\index[instructors]{Clark, Kenneth}`{=latex} |
 | R. Green, MD | | A. Anastasi, PhD `\index[instructors]{Anastasi, Anne}`{=latex} |
 | R. Hopcke, MD`\index[instructors]{Hopcke, Robert}`{=latex} | |  L. Tyler, PhD `\index[instructors]{Tyler, Leona}`{=latex} |
 | | | R. Spitzer, MD `\index[instructors]{Spitzer, Robert}`{=latex} |
@@ -10246,7 +10244,7 @@ For example, Ron Gold is charged with 'helping' Spitzer draft the proposal to de
 
 | GayPA (secret) | Young Turks (secret) | Sexual Research (informal) |
 |--------|-----------|----------|
-| J. Fryer, MD `\index[instructors]{Fryer, John}`{=latex} | R. Hopcke, MD* | H. Leif, MD* |
+| J. Fryer, MD `\index[instructors]{Fryer, John}`{=latex} | R. Hopcke, MD* | H. Lief, MD* |
 | E. Hooker, PhD | J. Spiegel, MD | R. Green, MD* `\index[instructors]{Green, Richard}`{=latex} |
 | R. Gold* | J. Marmor, MD | D. Fordney-Settlage, MD*  |
 [Secret and Informal Factions]
@@ -10356,7 +10354,7 @@ Some of these issues that will make an appearance in the game are:
 `Psychoanalysis \emph{is / is not} scientific.&amp;Psychoanalysts v. Cognitivists and Behaviorists&amp;1972 \fullref{writingtask:marmor} and \fullref{researchtask:szasz}\newline`{=latex}
 `1973 \fullref{researchtask:spitzer} and \fullref{researchtask:marmor} \newline`{=latex}
 ` \\ \hline`{=latex}
-`Mental disorders should be classified according to \emph{observable symptoms / underlying mechanisms}.&amp;Spitzer and the behaviorists v. psychoanalyst faction&amp;1972 \fullref{writingtask:spitzer}, \fullref{writingtask:anastasi} and \fullref{writingtask:leif} \index[instructors]{Leif, Harold} \\ \hline`{=latex}
+`Mental disorders should be classified according to \emph{observable symptoms / underlying mechanisms}.&amp;Spitzer and the behaviorists v. psychoanalyst faction&amp;1972 \fullref{writingtask:spitzer}, \fullref{writingtask:anastasi} and \fullref{writingtask:lief} \index[instructors]{Lief, Harold} \\ \hline`{=latex}
 `There \emph{should / should not} be psychological study of specific groups, I.e. Women?&amp;Fordney-Settlage,\index[instructors]{Fordney-Settlage, Diane} Anastasi&amp;1972 \fullref{researchtask:fordneysettlage} \newline`{=latex}
 `1973 \fullref{proposal:anastasiA} and \fullref{proposal:anastasiB} \newline`{=latex}
 `1974 \fullref{writingtask:clark} `{=latex}
